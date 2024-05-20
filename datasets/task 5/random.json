@@ -1,0 +1,2252 @@
+[
+    {
+        "prompt": "1 YVyA is afraid of CuWQ.\n2 RQ is afraid of CuWQ.\n3 RfR is RQ.\n4 CuWQ is afraid of Zj.\n5 Zj is afraid of YVyA.\n6 KaQCa is CuWQ.\n7 NRHWD is Zj.\n8 YuyhjS is YVyA.\n\nBased on the above sentences, what is NRHWD afraid of?\nA. Zj\nB. CuWQ\nC. YVyA\nD. RQ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "YVyA",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 fxF is afraid of GSFH.\n2 GJ is afraid of fxF.\n3 AAZeH is afraid of GJ.\n4 sBQkpM is fxF.\n5 GSFH is afraid of AAZeH.\n6 zwbqXk is GJ.\n7 bQ is GSFH.\n8 JjiE is fxF.\n\nBased on the above sentences, what is bQ afraid of?\nA. fxF\nB. GJ\nC. GSFH\nD. AAZeH\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "AAZeH",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 gfnir is afraid of dWd.\n2 RKS is gfnir.\n3 SQrSNm is gfnir.\n4 Hfyz is afraid of dWd.\n5 dWd is afraid of Hfyz.\n6 VQ is afraid of gfnir.\n7 TcYd is Hfyz.\n8 WJ is Hfyz.\n\nBased on the above sentences, what is TcYd afraid of?\nA. gfnir\nB. Hfyz\nC. dWd\nD. VQ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "dWd",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 EiJ is afraid of jw.\n2 jw is afraid of EiJ.\n3 SMYf is afraid of fIY.\n4 PmqAn is SMYf.\n5 YiWRF is SMYf.\n6 WevV is EiJ.\n7 fIY is afraid of jw.\n8 IA is fIY.\n\nBased on the above sentences, what is IA afraid of?\nA. SMYf\nB. EiJ\nC. jw\nD. fIY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "jw",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "7"
+        ]
+    },
+    {
+        "prompt": "1 UfM is afraid of rzVKZM.\n2 LiLt is UfM.\n3 Zn is afraid of UfM.\n4 rzVKZM is afraid of UfM.\n5 ZTEMx is afraid of Zn.\n6 soxUI is UfM.\n7 ktg is UfM.\n8 CYh is Zn.\n\nBased on the above sentences, what is CYh afraid of?\nA. rzVKZM\nB. Zn\nC. ZTEMx\nD. UfM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "UfM",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 fnf is afraid of xjYGyd.\n2 RdH is afraid of gXqINw.\n3 gXqINw is afraid of RdH.\n4 ti is gXqINw.\n5 xjYGyd is afraid of gXqINw.\n6 jzwrN is gXqINw.\n7 jMu is xjYGyd.\n8 oC is RdH.\n\nBased on the above sentences, what is jzwrN afraid of?\nA. fnf\nB. RdH\nC. xjYGyd\nD. gXqINw\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RdH",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 TH is afraid of grWiVe.\n2 MW is TH.\n3 twp is TH.\n4 grWiVe is afraid of GKx.\n5 GKx is afraid of TH.\n6 Vr is afraid of TH.\n7 Ww is Vr.\n8 hraV is TH.\n\nBased on the above sentences, what is MW afraid of?\nA. TH\nB. GKx\nC. Vr\nD. grWiVe\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "grWiVe",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 hemKFd is afraid of Pu.\n2 dRzp is hemKFd.\n3 xVbbD is afraid of hemKFd.\n4 zU is xVbbD.\n5 Pu is afraid of xVbbD.\n6 ap is xVbbD.\n7 jdCu is afraid of hemKFd.\n8 KvCX is Pu.\n\nBased on the above sentences, what is dRzp afraid of?\nA. xVbbD\nB. Pu\nC. hemKFd\nD. jdCu\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Pu",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 EGmyQQ is afraid of PPZo.\n2 Jvy is EGmyQQ.\n3 PPZo is afraid of QGvWwS.\n4 Zxgx is afraid of EGmyQQ.\n5 sYfv is EGmyQQ.\n6 QGvWwS is afraid of EGmyQQ.\n7 pbx is Zxgx.\n8 ZjrGPS is EGmyQQ.\n\nBased on the above sentences, what is sYfv afraid of?\nA. PPZo\nB. EGmyQQ\nC. Zxgx\nD. QGvWwS\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PPZo",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 BZhmzY is afraid of bzvS.\n2 fkh is afraid of BZhmzY.\n3 Vue is afraid of bzvS.\n4 KMzIJm is BZhmzY.\n5 bzvS is afraid of Vue.\n6 VmhBgZ is Vue.\n7 sng is bzvS.\n8 mNcX is fkh.\n\nBased on the above sentences, what is sng afraid of?\nA. BZhmzY\nB. bzvS\nC. fkh\nD. Vue\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Vue",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Uwipp is afraid of agQMRP.\n2 agQMRP is afraid of Uwipp.\n3 vHFD is Uwipp.\n4 LUwkij is afraid of Uwipp.\n5 PesZA is Uwipp.\n6 UcZbn is agQMRP.\n7 Gn is afraid of LUwkij.\n8 dI is LUwkij.\n\nBased on the above sentences, what is UcZbn afraid of?\nA. Uwipp\nB. Gn\nC. agQMRP\nD. LUwkij\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Uwipp",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 hMCv is afraid of zAbmd.\n2 zAbmd is afraid of hMCv.\n3 rk is afraid of hMCv.\n4 aSKCfw is zAbmd.\n5 EfLIIF is rk.\n6 ev is rk.\n7 XEXMLm is rk.\n8 RxnPx is afraid of hMCv.\n\nBased on the above sentences, what is ev afraid of?\nA. zAbmd\nB. rk\nC. hMCv\nD. RxnPx\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hMCv",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 NgnFu is afraid of BqHd.\n2 NEG is afraid of BqHd.\n3 BqHd is afraid of NgnFu.\n4 HrLpWP is afraid of BqHd.\n5 eYavr is NgnFu.\n6 HRtWhf is HrLpWP.\n7 piejtu is NgnFu.\n8 XDAdY is BqHd.\n\nBased on the above sentences, what is HRtWhf afraid of?\nA. NEG\nB. BqHd\nC. HrLpWP\nD. NgnFu\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "BqHd",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 oESfE is afraid of DMS.\n2 ZU is oESfE.\n3 mfb is afraid of oESfE.\n4 GbNQB is afraid of mfb.\n5 JJsZyp is GbNQB.\n6 pRs is oESfE.\n7 rVJt is mfb.\n8 DMS is afraid of GbNQB.\n\nBased on the above sentences, what is rVJt afraid of?\nA. DMS\nB. mfb\nC. GbNQB\nD. oESfE\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "oESfE",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 hhcMY is afraid of EeWtQ.\n2 ieeHkF is afraid of hhcMY.\n3 sT is ieeHkF.\n4 EeWtQ is afraid of ieeHkF.\n5 XJgHAR is hhcMY.\n6 xiiksc is EeWtQ.\n7 NUxc is afraid of hhcMY.\n8 SbRjbz is NUxc.\n\nBased on the above sentences, what is XJgHAR afraid of?\nA. NUxc\nB. ieeHkF\nC. EeWtQ\nD. hhcMY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "EeWtQ",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 maYsh is afraid of khXcGP.\n2 khXcGP is afraid of EXquIF.\n3 nCwcFt is maYsh.\n4 fyN is khXcGP.\n5 SRqF is afraid of khXcGP.\n6 Mquq is maYsh.\n7 EXquIF is afraid of maYsh.\n8 PNIngp is khXcGP.\n\nBased on the above sentences, what is Mquq afraid of?\nA. SRqF\nB. maYsh\nC. EXquIF\nD. khXcGP\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "khXcGP",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cc is afraid of mX.\n2 PQeMAR is afraid of vjk.\n3 JEg is Cc.\n4 mX is afraid of vjk.\n5 rcUmz is PQeMAR.\n6 hNhSF is mX.\n7 vjk is afraid of Cc.\n8 sEfsYY is PQeMAR.\n\nBased on the above sentences, what is hNhSF afraid of?\nA. PQeMAR\nB. mX\nC. Cc\nD. vjk\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "vjk",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 WRnV is afraid of qLfsN.\n2 oTgNk is afraid of VbYZuS.\n3 VbYZuS is afraid of qLfsN.\n4 SKeyN is oTgNk.\n5 uKGG is oTgNk.\n6 yJimae is WRnV.\n7 qPeHq is VbYZuS.\n8 qLfsN is afraid of WRnV.\n\nBased on the above sentences, what is qPeHq afraid of?\nA. WRnV\nB. VbYZuS\nC. oTgNk\nD. qLfsN\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "qLfsN",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 vL is afraid of cb.\n2 cPnVA is afraid of cb.\n3 JvrI is cPnVA.\n4 rS is cPnVA.\n5 cb is afraid of vL.\n6 mqVTz is cb.\n7 QfAW is vL.\n8 YBnTfZ is afraid of cPnVA.\n\nBased on the above sentences, what is QfAW afraid of?\nA. vL\nB. YBnTfZ\nC. cPnVA\nD. cb\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "cb",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 uxp is afraid of cS.\n2 TXThW is afraid of YJU.\n3 JAfwnQ is uxp.\n4 sTwu is TXThW.\n5 YJU is afraid of TXThW.\n6 Pv is YJU.\n7 bSzSQ is YJU.\n8 cS is afraid of uxp.\n\nBased on the above sentences, what is sTwu afraid of?\nA. cS\nB. YJU\nC. TXThW\nD. uxp\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "YJU",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 IIHKdm is afraid of yu.\n2 yu is afraid of fyHgWZ.\n3 Ub is afraid of IIHKdm.\n4 WUXP is Ub.\n5 fyHgWZ is afraid of IIHKdm.\n6 MVopZv is yu.\n7 SZs is IIHKdm.\n8 VE is Ub.\n\nBased on the above sentences, what is MVopZv afraid of?\nA. fyHgWZ\nB. yu\nC. Ub\nD. IIHKdm\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "fyHgWZ",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 SvBhsI is afraid of HqpA.\n2 HqpA is afraid of SvBhsI.\n3 bBI is HqpA.\n4 VdYR is afraid of mkw.\n5 mkw is afraid of SvBhsI.\n6 XQSXHs is SvBhsI.\n7 NP is VdYR.\n8 CSBm is mkw.\n\nBased on the above sentences, what is CSBm afraid of?\nA. mkw\nB. HqpA\nC. VdYR\nD. SvBhsI\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "SvBhsI",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 NIUJ is afraid of asS.\n2 asS is afraid of KHLjID.\n3 KHLjID is afraid of Tria.\n4 GGwJr is KHLjID.\n5 HF is asS.\n6 DWqi is asS.\n7 Tria is afraid of NIUJ.\n8 zY is KHLjID.\n\nBased on the above sentences, what is GGwJr afraid of?\nA. NIUJ\nB. Tria\nC. KHLjID\nD. asS\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Tria",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 ezj is afraid of xeDvQH.\n2 KqgCp is ezj.\n3 nHFEfg is afraid of xeDvQH.\n4 xeDvQH is afraid of nHFEfg.\n5 bhWYC is ezj.\n6 Jbe is xeDvQH.\n7 DJtk is afraid of ezj.\n8 Gqoh is xeDvQH.\n\nBased on the above sentences, what is Jbe afraid of?\nA. DJtk\nB. xeDvQH\nC. nHFEfg\nD. ezj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "nHFEfg",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 cpI is afraid of Gdxqj.\n2 tn is cpI.\n3 gaCv is afraid of BZCQd.\n4 Gdxqj is afraid of BZCQd.\n5 KSiKRs is cpI.\n6 BZCQd is afraid of Gdxqj.\n7 tCjX is BZCQd.\n8 Ec is gaCv.\n\nBased on the above sentences, what is Ec afraid of?\nA. gaCv\nB. cpI\nC. BZCQd\nD. Gdxqj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "BZCQd",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Ny is afraid of ET.\n2 fXVdXX is Ny.\n3 ZRskFN is afraid of Ny.\n4 zU is ZRskFN.\n5 qMoZy is afraid of ET.\n6 ET is afraid of ZRskFN.\n7 jamE is Ny.\n8 kZINFP is Ny.\n\nBased on the above sentences, what is kZINFP afraid of?\nA. qMoZy\nB. Ny\nC. ET\nD. ZRskFN\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ET",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 RE is afraid of fGrc.\n2 ARvT is RE.\n3 xyKTM is afraid of RE.\n4 fGrc is afraid of RE.\n5 cV is afraid of RE.\n6 yCx is RE.\n7 atWkC is xyKTM.\n8 oD is RE.\n\nBased on the above sentences, what is yCx afraid of?\nA. cV\nB. xyKTM\nC. RE\nD. fGrc\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "fGrc",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 SixPJ is afraid of Lz.\n2 Lvn is afraid of SixPJ.\n3 Lz is afraid of LVsr.\n4 LVsr is afraid of Lvn.\n5 yosw is Lz.\n6 tGEj is LVsr.\n7 YKc is Lz.\n8 vFp is Lz.\n\nBased on the above sentences, what is yosw afraid of?\nA. Lvn\nB. SixPJ\nC. LVsr\nD. Lz\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "LVsr",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 PmAk is afraid of wy.\n2 wy is afraid of EbFF.\n3 EbFF is afraid of BeaIxs.\n4 mQWM is wy.\n5 pynhc is EbFF.\n6 BGQVeU is EbFF.\n7 BeaIxs is afraid of PmAk.\n8 VmMcTR is wy.\n\nBased on the above sentences, what is pynhc afraid of?\nA. EbFF\nB. PmAk\nC. wy\nD. BeaIxs\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "BeaIxs",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 bQDHQh is afraid of PXYHt.\n2 FMNrVi is afraid of PXYHt.\n3 myW is afraid of PXYHt.\n4 sseSB is bQDHQh.\n5 DD is myW.\n6 kMk is bQDHQh.\n7 Hnk is myW.\n8 PXYHt is afraid of FMNrVi.\n\nBased on the above sentences, what is DD afraid of?\nA. myW\nB. FMNrVi\nC. PXYHt\nD. bQDHQh\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PXYHt",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 cENC is afraid of TaE.\n2 es is afraid of cENC.\n3 TaE is afraid of PDh.\n4 PDh is afraid of TaE.\n5 jDhfte is PDh.\n6 Sq is TaE.\n7 nFLZi is es.\n8 kFCGZi is es.\n\nBased on the above sentences, what is Sq afraid of?\nA. cENC\nB. TaE\nC. es\nD. PDh\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PDh",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 ZKqpHJ is afraid of ibBScv.\n2 JQo is afraid of TT.\n3 uakJTb is ZKqpHJ.\n4 ibBScv is afraid of JQo.\n5 TT is afraid of ibBScv.\n6 xhf is JQo.\n7 KUN is TT.\n8 PK is JQo.\n\nBased on the above sentences, what is PK afraid of?\nA. ibBScv\nB. JQo\nC. TT\nD. ZKqpHJ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "TT",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 JaU is afraid of NmNQY.\n2 dG is afraid of Quoeo.\n3 fK is JaU.\n4 moyRp is JaU.\n5 ci is dG.\n6 NmNQY is afraid of JaU.\n7 Quoeo is afraid of NmNQY.\n8 bxTbXM is Quoeo.\n\nBased on the above sentences, what is ci afraid of?\nA. dG\nB. Quoeo\nC. NmNQY\nD. JaU\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Quoeo",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Vp is afraid of RJtL.\n2 IRr is Vp.\n3 qj is afraid of RJtL.\n4 YmRA is afraid of Vp.\n5 RJtL is afraid of Vp.\n6 DJvA is YmRA.\n7 cCW is RJtL.\n8 zsIwC is Vp.\n\nBased on the above sentences, what is cCW afraid of?\nA. RJtL\nB. YmRA\nC. qj\nD. Vp\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Vp",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 zGVX is afraid of qPC.\n2 qPC is afraid of zGVX.\n3 VE is zGVX.\n4 PnzmKD is qPC.\n5 yceJ is qPC.\n6 wL is afraid of zGVX.\n7 jxmqsV is afraid of wL.\n8 Jz is wL.\n\nBased on the above sentences, what is Jz afraid of?\nA. zGVX\nB. wL\nC. jxmqsV\nD. qPC\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "zGVX",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 QyFknv is afraid of pY.\n2 tioo is afraid of cRMJA.\n3 cRMJA is afraid of tioo.\n4 pY is afraid of cRMJA.\n5 hUmsXp is cRMJA.\n6 pNn is cRMJA.\n7 Ff is pY.\n8 UFBjk is tioo.\n\nBased on the above sentences, what is pNn afraid of?\nA. pY\nB. tioo\nC. QyFknv\nD. cRMJA\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "tioo",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mthj is afraid of cp.\n2 HEE is afraid of cCnv.\n3 HpAZa is HEE.\n4 cp is afraid of Mthj.\n5 FR is cp.\n6 cCnv is afraid of cp.\n7 JqPAhC is Mthj.\n8 ZfDNcz is HEE.\n\nBased on the above sentences, what is JqPAhC afraid of?\nA. cp\nB. cCnv\nC. HEE\nD. Mthj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "cp",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 MCfGXm is afraid of myzXL.\n2 Ztm is afraid of MCfGXm.\n3 eRT is MCfGXm.\n4 myzXL is afraid of Ztm.\n5 mtaa is Ztm.\n6 AYNX is Ztm.\n7 nq is Ztm.\n8 uGK is afraid of MCfGXm.\n\nBased on the above sentences, what is nq afraid of?\nA. Ztm\nB. MCfGXm\nC. uGK\nD. myzXL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "MCfGXm",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 pape is afraid of xSCNN.\n2 RA is afraid of eYjQZ.\n3 ktdH is pape.\n4 xSCNN is afraid of RA.\n5 DZjw is pape.\n6 eYjQZ is afraid of pape.\n7 oRohNX is eYjQZ.\n8 sVfM is pape.\n\nBased on the above sentences, what is oRohNX afraid of?\nA. pape\nB. RA\nC. eYjQZ\nD. xSCNN\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "pape",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 EDxd is afraid of UhxKAN.\n2 NXep is afraid of TFhbP.\n3 GuG is EDxd.\n4 cIigR is NXep.\n5 UhxKAN is afraid of TFhbP.\n6 Ib is EDxd.\n7 VSKty is NXep.\n8 TFhbP is afraid of UhxKAN.\n\nBased on the above sentences, what is GuG afraid of?\nA. UhxKAN\nB. TFhbP\nC. EDxd\nD. NXep\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "UhxKAN",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 FfsyW is afraid of eT.\n2 bIUCk is FfsyW.\n3 eT is afraid of ZdiZi.\n4 bzMof is FfsyW.\n5 qKuN is afraid of FfsyW.\n6 CuFE is FfsyW.\n7 uvzx is FfsyW.\n8 ZdiZi is afraid of FfsyW.\n\nBased on the above sentences, what is CuFE afraid of?\nA. FfsyW\nB. qKuN\nC. eT\nD. ZdiZi\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "eT",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Ni is afraid of acEnwr.\n2 rxUKzV is afraid of Ni.\n3 QZk is rxUKzV.\n4 CK is afraid of acEnwr.\n5 tbQ is CK.\n6 Gh is CK.\n7 acEnwr is afraid of CK.\n8 DJSAaj is CK.\n\nBased on the above sentences, what is tbQ afraid of?\nA. Ni\nB. rxUKzV\nC. acEnwr\nD. CK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "acEnwr",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 nIHQS is afraid of xfKBjo.\n2 xfKBjo is afraid of CtTVI.\n3 Id is xfKBjo.\n4 DMnjYj is nIHQS.\n5 VBDg is nIHQS.\n6 DWN is xfKBjo.\n7 CtTVI is afraid of xfKBjo.\n8 FQLtum is afraid of nIHQS.\n\nBased on the above sentences, what is Id afraid of?\nA. nIHQS\nB. CtTVI\nC. xfKBjo\nD. FQLtum\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "CtTVI",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 PrQ is afraid of wmjzm.\n2 nE is afraid of PrQ.\n3 wmjzm is afraid of nE.\n4 JZXZdk is nE.\n5 oXj is PrQ.\n6 Sve is afraid of PrQ.\n7 nh is Sve.\n8 jJK is wmjzm.\n\nBased on the above sentences, what is jJK afraid of?\nA. PrQ\nB. wmjzm\nC. Sve\nD. nE\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "nE",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 uHJ is afraid of jga.\n2 TnXf is afraid of jga.\n3 En is afraid of uHJ.\n4 Ua is uHJ.\n5 jga is afraid of TnXf.\n6 ysgCk is uHJ.\n7 wZ is En.\n8 iCp is En.\n\nBased on the above sentences, what is wZ afraid of?\nA. uHJ\nB. En\nC. TnXf\nD. jga\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "uHJ",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 YvGB is afraid of UytDLe.\n2 ghhfnC is afraid of EMwPZ.\n3 Cnn is ghhfnC.\n4 UytDLe is afraid of ghhfnC.\n5 DRAdQi is UytDLe.\n6 EMwPZ is afraid of ghhfnC.\n7 MRMCV is EMwPZ.\n8 rPTV is UytDLe.\n\nBased on the above sentences, what is DRAdQi afraid of?\nA. YvGB\nB. EMwPZ\nC. ghhfnC\nD. UytDLe\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ghhfnC",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 SGHr is afraid of LTIy.\n2 FJ is afraid of HXyV.\n3 LTIy is afraid of SGHr.\n4 yiiU is LTIy.\n5 HXyV is afraid of SGHr.\n6 CfiyEF is HXyV.\n7 kLF is FJ.\n8 tvP is SGHr.\n\nBased on the above sentences, what is CfiyEF afraid of?\nA. FJ\nB. SGHr\nC. HXyV\nD. LTIy\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "SGHr",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 TxSi is afraid of ikSqEF.\n2 BGKc is TxSi.\n3 ikSqEF is afraid of TxSi.\n4 ThqZ is ikSqEF.\n5 vRy is afraid of UIJhkG.\n6 UIJhkG is afraid of vRy.\n7 PsJ is UIJhkG.\n8 Htf is vRy.\n\nBased on the above sentences, what is ThqZ afraid of?\nA. UIJhkG\nB. TxSi\nC. ikSqEF\nD. vRy\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "TxSi",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 IccH is afraid of eGj.\n2 eGj is afraid of eL.\n3 eL is afraid of Ghsx.\n4 Ghsx is afraid of eGj.\n5 gSXIZ is eL.\n6 IKXNoc is eL.\n7 ZJr is eGj.\n8 Ib is IccH.\n\nBased on the above sentences, what is ZJr afraid of?\nA. Ghsx\nB. IccH\nC. eL\nD. eGj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "eL",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 fZL is afraid of JBvENH.\n2 hLm is afraid of IECgTL.\n3 IECgTL is afraid of JBvENH.\n4 JBvENH is afraid of fZL.\n5 qMN is JBvENH.\n6 ct is IECgTL.\n7 syCVH is hLm.\n8 EC is IECgTL.\n\nBased on the above sentences, what is EC afraid of?\nA. hLm\nB. fZL\nC. IECgTL\nD. JBvENH\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "JBvENH",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 xWpCWa is afraid of YIhxx.\n2 Wsubz is afraid of YIhxx.\n3 MrJk is afraid of YIhxx.\n4 pmjP is Wsubz.\n5 gkk is Wsubz.\n6 JUQaf is xWpCWa.\n7 KwBju is MrJk.\n8 YIhxx is afraid of Wsubz.\n\nBased on the above sentences, what is gkk afraid of?\nA. xWpCWa\nB. Wsubz\nC. YIhxx\nD. MrJk\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "YIhxx",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 vRzt is afraid of Ry.\n2 THmHZ is afraid of ts.\n3 ts is afraid of Ry.\n4 ADFg is vRzt.\n5 SA is vRzt.\n6 Ry is afraid of THmHZ.\n7 iKBw is vRzt.\n8 sZ is vRzt.\n\nBased on the above sentences, what is ADFg afraid of?\nA. Ry\nB. ts\nC. THmHZ\nD. vRzt\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Ry",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 qorNS is afraid of AQhBjb.\n2 AQhBjb is afraid of hRym.\n3 KuGcar is afraid of qorNS.\n4 jDrjRe is KuGcar.\n5 CHJG is qorNS.\n6 uKfxv is AQhBjb.\n7 hRym is afraid of AQhBjb.\n8 uv is KuGcar.\n\nBased on the above sentences, what is CHJG afraid of?\nA. AQhBjb\nB. qorNS\nC. hRym\nD. KuGcar\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "AQhBjb",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 APrn is afraid of dcCxW.\n2 BQTR is APrn.\n3 dAX is afraid of dcCxW.\n4 wIw is afraid of dAX.\n5 dcCxW is afraid of wIw.\n6 Uss is wIw.\n7 NFisAS is dcCxW.\n8 tv is dcCxW.\n\nBased on the above sentences, what is BQTR afraid of?\nA. dAX\nB. APrn\nC. wIw\nD. dcCxW\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "dcCxW",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 QTix is afraid of jCDQDs.\n2 CiX is QTix.\n3 hDbKY is afraid of jCDQDs.\n4 jCDQDs is afraid of hDbKY.\n5 xBxot is QTix.\n6 upqGY is afraid of jCDQDs.\n7 xbJVCW is jCDQDs.\n8 iY is QTix.\n\nBased on the above sentences, what is xbJVCW afraid of?\nA. hDbKY\nB. QTix\nC. jCDQDs\nD. upqGY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hDbKY",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Guon is afraid of zAE.\n2 zAE is afraid of hfmJU.\n3 XQSieJ is zAE.\n4 uvaX is Guon.\n5 pWqmcS is Guon.\n6 ZmcN is afraid of Guon.\n7 hfmJU is afraid of ZmcN.\n8 Ek is Guon.\n\nBased on the above sentences, what is XQSieJ afraid of?\nA. Guon\nB. zAE\nC. ZmcN\nD. hfmJU\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hfmJU",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 qNqonS is afraid of Fd.\n2 NaQK is afraid of Fd.\n3 Fd is afraid of qNqonS.\n4 bJ is afraid of NaQK.\n5 uzq is qNqonS.\n6 VKR is bJ.\n7 KuYn is qNqonS.\n8 Kfpw is qNqonS.\n\nBased on the above sentences, what is uzq afraid of?\nA. qNqonS\nB. NaQK\nC. Fd\nD. bJ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Fd",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 FRnNMe is afraid of SpT.\n2 SYYuZ is FRnNMe.\n3 SpT is afraid of FRnNMe.\n4 ng is afraid of SpT.\n5 Ece is FRnNMe.\n6 ED is afraid of FRnNMe.\n7 RBNruK is ED.\n8 Iqd is FRnNMe.\n\nBased on the above sentences, what is RBNruK afraid of?\nA. ED\nB. FRnNMe\nC. ng\nD. SpT\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "FRnNMe",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 ToTn is afraid of cIAqQ.\n2 hMA is afraid of sX.\n3 Ebjs is ToTn.\n4 cIAqQ is afraid of hMA.\n5 sX is afraid of cIAqQ.\n6 yGs is ToTn.\n7 WbK is hMA.\n8 iq is cIAqQ.\n\nBased on the above sentences, what is Ebjs afraid of?\nA. ToTn\nB. hMA\nC. cIAqQ\nD. sX\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "cIAqQ",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Yw is afraid of LGed.\n2 LGed is afraid of FSJLj.\n3 FSJLj is afraid of Yw.\n4 IF is LGed.\n5 NefFh is FSJLj.\n6 Aw is FSJLj.\n7 Jwkb is afraid of FSJLj.\n8 auaBpW is Yw.\n\nBased on the above sentences, what is Aw afraid of?\nA. Jwkb\nB. LGed\nC. Yw\nD. FSJLj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Yw",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 jiQbB is afraid of hfnayN.\n2 rhDg is afraid of jiQbB.\n3 LmKi is afraid of hfnayN.\n4 hfnayN is afraid of rhDg.\n5 aT is jiQbB.\n6 airhs is hfnayN.\n7 Chui is hfnayN.\n8 XWE is hfnayN.\n\nBased on the above sentences, what is Chui afraid of?\nA. LmKi\nB. jiQbB\nC. hfnayN\nD. rhDg\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rhDg",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 ivJd is afraid of kdtCQ.\n2 ZoPhL is afraid of IQJ.\n3 IQJ is afraid of ZoPhL.\n4 NSM is ZoPhL.\n5 Ja is IQJ.\n6 Hx is ivJd.\n7 kdtCQ is afraid of ivJd.\n8 FYLzy is ZoPhL.\n\nBased on the above sentences, what is Hx afraid of?\nA. ZoPhL\nB. kdtCQ\nC. ivJd\nD. IQJ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "kdtCQ",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 yivJa is afraid of cg.\n2 qKqGPJ is afraid of cg.\n3 KDewE is yivJa.\n4 eb is qKqGPJ.\n5 mjRL is afraid of cg.\n6 cg is afraid of qKqGPJ.\n7 Jv is yivJa.\n8 iPvd is cg.\n\nBased on the above sentences, what is eb afraid of?\nA. yivJa\nB. qKqGPJ\nC. cg\nD. mjRL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "cg",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 pvPnTm is afraid of AU.\n2 AU is afraid of eM.\n3 dhZK is afraid of pvPnTm.\n4 cpVscj is AU.\n5 Gdue is AU.\n6 eM is afraid of dhZK.\n7 hKLzn is dhZK.\n8 xVr is pvPnTm.\n\nBased on the above sentences, what is cpVscj afraid of?\nA. pvPnTm\nB. eM\nC. AU\nD. dhZK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "eM",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 ftb is afraid of PXK.\n2 PXK is afraid of tZFbnD.\n3 ZbW is afraid of PXK.\n4 tZFbnD is afraid of PXK.\n5 miyAF is PXK.\n6 uBjoCm is ZbW.\n7 sW is PXK.\n8 IJXFIZ is PXK.\n\nBased on the above sentences, what is miyAF afraid of?\nA. tZFbnD\nB. ftb\nC. ZbW\nD. PXK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "tZFbnD",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 dWk is afraid of yKpVUJ.\n2 vC is afraid of dWk.\n3 qKL is dWk.\n4 yU is vC.\n5 xXabz is vC.\n6 yKpVUJ is afraid of ZBh.\n7 ZBh is afraid of yKpVUJ.\n8 BWe is yKpVUJ.\n\nBased on the above sentences, what is BWe afraid of?\nA. ZBh\nB. dWk\nC. yKpVUJ\nD. vC\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ZBh",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 wodA is afraid of MXVmn.\n2 MazIY is afraid of wodA.\n3 xPXNoC is wodA.\n4 MXVmn is afraid of wodA.\n5 WIDKge is wodA.\n6 hqgw is afraid of MazIY.\n7 Amaj is hqgw.\n8 TGVqN is MazIY.\n\nBased on the above sentences, what is TGVqN afraid of?\nA. hqgw\nB. MXVmn\nC. wodA\nD. MazIY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "wodA",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Lq is afraid of RRf.\n2 TT is afraid of Ia.\n3 KDTrcN is TT.\n4 RRf is afraid of Ia.\n5 zYvmk is Lq.\n6 Ia is afraid of Lq.\n7 CHPyX is Ia.\n8 fknDD is TT.\n\nBased on the above sentences, what is CHPyX afraid of?\nA. Ia\nB. Lq\nC. TT\nD. RRf\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Lq",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 ma is afraid of CG.\n2 CG is afraid of bga.\n3 sM is afraid of CG.\n4 okV is sM.\n5 dnGmXf is sM.\n6 YWEzr is ma.\n7 wiv is ma.\n8 bga is afraid of CG.\n\nBased on the above sentences, what is dnGmXf afraid of?\nA. sM\nB. ma\nC. CG\nD. bga\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "CG",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 hgcZUX is afraid of LrK.\n2 Rr is hgcZUX.\n3 HCP is hgcZUX.\n4 yY is afraid of hgcZUX.\n5 TnXcQi is afraid of yY.\n6 XbX is TnXcQi.\n7 LrK is afraid of TnXcQi.\n8 Vqb is hgcZUX.\n\nBased on the above sentences, what is HCP afraid of?\nA. TnXcQi\nB. yY\nC. LrK\nD. hgcZUX\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "LrK",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 JR is afraid of Qc.\n2 Qc is afraid of pLuwZ.\n3 qA is afraid of Qc.\n4 quM is JR.\n5 ePH is qA.\n6 pLuwZ is afraid of JR.\n7 GPnZ is pLuwZ.\n8 iUnh is qA.\n\nBased on the above sentences, what is quM afraid of?\nA. qA\nB. pLuwZ\nC. JR\nD. Qc\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Qc",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 UZaT is afraid of zwCZF.\n2 QekC is UZaT.\n3 ZG is UZaT.\n4 zwCZF is afraid of UZaT.\n5 kNJNQV is afraid of UZaT.\n6 JXYhLa is afraid of kNJNQV.\n7 LrRyJ is zwCZF.\n8 KZadA is zwCZF.\n\nBased on the above sentences, what is KZadA afraid of?\nA. JXYhLa\nB. zwCZF\nC. kNJNQV\nD. UZaT\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "UZaT",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 hkXfen is afraid of MS.\n2 oCtch is afraid of hkXfen.\n3 MS is afraid of hkXfen.\n4 nPTre is hkXfen.\n5 YsnCX is afraid of hkXfen.\n6 QZ is oCtch.\n7 DjB is oCtch.\n8 Fk is YsnCX.\n\nBased on the above sentences, what is QZ afraid of?\nA. YsnCX\nB. MS\nC. hkXfen\nD. oCtch\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hkXfen",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 xIZL is afraid of EJfqw.\n2 UZzT is afraid of EJfqw.\n3 iSXzxy is xIZL.\n4 Ng is afraid of EJfqw.\n5 EJfqw is afraid of Ng.\n6 TcLwp is Ng.\n7 tUGwS is Ng.\n8 zQI is EJfqw.\n\nBased on the above sentences, what is TcLwp afraid of?\nA. UZzT\nB. EJfqw\nC. Ng\nD. xIZL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "EJfqw",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 PasV is afraid of RvXP.\n2 kuSI is PasV.\n3 YaLT is afraid of PasV.\n4 RvXP is afraid of PasV.\n5 ey is PasV.\n6 ULRDX is afraid of YaLT.\n7 fEt is YaLT.\n8 QMQKKn is PasV.\n\nBased on the above sentences, what is fEt afraid of?\nA. YaLT\nB. ULRDX\nC. PasV\nD. RvXP\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PasV",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 JvrUfv is afraid of mh.\n2 xRMm is JvrUfv.\n3 mh is afraid of XLn.\n4 XLn is afraid of JvrUfv.\n5 Wf is XLn.\n6 YpiHV is JvrUfv.\n7 baF is afraid of JvrUfv.\n8 UCSXz is XLn.\n\nBased on the above sentences, what is xRMm afraid of?\nA. JvrUfv\nB. mh\nC. baF\nD. XLn\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "mh",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 DInUXN is afraid of GMGG.\n2 GMGG is afraid of qT.\n3 qT is afraid of CVVPx.\n4 ds is GMGG.\n5 xEqdB is DInUXN.\n6 apfYZ is DInUXN.\n7 CVVPx is afraid of GMGG.\n8 eDzWQy is DInUXN.\n\nBased on the above sentences, what is xEqdB afraid of?\nA. CVVPx\nB. qT\nC. GMGG\nD. DInUXN\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "GMGG",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 dt is afraid of NYz.\n2 Bv is dt.\n3 Eg is afraid of dt.\n4 YMfza is afraid of Eg.\n5 NYz is afraid of YMfza.\n6 Htf is YMfza.\n7 rIBXJ is Eg.\n8 eIhuDX is Eg.\n\nBased on the above sentences, what is Bv afraid of?\nA. Eg\nB. YMfza\nC. NYz\nD. dt\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "NYz",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 cg is afraid of dUovY.\n2 kr is afraid of dUovY.\n3 MBjVV is kr.\n4 dUovY is afraid of kr.\n5 nb is afraid of cg.\n6 CxIES is kr.\n7 bZWww is kr.\n8 vuFF is cg.\n\nBased on the above sentences, what is vuFF afraid of?\nA. dUovY\nB. nb\nC. cg\nD. kr\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "dUovY",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Nuyj is afraid of aRHexR.\n2 vEcKr is afraid of xg.\n3 xg is afraid of Nuyj.\n4 aRHexR is afraid of vEcKr.\n5 xUWF is Nuyj.\n6 hyWZL is xg.\n7 muNzNT is Nuyj.\n8 orjfWr is Nuyj.\n\nBased on the above sentences, what is hyWZL afraid of?\nA. vEcKr\nB. Nuyj\nC. aRHexR\nD. xg\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Nuyj",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 qMPV is afraid of PCcpZQ.\n2 GtIUT is afraid of PCcpZQ.\n3 zpH is afraid of GtIUT.\n4 eQumdg is zpH.\n5 ti is GtIUT.\n6 bXTmCd is zpH.\n7 dVtrv is qMPV.\n8 PCcpZQ is afraid of zpH.\n\nBased on the above sentences, what is eQumdg afraid of?\nA. PCcpZQ\nB. zpH\nC. GtIUT\nD. qMPV\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "GtIUT",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 eerDVg is afraid of aBF.\n2 aBF is afraid of QwAQ.\n3 MVmIgs is aBF.\n4 WrGUk is eerDVg.\n5 vy is afraid of QwAQ.\n6 QwAQ is afraid of aBF.\n7 gUjebi is QwAQ.\n8 WzJAff is eerDVg.\n\nBased on the above sentences, what is MVmIgs afraid of?\nA. aBF\nB. QwAQ\nC. eerDVg\nD. vy\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "QwAQ",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 kGRL is afraid of zz.\n2 pDRGvd is kGRL.\n3 GvQQff is kGRL.\n4 KSrah is afraid of vcIS.\n5 vcIS is afraid of zz.\n6 pF is vcIS.\n7 WogZuV is kGRL.\n8 zz is afraid of KSrah.\n\nBased on the above sentences, what is pF afraid of?\nA. KSrah\nB. vcIS\nC. kGRL\nD. zz\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "zz",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 UZw is afraid of diNS.\n2 uU is UZw.\n3 yD is UZw.\n4 diNS is afraid of snhW.\n5 sBmj is diNS.\n6 snhW is afraid of UZw.\n7 SJSra is UZw.\n8 iYABp is afraid of diNS.\n\nBased on the above sentences, what is sBmj afraid of?\nA. iYABp\nB. UZw\nC. diNS\nD. snhW\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "snhW",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 jdqi is afraid of PoEpTr.\n2 PoEpTr is afraid of jdqi.\n3 GDzh is PoEpTr.\n4 DgeeHq is afraid of nuQQx.\n5 BA is PoEpTr.\n6 oeY is jdqi.\n7 dsWNf is DgeeHq.\n8 nuQQx is afraid of jdqi.\n\nBased on the above sentences, what is GDzh afraid of?\nA. jdqi\nB. PoEpTr\nC. DgeeHq\nD. nuQQx\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "jdqi",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 bm is afraid of Me.\n2 cwq is bm.\n3 ND is afraid of bm.\n4 Me is afraid of ND.\n5 WN is afraid of Me.\n6 ALn is WN.\n7 hAP is Me.\n8 wGy is WN.\n\nBased on the above sentences, what is cwq afraid of?\nA. Me\nB. WN\nC. bm\nD. ND\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Me",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 ijuxC is afraid of TI.\n2 SUI is afraid of TI.\n3 LR is afraid of TI.\n4 vIMI is SUI.\n5 TI is afraid of ijuxC.\n6 Syhq is ijuxC.\n7 jDUGWV is LR.\n8 nuM is LR.\n\nBased on the above sentences, what is Syhq afraid of?\nA. SUI\nB. LR\nC. TI\nD. ijuxC\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "TI",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 LkT is afraid of jZDsju.\n2 EM is LkT.\n3 QuVR is LkT.\n4 jZDsju is afraid of LkT.\n5 uCUtYj is afraid of LkT.\n6 aq is afraid of jZDsju.\n7 UaK is aq.\n8 eoxG is LkT.\n\nBased on the above sentences, what is eoxG afraid of?\nA. aq\nB. LkT\nC. jZDsju\nD. uCUtYj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "jZDsju",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 kY is afraid of jJFstE.\n2 jJFstE is afraid of RQYmuT.\n3 wDvCRg is afraid of RQYmuT.\n4 TkCV is kY.\n5 TXG is jJFstE.\n6 RQYmuT is afraid of jJFstE.\n7 np is jJFstE.\n8 QVdpup is wDvCRg.\n\nBased on the above sentences, what is QVdpup afraid of?\nA. jJFstE\nB. kY\nC. wDvCRg\nD. RQYmuT\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RQYmuT",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 GifsvD is afraid of Jiy.\n2 pDo is afraid of GifsvD.\n3 xYJCF is GifsvD.\n4 EDJ is GifsvD.\n5 Jiy is afraid of WHJXi.\n6 WHJXi is afraid of GifsvD.\n7 syNy is Jiy.\n8 iUHA is Jiy.\n\nBased on the above sentences, what is iUHA afraid of?\nA. pDo\nB. GifsvD\nC. WHJXi\nD. Jiy\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "WHJXi",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 KpwZRM is afraid of xTyokf.\n2 sa is afraid of sPbt.\n3 xTyokf is afraid of KpwZRM.\n4 qvZZ is KpwZRM.\n5 jCF is sa.\n6 sPbt is afraid of xTyokf.\n7 rNA is KpwZRM.\n8 vJ is sa.\n\nBased on the above sentences, what is vJ afraid of?\nA. sa\nB. xTyokf\nC. sPbt\nD. KpwZRM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "sPbt",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 JS is afraid of hxUscI.\n2 hKeJ is afraid of hxUscI.\n3 hxUscI is afraid of qqq.\n4 qqq is afraid of hKeJ.\n5 VDisE is qqq.\n6 NGufv is hxUscI.\n7 UsS is hxUscI.\n8 AD is JS.\n\nBased on the above sentences, what is AD afraid of?\nA. hxUscI\nB. hKeJ\nC. JS\nD. qqq\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hxUscI",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 UsYC is afraid of HCfyDS.\n2 HCfyDS is afraid of UsYC.\n3 pyAK is UsYC.\n4 TPUc is HCfyDS.\n5 wQXD is afraid of IDjK.\n6 IDjK is afraid of UsYC.\n7 QJKIX is UsYC.\n8 pxPJ is wQXD.\n\nBased on the above sentences, what is TPUc afraid of?\nA. wQXD\nB. HCfyDS\nC. UsYC\nD. IDjK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "UsYC",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 FYKmC is afraid of DgSS.\n2 GT is afraid of TTb.\n3 nEbj is GT.\n4 RV is GT.\n5 TTb is afraid of FYKmC.\n6 DgSS is afraid of GT.\n7 Ho is TTb.\n8 AYBJW is DgSS.\n\nBased on the above sentences, what is RV afraid of?\nA. GT\nB. DgSS\nC. TTb\nD. FYKmC\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "TTb",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 eMsaDa is afraid of mGtcVf.\n2 VR is afraid of mGtcVf.\n3 isMez is eMsaDa.\n4 nSX is eMsaDa.\n5 mGtcVf is afraid of eMsaDa.\n6 AF is eMsaDa.\n7 Ne is afraid of eMsaDa.\n8 wAgw is eMsaDa.\n\nBased on the above sentences, what is isMez afraid of?\nA. Ne\nB. VR\nC. mGtcVf\nD. eMsaDa\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "mGtcVf",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 cogxL is afraid of HjbULm.\n2 srYy is cogxL.\n3 HjbULm is afraid of SJYRS.\n4 Xq is afraid of cogxL.\n5 NJ is Xq.\n6 MNAC is Xq.\n7 SJYRS is afraid of HjbULm.\n8 MyZv is cogxL.\n\nBased on the above sentences, what is srYy afraid of?\nA. SJYRS\nB. HjbULm\nC. Xq\nD. cogxL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "HjbULm",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 GTNNiD is afraid of yvNN.\n2 yvNN is afraid of TXTioB.\n3 mI is GTNNiD.\n4 oJAH is afraid of yvNN.\n5 DZpDg is oJAH.\n6 TXTioB is afraid of yvNN.\n7 NK is TXTioB.\n8 SqS is oJAH.\n\nBased on the above sentences, what is DZpDg afraid of?\nA. GTNNiD\nB. oJAH\nC. TXTioB\nD. yvNN\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "yvNN",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 vx is afraid of Yx.\n2 dvXVt is afraid of UgHU.\n3 UgHU is afraid of vx.\n4 zQ is dvXVt.\n5 ZCLEWR is vx.\n6 cCnRy is vx.\n7 wj is UgHU.\n8 Yx is afraid of dvXVt.\n\nBased on the above sentences, what is zQ afraid of?\nA. Yx\nB. dvXVt\nC. UgHU\nD. vx\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "UgHU",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 pDyDnd is afraid of mEnAS.\n2 AKcILH is afraid of nSBR.\n3 nSBR is afraid of mEnAS.\n4 sdWpf is nSBR.\n5 BR is pDyDnd.\n6 mEnAS is afraid of AKcILH.\n7 mHB is nSBR.\n8 iS is AKcILH.\n\nBased on the above sentences, what is BR afraid of?\nA. pDyDnd\nB. mEnAS\nC. AKcILH\nD. nSBR\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "mEnAS",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 yjGn is afraid of RFb.\n2 YbohF is afraid of RFb.\n3 BrrGFJ is afraid of RFb.\n4 BtdVRh is YbohF.\n5 RGELm is yjGn.\n6 IfbkzX is BrrGFJ.\n7 RFb is afraid of yjGn.\n8 zQNxf is yjGn.\n\nBased on the above sentences, what is RGELm afraid of?\nA. BrrGFJ\nB. YbohF\nC. RFb\nD. yjGn\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RFb",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 DcJCAo is afraid of ASKcy.\n2 ASKcy is afraid of TjTd.\n3 TjTd is afraid of DcJCAo.\n4 LAzxkT is TjTd.\n5 GZYTct is TjTd.\n6 abERP is DcJCAo.\n7 Jep is DcJCAo.\n8 ILMTm is afraid of DcJCAo.\n\nBased on the above sentences, what is Jep afraid of?\nA. DcJCAo\nB. ASKcy\nC. TjTd\nD. ILMTm\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ASKcy",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 FdTTDS is afraid of jgEKJE.\n2 kYNd is afraid of jgEKJE.\n3 gD is FdTTDS.\n4 jgEKJE is afraid of jm.\n5 jm is afraid of FdTTDS.\n6 UQTwkL is FdTTDS.\n7 xIyV is kYNd.\n8 cWQWkk is jgEKJE.\n\nBased on the above sentences, what is UQTwkL afraid of?\nA. jm\nB. FdTTDS\nC. jgEKJE\nD. kYNd\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "jgEKJE",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 LSu is afraid of nrBh.\n2 HJax is LSu.\n3 JSZuD is LSu.\n4 vuaog is afraid of qS.\n5 nrBh is afraid of qS.\n6 qS is afraid of vuaog.\n7 BtRj is nrBh.\n8 jv is LSu.\n\nBased on the above sentences, what is jv afraid of?\nA. qS\nB. LSu\nC. nrBh\nD. vuaog\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "nrBh",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 ag is afraid of XUDQjQ.\n2 XUDQjQ is afraid of ag.\n3 hK is afraid of ag.\n4 rnH is XUDQjQ.\n5 rafFmn is afraid of XUDQjQ.\n6 yrGssr is rafFmn.\n7 YhG is hK.\n8 yrsGZZ is hK.\n\nBased on the above sentences, what is yrGssr afraid of?\nA. ag\nB. rafFmn\nC. XUDQjQ\nD. hK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "XUDQjQ",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 uFFuh is afraid of EYerA.\n2 HIBN is afraid of uFFuh.\n3 ILe is uFFuh.\n4 MkA is HIBN.\n5 MRHebG is afraid of EYerA.\n6 BR is uFFuh.\n7 EYerA is afraid of HIBN.\n8 WHKAk is HIBN.\n\nBased on the above sentences, what is WHKAk afraid of?\nA. MRHebG\nB. HIBN\nC. EYerA\nD. uFFuh\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "uFFuh",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 dxEz is afraid of MNunq.\n2 ZEcV is afraid of IsnWhm.\n3 MNunq is afraid of ZEcV.\n4 IsnWhm is afraid of MNunq.\n5 PZWdkT is MNunq.\n6 TmeYTN is ZEcV.\n7 fTNu is MNunq.\n8 FkV is dxEz.\n\nBased on the above sentences, what is FkV afraid of?\nA. dxEz\nB. MNunq\nC. ZEcV\nD. IsnWhm\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "MNunq",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 cKZ is afraid of ag.\n2 UaiVd is afraid of toXvX.\n3 BNGQU is cKZ.\n4 ag is afraid of UaiVd.\n5 toXvX is afraid of UaiVd.\n6 yfTZyn is cKZ.\n7 AnkQLS is toXvX.\n8 SfVT is cKZ.\n\nBased on the above sentences, what is BNGQU afraid of?\nA. cKZ\nB. UaiVd\nC. ag\nD. toXvX\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ag",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 pai is afraid of seSxw.\n2 Equn is afraid of seSxw.\n3 xiLw is Equn.\n4 SwWW is pai.\n5 JoAp is afraid of pai.\n6 GCVYcA is Equn.\n7 sYFQDE is pai.\n8 seSxw is afraid of Equn.\n\nBased on the above sentences, what is SwWW afraid of?\nA. JoAp\nB. Equn\nC. seSxw\nD. pai\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "seSxw",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 EE is afraid of rNTHHW.\n2 aCiVP is EE.\n3 xft is afraid of rNTHHW.\n4 pb is EE.\n5 iGycn is afraid of rNTHHW.\n6 VNF is EE.\n7 rNTHHW is afraid of xft.\n8 fPD is EE.\n\nBased on the above sentences, what is fPD afraid of?\nA. EE\nB. xft\nC. iGycn\nD. rNTHHW\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rNTHHW",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 udKC is afraid of CzZ.\n2 CzZ is afraid of ntMJm.\n3 nER is afraid of ntMJm.\n4 ntMJm is afraid of CzZ.\n5 GEG is CzZ.\n6 LmZ is udKC.\n7 ueATT is udKC.\n8 uI is nER.\n\nBased on the above sentences, what is LmZ afraid of?\nA. udKC\nB. ntMJm\nC. CzZ\nD. nER\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "CzZ",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 pBy is afraid of FHa.\n2 tWshd is afraid of pBy.\n3 FHa is afraid of tWshd.\n4 RAg is afraid of FHa.\n5 pYD is FHa.\n6 WKeMj is FHa.\n7 aAh is tWshd.\n8 Pa is RAg.\n\nBased on the above sentences, what is WKeMj afraid of?\nA. pBy\nB. tWshd\nC. RAg\nD. FHa\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "tWshd",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 SFPZy is afraid of yV.\n2 pVii is afraid of RntgDh.\n3 RntgDh is afraid of SFPZy.\n4 ksPYdu is RntgDh.\n5 TMJ is RntgDh.\n6 Mz is RntgDh.\n7 yV is afraid of RntgDh.\n8 QT is RntgDh.\n\nBased on the above sentences, what is ksPYdu afraid of?\nA. pVii\nB. RntgDh\nC. SFPZy\nD. yV\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "SFPZy",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 BLepfZ is afraid of RBsZyG.\n2 FeKv is afraid of RBsZyG.\n3 uHhZ is FeKv.\n4 BSgL is FeKv.\n5 yLG is FeKv.\n6 Xham is afraid of RBsZyG.\n7 EBQKot is BLepfZ.\n8 RBsZyG is afraid of BLepfZ.\n\nBased on the above sentences, what is BSgL afraid of?\nA. RBsZyG\nB. BLepfZ\nC. FeKv\nD. Xham\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RBsZyG",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 dM is afraid of hDeY.\n2 LXGdi is afraid of dM.\n3 jIKXXU is afraid of LXGdi.\n4 mQw is LXGdi.\n5 kXL is LXGdi.\n6 Hr is LXGdi.\n7 hDeY is afraid of dM.\n8 uaVbF is dM.\n\nBased on the above sentences, what is uaVbF afraid of?\nA. jIKXXU\nB. LXGdi\nC. hDeY\nD. dM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hDeY",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 aA is afraid of NG.\n2 nFIag is afraid of iYIuD.\n3 iYIuD is afraid of nFIag.\n4 IyMAvW is aA.\n5 BIGPW is nFIag.\n6 kH is nFIag.\n7 NG is afraid of nFIag.\n8 JiDJis is iYIuD.\n\nBased on the above sentences, what is BIGPW afraid of?\nA. NG\nB. aA\nC. iYIuD\nD. nFIag\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "iYIuD",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Ym is afraid of XRFFio.\n2 XRFFio is afraid of qB.\n3 qB is afraid of XRFFio.\n4 UEF is XRFFio.\n5 acxgUw is qB.\n6 JvKtY is afraid of XRFFio.\n7 Ga is qB.\n8 NDhsss is XRFFio.\n\nBased on the above sentences, what is Ga afraid of?\nA. Ym\nB. XRFFio\nC. qB\nD. JvKtY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "XRFFio",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 QovDB is afraid of Lfih.\n2 gBt is QovDB.\n3 PP is afraid of Lfih.\n4 CnZvk is QovDB.\n5 imemCN is afraid of QovDB.\n6 Pf is imemCN.\n7 wbvRhi is PP.\n8 Lfih is afraid of imemCN.\n\nBased on the above sentences, what is Pf afraid of?\nA. QovDB\nB. Lfih\nC. imemCN\nD. PP\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "QovDB",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 eqGcvE is afraid of ZrJZJ.\n2 Ii is eqGcvE.\n3 KR is afraid of iEqHU.\n4 tRPk is KR.\n5 MGPz is eqGcvE.\n6 ZrJZJ is afraid of KR.\n7 iEqHU is afraid of eqGcvE.\n8 mK is ZrJZJ.\n\nBased on the above sentences, what is mK afraid of?\nA. KR\nB. eqGcvE\nC. iEqHU\nD. ZrJZJ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "KR",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 ThLX is afraid of mu.\n2 IgStB is afraid of RuUe.\n3 XP is IgStB.\n4 sRWSdp is ThLX.\n5 SqtN is ThLX.\n6 RuUe is afraid of IgStB.\n7 mu is afraid of ThLX.\n8 UhcUVp is mu.\n\nBased on the above sentences, what is UhcUVp afraid of?\nA. RuUe\nB. mu\nC. IgStB\nD. ThLX\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ThLX",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "7"
+        ]
+    },
+    {
+        "prompt": "1 TaI is afraid of Mhe.\n2 yTGX is afraid of QNLWLc.\n3 QNLWLc is afraid of TaI.\n4 TE is TaI.\n5 Qn is yTGX.\n6 Mhe is afraid of yTGX.\n7 hazL is Mhe.\n8 RhIF is QNLWLc.\n\nBased on the above sentences, what is Qn afraid of?\nA. yTGX\nB. QNLWLc\nC. Mhe\nD. TaI\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "QNLWLc",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 uMGik is afraid of VLeKzA.\n2 ip is uMGik.\n3 VLeKzA is afraid of BTBdCr.\n4 GmW is uMGik.\n5 BTBdCr is afraid of XqjrZ.\n6 BD is uMGik.\n7 XqjrZ is afraid of uMGik.\n8 gzgh is VLeKzA.\n\nBased on the above sentences, what is BD afraid of?\nA. uMGik\nB. BTBdCr\nC. VLeKzA\nD. XqjrZ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "VLeKzA",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 FfKi is afraid of JTm.\n2 FQraZp is afraid of vGwjkN.\n3 vGwjkN is afraid of FfKi.\n4 ujRqH is FQraZp.\n5 JTm is afraid of FfKi.\n6 mTTZcF is vGwjkN.\n7 kbxMF is FfKi.\n8 nhY is FQraZp.\n\nBased on the above sentences, what is mTTZcF afraid of?\nA. FQraZp\nB. JTm\nC. vGwjkN\nD. FfKi\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "FfKi",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 XxUfw is afraid of bVLgRb.\n2 rvQ is afraid of CnNb.\n3 bVLgRb is afraid of CnNb.\n4 CnNb is afraid of XxUfw.\n5 nqhVj is bVLgRb.\n6 iX is bVLgRb.\n7 hjF is XxUfw.\n8 AimYA is XxUfw.\n\nBased on the above sentences, what is hjF afraid of?\nA. CnNb\nB. bVLgRb\nC. rvQ\nD. XxUfw\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "bVLgRb",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 KIGuR is afraid of XMi.\n2 qPG is KIGuR.\n3 XMi is afraid of gWaN.\n4 gWaN is afraid of XMi.\n5 dJM is XMi.\n6 Iq is gWaN.\n7 Jp is afraid of gWaN.\n8 oM is XMi.\n\nBased on the above sentences, what is dJM afraid of?\nA. gWaN\nB. KIGuR\nC. Jp\nD. XMi\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "gWaN",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 VJv is afraid of rTGj.\n2 Cddmj is VJv.\n3 MB is afraid of rTGj.\n4 Kkpp is afraid of MB.\n5 zxufah is VJv.\n6 rTGj is afraid of Kkpp.\n7 Xkm is rTGj.\n8 RZax is Kkpp.\n\nBased on the above sentences, what is Cddmj afraid of?\nA. MB\nB. VJv\nC. rTGj\nD. Kkpp\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rTGj",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 mrFd is afraid of Ymo.\n2 Ymo is afraid of mrFd.\n3 haprE is afraid of YjY.\n4 YjY is afraid of haprE.\n5 XWzUvq is Ymo.\n6 WwsuCf is Ymo.\n7 eYzH is YjY.\n8 rMSy is YjY.\n\nBased on the above sentences, what is eYzH afraid of?\nA. haprE\nB. mrFd\nC. YjY\nD. Ymo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "haprE",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 mt is afraid of GRDfP.\n2 tnzWL is mt.\n3 jC is mt.\n4 GRDfP is afraid of BTRsZK.\n5 riykpu is mt.\n6 SLPH is mt.\n7 CfLuY is afraid of mt.\n8 BTRsZK is afraid of CfLuY.\n\nBased on the above sentences, what is jC afraid of?\nA. CfLuY\nB. mt\nC. BTRsZK\nD. GRDfP\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "GRDfP",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 kzZWw is afraid of NwFDIk.\n2 jJU is kzZWw.\n3 Seaq is kzZWw.\n4 ignu is afraid of NwFDIk.\n5 rn is ignu.\n6 RbPZia is afraid of ignu.\n7 NwFDIk is afraid of ignu.\n8 eEHvX is RbPZia.\n\nBased on the above sentences, what is rn afraid of?\nA. kzZWw\nB. NwFDIk\nC. ignu\nD. RbPZia\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "NwFDIk",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 HB is afraid of ELE.\n2 Vo is HB.\n3 gHgu is afraid of HB.\n4 xG is afraid of ELE.\n5 ELE is afraid of xG.\n6 pgQiR is ELE.\n7 nAadq is gHgu.\n8 ZbUW is HB.\n\nBased on the above sentences, what is nAadq afraid of?\nA. xG\nB. gHgu\nC. ELE\nD. HB\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "HB",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 DPiSb is afraid of uYL.\n2 uYL is afraid of DPiSb.\n3 WXbz is afraid of PkVj.\n4 hFT is DPiSb.\n5 NR is WXbz.\n6 gn is uYL.\n7 HCEQy is WXbz.\n8 PkVj is afraid of uYL.\n\nBased on the above sentences, what is NR afraid of?\nA. WXbz\nB. uYL\nC. DPiSb\nD. PkVj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PkVj",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 tT is afraid of XtcFo.\n2 FFFMR is afraid of XtcFo.\n3 WMq is afraid of tT.\n4 BVpvqu is FFFMR.\n5 uWYrn is WMq.\n6 XtcFo is afraid of WMq.\n7 kNKI is FFFMR.\n8 wBWpvK is WMq.\n\nBased on the above sentences, what is wBWpvK afraid of?\nA. FFFMR\nB. tT\nC. WMq\nD. XtcFo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "tT",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 mBWKKs is afraid of XUqoSQ.\n2 XUqoSQ is afraid of mBWKKs.\n3 BiDU is mBWKKs.\n4 DAJm is mBWKKs.\n5 ePj is afraid of bW.\n6 tg is mBWKKs.\n7 yZX is mBWKKs.\n8 bW is afraid of XUqoSQ.\n\nBased on the above sentences, what is DAJm afraid of?\nA. mBWKKs\nB. ePj\nC. bW\nD. XUqoSQ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "XUqoSQ",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 AFwgh is afraid of mULBay.\n2 sGeFvm is afraid of hxz.\n3 mULBay is afraid of hxz.\n4 hxz is afraid of mULBay.\n5 fyGRE is sGeFvm.\n6 RH is AFwgh.\n7 DwUPW is AFwgh.\n8 oV is AFwgh.\n\nBased on the above sentences, what is DwUPW afraid of?\nA. mULBay\nB. AFwgh\nC. hxz\nD. sGeFvm\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "mULBay",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 ZVmYbS is afraid of dQvap.\n2 dQvap is afraid of ZVmYbS.\n3 eG is afraid of dQvap.\n4 cPzXN is afraid of ZVmYbS.\n5 fjdVZ is cPzXN.\n6 mysbYW is dQvap.\n7 sDFPY is ZVmYbS.\n8 eS is ZVmYbS.\n\nBased on the above sentences, what is mysbYW afraid of?\nA. cPzXN\nB. ZVmYbS\nC. dQvap\nD. eG\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ZVmYbS",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 qTvnx is afraid of eqtsYW.\n2 jR is afraid of iXUXU.\n3 iXUXU is afraid of jR.\n4 mu is iXUXU.\n5 pjNy is jR.\n6 vthfrp is jR.\n7 TYINeP is qTvnx.\n8 eqtsYW is afraid of iXUXU.\n\nBased on the above sentences, what is vthfrp afraid of?\nA. jR\nB. eqtsYW\nC. iXUXU\nD. qTvnx\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "iXUXU",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 qGfgVC is afraid of ksI.\n2 aXjo is afraid of qGfgVC.\n3 ksI is afraid of aXjo.\n4 Ur is qGfgVC.\n5 wKz is afraid of aXjo.\n6 sUmvW is wKz.\n7 RxfLG is ksI.\n8 LN is qGfgVC.\n\nBased on the above sentences, what is Ur afraid of?\nA. wKz\nB. qGfgVC\nC. ksI\nD. aXjo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ksI",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Ejxb is afraid of FMtdxU.\n2 FMtdxU is afraid of XSW.\n3 xTVb is FMtdxU.\n4 sm is FMtdxU.\n5 XSW is afraid of FgWGA.\n6 Zzydfb is Ejxb.\n7 FgWGA is afraid of Ejxb.\n8 eZE is FMtdxU.\n\nBased on the above sentences, what is xTVb afraid of?\nA. Ejxb\nB. FMtdxU\nC. FgWGA\nD. XSW\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "XSW",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 hJ is afraid of hG.\n2 TuBgy is hJ.\n3 GNT is afraid of hG.\n4 hG is afraid of FBt.\n5 HPz is hJ.\n6 FBt is afraid of hJ.\n7 eiFKM is GNT.\n8 JbWt is hG.\n\nBased on the above sentences, what is JbWt afraid of?\nA. hG\nB. hJ\nC. GNT\nD. FBt\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "FBt",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 GQXc is afraid of VdR.\n2 VdR is afraid of PwcZ.\n3 jZ is afraid of GQXc.\n4 WXWEeA is GQXc.\n5 PwcZ is afraid of VdR.\n6 yQ is VdR.\n7 qdrv is VdR.\n8 IVjxm is jZ.\n\nBased on the above sentences, what is IVjxm afraid of?\nA. jZ\nB. VdR\nC. GQXc\nD. PwcZ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "GQXc",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 EYGVK is afraid of QjraPg.\n2 DxRySj is afraid of QjraPg.\n3 TkpG is afraid of QjraPg.\n4 QjraPg is afraid of TkpG.\n5 cX is TkpG.\n6 LzDm is DxRySj.\n7 PKTMbL is DxRySj.\n8 gs is DxRySj.\n\nBased on the above sentences, what is cX afraid of?\nA. DxRySj\nB. QjraPg\nC. EYGVK\nD. TkpG\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "QjraPg",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 bCueY is afraid of NYwVTS.\n2 oe is bCueY.\n3 cdc is afraid of BF.\n4 dZKVh is bCueY.\n5 BF is afraid of NYwVTS.\n6 zDoaIu is BF.\n7 NYwVTS is afraid of cdc.\n8 bf is bCueY.\n\nBased on the above sentences, what is dZKVh afraid of?\nA. NYwVTS\nB. BF\nC. bCueY\nD. cdc\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "NYwVTS",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 CfWrja is afraid of YXh.\n2 YXh is afraid of FQQKZ.\n3 HDH is YXh.\n4 UQ is CfWrja.\n5 FQQKZ is afraid of YXh.\n6 fvtYPN is FQQKZ.\n7 vviXT is afraid of YXh.\n8 uqxjeK is CfWrja.\n\nBased on the above sentences, what is HDH afraid of?\nA. vviXT\nB. CfWrja\nC. YXh\nD. FQQKZ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "FQQKZ",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Chk is afraid of KRE.\n2 KRE is afraid of YJUFi.\n3 Ko is afraid of KRE.\n4 Cz is Ko.\n5 Wh is Chk.\n6 YJUFi is afraid of KRE.\n7 PuXkqK is YJUFi.\n8 dyq is Ko.\n\nBased on the above sentences, what is PuXkqK afraid of?\nA. Ko\nB. KRE\nC. Chk\nD. YJUFi\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "KRE",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 sgyb is afraid of aJ.\n2 aJ is afraid of ffJNBF.\n3 hUI is afraid of sgyb.\n4 db is sgyb.\n5 eUPs is aJ.\n6 ffJNBF is afraid of sgyb.\n7 US is hUI.\n8 PL is ffJNBF.\n\nBased on the above sentences, what is PL afraid of?\nA. hUI\nB. ffJNBF\nC. aJ\nD. sgyb\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "sgyb",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 cuB is afraid of CLp.\n2 CLp is afraid of zobzR.\n3 nGYe is cuB.\n4 NU is afraid of cuB.\n5 zobzR is afraid of NU.\n6 chetJh is cuB.\n7 xqaIt is zobzR.\n8 nzYmk is NU.\n\nBased on the above sentences, what is nzYmk afraid of?\nA. CLp\nB. NU\nC. zobzR\nD. cuB\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "cuB",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 xc is afraid of vu.\n2 beaHDV is xc.\n3 zjPL is afraid of vu.\n4 vu is afraid of zjPL.\n5 VWr is vu.\n6 ENzKvu is zjPL.\n7 spbWc is vu.\n8 jc is afraid of vu.\n\nBased on the above sentences, what is spbWc afraid of?\nA. jc\nB. xc\nC. zjPL\nD. vu\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "zjPL",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 SJLh is afraid of Cc.\n2 gt is SJLh.\n3 tSSx is afraid of SJLh.\n4 Cc is afraid of rhfbK.\n5 vgu is Cc.\n6 rhfbK is afraid of SJLh.\n7 Fj is SJLh.\n8 ut is SJLh.\n\nBased on the above sentences, what is ut afraid of?\nA. rhfbK\nB. SJLh\nC. Cc\nD. tSSx\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Cc",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 NRvzAr is afraid of mAFi.\n2 xL is afraid of mAFi.\n3 mAFi is afraid of NRvzAr.\n4 cYpPwD is NRvzAr.\n5 iPAoaq is NRvzAr.\n6 GWojEI is NRvzAr.\n7 pyfGVW is mAFi.\n8 aNHg is afraid of NRvzAr.\n\nBased on the above sentences, what is pyfGVW afraid of?\nA. xL\nB. NRvzAr\nC. mAFi\nD. aNHg\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "NRvzAr",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 gkJu is afraid of ReDNbM.\n2 ReDNbM is afraid of BJvUvy.\n3 WCGFJh is afraid of gkJu.\n4 xb is ReDNbM.\n5 VeGIr is gkJu.\n6 JMqcr is gkJu.\n7 jsf is WCGFJh.\n8 BJvUvy is afraid of ReDNbM.\n\nBased on the above sentences, what is jsf afraid of?\nA. ReDNbM\nB. BJvUvy\nC. gkJu\nD. WCGFJh\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "gkJu",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 bomWs is afraid of pqcf.\n2 pqcf is afraid of YMt.\n3 AgwiV is bomWs.\n4 faFah is bomWs.\n5 YMt is afraid of bomWs.\n6 tXfRAA is pqcf.\n7 fwBhD is pqcf.\n8 EgQ is afraid of bomWs.\n\nBased on the above sentences, what is fwBhD afraid of?\nA. EgQ\nB. bomWs\nC. YMt\nD. pqcf\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "YMt",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 cKgK is afraid of hfFvDX.\n2 GAEVG is afraid of hfFvDX.\n3 Nf is cKgK.\n4 hfFvDX is afraid of jLBhV.\n5 jLBhV is afraid of GAEVG.\n6 xai is cKgK.\n7 NVLvN is hfFvDX.\n8 THpQg is hfFvDX.\n\nBased on the above sentences, what is xai afraid of?\nA. hfFvDX\nB. GAEVG\nC. jLBhV\nD. cKgK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hfFvDX",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 uKxhEX is afraid of tco.\n2 kG is uKxhEX.\n3 GLxkv is afraid of tco.\n4 tco is afraid of ivNKPj.\n5 ivNKPj is afraid of tco.\n6 TqF is GLxkv.\n7 He is uKxhEX.\n8 iJHuTE is tco.\n\nBased on the above sentences, what is He afraid of?\nA. tco\nB. GLxkv\nC. uKxhEX\nD. ivNKPj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "tco",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 bUSsq is afraid of jdMW.\n2 MToQT is afraid of bUSsq.\n3 TCV is bUSsq.\n4 GGrth is MToQT.\n5 biM is afraid of bUSsq.\n6 soaq is bUSsq.\n7 jdMW is afraid of MToQT.\n8 cwcB is jdMW.\n\nBased on the above sentences, what is soaq afraid of?\nA. jdMW\nB. biM\nC. MToQT\nD. bUSsq\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "jdMW",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 jxURC is afraid of AewkA.\n2 AewkA is afraid of QcVF.\n3 XNv is AewkA.\n4 nmkuxv is afraid of jxURC.\n5 QcVF is afraid of jxURC.\n6 oCU is AewkA.\n7 mnzG is jxURC.\n8 JVbG is jxURC.\n\nBased on the above sentences, what is XNv afraid of?\nA. AewkA\nB. jxURC\nC. nmkuxv\nD. QcVF\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "QcVF",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 CzZciY is afraid of zDD.\n2 WaUtI is afraid of zDD.\n3 xYbTfk is CzZciY.\n4 zDD is afraid of WaUtI.\n5 PqMZb is CzZciY.\n6 EUWqPK is zDD.\n7 QMKgZK is WaUtI.\n8 SgdM is afraid of zDD.\n\nBased on the above sentences, what is xYbTfk afraid of?\nA. CzZciY\nB. WaUtI\nC. zDD\nD. SgdM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "zDD",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 RCitdB is afraid of MV.\n2 bVmbRD is afraid of MV.\n3 tkH is bVmbRD.\n4 MV is afraid of RCitdB.\n5 XRBX is RCitdB.\n6 UXBw is RCitdB.\n7 ViGBWi is afraid of bVmbRD.\n8 ipaVXQ is bVmbRD.\n\nBased on the above sentences, what is XRBX afraid of?\nA. MV\nB. bVmbRD\nC. RCitdB\nD. ViGBWi\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "MV",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 tp is afraid of vrJevp.\n2 vrJevp is afraid of tp.\n3 zQids is vrJevp.\n4 Pg is afraid of vrJevp.\n5 qhDEe is vrJevp.\n6 MLFA is afraid of tp.\n7 rs is tp.\n8 RIqGK is Pg.\n\nBased on the above sentences, what is rs afraid of?\nA. Pg\nB. MLFA\nC. vrJevp\nD. tp\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "vrJevp",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 USLJtw is afraid of NB.\n2 itTpTC is afraid of oS.\n3 NB is afraid of itTpTC.\n4 QS is USLJtw.\n5 mFA is USLJtw.\n6 oS is afraid of NB.\n7 vQkrdb is oS.\n8 UMX is USLJtw.\n\nBased on the above sentences, what is vQkrdb afraid of?\nA. USLJtw\nB. itTpTC\nC. NB\nD. oS\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "NB",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 SFFi is afraid of bjP.\n2 bjP is afraid of SFFi.\n3 kuG is SFFi.\n4 PNo is afraid of nWrUg.\n5 jGXccj is SFFi.\n6 pVWgCz is SFFi.\n7 nWrUg is afraid of PNo.\n8 ccxHM is SFFi.\n\nBased on the above sentences, what is kuG afraid of?\nA. SFFi\nB. PNo\nC. bjP\nD. nWrUg\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "bjP",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 vi is afraid of df.\n2 df is afraid of vi.\n3 pHy is vi.\n4 PYGg is afraid of hww.\n5 UZjmj is PYGg.\n6 hww is afraid of vi.\n7 fUrpq is hww.\n8 mT is df.\n\nBased on the above sentences, what is UZjmj afraid of?\nA. PYGg\nB. df\nC. hww\nD. vi\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "hww",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 RU is afraid of PySZU.\n2 YFHsY is RU.\n3 fXa is afraid of PySZU.\n4 PySZU is afraid of BqMBj.\n5 CJ is RU.\n6 kKxQ is fXa.\n7 mSFtPu is RU.\n8 BqMBj is afraid of fXa.\n\nBased on the above sentences, what is CJ afraid of?\nA. BqMBj\nB. RU\nC. PySZU\nD. fXa\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PySZU",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 dtIbqq is afraid of EpZf.\n2 EpZf is afraid of dgHFKb.\n3 RIEo is EpZf.\n4 dgHFKb is afraid of EpZf.\n5 Tm is dtIbqq.\n6 JYwQmz is dgHFKb.\n7 QwZjM is afraid of dtIbqq.\n8 KyUd is dgHFKb.\n\nBased on the above sentences, what is KyUd afraid of?\nA. EpZf\nB. dtIbqq\nC. dgHFKb\nD. QwZjM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "EpZf",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 fH is afraid of YhI.\n2 hCZvA is afraid of YhI.\n3 FD is hCZvA.\n4 dben is fH.\n5 YhI is afraid of fH.\n6 nIcVJQ is hCZvA.\n7 ECn is afraid of YhI.\n8 WNeKAe is hCZvA.\n\nBased on the above sentences, what is FD afraid of?\nA. hCZvA\nB. YhI\nC. fH\nD. ECn\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "YhI",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 oeg is afraid of tZ.\n2 KLZwLs is afraid of rrgCF.\n3 xsaV is oeg.\n4 iiUzs is oeg.\n5 DPzzBK is KLZwLs.\n6 QssN is KLZwLs.\n7 tZ is afraid of KLZwLs.\n8 rrgCF is afraid of tZ.\n\nBased on the above sentences, what is DPzzBK afraid of?\nA. oeg\nB. rrgCF\nC. tZ\nD. KLZwLs\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rrgCF",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 tIf is afraid of PDIECM.\n2 PDIECM is afraid of tIf.\n3 gncNuK is afraid of qEQTi.\n4 qEQTi is afraid of PDIECM.\n5 Uvbr is PDIECM.\n6 rIPK is tIf.\n7 tjYVA is tIf.\n8 DTW is qEQTi.\n\nBased on the above sentences, what is rIPK afraid of?\nA. tIf\nB. PDIECM\nC. gncNuK\nD. qEQTi\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PDIECM",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 YbbsuX is afraid of oKQXpP.\n2 oKQXpP is afraid of wfhZY.\n3 iCEV is oKQXpP.\n4 wfhZY is afraid of ftoTVf.\n5 ftoTVf is afraid of wfhZY.\n6 WtzI is oKQXpP.\n7 cF is ftoTVf.\n8 bA is ftoTVf.\n\nBased on the above sentences, what is WtzI afraid of?\nA. oKQXpP\nB. YbbsuX\nC. ftoTVf\nD. wfhZY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "wfhZY",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 YpumAf is afraid of hjwAkd.\n2 hjwAkd is afraid of av.\n3 TyJXhf is YpumAf.\n4 iTQcaH is hjwAkd.\n5 HPyG is afraid of hjwAkd.\n6 EuBx is YpumAf.\n7 hvQs is HPyG.\n8 av is afraid of HPyG.\n\nBased on the above sentences, what is iTQcaH afraid of?\nA. YpumAf\nB. hjwAkd\nC. HPyG\nD. av\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "av",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 RZU is afraid of JejUe.\n2 iI is afraid of kGPaeR.\n3 Fai is iI.\n4 EYz is RZU.\n5 JejUe is afraid of iI.\n6 CgzkF is JejUe.\n7 kGPaeR is afraid of RZU.\n8 yLp is kGPaeR.\n\nBased on the above sentences, what is yLp afraid of?\nA. iI\nB. JejUe\nC. kGPaeR\nD. RZU\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RZU",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "7"
+        ]
+    },
+    {
+        "prompt": "1 JLnUm is afraid of RJsW.\n2 PpAFBf is JLnUm.\n3 AjFmkY is afraid of RJsW.\n4 ceaKpp is AjFmkY.\n5 TQTQT is AjFmkY.\n6 RJsW is afraid of JLnUm.\n7 NQnTtI is afraid of AjFmkY.\n8 iP is JLnUm.\n\nBased on the above sentences, what is iP afraid of?\nA. NQnTtI\nB. JLnUm\nC. RJsW\nD. AjFmkY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RJsW",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 DUXb is afraid of wdiUnw.\n2 wdiUnw is afraid of CHQvVJ.\n3 yUAg is wdiUnw.\n4 CHQvVJ is afraid of DUXb.\n5 kG is wdiUnw.\n6 Nr is wdiUnw.\n7 JmV is afraid of CHQvVJ.\n8 EKEHF is wdiUnw.\n\nBased on the above sentences, what is EKEHF afraid of?\nA. CHQvVJ\nB. JmV\nC. DUXb\nD. wdiUnw\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "CHQvVJ",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 zUSiD is afraid of RCKbM.\n2 aqKLs is afraid of RCKbM.\n3 TcHfKB is afraid of aqKLs.\n4 EvSGj is zUSiD.\n5 mrmoS is aqKLs.\n6 sw is zUSiD.\n7 FT is aqKLs.\n8 RCKbM is afraid of aqKLs.\n\nBased on the above sentences, what is EvSGj afraid of?\nA. TcHfKB\nB. zUSiD\nC. aqKLs\nD. RCKbM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RCKbM",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 JHg is afraid of sJhaM.\n2 AdUYpL is afraid of JHg.\n3 sJhaM is afraid of JHg.\n4 rqi is sJhaM.\n5 psymnF is AdUYpL.\n6 yzmHm is afraid of sJhaM.\n7 RL is AdUYpL.\n8 HV is AdUYpL.\n\nBased on the above sentences, what is rqi afraid of?\nA. JHg\nB. AdUYpL\nC. yzmHm\nD. sJhaM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "JHg",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wf is afraid of asMS.\n2 mjPH is afraid of Wf.\n3 ft is Wf.\n4 ZRjtJ is mjPH.\n5 PohbaA is Wf.\n6 hrDdE is afraid of Wf.\n7 asMS is afraid of Wf.\n8 TTr is asMS.\n\nBased on the above sentences, what is PohbaA afraid of?\nA. hrDdE\nB. asMS\nC. mjPH\nD. Wf\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "asMS",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 hKpnY is afraid of RJENU.\n2 Pcm is afraid of hKpnY.\n3 UhQ is afraid of Pcm.\n4 Ex is UhQ.\n5 addd is UhQ.\n6 UYf is hKpnY.\n7 RJENU is afraid of Pcm.\n8 YGNc is hKpnY.\n\nBased on the above sentences, what is YGNc afraid of?\nA. RJENU\nB. UhQ\nC. hKpnY\nD. Pcm\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "RJENU",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 NJZA is afraid of wr.\n2 wr is afraid of ZNVaG.\n3 bd is afraid of ZNVaG.\n4 fisq is bd.\n5 FZC is NJZA.\n6 ZNVaG is afraid of wr.\n7 zsYL is ZNVaG.\n8 WHb is NJZA.\n\nBased on the above sentences, what is FZC afraid of?\nA. bd\nB. NJZA\nC. ZNVaG\nD. wr\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "wr",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 WMTDnI is afraid of vcRYZ.\n2 vcRYZ is afraid of WMTDnI.\n3 AAP is WMTDnI.\n4 euTWG is vcRYZ.\n5 ZFBQrH is afraid of WMTDnI.\n6 puL is afraid of ZFBQrH.\n7 yAVff is vcRYZ.\n8 jGXZf is WMTDnI.\n\nBased on the above sentences, what is AAP afraid of?\nA. WMTDnI\nB. puL\nC. vcRYZ\nD. ZFBQrH\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "vcRYZ",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 NI is afraid of Cr.\n2 oJzvP is NI.\n3 jPC is NI.\n4 Cr is afraid of UIY.\n5 KR is afraid of Cr.\n6 UIY is afraid of NI.\n7 Mp is Cr.\n8 VtW is UIY.\n\nBased on the above sentences, what is VtW afraid of?\nA. Cr\nB. KR\nC. UIY\nD. NI\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "NI",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 bu is afraid of ESg.\n2 zGLcTU is afraid of ESg.\n3 ESg is afraid of bu.\n4 FMIPi is afraid of bu.\n5 Egi is bu.\n6 LnbgJs is ESg.\n7 Yxoun is FMIPi.\n8 dYXMM is ESg.\n\nBased on the above sentences, what is Yxoun afraid of?\nA. ESg\nB. bu\nC. FMIPi\nD. zGLcTU\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "bu",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 prrkz is afraid of Dg.\n2 YQXh is prrkz.\n3 Dg is afraid of iDpZ.\n4 ShHLmw is afraid of iDpZ.\n5 YRSK is ShHLmw.\n6 LAvUr is prrkz.\n7 iDpZ is afraid of prrkz.\n8 zNLqE is iDpZ.\n\nBased on the above sentences, what is YRSK afraid of?\nA. prrkz\nB. Dg\nC. iDpZ\nD. ShHLmw\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "iDpZ",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 PeNfs is afraid of dGasV.\n2 XVC is afraid of dGasV.\n3 DrW is XVC.\n4 dGasV is afraid of vU.\n5 vU is afraid of dGasV.\n6 eHCr is PeNfs.\n7 ZWgPD is PeNfs.\n8 UV is vU.\n\nBased on the above sentences, what is eHCr afraid of?\nA. PeNfs\nB. dGasV\nC. XVC\nD. vU\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "dGasV",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 gEZZ is afraid of nUY.\n2 jrar is afraid of yFE.\n3 nUY is afraid of yFE.\n4 nSky is jrar.\n5 zaEg is nUY.\n6 dD is gEZZ.\n7 jI is nUY.\n8 yFE is afraid of jrar.\n\nBased on the above sentences, what is nSky afraid of?\nA. nUY\nB. yFE\nC. jrar\nD. gEZZ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "yFE",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Zin is afraid of Wkj.\n2 kKRE is afraid of Wkj.\n3 kHM is kKRE.\n4 ohZeqn is kKRE.\n5 Wkj is afraid of kKRE.\n6 uf is kKRE.\n7 PhHytW is afraid of Zin.\n8 pi is Wkj.\n\nBased on the above sentences, what is ohZeqn afraid of?\nA. kKRE\nB. Zin\nC. Wkj\nD. PhHytW\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Wkj",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 FJ is afraid of PSNH.\n2 HIGJ is afraid of PSNH.\n3 DPZyr is afraid of FJ.\n4 UHTqo is DPZyr.\n5 uD is FJ.\n6 PSNH is afraid of HIGJ.\n7 NLPDeh is FJ.\n8 CWQJ is HIGJ.\n\nBased on the above sentences, what is NLPDeh afraid of?\nA. FJ\nB. DPZyr\nC. PSNH\nD. HIGJ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PSNH",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 jvmmtk is afraid of bZP.\n2 SYMuz is afraid of woPz.\n3 woPz is afraid of SYMuz.\n4 bZP is afraid of woPz.\n5 CvGL is jvmmtk.\n6 aNy is bZP.\n7 htgTKi is SYMuz.\n8 zxIiY is jvmmtk.\n\nBased on the above sentences, what is htgTKi afraid of?\nA. bZP\nB. jvmmtk\nC. woPz\nD. SYMuz\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "woPz",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Ntvs is afraid of vaHEdX.\n2 JW is Ntvs.\n3 xoDz is Ntvs.\n4 ccwPTD is afraid of PgFLp.\n5 vN is ccwPTD.\n6 xPqj is Ntvs.\n7 PgFLp is afraid of Ntvs.\n8 vaHEdX is afraid of ccwPTD.\n\nBased on the above sentences, what is xPqj afraid of?\nA. Ntvs\nB. ccwPTD\nC. PgFLp\nD. vaHEdX\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "vaHEdX",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Iygmbi is afraid of cjMyGN.\n2 VH is afraid of Iygmbi.\n3 cjMyGN is afraid of VH.\n4 azx is cjMyGN.\n5 XhBCc is afraid of VH.\n6 dn is cjMyGN.\n7 xFGdz is VH.\n8 pJ is cjMyGN.\n\nBased on the above sentences, what is pJ afraid of?\nA. XhBCc\nB. Iygmbi\nC. VH\nD. cjMyGN\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "VH",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 zT is afraid of FXZQE.\n2 jKHVB is afraid of sEDkHC.\n3 sEDkHC is afraid of zT.\n4 bwCVKx is sEDkHC.\n5 aQh is sEDkHC.\n6 FXZQE is afraid of zT.\n7 qBCRC is FXZQE.\n8 uICgc is jKHVB.\n\nBased on the above sentences, what is aQh afraid of?\nA. zT\nB. sEDkHC\nC. FXZQE\nD. jKHVB\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "zT",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 mI is afraid of unhVR.\n2 WgheH is afraid of unhVR.\n3 FVd is mI.\n4 nQC is afraid of mI.\n5 vs is mI.\n6 hWJ is nQC.\n7 sRMm is nQC.\n8 unhVR is afraid of nQC.\n\nBased on the above sentences, what is FVd afraid of?\nA. nQC\nB. mI\nC. unhVR\nD. WgheH\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "unhVR",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 LEh is afraid of ddWW.\n2 qktoJ is LEh.\n3 cHk is LEh.\n4 ddWW is afraid of HGQR.\n5 HGQR is afraid of qZE.\n6 qZE is afraid of ddWW.\n7 NNqaR is qZE.\n8 IXf is LEh.\n\nBased on the above sentences, what is NNqaR afraid of?\nA. qZE\nB. HGQR\nC. LEh\nD. ddWW\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ddWW",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 uo is afraid of FqVSSb.\n2 hUQ is afraid of FqVSSb.\n3 FqVSSb is afraid of hUQ.\n4 EtvSC is afraid of uo.\n5 Uphc is uo.\n6 xavhjn is EtvSC.\n7 Ht is EtvSC.\n8 Ar is uo.\n\nBased on the above sentences, what is Uphc afraid of?\nA. EtvSC\nB. uo\nC. hUQ\nD. FqVSSb\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "FqVSSb",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 bKcTg is afraid of gc.\n2 ehESRw is afraid of bKcTg.\n3 gc is afraid of hrShdk.\n4 hrShdk is afraid of gc.\n5 Du is ehESRw.\n6 xn is ehESRw.\n7 Ga is hrShdk.\n8 ve is bKcTg.\n\nBased on the above sentences, what is Ga afraid of?\nA. gc\nB. ehESRw\nC. bKcTg\nD. hrShdk\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "gc",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 XITfjX is afraid of Ivpsx.\n2 Ivpsx is afraid of XITfjX.\n3 dsa is Ivpsx.\n4 mbgCmn is afraid of XITfjX.\n5 jHJs is mbgCmn.\n6 LCZ is afraid of XITfjX.\n7 vw is mbgCmn.\n8 DP is Ivpsx.\n\nBased on the above sentences, what is jHJs afraid of?\nA. mbgCmn\nB. XITfjX\nC. Ivpsx\nD. LCZ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "XITfjX",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 yzZDK is afraid of kNBH.\n2 kNBH is afraid of EBJNYP.\n3 KQx is kNBH.\n4 tYCNS is yzZDK.\n5 EBJNYP is afraid of kNBH.\n6 yVAvgc is EBJNYP.\n7 bSTx is EBJNYP.\n8 WhgI is afraid of yzZDK.\n\nBased on the above sentences, what is bSTx afraid of?\nA. yzZDK\nB. EBJNYP\nC. kNBH\nD. WhgI\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "kNBH",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 iBr is afraid of nToTS.\n2 bHLpHk is iBr.\n3 WUwc is afraid of MHkbV.\n4 nToTS is afraid of MHkbV.\n5 hZ is iBr.\n6 MHkbV is afraid of nToTS.\n7 Fr is iBr.\n8 cxJTqY is nToTS.\n\nBased on the above sentences, what is Fr afraid of?\nA. MHkbV\nB. iBr\nC. nToTS\nD. WUwc\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "nToTS",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Jez is afraid of tbEcL.\n2 yuLjYg is afraid of Jez.\n3 tbEcL is afraid of eSQGL.\n4 pE is Jez.\n5 eSQGL is afraid of Jez.\n6 Ci is tbEcL.\n7 Ttd is yuLjYg.\n8 YyqG is eSQGL.\n\nBased on the above sentences, what is Ttd afraid of?\nA. eSQGL\nB. yuLjYg\nC. Jez\nD. tbEcL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Jez",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 ZXmwVr is afraid of VXzG.\n2 jTCDX is ZXmwVr.\n3 VXzG is afraid of fG.\n4 TaphkL is afraid of VXzG.\n5 uipL is ZXmwVr.\n6 fG is afraid of ZXmwVr.\n7 gBIM is fG.\n8 ahmeQk is ZXmwVr.\n\nBased on the above sentences, what is ahmeQk afraid of?\nA. VXzG\nB. ZXmwVr\nC. fG\nD. TaphkL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "VXzG",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 aECsg is afraid of zuNTD.\n2 ncdYS is afraid of zDCuW.\n3 zDCuW is afraid of zuNTD.\n4 rjPP is ncdYS.\n5 LI is aECsg.\n6 zuNTD is afraid of zDCuW.\n7 DurNgT is zDCuW.\n8 dBjszc is zuNTD.\n\nBased on the above sentences, what is dBjszc afraid of?\nA. aECsg\nB. ncdYS\nC. zuNTD\nD. zDCuW\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "zDCuW",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 bewffH is afraid of kX.\n2 JKJi is afraid of bewffH.\n3 jd is bewffH.\n4 HxDpk is afraid of bewffH.\n5 zt is bewffH.\n6 gm is JKJi.\n7 kX is afraid of bewffH.\n8 CVUtne is JKJi.\n\nBased on the above sentences, what is zt afraid of?\nA. JKJi\nB. bewffH\nC. kX\nD. HxDpk\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "kX",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 GyKL is afraid of AiH.\n2 TXQDSP is afraid of fd.\n3 yApy is TXQDSP.\n4 aWo is TXQDSP.\n5 RMI is GyKL.\n6 AiH is afraid of GyKL.\n7 fd is afraid of GyKL.\n8 vfuv is TXQDSP.\n\nBased on the above sentences, what is yApy afraid of?\nA. GyKL\nB. fd\nC. AiH\nD. TXQDSP\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "fd",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 zG is afraid of vk.\n2 BqNYF is afraid of zG.\n3 eF is zG.\n4 Pt is zG.\n5 UxAN is afraid of BqNYF.\n6 NuUJbK is BqNYF.\n7 vk is afraid of UxAN.\n8 DhYNz is UxAN.\n\nBased on the above sentences, what is DhYNz afraid of?\nA. BqNYF\nB. UxAN\nC. zG\nD. vk\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "BqNYF",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 XEqrD is afraid of wQPdn.\n2 en is afraid of wQPdn.\n3 XJdxmw is afraid of en.\n4 jaBaA is XEqrD.\n5 wQPdn is afraid of en.\n6 FR is wQPdn.\n7 sWUJg is wQPdn.\n8 XxxCLg is XJdxmw.\n\nBased on the above sentences, what is sWUJg afraid of?\nA. wQPdn\nB. XEqrD\nC. en\nD. XJdxmw\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "en",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 IRnDyL is afraid of uohX.\n2 wuqsub is afraid of vjrC.\n3 uohX is afraid of IRnDyL.\n4 GqqUd is IRnDyL.\n5 vjrC is afraid of IRnDyL.\n6 nIr is wuqsub.\n7 zFHSwr is wuqsub.\n8 gNBLPy is IRnDyL.\n\nBased on the above sentences, what is gNBLPy afraid of?\nA. wuqsub\nB. uohX\nC. vjrC\nD. IRnDyL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "uohX",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 rAY is afraid of mteFiT.\n2 Saq is afraid of rAY.\n3 atTeF is afraid of rAY.\n4 cLLzrv is rAY.\n5 BgJ is atTeF.\n6 nBUTa is atTeF.\n7 mteFiT is afraid of rAY.\n8 nBBUYj is Saq.\n\nBased on the above sentences, what is nBBUYj afraid of?\nA. mteFiT\nB. rAY\nC. atTeF\nD. Saq\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rAY",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 YAjk is afraid of rAKPEn.\n2 KMpHsb is afraid of rAKPEn.\n3 dXMw is KMpHsb.\n4 bhnGa is KMpHsb.\n5 rAKPEn is afraid of KMpHsb.\n6 PLbAQz is KMpHsb.\n7 KFUTWo is afraid of YAjk.\n8 IdQDBC is YAjk.\n\nBased on the above sentences, what is PLbAQz afraid of?\nA. YAjk\nB. rAKPEn\nC. KMpHsb\nD. KFUTWo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rAKPEn",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 JzP is afraid of Rt.\n2 hWb is afraid of JzP.\n3 At is JzP.\n4 Rt is afraid of JzP.\n5 HLTN is hWb.\n6 ewx is JzP.\n7 Skud is afraid of Rt.\n8 WzTRn is Rt.\n\nBased on the above sentences, what is WzTRn afraid of?\nA. JzP\nB. Skud\nC. Rt\nD. hWb\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "JzP",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 MK is afraid of ZkFFB.\n2 wBcb is afraid of ZkFFB.\n3 KW is MK.\n4 xj is MK.\n5 qQWGq is MK.\n6 gajfpa is afraid of MK.\n7 ZkFFB is afraid of MK.\n8 Gj is ZkFFB.\n\nBased on the above sentences, what is xj afraid of?\nA. ZkFFB\nB. gajfpa\nC. wBcb\nD. MK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ZkFFB",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 qhn is afraid of fzitI.\n2 MemP is afraid of qhn.\n3 ermA is MemP.\n4 GGH is MemP.\n5 hJaCb is qhn.\n6 fzitI is afraid of nR.\n7 YCRLo is MemP.\n8 nR is afraid of fzitI.\n\nBased on the above sentences, what is hJaCb afraid of?\nA. fzitI\nB. MemP\nC. qhn\nD. nR\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "fzitI",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 mLWX is afraid of PYPXC.\n2 Xh is afraid of HpMJIb.\n3 HpMJIb is afraid of mLWX.\n4 nJP is mLWX.\n5 TnZhmq is mLWX.\n6 tDH is HpMJIb.\n7 PYPXC is afraid of HpMJIb.\n8 fAgb is HpMJIb.\n\nBased on the above sentences, what is TnZhmq afraid of?\nA. Xh\nB. PYPXC\nC. mLWX\nD. HpMJIb\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PYPXC",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 bstLH is afraid of XA.\n2 RIJcn is bstLH.\n3 gfXeKc is afraid of qQWDK.\n4 mZ is gfXeKc.\n5 qQWDK is afraid of bstLH.\n6 XA is afraid of bstLH.\n7 Ek is XA.\n8 huka is gfXeKc.\n\nBased on the above sentences, what is Ek afraid of?\nA. gfXeKc\nB. bstLH\nC. qQWDK\nD. XA\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "bstLH",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 WZ is afraid of IAjia.\n2 IAjia is afraid of WZ.\n3 vpg is IAjia.\n4 jX is WZ.\n5 uw is afraid of IAjia.\n6 Puv is WZ.\n7 IDSj is WZ.\n8 zjIfK is afraid of WZ.\n\nBased on the above sentences, what is IDSj afraid of?\nA. uw\nB. zjIfK\nC. IAjia\nD. WZ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "IAjia",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 KZn is afraid of ZztFY.\n2 ZztFY is afraid of KZn.\n3 RW is afraid of cnBv.\n4 nfSbSs is RW.\n5 BE is KZn.\n6 cnBv is afraid of ZztFY.\n7 MoJwq is RW.\n8 nJ is ZztFY.\n\nBased on the above sentences, what is nJ afraid of?\nA. KZn\nB. RW\nC. ZztFY\nD. cnBv\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "KZn",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 WSafS is afraid of pyeC.\n2 XC is WSafS.\n3 pyeC is afraid of WXtB.\n4 RZ is pyeC.\n5 WXtB is afraid of WSafS.\n6 iBkQa is pyeC.\n7 oJZcM is WSafS.\n8 dBPp is afraid of WSafS.\n\nBased on the above sentences, what is oJZcM afraid of?\nA. WSafS\nB. WXtB\nC. pyeC\nD. dBPp\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "pyeC",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 hyfffr is afraid of gorRg.\n2 gorRg is afraid of zGR.\n3 zGR is afraid of gorRg.\n4 rPyHE is gorRg.\n5 GiwG is afraid of hyfffr.\n6 ZA is GiwG.\n7 VKj is hyfffr.\n8 ZLyF is gorRg.\n\nBased on the above sentences, what is ZLyF afraid of?\nA. hyfffr\nB. gorRg\nC. zGR\nD. GiwG\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "zGR",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 kT is afraid of SbYmE.\n2 zqn is kT.\n3 SbYmE is afraid of TeJvIQ.\n4 pWwFiC is kT.\n5 fs is SbYmE.\n6 TeJvIQ is afraid of SbYmE.\n7 WbE is afraid of SbYmE.\n8 kAAZM is WbE.\n\nBased on the above sentences, what is fs afraid of?\nA. kT\nB. WbE\nC. SbYmE\nD. TeJvIQ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "TeJvIQ",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 AzEegC is afraid of Xzt.\n2 Wg is afraid of PNm.\n3 Xzt is afraid of Wg.\n4 gPzw is AzEegC.\n5 mVNSA is AzEegC.\n6 PNm is afraid of Wg.\n7 xw is AzEegC.\n8 oeLXkp is PNm.\n\nBased on the above sentences, what is xw afraid of?\nA. PNm\nB. Xzt\nC. AzEegC\nD. Wg\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Xzt",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 aEk is afraid of kYUI.\n2 xRpgQR is aEk.\n3 mL is afraid of aEk.\n4 dbN is aEk.\n5 hQy is aEk.\n6 QqX is afraid of aEk.\n7 kYUI is afraid of QqX.\n8 Qqau is aEk.\n\nBased on the above sentences, what is hQy afraid of?\nA. aEk\nB. QqX\nC. kYUI\nD. mL\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "kYUI",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 LiCYHm is afraid of aNmZ.\n2 Yfi is LiCYHm.\n3 aNmZ is afraid of pV.\n4 JHipo is LiCYHm.\n5 rKR is aNmZ.\n6 iBtSfu is afraid of pV.\n7 pV is afraid of iBtSfu.\n8 BYq is iBtSfu.\n\nBased on the above sentences, what is BYq afraid of?\nA. pV\nB. aNmZ\nC. LiCYHm\nD. iBtSfu\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "pV",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 McjnDE is afraid of SKo.\n2 SKo is afraid of McjnDE.\n3 QpVD is afraid of McjnDE.\n4 zomX is QpVD.\n5 ezTz is afraid of QpVD.\n6 yE is McjnDE.\n7 rL is McjnDE.\n8 Gh is SKo.\n\nBased on the above sentences, what is yE afraid of?\nA. QpVD\nB. McjnDE\nC. ezTz\nD. SKo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "SKo",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 peVIYM is afraid of YqI.\n2 YqI is afraid of peVIYM.\n3 WgUQ is peVIYM.\n4 jdU is YqI.\n5 ejIjwq is YqI.\n6 NJWn is afraid of wo.\n7 wo is afraid of peVIYM.\n8 mE is NJWn.\n\nBased on the above sentences, what is ejIjwq afraid of?\nA. NJWn\nB. YqI\nC. peVIYM\nD. wo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "peVIYM",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 PoLG is afraid of eukGjI.\n2 yvG is afraid of eukGjI.\n3 xJAD is yvG.\n4 DJbh is afraid of PoLG.\n5 UMe is PoLG.\n6 SJg is PoLG.\n7 zY is PoLG.\n8 eukGjI is afraid of PoLG.\n\nBased on the above sentences, what is SJg afraid of?\nA. PoLG\nB. yvG\nC. eukGjI\nD. DJbh\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "eukGjI",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 ckDYt is afraid of wVUAi.\n2 dETyt is afraid of ckDYt.\n3 wVUAi is afraid of ckDYt.\n4 Pc is dETyt.\n5 taHN is ckDYt.\n6 XrMGM is dETyt.\n7 WE is wVUAi.\n8 txzKM is afraid of wVUAi.\n\nBased on the above sentences, what is WE afraid of?\nA. dETyt\nB. wVUAi\nC. txzKM\nD. ckDYt\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ckDYt",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 EtS is afraid of CjNFZ.\n2 CjNFZ is afraid of cb.\n3 ZZno is EtS.\n4 cb is afraid of HRH.\n5 Kx is EtS.\n6 HRH is afraid of cb.\n7 BPmt is CjNFZ.\n8 LhnBv is cb.\n\nBased on the above sentences, what is ZZno afraid of?\nA. cb\nB. HRH\nC. CjNFZ\nD. EtS\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "CjNFZ",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 FWVJ is afraid of tC.\n2 YkyZIu is afraid of tC.\n3 dsAx is YkyZIu.\n4 iFoV is YkyZIu.\n5 tC is afraid of YkyZIu.\n6 aaWm is YkyZIu.\n7 wN is tC.\n8 wNHJqx is afraid of YkyZIu.\n\nBased on the above sentences, what is iFoV afraid of?\nA. YkyZIu\nB. FWVJ\nC. tC\nD. wNHJqx\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "tC",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 IQDhvh is afraid of rMyyrT.\n2 CNoJQ is IQDhvh.\n3 rMyyrT is afraid of rN.\n4 rN is afraid of IQDhvh.\n5 SYM is afraid of rMyyrT.\n6 HWtGC is SYM.\n7 tQtwvM is IQDhvh.\n8 EiNRgo is SYM.\n\nBased on the above sentences, what is CNoJQ afraid of?\nA. rN\nB. IQDhvh\nC. SYM\nD. rMyyrT\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rMyyrT",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 bcr is afraid of xFF.\n2 KMSHnR is afraid of cewHg.\n3 JL is bcr.\n4 DGRyiS is bcr.\n5 xFF is afraid of bcr.\n6 cewHg is afraid of KMSHnR.\n7 hUt is xFF.\n8 ItRiKa is bcr.\n\nBased on the above sentences, what is JL afraid of?\nA. xFF\nB. cewHg\nC. bcr\nD. KMSHnR\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "xFF",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 qqzeN is afraid of ZNH.\n2 ZNH is afraid of Zv.\n3 wUQ is afraid of qqzeN.\n4 Zv is afraid of qqzeN.\n5 otkeH is Zv.\n6 JMzH is ZNH.\n7 eDDwqp is qqzeN.\n8 kUmtk is wUQ.\n\nBased on the above sentences, what is eDDwqp afraid of?\nA. ZNH\nB. wUQ\nC. qqzeN\nD. Zv\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ZNH",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 oMi is afraid of ID.\n2 DRSisT is afraid of Pscqd.\n3 Cv is oMi.\n4 KT is oMi.\n5 Pscqd is afraid of oMi.\n6 ID is afraid of Pscqd.\n7 Xe is Pscqd.\n8 mu is oMi.\n\nBased on the above sentences, what is Xe afraid of?\nA. DRSisT\nB. oMi\nC. Pscqd\nD. ID\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "oMi",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 MKWqis is afraid of cL.\n2 pu is afraid of GqiN.\n3 yZ is MKWqis.\n4 GqiN is afraid of cL.\n5 gzDC is pu.\n6 vpF is pu.\n7 cL is afraid of pu.\n8 ph is MKWqis.\n\nBased on the above sentences, what is vpF afraid of?\nA. MKWqis\nB. GqiN\nC. cL\nD. pu\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "GqiN",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 jaVBy is afraid of Jk.\n2 Yyr is afraid of gdG.\n3 PZdRn is Yyr.\n4 gdG is afraid of Yyr.\n5 Jk is afraid of jaVBy.\n6 UV is Yyr.\n7 rmhC is Yyr.\n8 bc is Yyr.\n\nBased on the above sentences, what is rmhC afraid of?\nA. Yyr\nB. gdG\nC. jaVBy\nD. Jk\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "gdG",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 HJmyYt is afraid of gTGdUs.\n2 edh is afraid of gTGdUs.\n3 WyEg is HJmyYt.\n4 nD is afraid of HJmyYt.\n5 DMBcge is edh.\n6 gTGdUs is afraid of HJmyYt.\n7 DUcI is HJmyYt.\n8 npdJZ is nD.\n\nBased on the above sentences, what is WyEg afraid of?\nA. HJmyYt\nB. nD\nC. edh\nD. gTGdUs\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "gTGdUs",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 SS is afraid of YYT.\n2 YYT is afraid of vCa.\n3 pxFKs is SS.\n4 wxze is afraid of SS.\n5 JZdJYd is SS.\n6 HcuPg is YYT.\n7 qoP is YYT.\n8 vCa is afraid of SS.\n\nBased on the above sentences, what is HcuPg afraid of?\nA. wxze\nB. SS\nC. YYT\nD. vCa\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "vCa",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 drbKwE is afraid of ekan.\n2 stUdQo is afraid of iagEWt.\n3 tAps is stUdQo.\n4 iagEWt is afraid of drbKwE.\n5 nvtn is stUdQo.\n6 ekan is afraid of iagEWt.\n7 fnQftT is stUdQo.\n8 gby is iagEWt.\n\nBased on the above sentences, what is fnQftT afraid of?\nA. ekan\nB. stUdQo\nC. drbKwE\nD. iagEWt\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "iagEWt",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 BAEn is afraid of Tsb.\n2 eUEL is afraid of BAEn.\n3 azdQxy is BAEn.\n4 Tsb is afraid of BAEn.\n5 gWm is Tsb.\n6 QCiUP is afraid of Tsb.\n7 dtgV is BAEn.\n8 gIiitI is BAEn.\n\nBased on the above sentences, what is gIiitI afraid of?\nA. eUEL\nB. BAEn\nC. QCiUP\nD. Tsb\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Tsb",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 GvRE is afraid of nxKg.\n2 XjbeWP is afraid of nxKg.\n3 mM is GvRE.\n4 nxKg is afraid of XjbeWP.\n5 dBDaVQ is afraid of GvRE.\n6 xKteyA is GvRE.\n7 Hbh is dBDaVQ.\n8 twRT is dBDaVQ.\n\nBased on the above sentences, what is mM afraid of?\nA. XjbeWP\nB. nxKg\nC. GvRE\nD. dBDaVQ\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "nxKg",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 TbaHN is afraid of ozgFo.\n2 ozgFo is afraid of IDH.\n3 IDH is afraid of TbaHN.\n4 Nd is IDH.\n5 kjcxZ is TbaHN.\n6 GavVXi is afraid of TbaHN.\n7 rmm is GavVXi.\n8 arj is ozgFo.\n\nBased on the above sentences, what is arj afraid of?\nA. TbaHN\nB. GavVXi\nC. ozgFo\nD. IDH\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "IDH",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 LWCpj is afraid of ipuGH.\n2 JY is afraid of ipuGH.\n3 PvVUi is JY.\n4 ePyq is afraid of JY.\n5 mCo is JY.\n6 tU is LWCpj.\n7 ipuGH is afraid of LWCpj.\n8 Gve is ipuGH.\n\nBased on the above sentences, what is tU afraid of?\nA. LWCpj\nB. ePyq\nC. ipuGH\nD. JY\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "ipuGH",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 mqM is afraid of oPtLta.\n2 HgrMoE is afraid of oPtLta.\n3 oFwWB is mqM.\n4 oPtLta is afraid of kDIGS.\n5 xTk is mqM.\n6 NzFm is mqM.\n7 fSF is mqM.\n8 kDIGS is afraid of mqM.\n\nBased on the above sentences, what is xTk afraid of?\nA. kDIGS\nB. oPtLta\nC. HgrMoE\nD. mqM\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "oPtLta",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 UXR is afraid of gpDAQ.\n2 PPwUss is UXR.\n3 LKpE is afraid of gpDAQ.\n4 ubhBb is UXR.\n5 eFg is UXR.\n6 cRSe is afraid of UXR.\n7 gpDAQ is afraid of cRSe.\n8 rHijA is cRSe.\n\nBased on the above sentences, what is rHijA afraid of?\nA. gpDAQ\nB. UXR\nC. cRSe\nD. LKpE\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "UXR",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 jt is afraid of DQMm.\n2 Jaw is afraid of DQMm.\n3 Pq is jt.\n4 bo is afraid of Jaw.\n5 DQMm is afraid of bo.\n6 mdC is DQMm.\n7 CxK is DQMm.\n8 yHTW is bo.\n\nBased on the above sentences, what is mdC afraid of?\nA. jt\nB. DQMm\nC. bo\nD. Jaw\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "bo",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 sjWgQB is afraid of PTom.\n2 eQjr is sjWgQB.\n3 amghI is afraid of PTom.\n4 XjC is sjWgQB.\n5 twXq is sjWgQB.\n6 akgEs is afraid of PTom.\n7 PTom is afraid of akgEs.\n8 IZ is akgEs.\n\nBased on the above sentences, what is IZ afraid of?\nA. akgEs\nB. PTom\nC. sjWgQB\nD. amghI\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "PTom",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 cISM is afraid of vmbbgB.\n2 bsuikw is afraid of vmbbgB.\n3 IeZu is bsuikw.\n4 xQQIh is bsuikw.\n5 Vm is cISM.\n6 vmbbgB is afraid of EpZs.\n7 EpZs is afraid of vmbbgB.\n8 tIXcpd is EpZs.\n\nBased on the above sentences, what is Vm afraid of?\nA. cISM\nB. EpZs\nC. vmbbgB\nD. bsuikw\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "vmbbgB",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 eDN is afraid of ymEdhj.\n2 ymEdhj is afraid of KwIT.\n3 stX is ymEdhj.\n4 KwIT is afraid of eDN.\n5 ICPcAd is eDN.\n6 uoxs is afraid of KwIT.\n7 mvzpQW is uoxs.\n8 bSR is KwIT.\n\nBased on the above sentences, what is bSR afraid of?\nA. uoxs\nB. eDN\nC. KwIT\nD. ymEdhj\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "eDN",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Zo is afraid of Ty.\n2 aKb is Zo.\n3 Yif is afraid of Zo.\n4 bZgUs is afraid of Ty.\n5 Ty is afraid of Zo.\n6 CoW is bZgUs.\n7 fZNtQA is Zo.\n8 GcEK is bZgUs.\n\nBased on the above sentences, what is fZNtQA afraid of?\nA. Ty\nB. bZgUs\nC. Yif\nD. Zo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "Ty",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 ieUwea is afraid of DKbs.\n2 DKbs is afraid of ieUwea.\n3 gcoUT is DKbs.\n4 mDo is afraid of ieUwea.\n5 vaMzT is mDo.\n6 sqbn is afraid of mDo.\n7 GmU is ieUwea.\n8 ohr is sqbn.\n\nBased on the above sentences, what is ohr afraid of?\nA. ieUwea\nB. mDo\nC. sqbn\nD. DKbs\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "mDo",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 TnKE is afraid of vXTbj.\n2 BkjZ is afraid of vXTbj.\n3 vXTbj is afraid of Lbfo.\n4 tUMuLb is BkjZ.\n5 Lbfo is afraid of TnKE.\n6 TMA is vXTbj.\n7 IY is vXTbj.\n8 AkI is Lbfo.\n\nBased on the above sentences, what is tUMuLb afraid of?\nA. Lbfo\nB. BkjZ\nC. vXTbj\nD. TnKE\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "vXTbj",
+        "gold_choice": "C",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 EStZmd is afraid of nKr.\n2 ZPSK is afraid of EStZmd.\n3 bjWp is afraid of nKr.\n4 YdF is ZPSK.\n5 nKr is afraid of EStZmd.\n6 JzD is EStZmd.\n7 JHT is bjWp.\n8 rUseyt is nKr.\n\nBased on the above sentences, what is YdF afraid of?\nA. EStZmd\nB. nKr\nC. bjWp\nD. ZPSK\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "EStZmd",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 jsetrG is afraid of Bt.\n2 ennjP is jsetrG.\n3 Bt is afraid of dK.\n4 Dvmw is jsetrG.\n5 dK is afraid of jsetrG.\n6 ircrgu is Bt.\n7 rE is dK.\n8 fRg is afraid of jsetrG.\n\nBased on the above sentences, what is ircrgu afraid of?\nA. dK\nB. Bt\nC. jsetrG\nD. fRg\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "dK",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 rKX is afraid of HLSfHd.\n2 HLSfHd is afraid of rKX.\n3 cSf is afraid of rKX.\n4 dTfonZ is HLSfHd.\n5 jUQFKa is HLSfHd.\n6 oepWG is afraid of rKX.\n7 ocMpH is HLSfHd.\n8 NuG is rKX.\n\nBased on the above sentences, what is jUQFKa afraid of?\nA. oepWG\nB. rKX\nC. HLSfHd\nD. cSf\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "rKX",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 yW is afraid of gRHTX.\n2 tfcU is yW.\n3 Xr is afraid of aRo.\n4 gRHTX is afraid of yW.\n5 VVJ is Xr.\n6 aRo is afraid of yW.\n7 MZkTW is aRo.\n8 ZhYSpD is aRo.\n\nBased on the above sentences, what is ZhYSpD afraid of?\nA. yW\nB. gRHTX\nC. Xr\nD. aRo\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "yW",
+        "gold_choice": "A",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 WTqKu is afraid of Wd.\n2 DGNP is afraid of Wd.\n3 AVgg is DGNP.\n4 yDPDGB is afraid of DGNP.\n5 Wd is afraid of yDPDGB.\n6 jZBQc is WTqKu.\n7 BZxcAp is yDPDGB.\n8 KAA is Wd.\n\nBased on the above sentences, what is BZxcAp afraid of?\nA. yDPDGB\nB. DGNP\nC. WTqKu\nD. Wd\nE. not enough information to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "DGNP",
+        "gold_choice": "B",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    }
+]
