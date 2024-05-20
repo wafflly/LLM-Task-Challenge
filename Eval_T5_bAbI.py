@@ -6,7 +6,7 @@ from src.api.chat_math import *
 
 if __name__ == '__main__':
 
-    path = 'src/rerun/prompt/t6'
+    path = 'datasets/task 5'
     # path = 'src/deduction/error_test/'
 
     files = os.listdir(path)
@@ -67,6 +67,6 @@ if __name__ == '__main__':
                 data_acc['accuracy'] = '{}/{}={}'.format(str(correct), str(total), str(correct/total))
                 data_acc['invalid'] = '{}/{}={}'.format(str(inval), str(total), str(inval/total))
 
-            with open('src/rerun/rerun_acc/t6/re1_{}'.format(file), 'w', encoding='utf8') as f1:
+            with open('results/task 5/acc_{}'.format(file), 'w', encoding='utf8') as f1:
                 json.dump(data_acc, f1, ensure_ascii=False, indent=4)
 
