@@ -1,0 +1,826 @@
+{
+    "+": {
+        "*": [
+            [
+                "For the expression 8 - 4 * 4 + 9, the precedence of the operators is redefined. If 8 - 4 * 4 + 9 = 52, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '*'\nB. '-' = '*' > '+'\nC. '+' > '*' = '-'\nD. '-' = '+' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 3 - 2 + 4 * 4, the precedence of the operators is redefined. If 3 - 2 + 4 * 4 = -15, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '-' > '*' = '+'\nC. '*' = '-' > '+'\nD. '*' = '-' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 6 - 1 + 6 * 3, the precedence of the operators is redefined. If 6 - 1 + 6 * 3 = -13, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' = '*'\nB. '*' = '+' = '-'\nC. '-' = '+' > '*'\nD. '*' > '+' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 1 + 9 * 9 / 6, the precedence of the operators is redefined. If 1 + 9 * 9 / 6 = 13.666666666666666, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '*'\nB. '*' > '+' = '/'\nC. '+' = '*' > '/'\nD. '/' > '+' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 1 - 3 + 1 * 9, the precedence of the operators is redefined. If 1 - 3 + 1 * 9 = -27, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' = '-'\nB. '-' = '*' > '+'\nC. '+' > '*' > '-'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 4 - 4 + 7 * 3, the precedence of the operators is redefined. If 4 - 4 + 7 * 3 = -21, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '*' = '-' > '+'\nC. '+' = '*' = '-'\nD. '+' > '*' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 8 / 9 * 6 + 9, the precedence of the operators is redefined. If 8 / 9 * 6 + 9 = 0.12698412698412698, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' = '+'\nB. '+' = '*' > '/'\nC. '*' = '/' > '+'\nD. '/' = '*' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 2 - 7 + 2 * 5, the precedence of the operators is redefined. If 2 - 7 + 2 * 5 = -43, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' = '-'\nB. '+' > '*' = '-'\nC. '+' = '*' > '-'\nD. '+' > '-' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 5 - 8 + 5 * 2, the precedence of the operators is redefined. If 5 - 8 + 5 * 2 = -16, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' = '-'\nB. '*' = '+' > '-'\nC. '+' > '-' > '*'\nD. '-' > '+' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 3 - 4 + 5 * 9, the precedence of the operators is redefined. If 3 - 4 + 5 * 9 = -46, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '*' > '+' > '-'\nC. '-' = '+' = '*'\nD. '*' > '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 7 - 4 + 3 * 6, the precedence of the operators is redefined. If 7 - 4 + 3 * 6 = -15, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '*'\nB. '*' > '-' = '+'\nC. '-' = '*' > '+'\nD. '*' > '+' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 2 * 6 - 7 + 5, the precedence of the operators is redefined. If 2 * 6 - 7 + 5 = -12, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '*'\nB. '*' > '-' > '+'\nC. '-' = '*' = '+'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 7 - 7 + 6 * 8, the precedence of the operators is redefined. If 7 - 7 + 6 * 8 = -48, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '+' > '*' = '-'\nC. '-' > '+' = '*'\nD. '*' = '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 6 / 8 * 5 + 4, the precedence of the operators is redefined. If 6 / 8 * 5 + 4 = 0.13636363636363635, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '/'\nB. '/' = '+' = '*'\nC. '*' > '+' = '/'\nD. '+' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 8 * 6 - 4 + 9, the precedence of the operators is redefined. If 8 * 6 - 4 + 9 = -56, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '-' > '*' > '+'\nC. '+' > '-' > '*'\nD. '-' = '+' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 1 - 8 * 9 + 7, the precedence of the operators is redefined. If 1 - 8 * 9 + 7 = -112, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '-'\nB. '*' = '+' > '-'\nC. '-' = '*' > '+'\nD. '+' = '-' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 2 * 9 + 8 / 6, the precedence of the operators is redefined. If 2 * 9 + 8 / 6 = 5.666666666666667, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '*'\nB. '*' > '+' > '/'\nC. '*' > '/' = '+'\nD. '/' > '*' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 8 * 6 - 4 + 8, the precedence of the operators is redefined. If 8 * 6 - 4 + 8 = -48, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' > '*'\nB. '+' > '*' = '-'\nC. '*' > '-' = '+'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 4 - 6 + 7 * 4, the precedence of the operators is redefined. If 4 - 6 + 7 * 4 = -36, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '*'\nB. '*' = '-' = '+'\nC. '+' = '*' = '-'\nD. '-' > '*' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 8 - 9 + 3 * 7, the precedence of the operators is redefined. If 8 - 9 + 3 * 7 = -28, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '-' > '+' > '*'\nC. '+' > '*' = '-'\nD. '*' = '+' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 7 - 8 * 2 + 1, the precedence of the operators is redefined. If 7 - 8 * 2 + 1 = -3, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '-'\nB. '-' > '+' = '*'\nC. '+' > '*' > '-'\nD. '-' = '*' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 4 + 5 * 5 - 6, the precedence of the operators is redefined. If 4 + 5 * 5 - 6 = -9, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '*' = '-' > '+'\nC. '*' = '+' > '-'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 8 - 3 * 7 + 8, the precedence of the operators is redefined. If 8 - 3 * 7 + 8 = 75, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '*'\nB. '+' > '*' > '-'\nC. '*' = '-' = '+'\nD. '-' = '+' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 2 - 7 + 9 * 7, the precedence of the operators is redefined. If 2 - 7 + 9 * 7 = -110, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '+'\nB. '-' > '*' > '+'\nC. '-' = '*' = '+'\nD. '+' = '*' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 2 - 3 * 4 + 1, the precedence of the operators is redefined. If 2 - 3 * 4 + 1 = -5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '*'\nB. '-' > '*' = '+'\nC. '+' = '-' = '*'\nD. '+' > '-' > '*'",
+                "D"
+            ]
+        ],
+        "/": [
+            [
+                "For the expression 7 / 4 + 6 * 4, the precedence of the operators is redefined. If 7 / 4 + 6 * 4 = 0.175, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' = '*'\nB. '+' > '*' = '/'\nC. '+' = '*' > '/'\nD. '*' = '/' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 9 - 4 / 4 + 1, the precedence of the operators is redefined. If 9 - 4 / 4 + 1 = 8.2, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '/'\nB. '+' > '/' > '-'\nC. '/' > '-' > '+'\nD. '+' > '-' > '/'",
+                "B"
+            ],
+            [
+                "For the expression 7 - 7 + 9 / 9, the precedence of the operators is redefined. If 7 - 7 + 9 / 9 = -1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '/'\nB. '-' = '/' = '+'\nC. '+' > '/' > '-'\nD. '/' = '+' = '-'",
+                "A"
+            ],
+            [
+                "For the expression 4 - 2 + 7 / 7, the precedence of the operators is redefined. If 4 - 2 + 7 / 7 = 1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' = '-'\nB. '-' = '/' > '+'\nC. '/' > '+' > '-'\nD. '-' > '/' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 2 - 4 + 8 / 8, the precedence of the operators is redefined. If 2 - 4 + 8 / 8 = -1.25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '/'\nB. '+' = '/' > '-'\nC. '+' > '/' = '-'\nD. '-' = '/' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 3 - 6 / 1 + 3, the precedence of the operators is redefined. If 3 - 6 / 1 + 3 = -6.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '+'\nB. '/' = '-' > '+'\nC. '+' > '/' > '-'\nD. '+' = '/' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 4 / 6 - 9 + 6, the precedence of the operators is redefined. If 4 / 6 - 9 + 6 = -0.4444444444444444, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '/'\nB. '+' > '-' > '/'\nC. '/' > '+' > '-'\nD. '/' = '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 9 - 3 / 7 + 6, the precedence of the operators is redefined. If 9 - 3 / 7 + 6 = 2.571428571428571, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '-'\nB. '/' = '-' = '+'\nC. '-' = '/' > '+'\nD. '-' = '+' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 9 / 7 - 9 + 4, the precedence of the operators is redefined. If 9 / 7 - 9 + 4 = -1.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '/'\nB. '+' > '-' > '/'\nC. '-' = '+' = '/'\nD. '/' > '+' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 4 + 4 / 9 * 3, the precedence of the operators is redefined. If 4 + 4 / 9 * 3 = 0.2962962962962963, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '+'\nB. '/' > '+' = '*'\nC. '/' = '+' = '*'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 1 / 8 * 7 + 1, the precedence of the operators is redefined. If 1 / 8 * 7 + 1 = 0.015625, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' = '*'\nB. '*' = '/' > '+'\nC. '/' = '+' = '*'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 7 - 2 / 6 + 7, the precedence of the operators is redefined. If 7 - 2 / 6 + 7 = 0.38461538461538464, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '+'\nB. '+' > '/' > '-'\nC. '+' > '-' > '/'\nD. '-' > '+' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 7 / 9 + 2 - 4, the precedence of the operators is redefined. If 7 / 9 + 2 - 4 = 1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '+'\nB. '+' > '-' > '/'\nC. '/' > '+' = '-'\nD. '+' > '/' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 9 - 5 / 9 + 2, the precedence of the operators is redefined. If 9 - 5 / 9 + 2 = 0.36363636363636365, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '+'\nB. '/' = '+' = '-'\nC. '+' = '-' = '/'\nD. '+' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 1 / 1 + 9 * 8, the precedence of the operators is redefined. If 1 / 1 + 9 * 8 = 0.0125, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' > '*'\nB. '*' > '+' > '/'\nC. '*' > '+' = '/'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 9 - 5 + 6 / 6, the precedence of the operators is redefined. If 9 - 5 + 6 / 6 = 3.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '/'\nB. '/' > '+' > '-'\nC. '+' > '-' = '/'\nD. '/' = '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 6 - 6 / 9 + 3, the precedence of the operators is redefined. If 6 - 6 / 9 + 3 = 5.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '/'\nB. '+' > '-' = '/'\nC. '/' > '-' = '+'\nD. '+' > '/' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 6 + 3 / 2 * 8, the precedence of the operators is redefined. If 6 + 3 / 2 * 8 = 0.5625, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '*'\nB. '/' > '*' = '+'\nC. '+' > '*' > '/'\nD. '/' > '+' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 8 - 1 + 2 / 2, the precedence of the operators is redefined. If 8 - 1 + 2 / 2 = 2.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' = '-'\nB. '+' = '-' > '/'\nC. '+' > '-' > '/'\nD. '/' > '+' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 9 + 5 / 2 * 5, the precedence of the operators is redefined. If 9 + 5 / 2 * 5 = 1.4, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' = '+'\nB. '+' > '*' > '/'\nC. '*' > '/' > '+'\nD. '/' = '+' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 3 - 5 + 5 / 5, the precedence of the operators is redefined. If 3 - 5 + 5 / 5 = -1.4, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '-'\nB. '-' > '/' > '+'\nC. '-' > '+' = '/'\nD. '+' = '/' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 3 + 8 / 7 - 5, the precedence of the operators is redefined. If 3 + 8 / 7 - 5 = 5.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '/'\nB. '/' = '-' > '+'\nC. '/' > '+' = '-'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 6 - 9 / 8 + 7, the precedence of the operators is redefined. If 6 - 9 / 8 + 7 = 5.4, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' = '+'\nB. '/' = '-' > '+'\nC. '-' = '+' > '/'\nD. '+' > '/' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 8 + 2 / 5 * 7, the precedence of the operators is redefined. If 8 + 2 / 5 * 7 = 0.2857142857142857, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' = '+'\nB. '+' = '/' > '*'\nC. '+' = '*' > '/'\nD. '*' = '+' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 2 / 6 + 1 * 9, the precedence of the operators is redefined. If 2 / 6 + 1 * 9 = 0.031746031746031744, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '*'\nB. '+' = '/' > '*'\nC. '*' = '/' > '+'\nD. '+' = '*' > '/'",
+                "D"
+            ]
+        ]
+    },
+    "-": {
+        "*": [
+            [
+                "For the expression 7 + 7 - 3 * 7, the precedence of the operators is redefined. If 7 + 7 - 3 * 7 = 77, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' = '+'\nB. '-' = '*' > '+'\nC. '*' > '-' > '+'\nD. '-' > '*' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 5 - 3 + 6 * 3, the precedence of the operators is redefined. If 5 - 3 + 6 * 3 = -22, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '*' = '+' > '-'\nC. '+' = '-' = '*'\nD. '-' > '*' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 3 - 9 * 5 + 3, the precedence of the operators is redefined. If 3 - 9 * 5 + 3 = -48, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' = '*'\nB. '-' = '+' = '*'\nC. '*' > '-' = '+'\nD. '*' > '+' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 6 * 5 - 7 / 8, the precedence of the operators is redefined. If 6 * 5 - 7 / 8 = -1.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '/'\nB. '-' = '/' > '*'\nC. '/' > '*' > '-'\nD. '-' = '*' > '/'",
+                "B"
+            ],
+            [
+                "For the expression 3 - 3 + 4 * 4, the precedence of the operators is redefined. If 3 - 3 + 4 * 4 = -25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '+'\nB. '*' = '+' = '-'\nC. '*' = '+' > '-'\nD. '-' = '+' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 3 + 7 * 1 - 9, the precedence of the operators is redefined. If 3 + 7 * 1 - 9 = -80, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '-' > '*' > '+'\nC. '-' > '*' = '+'\nD. '-' = '+' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 6 * 4 - 3 + 7, the precedence of the operators is redefined. If 6 * 4 - 3 + 7 = 48, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '*'\nB. '-' = '*' > '+'\nC. '*' > '-' = '+'\nD. '+' = '-' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 9 * 2 - 9 / 2, the precedence of the operators is redefined. If 9 * 2 - 9 / 2 = -31.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '-'\nB. '-' = '/' > '*'\nC. '/' > '-' > '*'\nD. '*' > '-' > '/'",
+                "B"
+            ],
+            [
+                "For the expression 1 + 2 - 1 * 6, the precedence of the operators is redefined. If 1 + 2 - 1 * 6 = 12, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '+'\nB. '-' > '*' = '+'\nC. '-' > '*' > '+'\nD. '*' > '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 9 * 7 - 5 / 8, the precedence of the operators is redefined. If 9 * 7 - 5 / 8 = 2.25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '*' = '/' = '-'\nC. '*' > '-' > '/'\nD. '-' = '/' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 8 / 6 * 2 - 5, the precedence of the operators is redefined. If 8 / 6 * 2 - 5 = 1.1428571428571428, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' = '-'\nB. '-' = '/' > '*'\nC. '-' = '*' > '/'\nD. '/' = '-' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 9 + 3 - 5 * 7, the precedence of the operators is redefined. If 9 + 3 - 5 * 7 = 49, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '-' = '*' > '+'\nC. '*' > '+' > '-'\nD. '+' = '*' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 7 + 5 * 2 - 4, the precedence of the operators is redefined. If 7 + 5 * 2 - 4 = -24, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '+'\nB. '*' = '-' = '+'\nC. '-' = '*' > '+'\nD. '-' > '+' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 5 + 3 - 5 * 9, the precedence of the operators is redefined. If 5 + 3 - 5 * 9 = 27, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' > '-'\nB. '*' = '+' > '-'\nC. '*' > '+' = '-'\nD. '-' > '+' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 3 - 7 + 7 * 9, the precedence of the operators is redefined. If 3 - 7 + 7 * 9 = -99, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '+' > '-' = '*'\nC. '-' = '*' = '+'\nD. '+' > '*' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 5 / 4 * 3 - 3, the precedence of the operators is redefined. If 5 / 4 * 3 - 3 = 0.5555555555555556, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '/'\nB. '-' = '*' > '/'\nC. '-' > '*' = '/'\nD. '*' > '/' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 6 - 7 * 7 + 5, the precedence of the operators is redefined. If 6 - 7 * 7 + 5 = -12, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' = '-'\nB. '-' > '*' = '+'\nC. '*' = '+' > '-'\nD. '+' > '-' = '*'",
+                "D"
+            ],
+            [
+                "For the expression 6 - 3 + 1 * 4, the precedence of the operators is redefined. If 6 - 3 + 1 * 4 = -10, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '+' = '*' = '-'\nC. '-' = '+' = '*'\nD. '-' = '*' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 1 - 7 * 9 + 2, the precedence of the operators is redefined. If 1 - 7 * 9 + 2 = -66, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '-'\nB. '-' = '+' = '*'\nC. '-' > '*' = '+'\nD. '-' > '+' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 7 * 9 - 1 / 3, the precedence of the operators is redefined. If 7 * 9 - 1 / 3 = 18.666666666666664, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '-'\nB. '-' = '/' > '*'\nC. '/' = '-' = '*'\nD. '-' > '*' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 8 * 2 - 7 / 7, the precedence of the operators is redefined. If 8 * 2 - 7 / 7 = -5.714285714285714, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '*'\nB. '*' = '-' = '/'\nC. '*' > '/' = '-'\nD. '*' = '/' = '-'",
+                "A"
+            ],
+            [
+                "For the expression 6 * 5 - 7 + 4, the precedence of the operators is redefined. If 6 * 5 - 7 + 4 = 12, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '-'\nB. '-' > '+' > '*'\nC. '*' > '-' = '+'\nD. '-' = '*' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 8 - 6 / 7 * 3, the precedence of the operators is redefined. If 8 - 6 / 7 * 3 = 0.09523809523809523, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' = '*'\nB. '-' = '*' > '/'\nC. '-' > '*' = '/'\nD. '/' > '*' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 2 * 3 - 4 / 2, the precedence of the operators is redefined. If 2 * 3 - 4 / 2 = -1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '*'\nB. '-' = '*' = '/'\nC. '/' = '*' = '-'\nD. '*' > '-' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 7 + 6 * 9 - 5, the precedence of the operators is redefined. If 7 + 6 * 9 - 5 = 52, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '-' > '+' > '*'\nC. '+' > '-' = '*'\nD. '+' > '*' > '-'",
+                "B"
+            ]
+        ],
+        "/": [
+            [
+                "For the expression 5 - 4 / 2 * 7, the precedence of the operators is redefined. If 5 - 4 / 2 * 7 = 0.07142857142857142, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '*'\nB. '-' = '*' > '/'\nC. '-' = '/' > '*'\nD. '/' > '*' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 9 - 5 / 4 + 8, the precedence of the operators is redefined. If 9 - 5 / 4 + 8 = 0.3333333333333333, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '/'\nB. '-' > '+' > '/'\nC. '-' = '+' = '/'\nD. '+' = '/' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 3 + 8 - 6 / 5, the precedence of the operators is redefined. If 3 + 8 - 6 / 5 = 1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '+'\nB. '+' = '/' > '-'\nC. '-' > '/' = '+'\nD. '/' > '-' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 9 / 3 - 2 * 7, the precedence of the operators is redefined. If 9 / 3 - 2 * 7 = 1.2857142857142858, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '*'\nB. '-' = '*' > '/'\nC. '*' = '/' = '-'\nD. '*' > '/' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 7 + 1 - 9 / 4, the precedence of the operators is redefined. If 7 + 1 - 9 / 4 = -0.25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '+'\nB. '-' > '+' > '/'\nC. '/' > '-' > '+'\nD. '/' = '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 9 / 9 - 8 * 3, the precedence of the operators is redefined. If 9 / 9 - 8 * 3 = 3.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '-'\nB. '-' = '*' > '/'\nC. '/' > '-' > '*'\nD. '-' > '*' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 2 - 5 / 8 + 3, the precedence of the operators is redefined. If 2 - 5 / 8 + 3 = -0.2727272727272727, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '+'\nB. '-' > '+' = '/'\nC. '+' > '-' = '/'\nD. '/' = '+' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 3 / 7 - 4 * 6, the precedence of the operators is redefined. If 3 / 7 - 4 * 6 = 0.16666666666666666, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '-'\nB. '/' > '*' > '-'\nC. '*' = '/' = '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 6 - 7 + 1 / 5, the precedence of the operators is redefined. If 6 - 7 + 1 / 5 = 4.4, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '/'\nB. '-' > '/' = '+'\nC. '/' = '+' > '-'\nD. '-' > '+' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 4 / 9 - 4 * 3, the precedence of the operators is redefined. If 4 / 9 - 4 * 3 = 0.26666666666666666, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' = '-'\nB. '/' > '-' = '*'\nC. '-' = '/' > '*'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 7 * 7 / 8 - 1, the precedence of the operators is redefined. If 7 * 7 / 8 - 1 = -0.875, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '*'\nB. '/' = '*' > '-'\nC. '*' > '-' = '/'\nD. '*' > '/' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 8 / 9 - 4 * 3, the precedence of the operators is redefined. If 8 / 9 - 4 * 3 = -9.333333333333334, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '-' > '*' > '/'\nC. '-' = '/' > '*'\nD. '*' > '-' > '/'",
+                "C"
+            ],
+            [
+                "For the expression 9 / 1 - 9 * 5, the precedence of the operators is redefined. If 9 / 1 - 9 * 5 = 0.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '/'\nB. '-' > '/' = '*'\nC. '-' = '/' > '*'\nD. '*' = '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 7 - 3 / 3 * 4, the precedence of the operators is redefined. If 7 - 3 / 3 * 4 = 0.3333333333333333, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '/'\nB. '-' > '*' > '/'\nC. '*' > '/' > '-'\nD. '/' = '-' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 8 - 3 / 9 * 6, the precedence of the operators is redefined. If 8 - 3 / 9 * 6 = 0.09259259259259259, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '/'\nB. '-' = '*' > '/'\nC. '/' = '*' > '-'\nD. '-' > '/' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 3 / 7 - 9 * 2, the precedence of the operators is redefined. If 3 / 7 - 9 * 2 = -0.75, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '/'\nB. '*' > '-' > '/'\nC. '-' = '*' > '/'\nD. '/' = '-' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 5 - 1 / 4 + 2, the precedence of the operators is redefined. If 5 - 1 / 4 + 2 = 0.6666666666666666, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' > '-'\nB. '/' > '-' > '+'\nC. '+' > '-' = '/'\nD. '-' = '+' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 4 + 4 / 6 - 1, the precedence of the operators is redefined. If 4 + 4 / 6 - 1 = 1.6, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '+'\nB. '-' > '/' > '+'\nC. '/' > '+' > '-'\nD. '-' > '+' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 2 / 9 - 8 * 2, the precedence of the operators is redefined. If 2 / 9 - 8 * 2 = 1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '-' > '*' = '/'\nC. '-' = '/' > '*'\nD. '-' = '*' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 7 - 3 / 6 * 7, the precedence of the operators is redefined. If 7 - 3 / 6 * 7 = 0.09523809523809523, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '-'\nB. '/' = '-' = '*'\nC. '-' > '*' > '/'\nD. '-' = '*' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 9 + 8 / 2 - 5, the precedence of the operators is redefined. If 9 + 8 / 2 - 5 = -5.666666666666667, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '+'\nB. '+' = '-' = '/'\nC. '/' = '+' > '-'\nD. '-' > '/' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 9 + 2 - 9 / 2, the precedence of the operators is redefined. If 9 + 2 - 9 / 2 = 1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' > '-'\nB. '/' = '-' > '+'\nC. '+' > '/' > '-'\nD. '-' > '/' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 9 + 3 - 4 / 9, the precedence of the operators is redefined. If 9 + 3 - 4 / 9 = 0.8888888888888888, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '-'\nB. '/' > '+' = '-'\nC. '-' > '/' = '+'\nD. '/' > '-' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 6 - 7 / 6 + 3, the precedence of the operators is redefined. If 6 - 7 / 6 + 3 = -0.1111111111111111, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '+'\nB. '-' > '/' > '+'\nC. '+' > '/' > '-'\nD. '-' > '+' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 7 / 3 - 7 * 6, the precedence of the operators is redefined. If 7 / 3 - 7 * 6 = -0.2916666666666667, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' > '-'\nB. '-' = '*' = '/'\nC. '/' = '-' > '*'\nD. '-' = '*' > '/'",
+                "D"
+            ]
+        ]
+    },
+    "*": {
+        "+": [
+            [
+                "For the expression 7 - 8 * 2 + 7, the precedence of the operators is redefined. If 7 - 8 * 2 + 7 = -9, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '*'\nB. '-' > '*' > '+'\nC. '*' > '-' = '+'\nD. '+' > '*' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 9 * 5 - 6 + 3, the precedence of the operators is redefined. If 9 * 5 - 6 + 3 = -36, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '*'\nB. '*' > '+' = '-'\nC. '+' > '-' = '*'\nD. '-' > '+' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 2 * 4 - 8 + 7, the precedence of the operators is redefined. If 2 * 4 - 8 + 7 = -1, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '-' > '*' = '+'\nC. '+' = '*' > '-'\nD. '*' = '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 7 - 9 + 8 * 3, the precedence of the operators is redefined. If 7 - 9 + 8 * 3 = -30, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '*'\nB. '*' > '+' = '-'\nC. '-' > '+' = '*'\nD. '-' = '*' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 9 + 3 - 1 * 6, the precedence of the operators is redefined. If 9 + 3 - 1 * 6 = 21, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '-' = '+' = '*'\nC. '*' = '-' > '+'\nD. '+' = '-' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 3 * 9 + 7 / 4, the precedence of the operators is redefined. If 3 * 9 + 7 / 4 = 12.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '/'\nB. '/' = '*' > '+'\nC. '+' = '/' > '*'\nD. '*' > '+' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 5 + 5 / 9 * 2, the precedence of the operators is redefined. If 5 + 5 / 9 * 2 = 2.2222222222222223, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '*'\nB. '/' > '*' > '+'\nC. '*' = '/' > '+'\nD. '/' = '*' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 7 + 3 / 8 * 9, the precedence of the operators is redefined. If 7 + 3 / 8 * 9 = 0.1388888888888889, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' = '/'\nB. '/' > '+' = '*'\nC. '/' = '+' > '*'\nD. '/' = '+' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 3 / 4 + 3 * 9, the precedence of the operators is redefined. If 3 / 4 + 3 * 9 = 3.8571428571428568, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '/' > '*' > '+'\nC. '+' > '/' > '*'\nD. '*' = '/' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 9 + 4 / 5 * 5, the precedence of the operators is redefined. If 9 + 4 / 5 * 5 = 0.52, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' = '+'\nB. '*' > '+' = '/'\nC. '+' = '/' = '*'\nD. '/' = '+' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 4 - 9 * 9 + 8, the precedence of the operators is redefined. If 4 - 9 * 9 + 8 = -37, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '*'\nB. '+' > '*' = '-'\nC. '-' = '+' > '*'\nD. '-' > '*' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 3 - 7 + 7 * 6, the precedence of the operators is redefined. If 3 - 7 + 7 * 6 = -66, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '*' > '+' > '-'\nC. '+' > '*' = '-'\nD. '+' = '-' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 4 * 4 - 8 + 1, the precedence of the operators is redefined. If 4 * 4 - 8 + 1 = -20, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '*'\nB. '*' = '-' > '+'\nC. '-' > '*' > '+'\nD. '*' = '-' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 5 + 8 / 1 * 7, the precedence of the operators is redefined. If 5 + 8 / 1 * 7 = 1.8571428571428572, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '+'\nB. '/' = '+' > '*'\nC. '/' = '+' = '*'\nD. '*' > '+' = '/'",
+                "D"
+            ],
+            [
+                "For the expression 5 - 9 + 6 * 6, the precedence of the operators is redefined. If 5 - 9 + 6 * 6 = -60, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '+' = '-' = '*'\nC. '-' > '+' > '*'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 9 + 7 - 2 * 2, the precedence of the operators is redefined. If 9 + 7 - 2 * 2 = 19, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '+' = '-' > '*'\nC. '*' = '-' > '+'\nD. '*' = '-' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 6 - 9 * 2 + 6, the precedence of the operators is redefined. If 6 - 9 * 2 + 6 = -24, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '+' > '*' = '-'\nC. '*' = '-' > '+'\nD. '*' > '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 2 - 8 + 9 * 6, the precedence of the operators is redefined. If 2 - 8 + 9 * 6 = -90, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' = '-'\nB. '-' > '*' > '+'\nC. '+' > '-' > '*'\nD. '-' > '*' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 4 - 1 * 5 + 1, the precedence of the operators is redefined. If 4 - 1 * 5 + 1 = 18, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '-' = '*' = '+'\nC. '+' > '*' = '-'\nD. '*' > '-' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 3 - 6 + 6 * 2, the precedence of the operators is redefined. If 3 - 6 + 6 * 2 = -18, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '+' > '*' = '-'\nC. '*' = '+' > '-'\nD. '*' = '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 1 / 6 + 3 * 2, the precedence of the operators is redefined. If 1 / 6 + 3 * 2 = 0.2222222222222222, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' > '*'\nB. '*' = '+' > '/'\nC. '+' = '*' = '/'\nD. '+' > '/' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 7 - 8 + 6 * 5, the precedence of the operators is redefined. If 7 - 8 + 6 * 5 = -35, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '+'\nB. '+' > '*' = '-'\nC. '*' = '+' > '-'\nD. '-' = '*' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 2 - 8 + 7 * 9, the precedence of the operators is redefined. If 2 - 8 + 7 * 9 = -117, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '+' > '*' = '-'\nC. '*' = '-' > '+'\nD. '*' = '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 9 + 5 / 4 * 6, the precedence of the operators is redefined. If 9 + 5 / 4 * 6 = 21.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '*'\nB. '*' = '/' > '+'\nC. '*' > '+' > '/'\nD. '/' > '+' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 2 / 6 * 7 + 3, the precedence of the operators is redefined. If 2 / 6 * 7 + 3 = 0.044444444444444446, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '/'\nB. '+' > '/' > '*'\nC. '/' > '*' > '+'\nD. '/' = '*' = '+'",
+                "A"
+            ]
+        ],
+        "-": [
+            [
+                "For the expression 7 * 3 / 7 - 3, the precedence of the operators is redefined. If 7 * 3 / 7 - 3 = 5.25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '/' = '-' > '*'\nC. '/' > '*' = '-'\nD. '-' = '*' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 3 / 8 - 4 * 6, the precedence of the operators is redefined. If 3 / 8 - 4 * 6 = 4.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '*' > '-' = '/'\nC. '*' > '/' = '-'\nD. '*' > '-' > '/'",
+                "A"
+            ],
+            [
+                "For the expression 6 / 4 - 1 * 4, the precedence of the operators is redefined. If 6 / 4 - 1 * 4 = 8.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '-' > '/' > '*'\nC. '/' = '*' = '-'\nD. '*' > '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 7 * 9 / 6 - 3, the precedence of the operators is redefined. If 7 * 9 / 6 - 3 = 21.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' = '-'\nB. '*' > '-' = '/'\nC. '-' > '/' > '*'\nD. '-' = '*' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 7 * 1 - 5 + 1, the precedence of the operators is redefined. If 7 * 1 - 5 + 1 = 1, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '*' = '-' = '+'\nC. '+' > '*' = '-'\nD. '*' > '-' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 1 - 1 / 4 * 5, the precedence of the operators is redefined. If 1 - 1 / 4 * 5 = 0.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '-'\nB. '/' = '*' > '-'\nC. '*' > '-' = '/'\nD. '*' = '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 7 / 4 * 4 - 5, the precedence of the operators is redefined. If 7 / 4 * 4 - 5 = 0.6363636363636364, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' = '-'\nB. '-' > '*' > '/'\nC. '-' = '/' > '*'\nD. '*' = '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 9 + 8 * 9 - 7, the precedence of the operators is redefined. If 9 + 8 * 9 - 7 = 146, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '+'\nB. '*' = '-' > '+'\nC. '+' > '*' = '-'\nD. '*' > '-' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 9 - 3 / 9 * 3, the precedence of the operators is redefined. If 9 - 3 / 9 * 3 = 2.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' > '-'\nB. '/' > '*' = '-'\nC. '*' > '-' > '/'\nD. '-' = '/' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 8 + 8 * 8 - 3, the precedence of the operators is redefined. If 8 + 8 * 8 - 3 = 80, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '+' = '-' = '*'\nC. '*' = '-' > '+'\nD. '+' > '*' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 4 * 6 - 7 / 3, the precedence of the operators is redefined. If 4 * 6 - 7 / 3 = -1.3333333333333333, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '*'\nB. '/' > '*' > '-'\nC. '*' = '/' > '-'\nD. '-' = '/' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 8 + 7 * 9 - 7, the precedence of the operators is redefined. If 8 + 7 * 9 - 7 = 30, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '*' = '-' = '+'\nC. '+' > '-' = '*'\nD. '-' > '*' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 1 + 8 * 5 - 2, the precedence of the operators is redefined. If 1 + 8 * 5 - 2 = 27, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '-'\nB. '-' > '*' = '+'\nC. '*' > '+' > '-'\nD. '-' > '*' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 4 * 9 + 2 - 8, the precedence of the operators is redefined. If 4 * 9 + 2 - 8 = 36, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '+' > '*' = '-'\nC. '-' > '+' = '*'\nD. '+' = '-' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 3 * 2 - 6 + 2, the precedence of the operators is redefined. If 3 * 2 - 6 + 2 = -2, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '+'\nB. '+' = '*' = '-'\nC. '-' = '+' = '*'\nD. '+' > '*' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 7 + 1 * 8 - 2, the precedence of the operators is redefined. If 7 + 1 * 8 - 2 = 48, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '*' = '-' = '+'\nC. '+' > '*' > '-'\nD. '-' = '*' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 4 * 5 + 1 - 8, the precedence of the operators is redefined. If 4 * 5 + 1 - 8 = 16, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '*'\nB. '+' > '*' = '-'\nC. '+' > '-' > '*'\nD. '*' = '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 7 - 2 + 1 * 2, the precedence of the operators is redefined. If 7 - 2 + 1 * 2 = 8, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '-' = '*' > '+'\nC. '+' > '*' = '-'\nD. '+' > '*' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 5 * 8 - 8 / 7, the precedence of the operators is redefined. If 5 * 8 - 8 / 7 = 0.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '*' > '/' = '-'\nC. '/' = '-' = '*'\nD. '/' = '*' = '-'",
+                "A"
+            ],
+            [
+                "For the expression 3 / 6 - 3 * 8, the precedence of the operators is redefined. If 3 / 6 - 3 * 8 = 8.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '/' > '*' > '-'\nC. '-' = '/' > '*'\nD. '-' > '/' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 1 + 5 * 3 - 9, the precedence of the operators is redefined. If 1 + 5 * 3 - 9 = -36, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '+'\nB. '-' > '*' = '+'\nC. '*' = '+' = '-'\nD. '-' = '*' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 6 + 2 * 8 - 9, the precedence of the operators is redefined. If 6 + 2 * 8 - 9 = -8, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '+'\nB. '-' > '*' = '+'\nC. '*' = '+' > '-'\nD. '+' > '*' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 6 - 8 / 9 * 7, the precedence of the operators is redefined. If 6 - 8 / 9 * 7 = -0.031746031746031744, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '/'\nB. '/' > '*' = '-'\nC. '*' = '/' = '-'\nD. '*' = '/' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 1 / 4 * 8 - 9, the precedence of the operators is redefined. If 1 / 4 * 8 - 9 = 0.043478260869565216, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '/'\nB. '/' = '*' = '-'\nC. '*' > '/' > '-'\nD. '*' = '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 8 - 8 * 3 + 6, the precedence of the operators is redefined. If 8 - 8 * 3 + 6 = -22, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '*'\nB. '+' > '-' > '*'\nC. '*' > '-' = '+'\nD. '*' = '+' > '-'",
+                "D"
+            ]
+        ]
+    },
+    "/": {
+        "+": [
+            [
+                "For the expression 9 / 6 + 6 * 6, the precedence of the operators is redefined. If 9 / 6 + 6 * 6 = 0.125, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' > '*'\nB. '*' = '/' = '+'\nC. '/' = '+' = '*'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 5 / 1 - 8 + 5, the precedence of the operators is redefined. If 5 / 1 - 8 + 5 = -0.4166666666666667, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '-'\nB. '/' = '-' > '+'\nC. '+' > '-' > '/'\nD. '+' = '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 7 / 5 * 1 + 4, the precedence of the operators is redefined. If 7 / 5 * 1 + 4 = 0.28, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' > '/'\nB. '+' > '/' = '*'\nC. '+' = '/' > '*'\nD. '/' = '*' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 9 / 6 * 8 + 3, the precedence of the operators is redefined. If 9 / 6 * 8 + 3 = 0.17647058823529413, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' = '*'\nB. '+' = '*' = '/'\nC. '+' = '*' > '/'\nD. '*' > '/' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 6 - 8 / 3 + 7, the precedence of the operators is redefined. If 6 - 8 / 3 + 7 = -0.2, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' > '-'\nB. '+' > '/' = '-'\nC. '/' = '+' > '-'\nD. '/' > '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 7 / 1 - 6 + 9, the precedence of the operators is redefined. If 7 / 1 - 6 + 9 = -0.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '-'\nB. '+' > '-' > '/'\nC. '/' > '-' > '+'\nD. '+' = '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 6 * 7 + 7 / 8, the precedence of the operators is redefined. If 6 * 7 + 7 / 8 = 10.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' > '+'\nB. '*' = '+' > '/'\nC. '/' = '*' = '+'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 4 / 3 - 8 + 9, the precedence of the operators is redefined. If 4 / 3 - 8 + 9 = -0.2857142857142857, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '+'\nB. '/' = '+' > '-'\nC. '+' > '-' > '/'\nD. '/' = '-' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 1 / 2 * 4 + 3, the precedence of the operators is redefined. If 1 / 2 * 4 + 3 = 0.07142857142857142, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' > '/'\nB. '/' > '+' > '*'\nC. '*' = '+' > '/'\nD. '*' > '+' > '/'",
+                "A"
+            ],
+            [
+                "For the expression 6 + 2 / 1 * 7, the precedence of the operators is redefined. If 6 + 2 / 1 * 7 = 1.1428571428571428, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '+' > '*' = '/'\nC. '/' > '*' = '+'\nD. '+' > '/' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 4 / 8 * 4 + 3, the precedence of the operators is redefined. If 4 / 8 * 4 + 3 = 0.11428571428571428, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' > '/'\nB. '+' > '*' = '/'\nC. '+' = '*' > '/'\nD. '+' = '/' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 6 / 2 * 9 + 3, the precedence of the operators is redefined. If 6 / 2 * 9 + 3 = 0.2857142857142857, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '+'\nB. '*' = '/' = '+'\nC. '/' = '*' = '+'\nD. '+' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 3 / 9 * 4 + 2, the precedence of the operators is redefined. If 3 / 9 * 4 + 2 = 2.0833333333333335, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' = '+'\nB. '*' = '/' > '+'\nC. '+' = '*' = '/'\nD. '*' > '/' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 6 + 8 / 8 * 2, the precedence of the operators is redefined. If 6 + 8 / 8 * 2 = 0.875, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' > '/'\nB. '/' > '+' = '*'\nC. '+' = '/' > '*'\nD. '/' > '+' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 7 / 9 - 4 + 8, the precedence of the operators is redefined. If 7 / 9 - 4 + 8 = -2.3333333333333335, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '/'\nB. '+' > '-' > '/'\nC. '/' = '-' > '+'\nD. '+' > '-' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 3 + 7 * 5 / 9, the precedence of the operators is redefined. If 3 + 7 * 5 / 9 = 5.555555555555555, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '*' > '+' > '/'\nC. '/' = '*' > '+'\nD. '*' > '/' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 3 / 1 + 4 * 3, the precedence of the operators is redefined. If 3 / 1 + 4 * 3 = 0.2, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '+' = '/' = '*'\nC. '*' = '/' > '+'\nD. '+' > '/' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 4 / 2 * 2 + 2, the precedence of the operators is redefined. If 4 / 2 * 2 + 2 = 0.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' > '*'\nB. '+' > '*' > '/'\nC. '/' > '*' = '+'\nD. '/' = '*' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 1 - 4 / 8 + 3, the precedence of the operators is redefined. If 1 - 4 / 8 + 3 = -0.2727272727272727, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '+'\nB. '+' = '/' = '-'\nC. '-' > '/' = '+'\nD. '+' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 4 - 5 + 4 / 3, the precedence of the operators is redefined. If 4 - 5 + 4 / 3 = -1.6666666666666667, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '-'\nB. '+' > '/' = '-'\nC. '/' > '+' > '-'\nD. '/' = '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 5 - 7 + 4 / 4, the precedence of the operators is redefined. If 5 - 7 + 4 / 4 = -1.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '/'\nB. '+' > '-' > '/'\nC. '/' > '-' > '+'\nD. '+' = '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 1 - 6 + 4 / 8, the precedence of the operators is redefined. If 1 - 6 + 4 / 8 = -1.125, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '+'\nB. '+' = '/' = '-'\nC. '/' > '+' > '-'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 9 + 9 * 9 / 5, the precedence of the operators is redefined. If 9 + 9 * 9 / 5 = 32.4, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '*' > '+' > '/'\nC. '/' = '*' > '+'\nD. '*' = '/' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 7 / 7 - 3 + 8, the precedence of the operators is redefined. If 7 / 7 - 3 + 8 = -1.75, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' > '+'\nB. '-' = '/' = '+'\nC. '+' > '-' > '/'\nD. '+' > '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 6 - 7 + 2 / 4, the precedence of the operators is redefined. If 6 - 7 + 2 / 4 = -0.75, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '+'\nB. '/' > '-' = '+'\nC. '/' = '+' > '-'\nD. '+' > '/' = '-'",
+                "D"
+            ]
+        ],
+        "-": [
+            [
+                "For the expression 8 / 4 * 4 - 1, the precedence of the operators is redefined. If 8 / 4 * 4 - 1 = 0.6666666666666666, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '-' > '/' > '*'\nC. '/' = '*' = '-'\nD. '/' > '*' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 4 / 2 + 5 - 2, the precedence of the operators is redefined. If 4 / 2 + 5 - 2 = -1.4285714285714286, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '+'\nB. '+' > '/' = '-'\nC. '/' > '+' = '-'\nD. '/' > '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 4 / 5 * 6 - 1, the precedence of the operators is redefined. If 4 / 5 * 6 - 1 = 0.16, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '-'\nB. '/' > '-' > '*'\nC. '-' > '*' > '/'\nD. '-' > '/' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 3 + 9 / 4 - 2, the precedence of the operators is redefined. If 3 + 9 / 4 - 2 = 6.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' > '+'\nB. '-' > '/' = '+'\nC. '-' = '/' > '+'\nD. '-' = '+' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 8 - 3 / 8 * 4, the precedence of the operators is redefined. If 8 - 3 / 8 * 4 = 7.90625, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '/'\nB. '*' > '/' > '-'\nC. '-' = '*' = '/'\nD. '-' > '/' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 6 - 9 + 9 / 2, the precedence of the operators is redefined. If 6 - 9 + 9 / 2 = -3.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' > '/'\nB. '-' = '+' = '/'\nC. '/' = '+' > '-'\nD. '/' > '+' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 6 - 5 * 2 / 4, the precedence of the operators is redefined. If 6 - 5 * 2 / 4 = 0.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '*' > '-' = '/'\nC. '/' > '*' > '-'\nD. '*' > '/' = '-'",
+                "A"
+            ],
+            [
+                "For the expression 7 / 7 * 7 - 2, the precedence of the operators is redefined. If 7 / 7 * 7 - 2 = 0.14893617021276595, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '/'\nB. '*' > '-' > '/'\nC. '/' = '*' > '-'\nD. '*' > '/' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 7 - 5 / 2 * 8, the precedence of the operators is redefined. If 7 - 5 / 2 * 8 = 0.125, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '/' = '-' = '*'\nC. '-' > '/' = '*'\nD. '/' > '*' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 6 - 7 + 1 / 2, the precedence of the operators is redefined. If 6 - 7 + 1 / 2 = -1.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '+'\nB. '+' > '/' = '-'\nC. '/' > '-' = '+'\nD. '/' = '-' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 7 - 7 / 4 * 3, the precedence of the operators is redefined. If 7 - 7 / 4 * 3 = 0.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '-'\nB. '*' = '/' > '-'\nC. '/' > '-' > '*'\nD. '*' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 8 / 5 - 9 * 8, the precedence of the operators is redefined. If 8 / 5 - 9 * 8 = -0.25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '*' > '/' > '-'\nC. '*' > '-' > '/'\nD. '-' > '/' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 7 - 6 / 8 * 2, the precedence of the operators is redefined. If 7 - 6 / 8 * 2 = 0.0625, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '-'\nB. '-' > '/' = '*'\nC. '-' > '*' > '/'\nD. '-' > '*' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 2 - 6 + 5 / 8, the precedence of the operators is redefined. If 2 - 6 + 5 / 8 = -1.125, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' > '/'\nB. '+' > '/' = '-'\nC. '/' = '-' = '+'\nD. '+' = '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 7 * 2 - 8 / 7, the precedence of the operators is redefined. If 7 * 2 - 8 / 7 = -6.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '*' = '/' > '-'\nC. '-' = '/' = '*'\nD. '*' = '-' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 3 / 9 + 7 - 3, the precedence of the operators is redefined. If 3 / 9 + 7 - 3 = -2.8125, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '+'\nB. '+' > '/' = '-'\nC. '-' > '+' > '/'\nD. '-' = '/' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 5 - 4 * 7 / 5, the precedence of the operators is redefined. If 5 - 4 * 7 / 5 = 1.4, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' = '-'\nB. '/' = '*' > '-'\nC. '-' = '*' > '/'\nD. '*' = '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 1 + 6 / 2 - 8, the precedence of the operators is redefined. If 1 + 6 / 2 - 8 = -4.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' > '/'\nB. '+' > '/' = '-'\nC. '-' > '/' > '+'\nD. '-' > '+' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 3 / 9 - 5 * 2, the precedence of the operators is redefined. If 3 / 9 - 5 * 2 = 0.375, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '-' = '*' = '/'\nC. '*' > '-' = '/'\nD. '/' > '*' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 2 - 7 / 6 * 8, the precedence of the operators is redefined. If 2 - 7 / 6 * 8 = 1.8541666666666667, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '*' = '/' = '-'\nC. '*' > '/' > '-'\nD. '*' = '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 1 / 8 - 8 + 9, the precedence of the operators is redefined. If 1 / 8 - 8 + 9 = -16.875, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' = '+'\nB. '/' > '-' > '+'\nC. '+' > '/' = '-'\nD. '/' = '-' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 4 - 5 / 3 * 5, the precedence of the operators is redefined. If 4 - 5 / 3 * 5 = -0.06666666666666667, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '-'\nB. '/' > '*' > '-'\nC. '-' = '*' > '/'\nD. '-' = '/' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 1 / 1 * 5 - 1, the precedence of the operators is redefined. If 1 / 1 * 5 - 1 = 0.25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '*'\nB. '*' = '/' > '-'\nC. '-' > '*' > '/'\nD. '*' = '/' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 3 / 2 * 3 - 9, the precedence of the operators is redefined. If 3 / 2 * 3 - 9 = -0.25, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '/' = '-' > '*'\nC. '-' > '/' > '*'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 6 + 1 / 5 - 1, the precedence of the operators is redefined. If 6 + 1 / 5 - 1 = 1.75, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '-'\nB. '/' = '+' > '-'\nC. '-' > '/' = '+'\nD. '-' = '+' = '/'",
+                "C"
+            ]
+        ]
+    }
+}
