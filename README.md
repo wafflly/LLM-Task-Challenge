@@ -24,6 +24,6 @@ This repository is for our paper: Challenging Large Language Models with New Tas
 
 4. **Evaluation script**:
     - The evaluation scripts are Python files that begin with 'eval'. T1-T6 stands for six tasks. For instance, `eval_T2.py` is the evaluation script for Task 2. Please note Task 1 has two evaluation scripts for length two and length three expressions respectively.
-    - For Task 3, please use eval_T3.sh.
+    - For Task 3, please use `eval_T3.sh` .
     - The OpenAI API key is in the `config.py` under 'src'. Please replace it with your own key when calling the evaluation scripts.
 
