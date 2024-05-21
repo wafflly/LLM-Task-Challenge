@@ -1,0 +1,810 @@
+{
+    "+": [
+        [
+            "[Example Question]: What is the value of 6 - 8 + 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 6 - 8 = -2, so the expression becomes -2 + 9.\nStep2: Next, -2 + 9 = 7, so the final answer is [7].\n\nWhat is the value of 9 - 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "[Example Question]: What is the value of 6 - 8 + 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 6 - 8 = -2, so the expression becomes -2 + 5.\nStep2: Next, -2 + 5 = 3, so the final answer is [3].\n\nWhat is the value of 5 - 4 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5
+        ],
+        [
+            "[Example Question]: What is the value of 2 + 1 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 5 = 5, so the expression becomes 2 + 5.\nNext, 2 + 5 = 7, so the final answer is [7].\n\nWhat is the value of 2 + 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            65
+        ],
+        [
+            "[Example Question]: What is the value of 7 * 1 + 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7 * 1 = 7, so the expression becomes 7 + 7.\nNext, 7 + 7 = 14, so the final answer is [14].\n\nWhat is the value of 3 * 3 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 7 / 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 7 / 7 = 1.0, so the expression becomes 9 + 1.0.\nNext, 9 + 1.0 = 10.0, so the final answer is [10.0].\n\nWhat is the value of 2 + 4 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.0
+        ],
+        [
+            "[Example Question]: What is the value of 3 + 9 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9 * 8 = 72, so the expression becomes 3 + 72.\nNext, 3 + 72 = 75, so the final answer is [75].\n\nWhat is the value of 8 + 7 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            57
+        ],
+        [
+            "[Example Question]: What is the value of 1 + 2 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 2 * 8 = 16, so the expression becomes 1 + 16.\nNext, 1 + 16 = 17, so the final answer is [17].\n\nWhat is the value of 4 + 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20
+        ],
+        [
+            "[Example Question]: What is the value of 3 + 8 / 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 8 / 3 = 2.6666666666666665, so the expression becomes 3 + 2.6666666666666665.\nNext, 3 + 2.6666666666666665 = 5.666666666666666, so the final answer is [5.666666666666666].\n\nWhat is the value of 5 + 3 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.5
+        ],
+        [
+            "[Example Question]: What is the value of 5 * 1 + 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5 * 1 = 5, so the expression becomes 5 + 6.\nNext, 5 + 6 = 11, so the final answer is [11].\n\nWhat is the value of 6 * 1 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "[Example Question]: What is the value of 3 + 5 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5 * 3 = 15, so the expression becomes 3 + 15.\nNext, 3 + 15 = 18, so the final answer is [18].\n\nWhat is the value of 1 + 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22
+        ],
+        [
+            "[Example Question]: What is the value of 8 * 5 + 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8 * 5 = 40, so the expression becomes 40 + 6.\nNext, 40 + 6 = 46, so the final answer is [46].\n\nWhat is the value of 7 * 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            45
+        ],
+        [
+            "[Example Question]: What is the value of 4 + 2 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 2 * 1 = 2, so the expression becomes 4 + 2.\nNext, 4 + 2 = 6, so the final answer is [6].\n\nWhat is the value of 7 + 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            71
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 6 + 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 8 - 6 = 2, so the expression becomes 2 + 8.\nStep2: Next, 2 + 8 = 10, so the final answer is [10].\n\nWhat is the value of 5 - 1 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "[Example Question]: What is the value of 6 + 5 * 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5 * 2 = 10, so the expression becomes 6 + 10.\nNext, 6 + 10 = 16, so the final answer is [16].\n\nWhat is the value of 6 + 1 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "[Example Question]: What is the value of 1 * 9 + 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 9 = 9, so the expression becomes 9 + 7.\nNext, 9 + 7 = 16, so the final answer is [16].\n\nWhat is the value of 9 * 6 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            56
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 4 + 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 8 - 4 = 4, so the expression becomes 4 + 5.\nStep2: Next, 4 + 5 = 9, so the final answer is [9].\n\nWhat is the value of 7 - 6 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 7 + 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 2 - 7 = -5, so the expression becomes -5 + 6.\nStep2: Next, -5 + 6 = 1, so the final answer is [1].\n\nWhat is the value of 6 - 7 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 3 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3 * 9 = 27, so the expression becomes 9 + 27.\nNext, 9 + 27 = 36, so the final answer is [36].\n\nWhat is the value of 3 + 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "[Example Question]: What is the value of 3 - 1 + 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 3 - 1 = 2, so the expression becomes 2 + 1.\nStep2: Next, 2 + 1 = 3, so the final answer is [3].\n\nWhat is the value of 2 - 3 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8
+        ],
+        [
+            "[Example Question]: What is the value of 4 + 3 / 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3 / 4 = 0.75, so the expression becomes 4 + 0.75.\nNext, 4 + 0.75 = 4.75, so the final answer is [4.75].\n\nWhat is the value of 4 + 2 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.333333333333333
+        ],
+        [
+            "[Example Question]: What is the value of 8 * 4 + 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8 * 4 = 32, so the expression becomes 32 + 3.\nNext, 32 + 3 = 35, so the final answer is [35].\n\nWhat is the value of 3 * 5 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "[Example Question]: What is the value of 6 * 7 + 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6 * 7 = 42, so the expression becomes 42 + 9.\nNext, 42 + 9 = 51, so the final answer is [51].\n\nWhat is the value of 5 * 2 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 9 + 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 7 - 9 = -2, so the expression becomes -2 + 3.\nStep2: Next, -2 + 3 = 1, so the final answer is [1].\n\nWhat is the value of 6 - 2 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "[Example Question]: What is the value of 4 - 5 + 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 4 - 5 = -1, so the expression becomes -1 + 4.\nStep2: Next, -1 + 4 = 3, so the final answer is [3].\n\nWhat is the value of 7 - 5 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5
+        ],
+        [
+            "[Example Question]: What is the value of 1 + 1 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 5 = 5, so the expression becomes 1 + 5.\nNext, 1 + 5 = 6, so the final answer is [6].\n\nWhat is the value of 3 + 2 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15
+        ],
+        [
+            "[Example Question]: What is the value of 5 + 1 / 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1 / 9 = 0.1111111111111111, so the expression becomes 5 + 0.1111111111111111.\nNext, 5 + 0.1111111111111111 = 5.111111111111111, so the final answer is [5.111111111111111].\n\nWhat is the value of 5 + 4 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.444444444444445
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 8 / 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 8 / 7 = 1.1428571428571428, so the expression becomes 9 + 1.1428571428571428.\nNext, 9 + 1.1428571428571428 = 10.142857142857142, so the final answer is [10.142857142857142].\n\nWhat is the value of 3 + 3 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.5
+        ],
+        [
+            "[Example Question]: What is the value of 3 + 6 / 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6 / 6 = 1.0, so the expression becomes 3 + 1.0.\nNext, 3 + 1.0 = 4.0, so the final answer is [4.0].\n\nWhat is the value of 7 + 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.142857142857142
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 8 / 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 8 / 5 = 1.6, so the expression becomes 9 + 1.6.\nNext, 9 + 1.6 = 10.6, so the final answer is [10.6].\n\nWhat is the value of 8 + 7 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10.333333333333334
+        ],
+        [
+            "[Example Question]: What is the value of 1 / 7 + 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1 / 7 = 0.14285714285714285, so the expression becomes 0.14285714285714285 + 2.\nNext, 0.14285714285714285 + 2 = 2.142857142857143, so the final answer is [2.142857142857143].\n\nWhat is the value of 7 / 4 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.75
+        ],
+        [
+            "[Example Question]: What is the value of 2 + 1 / 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1 / 7 = 0.14285714285714285, so the expression becomes 2 + 0.14285714285714285.\nNext, 2 + 0.14285714285714285 = 2.142857142857143, so the final answer is [2.142857142857143].\n\nWhat is the value of 4 + 5 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.666666666666667
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 2 + 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 8 - 2 = 6, so the expression becomes 6 + 3.\nStep2: Next, 6 + 3 = 9, so the final answer is [9].\n\nWhat is the value of 2 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1
+        ],
+        [
+            "[Example Question]: What is the value of 1 * 1 + 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 1 = 1, so the expression becomes 1 + 8.\nNext, 1 + 8 = 9, so the final answer is [9].\n\nWhat is the value of 2 * 7 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22
+        ],
+        [
+            "[Example Question]: What is the value of 6 + 9 / 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 9 / 7 = 1.2857142857142858, so the expression becomes 6 + 1.2857142857142858.\nNext, 6 + 1.2857142857142858 = 7.285714285714286, so the final answer is [7.285714285714286].\n\nWhat is the value of 6 + 9 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.0
+        ],
+        [
+            "[Example Question]: What is the value of 7 + 5 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5 * 8 = 40, so the expression becomes 7 + 40.\nNext, 7 + 40 = 47, so the final answer is [47].\n\nWhat is the value of 8 + 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 2 + 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 1 - 2 = -1, so the expression becomes -1 + 5.\nStep2: Next, -1 + 5 = 4, so the final answer is [4].\n\nWhat is the value of 1 - 1 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "[Example Question]: What is the value of 5 * 6 + 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5 * 6 = 30, so the expression becomes 30 + 1.\nNext, 30 + 1 = 31, so the final answer is [31].\n\nWhat is the value of 5 * 4 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            26
+        ],
+        [
+            "[Example Question]: What is the value of 5 / 9 + 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5 / 9 = 0.5555555555555556, so the expression becomes 0.5555555555555556 + 9.\nNext, 0.5555555555555556 + 9 = 9.555555555555555, so the final answer is [9.555555555555555].\n\nWhat is the value of 7 / 9 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.777777777777778
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 6 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6 * 9 = 54, so the expression becomes 9 + 54.\nNext, 9 + 54 = 63, so the final answer is [63].\n\nWhat is the value of 2 + 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            74
+        ],
+        [
+            "[Example Question]: What is the value of 2 / 7 + 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 2 / 7 = 0.2857142857142857, so the expression becomes 0.2857142857142857 + 3.\nNext, 0.2857142857142857 + 3 = 3.2857142857142856, so the final answer is [3.2857142857142856].\n\nWhat is the value of 4 / 9 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.444444444444445
+        ],
+        [
+            "[Example Question]: What is the value of 7 + 8 / 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 8 / 6 = 1.3333333333333333, so the expression becomes 7 + 1.3333333333333333.\nNext, 7 + 1.3333333333333333 = 8.333333333333334, so the final answer is [8.333333333333334].\n\nWhat is the value of 2 + 1 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.1666666666666665
+        ],
+        [
+            "[Example Question]: What is the value of 9 / 1 + 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 9 / 1 = 9.0, so the expression becomes 9.0 + 2.\nNext, 9.0 + 2 = 11.0, so the final answer is [11.0].\n\nWhat is the value of 1 / 3 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.333333333333333
+        ],
+        [
+            "[Example Question]: What is the value of 9 * 8 + 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9 * 8 = 72, so the expression becomes 72 + 5.\nNext, 72 + 5 = 77, so the final answer is [77].\n\nWhat is the value of 5 * 2 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "[Example Question]: What is the value of 7 + 9 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9 * 1 = 9, so the expression becomes 7 + 9.\nNext, 7 + 9 = 16, so the final answer is [16].\n\nWhat is the value of 9 + 9 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            45
+        ],
+        [
+            "[Example Question]: What is the value of 6 * 9 + 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6 * 9 = 54, so the expression becomes 54 + 2.\nNext, 54 + 2 = 56, so the final answer is [56].\n\nWhat is the value of 3 * 7 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28
+        ],
+        [
+            "[Example Question]: What is the value of 5 + 1 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 5 = 5, so the expression becomes 5 + 5.\nNext, 5 + 5 = 10, so the final answer is [10].\n\nWhat is the value of 8 + 6 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            50
+        ],
+        [
+            "[Example Question]: What is the value of 1 * 1 + 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 1 = 1, so the expression becomes 1 + 4.\nNext, 1 + 4 = 5, so the final answer is [5].\n\nWhat is the value of 5 * 1 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 1 + 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 2 - 1 = 1, so the expression becomes 1 + 9.\nStep2: Next, 1 + 9 = 10, so the final answer is [10].\n\nWhat is the value of 4 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 3 + 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 7 - 3 = 4, so the expression becomes 4 + 9.\nStep2: Next, 4 + 9 = 13, so the final answer is [13].\n\nWhat is the value of 7 - 4 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 4 + 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 1 - 4 = -3, so the expression becomes -3 + 4.\nStep2: Next, -3 + 4 = 1, so the final answer is [1].\n\nWhat is the value of 9 - 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ]
+    ],
+    "-": [
+        [
+            "[Example Question]: What is the value of 3 - 9 / 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 9 / 5 = 1.8, so the expression becomes 3 - 1.8.\nNext, 3 - 1.8 = 1.2, so the final answer is [1.2].\n\nWhat is the value of 3 - 2 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.75
+        ],
+        [
+            "[Example Question]: What is the value of 6 * 8 - 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 6 * 8 = 48, so the expression becomes 48 - 4.\nNext, 48 - 4 = 44, so the final answer is [44].\n\nWhat is the value of 4 * 8 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28
+        ],
+        [
+            "[Example Question]: What is the value of 9 - 2 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2 * 8 = 16, so the expression becomes 9 - 16.\nNext, 9 - 16 = -7, so the final answer is [-7].\n\nWhat is the value of 9 - 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -31
+        ],
+        [
+            "[Example Question]: What is the value of 6 * 6 - 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 6 * 6 = 36, so the expression becomes 36 - 6.\nNext, 36 - 6 = 30, so the final answer is [30].\n\nWhat is the value of 2 * 8 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "[Example Question]: What is the value of 2 / 9 - 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2 / 9 = 0.2222222222222222, so the expression becomes 0.2222222222222222 - 3.\nNext, 0.2222222222222222 - 3 = -2.7777777777777777, so the final answer is [-2.7777777777777777].\n\nWhat is the value of 3 / 2 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.5
+        ],
+        [
+            "[Example Question]: What is the value of 6 - 1 / 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1 / 5 = 0.2, so the expression becomes 6 - 0.2.\nNext, 6 - 0.2 = 5.8, so the final answer is [5.8].\n\nWhat is the value of 8 - 8 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.111111111111111
+        ],
+        [
+            "[Example Question]: What is the value of 3 - 5 / 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 5 / 8 = 0.625, so the expression becomes 3 - 0.625.\nNext, 3 - 0.625 = 2.375, so the final answer is [2.375].\n\nWhat is the value of 4 - 8 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.666666666666667
+        ],
+        [
+            "[Example Question]: What is the value of 6 - 1 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1 * 8 = 8, so the expression becomes 6 - 8.\nNext, 6 - 8 = -2, so the final answer is [-2].\n\nWhat is the value of 7 - 1 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 8 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 8 * 8 = 64, so the expression becomes 2 - 64.\nNext, 2 - 64 = -62, so the final answer is [-62].\n\nWhat is the value of 5 - 6 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -25
+        ],
+        [
+            "[Example Question]: What is the value of 4 - 8 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 8 * 1 = 8, so the expression becomes 4 - 8.\nNext, 4 - 8 = -4, so the final answer is [-4].\n\nWhat is the value of 8 - 7 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -48
+        ],
+        [
+            "[Example Question]: What is the value of 5 - 8 + 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 5 - 8 = -3, so the expression becomes -3 + 2.\nStep2: Next, -3 + 2 = -1, so the final answer is [-1].\n\nWhat is the value of 6 - 3 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 2 * 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2 * 7 = 14, so the expression becomes 7 - 14.\nNext, 7 - 14 = -7, so the final answer is [-7].\n\nWhat is the value of 1 - 8 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -47
+        ],
+        [
+            "[Example Question]: What is the value of 9 - 9 / 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 9 / 4 = 2.25, so the expression becomes 9 - 2.25.\nNext, 9 - 2.25 = 6.75, so the final answer is [6.75].\n\nWhat is the value of 5 - 1 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.875
+        ],
+        [
+            "[Example Question]: What is the value of 9 - 9 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9 * 9 = 81, so the expression becomes 9 - 81.\nNext, 9 - 81 = -72, so the final answer is [-72].\n\nWhat is the value of 3 - 6 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -45
+        ],
+        [
+            "[Example Question]: What is the value of 5 - 8 / 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8 / 7 = 1.1428571428571428, so the expression becomes 5 - 1.1428571428571428.\nNext, 5 - 1.1428571428571428 = 3.857142857142857, so the final answer is [3.857142857142857].\n\nWhat is the value of 9 - 2 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.714285714285714
+        ],
+        [
+            "[Example Question]: What is the value of 5 * 2 - 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5 * 2 = 10, so the expression becomes 10 - 2.\nNext, 10 - 2 = 8, so the final answer is [8].\n\nWhat is the value of 5 * 4 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "[Example Question]: What is the value of 1 / 4 - 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1 / 4 = 0.25, so the expression becomes 0.25 - 1.\nNext, 0.25 - 1 = -0.75, so the final answer is [-0.75].\n\nWhat is the value of 2 / 9 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.7777777777777777
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 2 / 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2 / 1 = 2.0, so the expression becomes 1 - 2.0.\nNext, 1 - 2.0 = -1.0, so the final answer is [-1.0].\n\nWhat is the value of 1 - 4 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.19999999999999996
+        ],
+        [
+            "[Example Question]: What is the value of 1 * 5 - 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1 * 5 = 5, so the expression becomes 5 - 1.\nNext, 5 - 1 = 4, so the final answer is [4].\n\nWhat is the value of 3 * 3 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2
+        ],
+        [
+            "[Example Question]: What is the value of 9 - 4 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4 * 9 = 36, so the expression becomes 9 - 36.\nNext, 9 - 36 = -27, so the final answer is [-27].\n\nWhat is the value of 8 - 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -8
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 6 / 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 6 / 1 = 6.0, so the expression becomes 1 - 6.0.\nNext, 1 - 6.0 = -5.0, so the final answer is [-5.0].\n\nWhat is the value of 9 - 2 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.0
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 8 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 8 * 3 = 24, so the expression becomes 8 - 24.\nNext, 8 - 24 = -16, so the final answer is [-16].\n\nWhat is the value of 2 - 8 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -22
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 9 / 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 9 / 5 = 1.8, so the expression becomes 2 - 1.8.\nNext, 2 - 1.8 = 0.19999999999999996, so the final answer is [0.19999999999999996].\n\nWhat is the value of 9 - 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.5
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 8 + 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 7 - 8 = -1, so the expression becomes -1 + 1.\nStep2: Next, -1 + 1 = 0, so the final answer is [0].\n\nWhat is the value of 9 - 1 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 9 / 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 9 / 4 = 2.25, so the expression becomes 8 - 2.25.\nNext, 8 - 2.25 = 5.75, so the final answer is [5.75].\n\nWhat is the value of 7 - 5 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.444444444444445
+        ],
+        [
+            "[Example Question]: What is the value of 2 * 3 - 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2 * 3 = 6, so the expression becomes 6 - 6.\nNext, 6 - 6 = 0, so the final answer is [0].\n\nWhat is the value of 7 * 4 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            23
+        ],
+        [
+            "[Example Question]: What is the value of 5 / 9 - 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 5 / 9 = 0.5555555555555556, so the expression becomes 0.5555555555555556 - 6.\nNext, 0.5555555555555556 - 6 = -5.444444444444445, so the final answer is [-5.444444444444445].\n\nWhat is the value of 3 / 2 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.5
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 8 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 8 * 4 = 32, so the expression becomes 1 - 32.\nNext, 1 - 32 = -31, so the final answer is [-31].\n\nWhat is the value of 1 - 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -15
+        ],
+        [
+            "[Example Question]: What is the value of 5 - 7 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7 * 5 = 35, so the expression becomes 5 - 35.\nNext, 5 - 35 = -30, so the final answer is [-30].\n\nWhat is the value of 7 - 7 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -21
+        ],
+        [
+            "[Example Question]: What is the value of 9 / 5 - 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 9 / 5 = 1.8, so the expression becomes 1.8 - 8.\nNext, 1.8 - 8 = -6.2, so the final answer is [-6.2].\n\nWhat is the value of 2 / 1 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2.0
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 7 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7 * 5 = 35, so the expression becomes 2 - 35.\nNext, 2 - 35 = -33, so the final answer is [-33].\n\nWhat is the value of 9 - 2 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 7 + 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 7 - 7 = 0, so the expression becomes 0 + 7.\nStep2: Next, 0 + 7 = 7, so the final answer is [7].\n\nWhat is the value of 1 - 8 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5
+        ],
+        [
+            "[Example Question]: What is the value of 9 / 1 - 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 9 / 1 = 9.0, so the expression becomes 9.0 - 3.\nNext, 9.0 - 3 = 6.0, so the final answer is [6.0].\n\nWhat is the value of 7 / 5 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4.6
+        ],
+        [
+            "[Example Question]: What is the value of 3 * 3 - 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3 * 3 = 9, so the expression becomes 9 - 2.\nNext, 9 - 2 = 7, so the final answer is [7].\n\nWhat is the value of 4 * 5 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "[Example Question]: What is the value of 4 - 2 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2 * 1 = 2, so the expression becomes 4 - 2.\nNext, 4 - 2 = 2, so the final answer is [2].\n\nWhat is the value of 2 - 7 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -26
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 1 + 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 1 - 1 = 0, so the expression becomes 0 + 2.\nStep2: Next, 0 + 2 = 2, so the final answer is [2].\n\nWhat is the value of 4 - 2 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 8 / 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8 / 8 = 1.0, so the expression becomes 7 - 1.0.\nNext, 7 - 1.0 = 6.0, so the final answer is [6.0].\n\nWhat is the value of 8 - 5 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.285714285714286
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 5 / 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 5 / 4 = 1.25, so the expression becomes 8 - 1.25.\nNext, 8 - 1.25 = 6.75, so the final answer is [6.75].\n\nWhat is the value of 8 - 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.777777777777778
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 1 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1 * 8 = 8, so the expression becomes 7 - 8.\nNext, 7 - 8 = -1, so the final answer is [-1].\n\nWhat is the value of 2 - 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5
+        ],
+        [
+            "[Example Question]: What is the value of 7 / 2 - 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 7 / 2 = 3.5, so the expression becomes 3.5 - 3.\nNext, 3.5 - 3 = 0.5, so the final answer is [0.5].\n\nWhat is the value of 3 / 1 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2.0
+        ],
+        [
+            "[Example Question]: What is the value of 8 * 7 - 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 8 * 7 = 56, so the expression becomes 56 - 2.\nNext, 56 - 2 = 54, so the final answer is [54].\n\nWhat is the value of 6 * 6 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            30
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 1 / 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1 / 2 = 0.5, so the expression becomes 2 - 0.5.\nNext, 2 - 0.5 = 1.5, so the final answer is [1.5].\n\nWhat is the value of 1 - 3 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6666666666666667
+        ],
+        [
+            "[Example Question]: What is the value of 4 * 9 - 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4 * 9 = 36, so the expression becomes 36 - 4.\nNext, 36 - 4 = 32, so the final answer is [32].\n\nWhat is the value of 5 * 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6
+        ],
+        [
+            "[Example Question]: What is the value of 2 / 1 - 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2 / 1 = 2.0, so the expression becomes 2.0 - 8.\nNext, 2.0 - 8 = -6.0, so the final answer is [-6.0].\n\nWhat is the value of 3 / 7 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5.571428571428571
+        ],
+        [
+            "[Example Question]: What is the value of 7 * 2 - 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7 * 2 = 14, so the expression becomes 14 - 5.\nNext, 14 - 5 = 9, so the final answer is [9].\n\nWhat is the value of 4 * 2 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 3 * 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3 * 6 = 18, so the expression becomes 2 - 18.\nNext, 2 - 18 = -16, so the final answer is [-16].\n\nWhat is the value of 8 - 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -64
+        ],
+        [
+            "[Example Question]: What is the value of 1 / 1 - 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1 / 1 = 1.0, so the expression becomes 1.0 - 3.\nNext, 1.0 - 3 = -2.0, so the final answer is [-2.0].\n\nWhat is the value of 8 / 3 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6666666666666665
+        ],
+        [
+            "[Example Question]: What is the value of 6 - 6 + 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 6 - 6 = 0, so the expression becomes 0 + 7.\nStep2: Next, 0 + 7 = 7, so the final answer is [7].\n\nWhat is the value of 8 - 3 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "[Example Question]: What is the value of 9 * 1 - 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9 * 1 = 9, so the expression becomes 9 - 5.\nNext, 9 - 5 = 4, so the final answer is [4].\n\nWhat is the value of 6 * 9 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            47
+        ],
+        [
+            "[Example Question]: What is the value of 9 - 3 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3 * 8 = 24, so the expression becomes 9 - 24.\nNext, 9 - 24 = -15, so the final answer is [-15].\n\nWhat is the value of 4 - 5 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -16
+        ]
+    ],
+    "*": [
+        [
+            "[Example Question]: What is the value of 6 + 6 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6 * 5 = 30, so the expression becomes 6 + 30.\nNext, 6 + 30 = 36, so the final answer is [36].\n\nWhat is the value of 6 + 1 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15
+        ],
+        [
+            "[Example Question]: What is the value of 4 + 6 * 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6 * 6 = 36, so the expression becomes 4 + 36.\nNext, 4 + 36 = 40, so the final answer is [40].\n\nWhat is the value of 3 + 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "[Example Question]: What is the value of 3 + 2 * 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 2 * 2 = 4, so the expression becomes 3 + 4.\nNext, 3 + 4 = 7, so the final answer is [7].\n\nWhat is the value of 1 + 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22
+        ],
+        [
+            "[Example Question]: What is the value of 9 * 2 + 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9 * 2 = 18, so the expression becomes 18 + 1.\nNext, 18 + 1 = 19, so the final answer is [19].\n\nWhat is the value of 8 * 4 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            41
+        ],
+        [
+            "[Example Question]: What is the value of 5 + 5 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5 * 4 = 20, so the expression becomes 5 + 20.\nNext, 5 + 20 = 25, so the final answer is [25].\n\nWhat is the value of 6 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            69
+        ],
+        [
+            "[Example Question]: What is the value of 6 / 2 * 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 6 / 2 = 3.0, so the expression becomes 3.0 * 6.\nStep2: Next, 3.0 * 6 = 18.0, so the final answer is [18.0].\n\nWhat is the value of 9 / 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            21.0
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 5 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5 * 3 = 15, so the expression becomes 8 - 15.\nNext, 8 - 15 = -7, so the final answer is [-7].\n\nWhat is the value of 2 - 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -38
+        ],
+        [
+            "[Example Question]: What is the value of 9 * 8 + 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9 * 8 = 72, so the expression becomes 72 + 8.\nNext, 72 + 8 = 80, so the final answer is [80].\n\nWhat is the value of 9 * 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            51
+        ],
+        [
+            "[Example Question]: What is the value of 8 * 3 - 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 8 * 3 = 24, so the expression becomes 24 - 5.\nNext, 24 - 5 = 19, so the final answer is [19].\n\nWhat is the value of 2 * 7 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "[Example Question]: What is the value of 6 - 2 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2 * 3 = 6, so the expression becomes 6 - 6.\nNext, 6 - 6 = 0, so the final answer is [0].\n\nWhat is the value of 1 - 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -62
+        ],
+        [
+            "[Example Question]: What is the value of 8 * 5 + 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8 * 5 = 40, so the expression becomes 40 + 4.\nNext, 40 + 4 = 44, so the final answer is [44].\n\nWhat is the value of 3 * 5 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "[Example Question]: What is the value of 3 * 1 + 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3 * 1 = 3, so the expression becomes 3 + 4.\nNext, 3 + 4 = 7, so the final answer is [7].\n\nWhat is the value of 6 * 9 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            56
+        ],
+        [
+            "[Example Question]: What is the value of 8 / 9 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 8 / 9 = 0.8888888888888888, so the expression becomes 0.8888888888888888 * 8.\nStep2: Next, 0.8888888888888888 * 8 = 7.111111111111111, so the final answer is [7.111111111111111].\n\nWhat is the value of 1 / 7 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.8571428571428571
+        ],
+        [
+            "[Example Question]: What is the value of 7 * 5 + 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7 * 5 = 35, so the expression becomes 35 + 8.\nNext, 35 + 8 = 43, so the final answer is [43].\n\nWhat is the value of 8 * 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            75
+        ],
+        [
+            "[Example Question]: What is the value of 6 / 3 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 6 / 3 = 2.0, so the expression becomes 2.0 * 1.\nStep2: Next, 2.0 * 1 = 2.0, so the final answer is [2.0].\n\nWhat is the value of 7 / 4 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15.75
+        ],
+        [
+            "[Example Question]: What is the value of 4 - 3 * 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3 * 2 = 6, so the expression becomes 4 - 6.\nNext, 4 - 6 = -2, so the final answer is [-2].\n\nWhat is the value of 2 - 9 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -34
+        ],
+        [
+            "[Example Question]: What is the value of 6 + 8 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8 * 4 = 32, so the expression becomes 6 + 32.\nNext, 6 + 32 = 38, so the final answer is [38].\n\nWhat is the value of 4 + 5 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            34
+        ],
+        [
+            "[Example Question]: What is the value of 9 - 1 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1 * 8 = 8, so the expression becomes 9 - 8.\nNext, 9 - 8 = 1, so the final answer is [1].\n\nWhat is the value of 2 - 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -19
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 9 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9 * 5 = 45, so the expression becomes 1 - 45.\nNext, 1 - 45 = -44, so the final answer is [-44].\n\nWhat is the value of 4 - 2 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 5 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5 * 3 = 15, so the expression becomes 9 + 15.\nNext, 9 + 15 = 24, so the final answer is [24].\n\nWhat is the value of 8 + 4 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28
+        ],
+        [
+            "[Example Question]: What is the value of 6 - 4 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4 * 9 = 36, so the expression becomes 6 - 36.\nNext, 6 - 36 = -30, so the final answer is [-30].\n\nWhat is the value of 6 - 2 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 4 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4 * 9 = 36, so the expression becomes 1 - 36.\nNext, 1 - 36 = -35, so the final answer is [-35].\n\nWhat is the value of 7 - 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -14
+        ],
+        [
+            "[Example Question]: What is the value of 2 + 4 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 4 * 9 = 36, so the expression becomes 2 + 36.\nNext, 2 + 36 = 38, so the final answer is [38].\n\nWhat is the value of 5 + 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 1 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1 * 8 = 8, so the expression becomes 7 - 8.\nNext, 7 - 8 = -1, so the final answer is [-1].\n\nWhat is the value of 5 - 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -59
+        ],
+        [
+            "[Example Question]: What is the value of 3 + 3 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3 * 1 = 3, so the expression becomes 3 + 3.\nNext, 3 + 3 = 6, so the final answer is [6].\n\nWhat is the value of 6 + 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "[Example Question]: What is the value of 1 + 1 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 8 = 8, so the expression becomes 1 + 8.\nNext, 1 + 8 = 9, so the final answer is [9].\n\nWhat is the value of 9 + 8 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            49
+        ],
+        [
+            "[Example Question]: What is the value of 8 + 6 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6 * 5 = 30, so the expression becomes 8 + 30.\nNext, 8 + 30 = 38, so the final answer is [38].\n\nWhat is the value of 4 + 7 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            60
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 2 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2 * 1 = 2, so the expression becomes 1 - 2.\nNext, 1 - 2 = -1, so the final answer is [-1].\n\nWhat is the value of 6 - 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -66
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 9 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9 * 8 = 72, so the expression becomes 9 + 72.\nNext, 9 + 72 = 81, so the final answer is [81].\n\nWhat is the value of 9 + 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            49
+        ],
+        [
+            "[Example Question]: What is the value of 5 - 5 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5 * 1 = 5, so the expression becomes 5 - 5.\nNext, 5 - 5 = 0, so the final answer is [0].\n\nWhat is the value of 3 - 3 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "[Example Question]: What is the value of 6 + 8 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8 * 5 = 40, so the expression becomes 6 + 40.\nNext, 6 + 40 = 46, so the final answer is [46].\n\nWhat is the value of 3 + 2 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "[Example Question]: What is the value of 5 * 9 - 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5 * 9 = 45, so the expression becomes 45 - 5.\nNext, 45 - 5 = 40, so the final answer is [40].\n\nWhat is the value of 8 * 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            39
+        ],
+        [
+            "[Example Question]: What is the value of 1 * 5 + 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 5 = 5, so the expression becomes 5 + 4.\nNext, 5 + 4 = 9, so the final answer is [9].\n\nWhat is the value of 2 * 6 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            18
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 9 * 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9 * 6 = 54, so the expression becomes 2 - 54.\nNext, 2 - 54 = -52, so the final answer is [-52].\n\nWhat is the value of 7 - 8 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -33
+        ],
+        [
+            "[Example Question]: What is the value of 5 * 5 - 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5 * 5 = 25, so the expression becomes 25 - 4.\nNext, 25 - 4 = 21, so the final answer is [21].\n\nWhat is the value of 8 * 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "[Example Question]: What is the value of 3 * 4 - 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3 * 4 = 12, so the expression becomes 12 - 5.\nNext, 12 - 5 = 7, so the final answer is [7].\n\nWhat is the value of 4 * 1 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2
+        ],
+        [
+            "[Example Question]: What is the value of 1 - 1 * 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1 * 2 = 2, so the expression becomes 1 - 2.\nNext, 1 - 2 = -1, so the final answer is [-1].\n\nWhat is the value of 9 - 5 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -16
+        ],
+        [
+            "[Example Question]: What is the value of 8 * 8 + 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8 * 8 = 64, so the expression becomes 64 + 5.\nNext, 64 + 5 = 69, so the final answer is [69].\n\nWhat is the value of 4 * 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            26
+        ],
+        [
+            "[Example Question]: What is the value of 6 / 3 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 6 / 3 = 2.0, so the expression becomes 2.0 * 1.\nStep2: Next, 2.0 * 1 = 2.0, so the final answer is [2.0].\n\nWhat is the value of 6 / 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.6
+        ],
+        [
+            "[Example Question]: What is the value of 5 - 4 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4 * 5 = 20, so the expression becomes 5 - 20.\nNext, 5 - 20 = -15, so the final answer is [-15].\n\nWhat is the value of 5 - 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 3 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3 * 4 = 12, so the expression becomes 9 + 12.\nNext, 9 + 12 = 21, so the final answer is [21].\n\nWhat is the value of 8 + 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20
+        ],
+        [
+            "[Example Question]: What is the value of 2 * 9 - 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2 * 9 = 18, so the expression becomes 18 - 8.\nNext, 18 - 8 = 10, so the final answer is [10].\n\nWhat is the value of 9 * 2 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "[Example Question]: What is the value of 6 - 9 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9 * 8 = 72, so the expression becomes 6 - 72.\nNext, 6 - 72 = -66, so the final answer is [-66].\n\nWhat is the value of 9 - 7 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -40
+        ],
+        [
+            "[Example Question]: What is the value of 1 * 1 + 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 1 = 1, so the expression becomes 1 + 5.\nNext, 1 + 5 = 6, so the final answer is [6].\n\nWhat is the value of 3 * 1 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 9 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9 * 3 = 27, so the expression becomes 8 - 27.\nNext, 8 - 27 = -19, so the final answer is [-19].\n\nWhat is the value of 8 - 2 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -10
+        ],
+        [
+            "[Example Question]: What is the value of 7 * 5 - 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7 * 5 = 35, so the expression becomes 35 - 5.\nNext, 35 - 5 = 30, so the final answer is [30].\n\nWhat is the value of 3 * 9 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            18
+        ],
+        [
+            "[Example Question]: What is the value of 5 + 3 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3 * 3 = 9, so the expression becomes 5 + 9.\nNext, 5 + 9 = 14, so the final answer is [14].\n\nWhat is the value of 3 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            66
+        ],
+        [
+            "[Example Question]: What is the value of 9 - 7 * 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7 * 2 = 14, so the expression becomes 9 - 14.\nNext, 9 - 14 = -5, so the final answer is [-5].\n\nWhat is the value of 3 - 5 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -17
+        ],
+        [
+            "[Example Question]: What is the value of 8 + 1 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1 * 8 = 8, so the expression becomes 8 + 8.\nNext, 8 + 8 = 16, so the final answer is [16].\n\nWhat is the value of 8 + 4 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            40
+        ],
+        [
+            "[Example Question]: What is the value of 4 / 8 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 4 / 8 = 0.5, so the expression becomes 0.5 * 4.\nStep2: Next, 0.5 * 4 = 2.0, so the final answer is [2.0].\n\nWhat is the value of 1 / 3 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.6666666666666665
+        ]
+    ],
+    "/": [
+        [
+            "[Example Question]: What is the value of 7 / 3 + 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 7 / 3 = 2.3333333333333335, so the expression becomes 2.3333333333333335 + 2.\nNext, 2.3333333333333335 + 2 = 4.333333333333334, so the final answer is [4.333333333333334].\n\nWhat is the value of 3 / 3 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.0
+        ],
+        [
+            "[Example Question]: What is the value of 3 / 6 + 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3 / 6 = 0.5, so the expression becomes 0.5 + 9.\nNext, 0.5 + 9 = 9.5, so the final answer is [9.5].\n\nWhat is the value of 3 / 1 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.0
+        ],
+        [
+            "[Example Question]: What is the value of 2 / 2 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 2 / 2 = 1.0, so the expression becomes 1.0 * 1.\nStep2: Next, 1.0 * 1 = 1.0, so the final answer is [1.0].\n\nWhat is the value of 5 / 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.0
+        ],
+        [
+            "[Example Question]: What is the value of 1 / 1 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 1 / 1 = 1.0, so the expression becomes 1.0 * 8.\nStep2: Next, 1.0 * 8 = 8.0, so the final answer is [8.0].\n\nWhat is the value of 1 / 1 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.0
+        ],
+        [
+            "[Example Question]: What is the value of 2 / 9 - 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2 / 9 = 0.2222222222222222, so the expression becomes 0.2222222222222222 - 3.\nNext, 0.2222222222222222 - 3 = -2.7777777777777777, so the final answer is [-2.7777777777777777].\n\nWhat is the value of 4 / 6 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.3333333333333335
+        ],
+        [
+            "[Example Question]: What is the value of 2 / 4 - 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2 / 4 = 0.5, so the expression becomes 0.5 - 2.\nNext, 0.5 - 2 = -1.5, so the final answer is [-1.5].\n\nWhat is the value of 3 / 5 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.4
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 2 / 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 2 / 6 = 0.3333333333333333, so the expression becomes 9 + 0.3333333333333333.\nNext, 9 + 0.3333333333333333 = 9.333333333333334, so the final answer is [9.333333333333334].\n\nWhat is the value of 6 + 1 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.111111111111111
+        ],
+        [
+            "[Example Question]: What is the value of 9 / 3 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 9 / 3 = 3.0, so the expression becomes 3.0 * 1.\nStep2: Next, 3.0 * 1 = 3.0, so the final answer is [3.0].\n\nWhat is the value of 5 / 2 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10.0
+        ],
+        [
+            "[Example Question]: What is the value of 6 + 8 / 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 8 / 9 = 0.8888888888888888, so the expression becomes 6 + 0.8888888888888888.\nNext, 6 + 0.8888888888888888 = 6.888888888888889, so the final answer is [6.888888888888889].\n\nWhat is the value of 9 + 8 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11.0
+        ],
+        [
+            "[Example Question]: What is the value of 5 / 9 * 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 5 / 9 = 0.5555555555555556, so the expression becomes 0.5555555555555556 * 3.\nStep2: Next, 0.5555555555555556 * 3 = 1.6666666666666667, so the final answer is [1.6666666666666667].\n\nWhat is the value of 2 / 7 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.4285714285714284
+        ],
+        [
+            "[Example Question]: What is the value of 3 / 9 + 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3 / 9 = 0.3333333333333333, so the expression becomes 0.3333333333333333 + 6.\nNext, 0.3333333333333333 + 6 = 6.333333333333333, so the final answer is [6.333333333333333].\n\nWhat is the value of 8 / 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.333333333333333
+        ],
+        [
+            "[Example Question]: What is the value of 7 / 5 * 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 7 / 5 = 1.4, so the expression becomes 1.4 * 9.\nStep2: Next, 1.4 * 9 = 12.6, so the final answer is [12.6].\n\nWhat is the value of 7 / 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.0
+        ],
+        [
+            "[Example Question]: What is the value of 9 / 3 * 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 9 / 3 = 3.0, so the expression becomes 3.0 * 2.\nStep2: Next, 3.0 * 2 = 6.0, so the final answer is [6.0].\n\nWhat is the value of 4 / 3 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10.666666666666666
+        ],
+        [
+            "[Example Question]: What is the value of 8 + 2 / 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 2 / 8 = 0.25, so the expression becomes 8 + 0.25.\nNext, 8 + 0.25 = 8.25, so the final answer is [8.25].\n\nWhat is the value of 9 + 5 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.714285714285714
+        ],
+        [
+            "[Example Question]: What is the value of 4 + 5 / 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5 / 7 = 0.7142857142857143, so the expression becomes 4 + 0.7142857142857143.\nNext, 4 + 0.7142857142857143 = 4.714285714285714, so the final answer is [4.714285714285714].\n\nWhat is the value of 5 + 8 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.0
+        ],
+        [
+            "[Example Question]: What is the value of 3 + 6 / 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6 / 4 = 1.5, so the expression becomes 3 + 1.5.\nNext, 3 + 1.5 = 4.5, so the final answer is [4.5].\n\nWhat is the value of 7 + 8 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.333333333333334
+        ],
+        [
+            "[Example Question]: What is the value of 1 / 9 + 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1 / 9 = 0.1111111111111111, so the expression becomes 0.1111111111111111 + 5.\nNext, 0.1111111111111111 + 5 = 5.111111111111111, so the final answer is [5.111111111111111].\n\nWhat is the value of 1 / 6 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.166666666666667
+        ],
+        [
+            "[Example Question]: What is the value of 5 / 7 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 5 / 7 = 0.7142857142857143, so the expression becomes 0.7142857142857143 * 5.\nStep2: Next, 0.7142857142857143 * 5 = 3.5714285714285716, so the final answer is [3.5714285714285716].\n\nWhat is the value of 9 / 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12.0
+        ],
+        [
+            "[Example Question]: What is the value of 8 / 1 * 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 8 / 1 = 8.0, so the expression becomes 8.0 * 1.\nStep2: Next, 8.0 * 1 = 8.0, so the final answer is [8.0].\n\nWhat is the value of 2 / 5 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.4000000000000004
+        ],
+        [
+            "[Example Question]: What is the value of 5 / 4 + 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5 / 4 = 1.25, so the expression becomes 1.25 + 7.\nNext, 1.25 + 7 = 8.25, so the final answer is [8.25].\n\nWhat is the value of 1 / 8 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.125
+        ],
+        [
+            "[Example Question]: What is the value of 8 / 5 - 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8 / 5 = 1.6, so the expression becomes 1.6 - 4.\nNext, 1.6 - 4 = -2.4, so the final answer is [-2.4].\n\nWhat is the value of 7 / 8 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.125
+        ],
+        [
+            "[Example Question]: What is the value of 7 - 1 / 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1 / 9 = 0.1111111111111111, so the expression becomes 7 - 0.1111111111111111.\nNext, 7 - 0.1111111111111111 = 6.888888888888889, so the final answer is [6.888888888888889].\n\nWhat is the value of 1 - 7 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.16666666666666674
+        ],
+        [
+            "[Example Question]: What is the value of 5 / 3 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 5 / 3 = 1.6666666666666667, so the expression becomes 1.6666666666666667 * 4.\nStep2: Next, 1.6666666666666667 * 4 = 6.666666666666667, so the final answer is [6.666666666666667].\n\nWhat is the value of 1 / 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5
+        ],
+        [
+            "[Example Question]: What is the value of 5 + 3 / 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3 / 2 = 1.5, so the expression becomes 5 + 1.5.\nNext, 5 + 1.5 = 6.5, so the final answer is [6.5].\n\nWhat is the value of 5 + 8 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.0
+        ],
+        [
+            "[Example Question]: What is the value of 9 / 4 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 9 / 4 = 2.25, so the expression becomes 2.25 * 8.\nStep2: Next, 2.25 * 8 = 18.0, so the final answer is [18.0].\n\nWhat is the value of 2 / 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "[Example Question]: What is the value of 2 / 3 * 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 2 / 3 = 0.6666666666666666, so the expression becomes 0.6666666666666666 * 8.\nStep2: Next, 0.6666666666666666 * 8 = 5.333333333333333, so the final answer is [5.333333333333333].\n\nWhat is the value of 4 / 4 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.0
+        ],
+        [
+            "[Example Question]: What is the value of 7 + 5 / 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5 / 5 = 1.0, so the expression becomes 7 + 1.0.\nNext, 7 + 1.0 = 8.0, so the final answer is [8.0].\n\nWhat is the value of 6 + 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.222222222222222
+        ],
+        [
+            "[Example Question]: What is the value of 8 + 2 / 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 2 / 6 = 0.3333333333333333, so the expression becomes 8 + 0.3333333333333333.\nNext, 8 + 0.3333333333333333 = 8.333333333333334, so the final answer is [8.333333333333334].\n\nWhat is the value of 5 + 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.5
+        ],
+        [
+            "[Example Question]: What is the value of 2 + 6 / 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6 / 3 = 2.0, so the expression becomes 2 + 2.0.\nNext, 2 + 2.0 = 4.0, so the final answer is [4.0].\n\nWhat is the value of 5 + 9 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.25
+        ],
+        [
+            "[Example Question]: What is the value of 4 + 9 / 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 9 / 4 = 2.25, so the expression becomes 4 + 2.25.\nNext, 4 + 2.25 = 6.25, so the final answer is [6.25].\n\nWhat is the value of 4 + 5 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.666666666666667
+        ],
+        [
+            "[Example Question]: What is the value of 4 - 3 / 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 3 / 3 = 1.0, so the expression becomes 4 - 1.0.\nNext, 4 - 1.0 = 3.0, so the final answer is [3.0].\n\nWhat is the value of 7 - 6 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.0
+        ],
+        [
+            "[Example Question]: What is the value of 7 + 7 / 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 7 / 8 = 0.875, so the expression becomes 7 + 0.875.\nNext, 7 + 0.875 = 7.875, so the final answer is [7.875].\n\nWhat is the value of 8 + 7 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.4
+        ],
+        [
+            "[Example Question]: What is the value of 4 / 2 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 4 / 2 = 2.0, so the expression becomes 2.0 * 4.\nStep2: Next, 2.0 * 4 = 8.0, so the final answer is [8.0].\n\nWhat is the value of 6 / 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.0
+        ],
+        [
+            "[Example Question]: What is the value of 4 / 6 * 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 4 / 6 = 0.6666666666666666, so the expression becomes 0.6666666666666666 * 4.\nStep2: Next, 0.6666666666666666 * 4 = 2.6666666666666665, so the final answer is [2.6666666666666665].\n\nWhat is the value of 5 / 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.25
+        ],
+        [
+            "[Example Question]: What is the value of 2 + 3 / 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3 / 1 = 3.0, so the expression becomes 2 + 3.0.\nNext, 2 + 3.0 = 5.0, so the final answer is [5.0].\n\nWhat is the value of 7 + 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.222222222222222
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 5 / 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 5 / 1 = 5.0, so the expression becomes 2 - 5.0.\nNext, 2 - 5.0 = -3.0, so the final answer is [-3.0].\n\nWhat is the value of 5 - 6 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.8
+        ],
+        [
+            "[Example Question]: What is the value of 2 - 3 / 8? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 3 / 8 = 0.375, so the expression becomes 2 - 0.375.\nNext, 2 - 0.375 = 1.625, so the final answer is [1.625].\n\nWhat is the value of 7 - 8 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.0
+        ],
+        [
+            "[Example Question]: What is the value of 8 + 6 / 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6 / 6 = 1.0, so the expression becomes 8 + 1.0.\nNext, 8 + 1.0 = 9.0, so the final answer is [9.0].\n\nWhat is the value of 9 + 2 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.25
+        ],
+        [
+            "[Example Question]: What is the value of 9 + 1 / 1? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1 / 1 = 1.0, so the expression becomes 9 + 1.0.\nNext, 9 + 1.0 = 10.0, so the final answer is [10.0].\n\nWhat is the value of 6 + 8 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.888888888888889
+        ],
+        [
+            "[Example Question]: What is the value of 2 + 4 / 3? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 4 / 3 = 1.3333333333333333, so the expression becomes 2 + 1.3333333333333333.\nNext, 2 + 1.3333333333333333 = 3.333333333333333, so the final answer is [3.333333333333333].\n\nWhat is the value of 5 + 3 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.428571428571429
+        ],
+        [
+            "[Example Question]: What is the value of 6 / 2 * 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 6 / 2 = 3.0, so the expression becomes 3.0 * 5.\nStep2: Next, 3.0 * 5 = 15.0, so the final answer is [15.0].\n\nWhat is the value of 8 / 9 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.333333333333333
+        ],
+        [
+            "[Example Question]: What is the value of 5 / 4 * 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 5 / 4 = 1.25, so the expression becomes 1.25 * 2.\nStep2: Next, 1.25 * 2 = 2.5, so the final answer is [2.5].\n\nWhat is the value of 3 / 6 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.5
+        ],
+        [
+            "[Example Question]: What is the value of 8 - 6 / 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 6 / 2 = 3.0, so the expression becomes 8 - 3.0.\nNext, 8 - 3.0 = 5.0, so the final answer is [5.0].\n\nWhat is the value of 7 - 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.857142857142858
+        ],
+        [
+            "[Example Question]: What is the value of 8 + 2 / 7? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 2 / 7 = 0.2857142857142857, so the expression becomes 8 + 0.2857142857142857.\nNext, 8 + 0.2857142857142857 = 8.285714285714286, so the final answer is [8.285714285714286].\n\nWhat is the value of 1 + 1 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.1428571428571428
+        ],
+        [
+            "[Example Question]: What is the value of 7 + 7 / 2? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 7 / 2 = 3.5, so the expression becomes 7 + 3.5.\nNext, 7 + 3.5 = 10.5, so the final answer is [10.5].\n\nWhat is the value of 4 + 2 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.666666666666667
+        ],
+        [
+            "[Example Question]: What is the value of 6 / 1 + 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6 / 1 = 6.0, so the expression becomes 6.0 + 6.\nNext, 6.0 + 6 = 12.0, so the final answer is [12.0].\n\nWhat is the value of 6 / 7 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.857142857142858
+        ],
+        [
+            "[Example Question]: What is the value of 7 + 4 / 5? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 4 / 5 = 0.8, so the expression becomes 7 + 0.8.\nNext, 7 + 0.8 = 7.8, so the final answer is [7.8].\n\nWhat is the value of 3 + 7 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.0
+        ],
+        [
+            "[Example Question]: What is the value of 3 / 6 * 6? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 3 / 6 = 0.5, so the expression becomes 0.5 * 6.\nStep2: Next, 0.5 * 6 = 3.0, so the final answer is [3.0].\n\nWhat is the value of 7 / 7 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.0
+        ],
+        [
+            "[Example Question]: What is the value of 6 / 7 - 4? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 6 / 7 = 0.8571428571428571, so the expression becomes 0.8571428571428571 - 4.\nNext, 0.8571428571428571 - 4 = -3.142857142857143, so the final answer is [-3.142857142857143].\n\nWhat is the value of 3 / 6 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -8.5
+        ],
+        [
+            "[Example Question]: What is the value of 3 / 8 + 9? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3 / 8 = 0.375, so the expression becomes 0.375 + 9.\nNext, 0.375 + 9 = 9.375, so the final answer is [9.375].\n\nWhat is the value of 5 / 8 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.625
+        ]
+    ]
+}

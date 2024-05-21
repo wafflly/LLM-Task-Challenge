@@ -1,0 +1,810 @@
+{
+    "+": [
+        [
+            "What is the value of 9 - 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "What is the value of 5 - 4 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5
+        ],
+        [
+            "What is the value of 2 + 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            65
+        ],
+        [
+            "What is the value of 3 * 3 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17
+        ],
+        [
+            "What is the value of 2 + 4 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.0
+        ],
+        [
+            "What is the value of 8 + 7 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            57
+        ],
+        [
+            "What is the value of 4 + 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20
+        ],
+        [
+            "What is the value of 5 + 3 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.5
+        ],
+        [
+            "What is the value of 6 * 1 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "What is the value of 1 + 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22
+        ],
+        [
+            "What is the value of 7 * 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            45
+        ],
+        [
+            "What is the value of 7 + 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            71
+        ],
+        [
+            "What is the value of 5 - 1 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "What is the value of 6 + 1 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "What is the value of 9 * 6 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            56
+        ],
+        [
+            "What is the value of 7 - 6 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "What is the value of 6 - 7 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6
+        ],
+        [
+            "What is the value of 3 + 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "What is the value of 2 - 3 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8
+        ],
+        [
+            "What is the value of 4 + 2 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.333333333333333
+        ],
+        [
+            "What is the value of 3 * 5 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "What is the value of 5 * 2 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "What is the value of 6 - 2 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "What is the value of 7 - 5 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5
+        ],
+        [
+            "What is the value of 3 + 2 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15
+        ],
+        [
+            "What is the value of 5 + 4 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.444444444444445
+        ],
+        [
+            "What is the value of 3 + 3 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.5
+        ],
+        [
+            "What is the value of 7 + 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.142857142857142
+        ],
+        [
+            "What is the value of 8 + 7 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10.333333333333334
+        ],
+        [
+            "What is the value of 7 / 4 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.75
+        ],
+        [
+            "What is the value of 4 + 5 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.666666666666667
+        ],
+        [
+            "What is the value of 2 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1
+        ],
+        [
+            "What is the value of 2 * 7 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22
+        ],
+        [
+            "What is the value of 6 + 9 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.0
+        ],
+        [
+            "What is the value of 8 + 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "What is the value of 1 - 1 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "What is the value of 5 * 4 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            26
+        ],
+        [
+            "What is the value of 7 / 9 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.777777777777778
+        ],
+        [
+            "What is the value of 2 + 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            74
+        ],
+        [
+            "What is the value of 4 / 9 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.444444444444445
+        ],
+        [
+            "What is the value of 2 + 1 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.1666666666666665
+        ],
+        [
+            "What is the value of 1 / 3 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.333333333333333
+        ],
+        [
+            "What is the value of 5 * 2 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "What is the value of 9 + 9 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            45
+        ],
+        [
+            "What is the value of 3 * 7 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28
+        ],
+        [
+            "What is the value of 8 + 6 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            50
+        ],
+        [
+            "What is the value of 5 * 1 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8
+        ],
+        [
+            "What is the value of 4 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "What is the value of 7 - 4 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "What is the value of 9 - 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ]
+    ],
+    "-": [
+        [
+            "What is the value of 3 - 2 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.75
+        ],
+        [
+            "What is the value of 4 * 8 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28
+        ],
+        [
+            "What is the value of 9 - 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -31
+        ],
+        [
+            "What is the value of 2 * 8 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "What is the value of 3 / 2 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.5
+        ],
+        [
+            "What is the value of 8 - 8 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.111111111111111
+        ],
+        [
+            "What is the value of 4 - 8 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.666666666666667
+        ],
+        [
+            "What is the value of 7 - 1 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4
+        ],
+        [
+            "What is the value of 5 - 6 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -25
+        ],
+        [
+            "What is the value of 8 - 7 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -48
+        ],
+        [
+            "What is the value of 6 - 3 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9
+        ],
+        [
+            "What is the value of 1 - 8 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -47
+        ],
+        [
+            "What is the value of 5 - 1 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.875
+        ],
+        [
+            "What is the value of 3 - 6 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -45
+        ],
+        [
+            "What is the value of 9 - 2 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.714285714285714
+        ],
+        [
+            "What is the value of 5 * 4 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "What is the value of 2 / 9 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.7777777777777777
+        ],
+        [
+            "What is the value of 1 - 4 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.19999999999999996
+        ],
+        [
+            "What is the value of 3 * 3 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2
+        ],
+        [
+            "What is the value of 8 - 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -8
+        ],
+        [
+            "What is the value of 9 - 2 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.0
+        ],
+        [
+            "What is the value of 2 - 8 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -22
+        ],
+        [
+            "What is the value of 9 - 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.5
+        ],
+        [
+            "What is the value of 9 - 1 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "What is the value of 7 - 5 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.444444444444445
+        ],
+        [
+            "What is the value of 7 * 4 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            23
+        ],
+        [
+            "What is the value of 3 / 2 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.5
+        ],
+        [
+            "What is the value of 1 - 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -15
+        ],
+        [
+            "What is the value of 7 - 7 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -21
+        ],
+        [
+            "What is the value of 2 / 1 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2.0
+        ],
+        [
+            "What is the value of 9 - 2 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3
+        ],
+        [
+            "What is the value of 1 - 8 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5
+        ],
+        [
+            "What is the value of 7 / 5 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4.6
+        ],
+        [
+            "What is the value of 4 * 5 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "What is the value of 2 - 7 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -26
+        ],
+        [
+            "What is the value of 4 - 2 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6
+        ],
+        [
+            "What is the value of 8 - 5 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.285714285714286
+        ],
+        [
+            "What is the value of 8 - 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.777777777777778
+        ],
+        [
+            "What is the value of 2 - 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5
+        ],
+        [
+            "What is the value of 3 / 1 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2.0
+        ],
+        [
+            "What is the value of 6 * 6 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            30
+        ],
+        [
+            "What is the value of 1 - 3 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6666666666666667
+        ],
+        [
+            "What is the value of 5 * 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6
+        ],
+        [
+            "What is the value of 3 / 7 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5.571428571428571
+        ],
+        [
+            "What is the value of 4 * 2 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "What is the value of 8 - 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -64
+        ],
+        [
+            "What is the value of 8 / 3 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6666666666666665
+        ],
+        [
+            "What is the value of 8 - 3 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "What is the value of 6 * 9 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            47
+        ],
+        [
+            "What is the value of 4 - 5 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -16
+        ]
+    ],
+    "*": [
+        [
+            "What is the value of 6 + 1 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15
+        ],
+        [
+            "What is the value of 3 + 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "What is the value of 1 + 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22
+        ],
+        [
+            "What is the value of 8 * 4 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            41
+        ],
+        [
+            "What is the value of 6 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            69
+        ],
+        [
+            "What is the value of 9 / 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            21.0
+        ],
+        [
+            "What is the value of 2 - 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -38
+        ],
+        [
+            "What is the value of 9 * 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            51
+        ],
+        [
+            "What is the value of 2 * 7 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "What is the value of 1 - 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -62
+        ],
+        [
+            "What is the value of 3 * 5 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "What is the value of 6 * 9 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            56
+        ],
+        [
+            "What is the value of 1 / 7 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.8571428571428571
+        ],
+        [
+            "What is the value of 8 * 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            75
+        ],
+        [
+            "What is the value of 7 / 4 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15.75
+        ],
+        [
+            "What is the value of 2 - 9 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -34
+        ],
+        [
+            "What is the value of 4 + 5 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            34
+        ],
+        [
+            "What is the value of 2 - 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -19
+        ],
+        [
+            "What is the value of 4 - 2 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "What is the value of 8 + 4 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28
+        ],
+        [
+            "What is the value of 6 - 2 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "What is the value of 7 - 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -14
+        ],
+        [
+            "What is the value of 5 + 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17
+        ],
+        [
+            "What is the value of 5 - 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -59
+        ],
+        [
+            "What is the value of 6 + 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13
+        ],
+        [
+            "What is the value of 9 + 8 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            49
+        ],
+        [
+            "What is the value of 4 + 7 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            60
+        ],
+        [
+            "What is the value of 6 - 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -66
+        ],
+        [
+            "What is the value of 9 + 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            49
+        ],
+        [
+            "What is the value of 3 - 3 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "What is the value of 3 + 2 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "What is the value of 8 * 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            39
+        ],
+        [
+            "What is the value of 2 * 6 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            18
+        ],
+        [
+            "What is the value of 7 - 8 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -33
+        ],
+        [
+            "What is the value of 8 * 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "What is the value of 4 * 1 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2
+        ],
+        [
+            "What is the value of 9 - 5 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -16
+        ],
+        [
+            "What is the value of 4 * 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            26
+        ],
+        [
+            "What is the value of 6 / 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.6
+        ],
+        [
+            "What is the value of 5 - 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3
+        ],
+        [
+            "What is the value of 8 + 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20
+        ],
+        [
+            "What is the value of 9 * 2 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11
+        ],
+        [
+            "What is the value of 9 - 7 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -40
+        ],
+        [
+            "What is the value of 3 * 1 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "What is the value of 8 - 2 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -10
+        ],
+        [
+            "What is the value of 3 * 9 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            18
+        ],
+        [
+            "What is the value of 3 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            66
+        ],
+        [
+            "What is the value of 3 - 5 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -17
+        ],
+        [
+            "What is the value of 8 + 4 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            40
+        ],
+        [
+            "What is the value of 1 / 3 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.6666666666666665
+        ]
+    ],
+    "/": [
+        [
+            "What is the value of 3 / 3 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.0
+        ],
+        [
+            "What is the value of 3 / 1 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.0
+        ],
+        [
+            "What is the value of 5 / 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.0
+        ],
+        [
+            "What is the value of 1 / 1 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.0
+        ],
+        [
+            "What is the value of 4 / 6 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.3333333333333335
+        ],
+        [
+            "What is the value of 3 / 5 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.4
+        ],
+        [
+            "What is the value of 6 + 1 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.111111111111111
+        ],
+        [
+            "What is the value of 5 / 2 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10.0
+        ],
+        [
+            "What is the value of 9 + 8 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11.0
+        ],
+        [
+            "What is the value of 2 / 7 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.4285714285714284
+        ],
+        [
+            "What is the value of 8 / 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.333333333333333
+        ],
+        [
+            "What is the value of 7 / 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.0
+        ],
+        [
+            "What is the value of 4 / 3 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10.666666666666666
+        ],
+        [
+            "What is the value of 9 + 5 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.714285714285714
+        ],
+        [
+            "What is the value of 5 + 8 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.0
+        ],
+        [
+            "What is the value of 7 + 8 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.333333333333334
+        ],
+        [
+            "What is the value of 1 / 6 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.166666666666667
+        ],
+        [
+            "What is the value of 9 / 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12.0
+        ],
+        [
+            "What is the value of 2 / 5 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.4000000000000004
+        ],
+        [
+            "What is the value of 1 / 8 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.125
+        ],
+        [
+            "What is the value of 7 / 8 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.125
+        ],
+        [
+            "What is the value of 1 - 7 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.16666666666666674
+        ],
+        [
+            "What is the value of 1 / 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5
+        ],
+        [
+            "What is the value of 5 + 8 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.0
+        ],
+        [
+            "What is the value of 2 / 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "What is the value of 4 / 4 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.0
+        ],
+        [
+            "What is the value of 6 + 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.222222222222222
+        ],
+        [
+            "What is the value of 5 + 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.5
+        ],
+        [
+            "What is the value of 5 + 9 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.25
+        ],
+        [
+            "What is the value of 4 + 5 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.666666666666667
+        ],
+        [
+            "What is the value of 7 - 6 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.0
+        ],
+        [
+            "What is the value of 8 + 7 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.4
+        ],
+        [
+            "What is the value of 6 / 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.0
+        ],
+        [
+            "What is the value of 5 / 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.25
+        ],
+        [
+            "What is the value of 7 + 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.222222222222222
+        ],
+        [
+            "What is the value of 5 - 6 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.8
+        ],
+        [
+            "What is the value of 7 - 8 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.0
+        ],
+        [
+            "What is the value of 9 + 2 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.25
+        ],
+        [
+            "What is the value of 6 + 8 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.888888888888889
+        ],
+        [
+            "What is the value of 5 + 3 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.428571428571429
+        ],
+        [
+            "What is the value of 8 / 9 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.333333333333333
+        ],
+        [
+            "What is the value of 3 / 6 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.5
+        ],
+        [
+            "What is the value of 7 - 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.857142857142858
+        ],
+        [
+            "What is the value of 1 + 1 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.1428571428571428
+        ],
+        [
+            "What is the value of 4 + 2 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.666666666666667
+        ],
+        [
+            "What is the value of 6 / 7 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.857142857142858
+        ],
+        [
+            "What is the value of 3 + 7 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.0
+        ],
+        [
+            "What is the value of 7 / 7 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.0
+        ],
+        [
+            "What is the value of 3 / 6 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -8.5
+        ],
+        [
+            "What is the value of 5 / 8 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.625
+        ]
+    ]
+}

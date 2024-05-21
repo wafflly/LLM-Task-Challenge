@@ -1,0 +1,826 @@
+{
+    "+": {
+        "*": [
+            [
+                "[Example Question]: 116 + 458 * 742 - 62\n[Answer]: 339890\n\nWhat is the value of 39 + 134 * 388 - 841? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                51190
+            ],
+            [
+                "[Example Question]: 949 + 57 * 260 - 162\n[Answer]: 15607\n\nWhat is the value of 922 + 710 * 660 - 478? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                469044
+            ],
+            [
+                "[Example Question]: 659 / 738 + 203 * 648\n[Answer]: 131544.89295392955\n\nWhat is the value of 770 / 786 + 814 * 64? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                52096.9796437659
+            ],
+            [
+                "[Example Question]: 143 - 443 + 886 * 720\n[Answer]: 637620\n\nWhat is the value of 660 - 186 + 177 * 520? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                92514
+            ],
+            [
+                "[Example Question]: 155 * 106 - 695 + 334\n[Answer]: 16069\n\nWhat is the value of 145 * 132 - 630 + 413? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                18923
+            ],
+            [
+                "[Example Question]: 266 * 858 + 489 / 822\n[Answer]: 228228.59489051095\n\nWhat is the value of 370 * 380 + 79 / 406? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                140600.19458128078
+            ],
+            [
+                "[Example Question]: 28 - 702 + 863 * 539\n[Answer]: 464483\n\nWhat is the value of 896 - 565 + 81 * 750? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                61081
+            ],
+            [
+                "[Example Question]: 904 - 533 * 266 + 999\n[Answer]: -139875\n\nWhat is the value of 266 - 404 * 106 + 35? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -42523
+            ],
+            [
+                "[Example Question]: 901 + 646 * 87 / 858\n[Answer]: 966.5034965034965\n\nWhat is the value of 834 + 495 * 393 / 646? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1135.1377708978328
+            ],
+            [
+                "[Example Question]: 496 + 12 * 546 - 650\n[Answer]: 6398\n\nWhat is the value of 486 + 422 * 93 - 482? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                39250
+            ],
+            [
+                "[Example Question]: 789 * 839 + 759 / 249\n[Answer]: 661974.048192771\n\nWhat is the value of 422 * 80 + 69 / 825? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33760.08363636363
+            ],
+            [
+                "[Example Question]: 907 - 652 + 321 * 718\n[Answer]: 230733\n\nWhat is the value of 374 - 705 + 684 * 725? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                495569
+            ],
+            [
+                "[Example Question]: 785 + 711 * 572 / 319\n[Answer]: 2059.8965517241377\n\nWhat is the value of 512 + 418 * 794 / 428? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1287.4485981308412
+            ],
+            [
+                "[Example Question]: 177 + 450 / 111 * 227\n[Answer]: 1097.2702702702704\n\nWhat is the value of 700 + 132 / 207 * 599? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1081.9710144927535
+            ],
+            [
+                "[Example Question]: 709 - 486 + 733 * 531\n[Answer]: 389446\n\nWhat is the value of 808 - 631 + 40 * 200? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8177
+            ],
+            [
+                "[Example Question]: 198 * 40 + 573 / 543\n[Answer]: 7921.055248618784\n\nWhat is the value of 429 * 950 + 622 / 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                407557.0681818182
+            ],
+            [
+                "[Example Question]: 466 - 802 + 275 * 20\n[Answer]: 5164\n\nWhat is the value of 247 - 716 + 685 * 707? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                483826
+            ],
+            [
+                "[Example Question]: 791 / 4 * 764 + 242\n[Answer]: 151323.0\n\nWhat is the value of 389 / 226 * 306 + 130? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                656.6991150442477
+            ],
+            [
+                "[Example Question]: 785 - 395 * 668 + 270\n[Answer]: -262805\n\nWhat is the value of 454 - 666 * 523 + 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -347785
+            ],
+            [
+                "[Example Question]: 575 * 699 + 138 - 309\n[Answer]: 401754\n\nWhat is the value of 291 * 808 + 4 - 994? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                234138
+            ],
+            [
+                "[Example Question]: 203 * 749 - 900 + 808\n[Answer]: 151955\n\nWhat is the value of 994 * 733 - 956 + 991? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                728637
+            ],
+            [
+                "[Example Question]: 25 - 110 + 394 * 933\n[Answer]: 367517\n\nWhat is the value of 879 - 530 + 122 * 234? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                28897
+            ],
+            [
+                "[Example Question]: 700 - 142 * 196 + 34\n[Answer]: -27098\n\nWhat is the value of 888 - 115 * 80 + 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -8255
+            ],
+            [
+                "[Example Question]: 328 * 673 - 797 + 600\n[Answer]: 220547\n\nWhat is the value of 347 * 494 - 543 + 135? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                171010
+            ],
+            [
+                "[Example Question]: 712 - 37 + 311 * 70\n[Answer]: 22445\n\nWhat is the value of 880 - 168 + 233 * 657? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                153793
+            ]
+        ],
+        "/": [
+            [
+                "[Example Question]: 256 - 903 / 179 + 252\n[Answer]: 502.9553072625698\n\nWhat is the value of 227 - 954 / 756 + 37? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                262.73809523809524
+            ],
+            [
+                "[Example Question]: 187 / 589 + 902 * 546\n[Answer]: 492492.31748726655\n\nWhat is the value of 634 / 950 + 924 * 209? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                193116.66736842104
+            ],
+            [
+                "[Example Question]: 180 - 594 / 9 + 894\n[Answer]: 1008.0\n\nWhat is the value of 502 - 906 / 446 + 395? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                894.9686098654709
+            ],
+            [
+                "[Example Question]: 905 / 907 * 574 + 78\n[Answer]: 650.7342888643881\n\nWhat is the value of 697 / 451 * 31 + 696? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                743.9090909090909
+            ],
+            [
+                "[Example Question]: 20 - 283 + 866 / 139\n[Answer]: -256.76978417266184\n\nWhat is the value of 35 - 436 + 623 / 815? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -400.2355828220859
+            ],
+            [
+                "[Example Question]: 656 + 522 / 429 * 692\n[Answer]: 1498.0139860139861\n\nWhat is the value of 257 + 575 / 470 * 975? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1449.8191489361702
+            ],
+            [
+                "[Example Question]: 274 - 189 + 148 / 820\n[Answer]: 85.18048780487806\n\nWhat is the value of 197 - 243 + 994 / 667? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -44.50974512743628
+            ],
+            [
+                "[Example Question]: 76 / 694 - 533 + 959\n[Answer]: 426.1095100864553\n\nWhat is the value of 269 / 391 - 868 + 162? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -705.3120204603581
+            ],
+            [
+                "[Example Question]: 848 - 160 + 101 / 70\n[Answer]: 689.4428571428572\n\nWhat is the value of 593 - 948 + 832 / 834? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -354.00239808153475
+            ],
+            [
+                "[Example Question]: 665 - 746 + 211 / 559\n[Answer]: -80.62254025044723\n\nWhat is the value of 598 - 28 + 725 / 251? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                572.8884462151394
+            ],
+            [
+                "[Example Question]: 797 - 520 + 623 / 766\n[Answer]: 277.8133159268929\n\nWhat is the value of 651 - 668 + 985 / 588? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -15.32482993197279
+            ],
+            [
+                "[Example Question]: 433 / 308 + 600 * 404\n[Answer]: 242401.40584415584\n\nWhat is the value of 318 / 968 + 865 * 714? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                617610.3285123967
+            ],
+            [
+                "[Example Question]: 262 - 731 / 778 + 383\n[Answer]: 644.0604113110539\n\nWhat is the value of 788 - 936 / 972 + 606? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1393.037037037037
+            ],
+            [
+                "[Example Question]: 140 - 683 / 21 + 127\n[Answer]: 234.47619047619048\n\nWhat is the value of 327 - 105 / 761 + 35? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                361.86202365308804
+            ],
+            [
+                "[Example Question]: 108 / 729 + 208 * 179\n[Answer]: 37232.148148148146\n\nWhat is the value of 677 / 480 + 612 * 886? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                542233.4104166667
+            ],
+            [
+                "[Example Question]: 329 + 87 / 604 * 387\n[Answer]: 384.7433774834437\n\nWhat is the value of 165 + 263 / 789 * 85? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                193.33333333333334
+            ],
+            [
+                "[Example Question]: 51 + 101 / 214 * 445\n[Answer]: 261.02336448598135\n\nWhat is the value of 983 + 717 / 662 * 578? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1609.0211480362536
+            ],
+            [
+                "[Example Question]: 185 + 401 / 561 - 942\n[Answer]: -756.2852049910873\n\nWhat is the value of 170 + 145 / 545 - 717? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -546.7339449541284
+            ],
+            [
+                "[Example Question]: 300 + 30 / 107 * 98\n[Answer]: 327.4766355140187\n\nWhat is the value of 897 + 618 / 284 * 635? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2278.7957746478874
+            ],
+            [
+                "[Example Question]: 208 / 205 + 360 * 199\n[Answer]: 71641.01463414634\n\nWhat is the value of 823 / 452 + 18 * 635? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                11431.820796460177
+            ],
+            [
+                "[Example Question]: 577 - 773 + 220 / 813\n[Answer]: -195.72939729397294\n\nWhat is the value of 726 - 762 + 849 / 471? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -34.197452229299365
+            ],
+            [
+                "[Example Question]: 651 / 801 + 578 * 148\n[Answer]: 85544.8127340824\n\nWhat is the value of 413 / 939 + 229 * 398? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                91142.43982960597
+            ],
+            [
+                "[Example Question]: 724 + 135 / 508 * 406\n[Answer]: 831.8937007874016\n\nWhat is the value of 562 + 192 / 113 * 726? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1795.5575221238937
+            ],
+            [
+                "[Example Question]: 308 - 164 + 422 / 131\n[Answer]: 147.22137404580153\n\nWhat is the value of 786 - 547 + 860 / 315? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                241.73015873015873
+            ],
+            [
+                "[Example Question]: 744 - 700 + 668 / 418\n[Answer]: 45.59808612440192\n\nWhat is the value of 50 - 809 + 745 / 442? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -757.3144796380091
+            ]
+        ]
+    },
+    "-": {
+        "*": [
+            [
+                "[Example Question]: 421 / 109 - 43 * 495\n[Answer]: -21281.1376146789\n\nWhat is the value of 537 / 356 - 213 * 745? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -158683.4915730337
+            ],
+            [
+                "[Example Question]: 380 * 857 - 700 + 357\n[Answer]: 325317\n\nWhat is the value of 2 * 534 - 862 + 982? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1188
+            ],
+            [
+                "[Example Question]: 158 - 989 * 114 + 153\n[Answer]: -112435\n\nWhat is the value of 929 - 25 * 786 + 868? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -17853
+            ],
+            [
+                "[Example Question]: 847 + 126 * 320 - 680\n[Answer]: 40487\n\nWhat is the value of 242 + 929 * 697 - 176? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                647579
+            ],
+            [
+                "[Example Question]: 263 - 146 * 973 + 750\n[Answer]: -141045\n\nWhat is the value of 63 - 252 * 652 + 710? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -163531
+            ],
+            [
+                "[Example Question]: 728 * 900 - 161 / 680\n[Answer]: 655199.7632352941\n\nWhat is the value of 628 * 88 - 322 / 111? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                55261.0990990991
+            ],
+            [
+                "[Example Question]: 698 - 427 * 791 + 711\n[Answer]: -336348\n\nWhat is the value of 911 - 441 * 959 + 472? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -421536
+            ],
+            [
+                "[Example Question]: 125 - 655 * 859 / 468\n[Answer]: -1077.232905982906\n\nWhat is the value of 794 - 711 * 26 / 322? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                736.5900621118012
+            ],
+            [
+                "[Example Question]: 619 - 188 + 562 * 727\n[Answer]: 409005\n\nWhat is the value of 324 - 376 + 706 * 449? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                316942
+            ],
+            [
+                "[Example Question]: 493 * 582 - 517 / 834\n[Answer]: 286925.38009592326\n\nWhat is the value of 352 * 325 - 387 / 836? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                114399.53708133972
+            ],
+            [
+                "[Example Question]: 576 - 391 / 350 * 765\n[Answer]: -278.61428571428576\n\nWhat is the value of 936 - 14 / 608 * 610? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                921.953947368421
+            ],
+            [
+                "[Example Question]: 963 - 372 + 429 * 882\n[Answer]: 378969\n\nWhat is the value of 747 - 688 + 429 * 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                23225
+            ],
+            [
+                "[Example Question]: 146 + 219 - 176 * 789\n[Answer]: -138499\n\nWhat is the value of 378 + 281 - 611 * 673? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -410544
+            ],
+            [
+                "[Example Question]: 744 + 212 - 852 * 581\n[Answer]: -494056\n\nWhat is the value of 226 + 121 - 253 * 315? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -79348
+            ],
+            [
+                "[Example Question]: 389 * 70 - 955 / 818\n[Answer]: 27228.832518337407\n\nWhat is the value of 465 * 594 - 90 / 450? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                276209.8
+            ],
+            [
+                "[Example Question]: 277 - 171 * 7 + 588\n[Answer]: -332\n\nWhat is the value of 969 - 538 * 769 + 943? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -411810
+            ],
+            [
+                "[Example Question]: 8 - 287 * 94 + 187\n[Answer]: -26783\n\nWhat is the value of 444 - 555 * 686 + 78? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -380208
+            ],
+            [
+                "[Example Question]: 931 - 44 + 406 * 381\n[Answer]: 155573\n\nWhat is the value of 157 - 351 + 364 * 691? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                251330
+            ],
+            [
+                "[Example Question]: 295 - 115 / 52 * 517\n[Answer]: -848.3653846153848\n\nWhat is the value of 878 - 193 / 139 * 212? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                583.6402877697842
+            ],
+            [
+                "[Example Question]: 73 + 438 - 364 * 473\n[Answer]: -171661\n\nWhat is the value of 702 + 633 - 311 * 430? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -132395
+            ],
+            [
+                "[Example Question]: 69 + 148 - 808 * 795\n[Answer]: -642143\n\nWhat is the value of 251 + 281 - 804 * 218? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -174740
+            ],
+            [
+                "[Example Question]: 473 + 943 - 713 * 219\n[Answer]: -154731\n\nWhat is the value of 186 + 244 - 540 * 565? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -304670
+            ],
+            [
+                "[Example Question]: 819 - 384 * 947 + 73\n[Answer]: -362756\n\nWhat is the value of 25 - 175 * 36 + 495? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5780
+            ],
+            [
+                "[Example Question]: 77 - 550 / 767 * 367\n[Answer]: -186.16818774445892\n\nWhat is the value of 549 - 25 / 219 * 114? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                535.986301369863
+            ],
+            [
+                "[Example Question]: 933 + 705 - 240 * 455\n[Answer]: -107562\n\nWhat is the value of 319 + 672 - 501 * 999? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -499508
+            ]
+        ],
+        "/": [
+            [
+                "[Example Question]: 631 - 472 / 466 * 752\n[Answer]: -130.68240343347645\n\nWhat is the value of 567 - 225 / 774 * 493? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                423.68604651162786
+            ],
+            [
+                "[Example Question]: 568 / 332 * 680 - 13\n[Answer]: 1150.3734939759036\n\nWhat is the value of 22 / 402 * 682 - 389? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -351.67661691542287
+            ],
+            [
+                "[Example Question]: 730 / 791 * 743 - 124\n[Answer]: 561.7016434892541\n\nWhat is the value of 86 / 496 * 37 - 805? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -798.5846774193549
+            ],
+            [
+                "[Example Question]: 770 / 58 * 226 - 406\n[Answer]: 2594.344827586207\n\nWhat is the value of 533 / 251 * 274 - 141? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                440.8406374501992
+            ],
+            [
+                "[Example Question]: 845 - 965 + 505 / 122\n[Answer]: -115.86065573770492\n\nWhat is the value of 138 - 589 + 319 / 856? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -450.62733644859816
+            ],
+            [
+                "[Example Question]: 382 / 380 - 453 + 995\n[Answer]: 543.0052631578947\n\nWhat is the value of 797 / 965 - 177 + 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -147.1740932642487
+            ],
+            [
+                "[Example Question]: 88 / 677 * 254 - 36\n[Answer]: -2.9837518463810966\n\nWhat is the value of 935 / 996 * 326 - 603? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -296.96586345381525
+            ],
+            [
+                "[Example Question]: 317 + 883 - 228 / 503\n[Answer]: 1199.5467196819086\n\nWhat is the value of 2 + 131 - 923 / 151? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                126.88741721854305
+            ],
+            [
+                "[Example Question]: 662 + 309 / 281 - 718\n[Answer]: -54.90035587188618\n\nWhat is the value of 74 + 355 / 338 - 704? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -628.9497041420118
+            ],
+            [
+                "[Example Question]: 872 - 241 / 918 * 261\n[Answer]: 803.4803921568628\n\nWhat is the value of 795 - 524 / 574 * 837? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                30.909407665505228
+            ],
+            [
+                "[Example Question]: 179 / 779 - 345 * 791\n[Answer]: -272894.7702182285\n\nWhat is the value of 921 / 488 - 275 * 630? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -173248.11270491802
+            ],
+            [
+                "[Example Question]: 470 - 820 + 378 / 153\n[Answer]: -347.52941176470586\n\nWhat is the value of 715 - 243 + 127 / 160? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                472.79375
+            ],
+            [
+                "[Example Question]: 511 / 542 - 589 * 812\n[Answer]: -478267.05719557195\n\nWhat is the value of 240 / 850 - 599 * 938? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -561861.7176470588
+            ],
+            [
+                "[Example Question]: 555 / 148 - 831 * 149\n[Answer]: -123815.25\n\nWhat is the value of 890 / 575 - 447 * 927? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -414367.4521739131
+            ],
+            [
+                "[Example Question]: 879 / 882 * 619 - 374\n[Answer]: 242.89455782312928\n\nWhat is the value of 360 / 677 * 631 - 172? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                163.53914327917283
+            ],
+            [
+                "[Example Question]: 33 / 987 * 170 - 758\n[Answer]: -752.3161094224924\n\nWhat is the value of 740 / 930 * 70 - 867? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -811.3010752688172
+            ],
+            [
+                "[Example Question]: 152 - 139 / 570 * 23\n[Answer]: 146.39122807017543\n\nWhat is the value of 403 - 144 / 930 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                401.76129032258063
+            ],
+            [
+                "[Example Question]: 166 / 830 - 965 * 189\n[Answer]: -182384.8\n\nWhat is the value of 543 / 238 - 542 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2707.718487394958
+            ],
+            [
+                "[Example Question]: 153 - 630 / 731 * 97\n[Answer]: 69.40218878248974\n\nWhat is the value of 405 - 754 / 184 * 405? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1254.6195652173913
+            ],
+            [
+                "[Example Question]: 154 * 204 / 62 - 482\n[Answer]: 24.70967741935482\n\nWhat is the value of 269 * 58 / 759 - 284? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -263.44400527009225
+            ],
+            [
+                "[Example Question]: 309 / 845 * 882 - 591\n[Answer]: -268.4698224852071\n\nWhat is the value of 796 / 127 * 142 - 993? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -102.98425196850383
+            ],
+            [
+                "[Example Question]: 483 + 524 / 889 - 236\n[Answer]: 247.58942632170977\n\nWhat is the value of 724 + 859 / 277 - 679? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                48.10108303249092
+            ],
+            [
+                "[Example Question]: 798 - 822 / 74 * 445\n[Answer]: -4145.108108108108\n\nWhat is the value of 697 - 41 / 472 * 411? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                661.2987288135594
+            ],
+            [
+                "[Example Question]: 238 / 176 - 817 + 414\n[Answer]: -401.64772727272725\n\nWhat is the value of 951 / 507 - 686 + 904? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                219.8757396449704
+            ],
+            [
+                "[Example Question]: 701 - 442 / 544 + 57\n[Answer]: 757.1875\n\nWhat is the value of 955 - 577 / 764 + 502? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1456.2447643979058
+            ]
+        ]
+    },
+    "*": {
+        "+": [
+            [
+                "[Example Question]: 64 + 976 / 630 * 174\n[Answer]: 333.56190476190477\n\nWhat is the value of 189 + 290 / 435 * 424? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                471.66666666666663
+            ],
+            [
+                "[Example Question]: 346 + 390 / 673 * 438\n[Answer]: 599.8187221396731\n\nWhat is the value of 505 + 228 / 351 * 987? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1146.128205128205
+            ],
+            [
+                "[Example Question]: 819 - 161 * 446 + 894\n[Answer]: -70093\n\nWhat is the value of 101 - 708 * 816 + 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -577573
+            ],
+            [
+                "[Example Question]: 950 + 810 / 793 * 876\n[Answer]: 1844.7793190416141\n\nWhat is the value of 729 + 219 / 900 * 285? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                798.35
+            ],
+            [
+                "[Example Question]: 565 / 647 + 461 * 639\n[Answer]: 294579.87326120556\n\nWhat is the value of 641 / 763 + 896 * 484? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                433664.84010484925
+            ],
+            [
+                "[Example Question]: 335 + 914 / 747 * 268\n[Answer]: 662.9143239625167\n\nWhat is the value of 479 + 404 / 397 * 383? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                868.7531486146096
+            ],
+            [
+                "[Example Question]: 92 - 876 + 145 * 86\n[Answer]: 11686\n\nWhat is the value of 28 - 536 + 238 * 909? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                215834
+            ],
+            [
+                "[Example Question]: 316 - 473 * 644 + 400\n[Answer]: -303896\n\nWhat is the value of 791 - 76 * 744 + 584? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -55169
+            ],
+            [
+                "[Example Question]: 344 / 491 * 639 + 728\n[Answer]: 1175.6904276985742\n\nWhat is the value of 721 / 841 * 276 + 218? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                454.61831153388823
+            ],
+            [
+                "[Example Question]: 823 / 317 + 694 * 156\n[Answer]: 108266.59621451104\n\nWhat is the value of 331 / 67 + 508 * 170? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                86364.94029850746
+            ],
+            [
+                "[Example Question]: 329 / 493 * 586 + 340\n[Answer]: 731.0628803245436\n\nWhat is the value of 829 / 1 * 835 + 641? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                692856.0
+            ],
+            [
+                "[Example Question]: 855 + 600 / 184 * 641\n[Answer]: 2945.2173913043475\n\nWhat is the value of 346 + 298 / 38 * 485? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4149.421052631578
+            ],
+            [
+                "[Example Question]: 642 - 321 * 888 + 369\n[Answer]: -284037\n\nWhat is the value of 718 - 49 * 261 + 756? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -11315
+            ],
+            [
+                "[Example Question]: 406 * 920 - 195 + 626\n[Answer]: 373951\n\nWhat is the value of 692 * 238 - 748 + 941? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                164889
+            ],
+            [
+                "[Example Question]: 427 + 2 - 828 * 675\n[Answer]: -558471\n\nWhat is the value of 535 + 138 - 140 * 649? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -90187
+            ],
+            [
+                "[Example Question]: 334 + 16 / 276 * 981\n[Answer]: 390.8695652173913\n\nWhat is the value of 283 + 848 / 323 * 330? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1149.3777089783282
+            ],
+            [
+                "[Example Question]: 294 - 420 + 551 * 877\n[Answer]: 483101\n\nWhat is the value of 524 - 24 + 819 * 768? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                629492
+            ],
+            [
+                "[Example Question]: 814 + 976 / 452 * 62\n[Answer]: 947.8761061946902\n\nWhat is the value of 14 + 158 / 6 * 153? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4043.0
+            ],
+            [
+                "[Example Question]: 725 - 276 + 966 * 514\n[Answer]: 496973\n\nWhat is the value of 865 - 582 + 979 * 773? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                757050
+            ],
+            [
+                "[Example Question]: 70 * 549 / 408 + 686\n[Answer]: 780.1911764705883\n\nWhat is the value of 587 * 716 / 169 + 313? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2799.9349112426034
+            ],
+            [
+                "[Example Question]: 463 - 695 + 522 * 195\n[Answer]: 101558\n\nWhat is the value of 281 - 758 + 532 * 750? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                398523
+            ],
+            [
+                "[Example Question]: 236 * 596 / 875 + 123\n[Answer]: 283.7497142857143\n\nWhat is the value of 330 * 150 / 536 + 772? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                864.3507462686567
+            ],
+            [
+                "[Example Question]: 467 * 570 - 68 + 27\n[Answer]: 266149\n\nWhat is the value of 388 * 126 - 94 + 117? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                48911
+            ],
+            [
+                "[Example Question]: 172 - 183 * 957 + 720\n[Answer]: -174239\n\nWhat is the value of 742 - 841 * 703 + 977? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -589504
+            ],
+            [
+                "[Example Question]: 31 - 943 + 836 * 991\n[Answer]: 827564\n\nWhat is the value of 887 - 419 + 589 * 658? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                388030
+            ]
+        ],
+        "-": [
+            [
+                "[Example Question]: 328 - 121 + 755 * 588\n[Answer]: 444147\n\nWhat is the value of 795 - 693 + 999 * 951? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                950151
+            ],
+            [
+                "[Example Question]: 551 / 264 - 838 * 926\n[Answer]: -775985.9128787878\n\nWhat is the value of 945 / 232 - 101 * 615? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -62110.92672413793
+            ],
+            [
+                "[Example Question]: 464 * 737 - 959 + 864\n[Answer]: 341873\n\nWhat is the value of 669 * 453 - 11 + 855? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                303901
+            ],
+            [
+                "[Example Question]: 904 + 536 * 326 - 549\n[Answer]: 175091\n\nWhat is the value of 542 + 994 * 990 - 528? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                984074
+            ],
+            [
+                "[Example Question]: 352 + 699 * 562 - 93\n[Answer]: 393097\n\nWhat is the value of 626 + 766 * 361 - 87? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                277065
+            ],
+            [
+                "[Example Question]: 416 / 383 * 546 - 345\n[Answer]: 248.04438642297657\n\nWhat is the value of 588 / 719 * 933 - 505? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                258.00973574408897
+            ],
+            [
+                "[Example Question]: 304 - 944 / 584 * 644\n[Answer]: -736.986301369863\n\nWhat is the value of 450 - 562 / 164 * 958? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2832.9024390243903
+            ],
+            [
+                "[Example Question]: 585 + 422 * 143 - 191\n[Answer]: 60740\n\nWhat is the value of 11 + 293 * 777 - 464? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                227208
+            ],
+            [
+                "[Example Question]: 567 - 661 * 264 + 960\n[Answer]: -172977\n\nWhat is the value of 627 - 362 * 159 + 909? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -56022
+            ],
+            [
+                "[Example Question]: 19 - 921 / 650 * 878\n[Answer]: -1225.0584615384616\n\nWhat is the value of 599 - 789 / 666 * 386? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                141.71171171171176
+            ],
+            [
+                "[Example Question]: 32 + 718 * 261 - 411\n[Answer]: 187019\n\nWhat is the value of 356 + 204 * 284 - 871? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                57421
+            ],
+            [
+                "[Example Question]: 733 - 188 + 454 * 630\n[Answer]: 286565\n\nWhat is the value of 906 - 987 + 157 * 266? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                41681
+            ],
+            [
+                "[Example Question]: 639 - 299 / 899 * 40\n[Answer]: 625.6963292547275\n\nWhat is the value of 486 - 903 / 277 * 779? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2053.4837545126356
+            ],
+            [
+                "[Example Question]: 809 - 268 / 813 * 59\n[Answer]: 789.5510455104551\n\nWhat is the value of 983 - 409 / 592 * 673? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                518.0388513513514
+            ],
+            [
+                "[Example Question]: 18 / 897 * 5 - 185\n[Answer]: -184.89966555183946\n\nWhat is the value of 278 / 752 * 304 - 323? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -210.61702127659572
+            ],
+            [
+                "[Example Question]: 686 - 547 / 390 * 393\n[Answer]: 134.79230769230776\n\nWhat is the value of 737 - 468 / 915 * 737? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                360.0426229508197
+            ],
+            [
+                "[Example Question]: 879 * 366 - 914 / 952\n[Answer]: 321713.0399159664\n\nWhat is the value of 860 * 870 - 853 / 265? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                748196.7811320755
+            ],
+            [
+                "[Example Question]: 438 * 751 - 187 / 378\n[Answer]: 328937.5052910053\n\nWhat is the value of 297 * 709 - 530 / 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                210563.1851851852
+            ],
+            [
+                "[Example Question]: 179 + 889 * 666 - 727\n[Answer]: 591526\n\nWhat is the value of 665 + 742 * 895 - 595? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                664160
+            ],
+            [
+                "[Example Question]: 61 * 790 + 744 - 683\n[Answer]: 48251\n\nWhat is the value of 574 * 450 + 416 - 586? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                258130
+            ],
+            [
+                "[Example Question]: 872 - 882 / 433 * 901\n[Answer]: -963.2933025404157\n\nWhat is the value of 770 - 64 / 491 * 612? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                690.2281059063137
+            ],
+            [
+                "[Example Question]: 762 - 934 / 920 * 466\n[Answer]: 288.9086956521739\n\nWhat is the value of 70 - 82 / 933 * 335? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                40.557341907824224
+            ],
+            [
+                "[Example Question]: 183 + 130 * 810 - 790\n[Answer]: 104693\n\nWhat is the value of 208 + 938 * 286 - 217? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                268259
+            ],
+            [
+                "[Example Question]: 182 - 743 / 218 * 316\n[Answer]: -895.0091743119267\n\nWhat is the value of 22 - 807 / 473 * 946? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1592.0
+            ],
+            [
+                "[Example Question]: 17 / 291 * 308 - 426\n[Answer]: -408.0068728522337\n\nWhat is the value of 906 / 545 * 856 - 575? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                848.0018348623853
+            ]
+        ]
+    },
+    "/": {
+        "+": [
+            [
+                "[Example Question]: 347 / 10 * 507 + 482\n[Answer]: 18074.9\n\nWhat is the value of 989 / 36 * 192 + 849? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6123.666666666666
+            ],
+            [
+                "[Example Question]: 438 / 648 - 480 + 516\n[Answer]: 36.675925925925924\n\nWhat is the value of 340 / 104 - 982 + 921? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -57.73076923076928
+            ],
+            [
+                "[Example Question]: 549 - 665 + 218 / 347\n[Answer]: -115.37175792507205\n\nWhat is the value of 897 - 241 + 164 / 560? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                656.2928571428571
+            ],
+            [
+                "[Example Question]: 516 / 349 * 109 + 632\n[Answer]: 793.1575931232092\n\nWhat is the value of 643 / 737 * 865 + 861? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1615.674355495251
+            ],
+            [
+                "[Example Question]: 167 - 274 / 373 + 579\n[Answer]: 745.2654155495978\n\nWhat is the value of 234 - 982 / 890 + 556? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                788.8966292134832
+            ],
+            [
+                "[Example Question]: 181 - 893 / 696 + 291\n[Answer]: 470.7169540229885\n\nWhat is the value of 192 - 290 / 472 + 717? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                908.3855932203389
+            ],
+            [
+                "[Example Question]: 757 + 675 / 229 * 119\n[Answer]: 1107.764192139738\n\nWhat is the value of 339 + 737 / 285 * 145? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                713.9649122807018
+            ],
+            [
+                "[Example Question]: 274 + 124 * 5 / 710\n[Answer]: 274.8732394366197\n\nWhat is the value of 898 + 809 * 331 / 647? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1311.8778979907265
+            ],
+            [
+                "[Example Question]: 557 - 743 + 801 / 90\n[Answer]: -177.1\n\nWhat is the value of 259 - 663 + 287 / 325? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -403.11692307692306
+            ],
+            [
+                "[Example Question]: 853 - 487 + 208 / 759\n[Answer]: 366.27404479578394\n\nWhat is the value of 848 - 267 + 533 / 219? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                583.433789954338
+            ],
+            [
+                "[Example Question]: 787 / 570 * 845 + 56\n[Answer]: 1222.6929824561405\n\nWhat is the value of 594 / 87 * 839 + 654? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6382.3448275862065
+            ],
+            [
+                "[Example Question]: 11 + 776 / 557 * 363\n[Answer]: 516.7235188509874\n\nWhat is the value of 598 + 740 / 70 * 818? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9245.42857142857
+            ],
+            [
+                "[Example Question]: 637 / 849 * 221 + 950\n[Answer]: 1115.8150765606597\n\nWhat is the value of 749 / 442 * 277 + 63? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                532.39592760181
+            ],
+            [
+                "[Example Question]: 514 + 829 * 723 / 568\n[Answer]: 1569.2235915492959\n\nWhat is the value of 202 + 88 * 173 / 119? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                329.9327731092437
+            ],
+            [
+                "[Example Question]: 460 - 942 / 137 + 565\n[Answer]: 1018.1240875912408\n\nWhat is the value of 823 - 509 / 577 + 762? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1584.1178509532062
+            ],
+            [
+                "[Example Question]: 439 + 875 / 372 * 112\n[Answer]: 702.4408602150538\n\nWhat is the value of 974 + 384 / 697 * 332? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1156.909612625538
+            ],
+            [
+                "[Example Question]: 818 / 648 - 294 + 446\n[Answer]: 153.26234567901236\n\nWhat is the value of 125 / 700 - 36 + 622? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                586.1785714285714
+            ],
+            [
+                "[Example Question]: 847 / 546 + 470 * 666\n[Answer]: 313021.5512820513\n\nWhat is the value of 733 / 196 + 293 * 390? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                114273.73979591837
+            ],
+            [
+                "[Example Question]: 740 / 83 - 589 + 511\n[Answer]: -69.08433734939763\n\nWhat is the value of 913 / 997 - 327 + 206? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -120.08425275827483
+            ],
+            [
+                "[Example Question]: 260 + 188 / 530 * 194\n[Answer]: 328.81509433962265\n\nWhat is the value of 534 + 117 / 290 * 321? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                663.5068965517241
+            ],
+            [
+                "[Example Question]: 821 + 9 / 265 * 577\n[Answer]: 840.5962264150943\n\nWhat is the value of 438 + 808 / 526 * 386? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1030.9429657794676
+            ],
+            [
+                "[Example Question]: 940 + 75 / 256 * 201\n[Answer]: 998.88671875\n\nWhat is the value of 302 + 907 / 439 * 361? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1047.8473804100227
+            ],
+            [
+                "[Example Question]: 855 - 248 + 931 / 266\n[Answer]: 610.5\n\nWhat is the value of 138 - 78 + 438 / 474? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                60.924050632911396
+            ],
+            [
+                "[Example Question]: 246 - 88 / 252 + 671\n[Answer]: 916.6507936507936\n\nWhat is the value of 895 - 914 / 407 + 183? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1075.7542997542996
+            ],
+            [
+                "[Example Question]: 723 + 440 * 551 / 588\n[Answer]: 1135.312925170068\n\nWhat is the value of 282 + 947 * 401 / 691? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                831.561505065123
+            ]
+        ],
+        "-": [
+            [
+                "[Example Question]: 828 / 661 * 928 - 410\n[Answer]: 752.4568835098337\n\nWhat is the value of 200 / 931 * 546 - 40? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                77.29323308270676
+            ],
+            [
+                "[Example Question]: 778 / 177 - 691 * 758\n[Answer]: -523773.60451977403\n\nWhat is the value of 917 / 520 - 160 * 941? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -150558.23653846153
+            ],
+            [
+                "[Example Question]: 136 - 296 / 351 + 459\n[Answer]: 594.1566951566952\n\nWhat is the value of 25 - 363 / 299 + 158? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                181.7859531772575
+            ],
+            [
+                "[Example Question]: 558 - 501 / 410 * 591\n[Answer]: -164.17317073170727\n\nWhat is the value of 709 - 950 / 62 * 175? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1972.4516129032259
+            ],
+            [
+                "[Example Question]: 128 / 954 * 839 - 38\n[Answer]: 74.57023060796647\n\nWhat is the value of 675 / 781 * 810 - 764? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -63.935979513444295
+            ],
+            [
+                "[Example Question]: 981 - 847 / 587 * 601\n[Answer]: 113.79897785349237\n\nWhat is the value of 241 - 507 / 923 * 995? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -305.54929577464793
+            ],
+            [
+                "[Example Question]: 89 / 634 + 362 - 229\n[Answer]: 133.1403785488959\n\nWhat is the value of 689 / 808 + 638 - 632? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.852722772277275
+            ],
+            [
+                "[Example Question]: 323 - 146 / 146 * 873\n[Answer]: -550.0\n\nWhat is the value of 231 - 830 / 536 * 437? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -445.6977611940298
+            ],
+            [
+                "[Example Question]: 894 - 191 * 487 / 792\n[Answer]: 776.554292929293\n\nWhat is the value of 502 - 274 * 628 / 234? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -233.35042735042737
+            ],
+            [
+                "[Example Question]: 313 / 531 * 806 - 498\n[Answer]: -22.90018832391712\n\nWhat is the value of 954 / 741 * 435 - 118? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                442.0404858299595
+            ],
+            [
+                "[Example Question]: 188 / 254 - 51 * 594\n[Answer]: -30293.259842519685\n\nWhat is the value of 29 / 18 - 487 * 285? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -138793.38888888888
+            ],
+            [
+                "[Example Question]: 827 / 780 - 375 * 695\n[Answer]: -260623.93974358976\n\nWhat is the value of 82 / 676 - 390 * 366? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -142739.87869822484
+            ],
+            [
+                "[Example Question]: 693 / 835 * 870 - 969\n[Answer]: -246.95209580838332\n\nWhat is the value of 944 / 818 * 565 - 895? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -242.9706601466993
+            ],
+            [
+                "[Example Question]: 90 / 943 - 874 + 594\n[Answer]: -279.9045599151643\n\nWhat is the value of 768 / 406 - 744 + 134? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -608.1083743842364
+            ],
+            [
+                "[Example Question]: 116 * 401 - 203 / 534\n[Answer]: 46515.619850187264\n\nWhat is the value of 353 * 105 - 968 / 481? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                37062.987525987526
+            ],
+            [
+                "[Example Question]: 198 / 866 * 809 - 356\n[Answer]: -171.0323325635104\n\nWhat is the value of 334 / 966 * 901 - 333? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -21.474120082815716
+            ],
+            [
+                "[Example Question]: 491 / 626 * 357 - 984\n[Answer]: -703.9888178913739\n\nWhat is the value of 562 / 690 * 678 - 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                534.2260869565217
+            ],
+            [
+                "[Example Question]: 662 / 449 - 61 + 948\n[Answer]: 888.4743875278397\n\nWhat is the value of 390 / 844 - 453 + 975? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                522.4620853080569
+            ],
+            [
+                "[Example Question]: 400 - 685 * 357 / 342\n[Answer]: -315.04385964912285\n\nWhat is the value of 431 - 782 * 968 / 756? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -570.2910052910053
+            ],
+            [
+                "[Example Question]: 527 - 184 / 83 + 94\n[Answer]: 618.7831325301205\n\nWhat is the value of 868 - 1 / 648 + 295? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1162.9984567901233
+            ],
+            [
+                "[Example Question]: 523 - 253 / 354 * 192\n[Answer]: 385.77966101694915\n\nWhat is the value of 304 - 112 / 766 * 101? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                289.23237597911225
+            ],
+            [
+                "[Example Question]: 316 * 819 - 727 / 269\n[Answer]: 258801.29739776952\n\nWhat is the value of 80 * 526 - 24 / 93? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                42079.74193548387
+            ],
+            [
+                "[Example Question]: 6 * 572 - 279 / 262\n[Answer]: 3430.9351145038167\n\nWhat is the value of 712 * 925 - 762 / 586? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                658598.6996587031
+            ],
+            [
+                "[Example Question]: 22 - 656 / 206 + 133\n[Answer]: 151.81553398058253\n\nWhat is the value of 342 - 53 / 15 + 754? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1092.4666666666667
+            ],
+            [
+                "[Example Question]: 531 / 835 - 348 * 536\n[Answer]: -186527.36407185628\n\nWhat is the value of 400 / 930 - 365 * 185? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -67524.56989247311
+            ]
+        ]
+    }
+}

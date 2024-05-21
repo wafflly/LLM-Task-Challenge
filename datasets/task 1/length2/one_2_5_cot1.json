@@ -1,0 +1,810 @@
+{
+    "+": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 93208 - 17060 + 31613? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 17060 + 31613 = 48673, so the expression becomes 93208 - 48673.\nStep2: Next, 93208 - 48673 = 44535, so the final answer is [44535].\n\nBased on the new priorities, what is the value of 2845 - 57785 + 49208? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -104148
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 88377 - 97199 + 79242? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 97199 + 79242 = 176441, so the expression becomes 88377 - 176441.\nStep2: Next, 88377 - 176441 = -88064, so the final answer is [-88064].\n\nBased on the new priorities, what is the value of 89314 - 75438 + 80290? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -66414
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 72929 + 74364 / 42608? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 72929 + 74364 = 147293, so the expression becomes 147293 / 42608.\nStep2: Next, 147293 / 42608 = 3.4569329703342095, so the final answer is [3.4569329703342095].\n\nBased on the new priorities, what is the value of 38708 + 48661 / 64955? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.3450696636132706
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 98095 - 12562 + 62889? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 12562 + 62889 = 75451, so the expression becomes 98095 - 75451.\nStep2: Next, 98095 - 75451 = 22644, so the final answer is [22644].\n\nBased on the new priorities, what is the value of 22083 - 80059 + 18079? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -76055
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 95577 / 80876 + 50930? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 80876 + 50930 = 131806, so the expression becomes 95577 / 131806.\nStep2: Next, 95577 / 131806 = 0.725133908926756, so the final answer is [0.725133908926756].\n\nBased on the new priorities, what is the value of 84652 / 62037 + 33434? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.8866776298561867
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 82334 + 9781 / 47860? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 82334 + 9781 = 92115, so the expression becomes 92115 / 47860.\nStep2: Next, 92115 / 47860 = 1.9246761387379858, so the final answer is [1.9246761387379858].\n\nBased on the new priorities, what is the value of 30821 + 53071 / 1856? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            45.20043103448276
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 17981 - 68718 + 72712? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 68718 + 72712 = 141430, so the expression becomes 17981 - 141430.\nStep2: Next, 17981 - 141430 = -123449, so the final answer is [-123449].\n\nBased on the new priorities, what is the value of 68848 - 31690 + 98640? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -61482
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 79868 - 572 + 41933? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 572 + 41933 = 42505, so the expression becomes 79868 - 42505.\nStep2: Next, 79868 - 42505 = 37363, so the final answer is [37363].\n\nBased on the new priorities, what is the value of 75366 - 48614 + 46707? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -19955
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 83594 + 99951 / 72160? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 83594 + 99951 = 183545, so the expression becomes 183545 / 72160.\nStep2: Next, 183545 / 72160 = 2.5435837028824833, so the final answer is [2.5435837028824833].\n\nBased on the new priorities, what is the value of 93095 + 5161 / 40895? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.402640909646656
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 55018 - 55373 + 90036? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 55373 + 90036 = 145409, so the expression becomes 55018 - 145409.\nStep2: Next, 55018 - 145409 = -90391, so the final answer is [-90391].\n\nBased on the new priorities, what is the value of 94528 - 44458 + 27870? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22200
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 92168 * 10779 + 77690? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 10779 + 77690 = 88469, so the expression becomes 92168 * 88469.\nStep2: Next, 92168 * 88469 = 8154010792, so the final answer is [8154010792].\n\nBased on the new priorities, what is the value of 20387 * 22605 + 22556? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            920697307
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 18815 + 26809 / 37898? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 18815 + 26809 = 45624, so the expression becomes 45624 / 37898.\nStep2: Next, 45624 / 37898 = 1.203863000686052, so the final answer is [1.203863000686052].\n\nBased on the new priorities, what is the value of 40808 + 52830 / 11894? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.8727089288717
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 42285 + 78265 * 33389? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 42285 + 78265 = 120550, so the expression becomes 120550 * 33389.\nStep2: Next, 120550 * 33389 = 4025043950, so the final answer is [4025043950].\n\nBased on the new priorities, what is the value of 31501 + 2041 * 62737? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2104324454
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 21169 - 93772 + 84570? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 93772 + 84570 = 178342, so the expression becomes 21169 - 178342.\nStep2: Next, 21169 - 178342 = -157173, so the final answer is [-157173].\n\nBased on the new priorities, what is the value of 79513 - 34091 + 31760? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13662
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 61701 / 62685 + 36913? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 62685 + 36913 = 99598, so the expression becomes 61701 / 99598.\nStep2: Next, 61701 / 99598 = 0.619500391574128, so the final answer is [0.619500391574128].\n\nBased on the new priorities, what is the value of 26377 / 68530 + 2669? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.3704686863579545
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 56516 - 79348 + 39411? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 79348 + 39411 = 118759, so the expression becomes 56516 - 118759.\nStep2: Next, 56516 - 118759 = -62243, so the final answer is [-62243].\n\nBased on the new priorities, what is the value of 42762 - 93990 + 29286? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -80514
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 18397 - 86168 + 60409? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 86168 + 60409 = 146577, so the expression becomes 18397 - 146577.\nStep2: Next, 18397 - 146577 = -128180, so the final answer is [-128180].\n\nBased on the new priorities, what is the value of 71425 - 40911 + 68472? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -37958
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 77590 + 36713 / 37090? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 77590 + 36713 = 114303, so the expression becomes 114303 / 37090.\nStep2: Next, 114303 / 37090 = 3.0817740630897816, so the final answer is [3.0817740630897816].\n\nBased on the new priorities, what is the value of 22669 + 24247 / 86441? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5427517034740459
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 25423 + 83963 / 8924? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 25423 + 83963 = 109386, so the expression becomes 109386 / 8924.\nStep2: Next, 109386 / 8924 = 12.257507844016136, so the final answer is [12.257507844016136].\n\nBased on the new priorities, what is the value of 76801 + 5638 / 21676? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.8032386049086546
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 35009 + 92444 * 82712? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 35009 + 92444 = 127453, so the expression becomes 127453 * 82712.\nStep2: Next, 127453 * 82712 = 10541892536, so the final answer is [10541892536].\n\nBased on the new priorities, what is the value of 72605 + 4493 * 78598? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6059748604
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 72111 + 83993 / 48976? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 72111 + 83993 = 156104, so the expression becomes 156104 / 48976.\nStep2: Next, 156104 / 48976 = 3.1873570728520093, so the final answer is [3.1873570728520093].\n\nBased on the new priorities, what is the value of 37356 + 84786 / 45121? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.7069878770417324
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 58817 + 93737 * 85452? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 58817 + 93737 = 152554, so the expression becomes 152554 * 85452.\nStep2: Next, 152554 * 85452 = 13036044408, so the final answer is [13036044408].\n\nBased on the new priorities, what is the value of 61248 + 2187 * 57151? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3625373685
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 39485 + 16015 / 51536? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 39485 + 16015 = 55500, so the expression becomes 55500 / 51536.\nStep2: Next, 55500 / 51536 = 1.076917106488668, so the final answer is [1.076917106488668].\n\nBased on the new priorities, what is the value of 79456 + 86650 / 10792? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15.391586360266864
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 43424 + 29124 * 43156? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 43424 + 29124 = 72548, so the expression becomes 72548 * 43156.\nStep2: Next, 72548 * 43156 = 3130881488, so the final answer is [3130881488].\n\nBased on the new priorities, what is the value of 8067 + 23107 * 92667? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2888801058
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 86076 + 2345 / 53614? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 86076 + 2345 = 88421, so the expression becomes 88421 / 53614.\nStep2: Next, 88421 / 53614 = 1.6492147573395008, so the final answer is [1.6492147573395008].\n\nBased on the new priorities, what is the value of 69648 + 83210 / 98447? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.5526933273741201
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 86369 - 42913 + 40294? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 42913 + 40294 = 83207, so the expression becomes 86369 - 83207.\nStep2: Next, 86369 - 83207 = 3162, so the final answer is [3162].\n\nBased on the new priorities, what is the value of 38498 - 71287 + 11549? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -44338
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 92953 * 58011 + 91442? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 58011 + 91442 = 149453, so the expression becomes 92953 * 149453.\nStep2: Next, 92953 * 149453 = 13892104709, so the final answer is [13892104709].\n\nBased on the new priorities, what is the value of 16926 * 14536 + 39586? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            916068972
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 45485 * 64485 + 5507? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 64485 + 5507 = 69992, so the expression becomes 45485 * 69992.\nStep2: Next, 45485 * 69992 = 3183586120, so the final answer is [3183586120].\n\nBased on the new priorities, what is the value of 75914 * 10331 + 55466? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4994913458
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 61711 + 9469 / 54438? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 61711 + 9469 = 71180, so the expression becomes 71180 / 54438.\nStep2: Next, 71180 / 54438 = 1.307542525441787, so the final answer is [1.307542525441787].\n\nBased on the new priorities, what is the value of 26453 + 85193 / 99241? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.124998740439939
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 2978 - 96979 + 75473? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 96979 + 75473 = 172452, so the expression becomes 2978 - 172452.\nStep2: Next, 2978 - 172452 = -169474, so the final answer is [-169474].\n\nBased on the new priorities, what is the value of 9927 - 91322 + 25352? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -106747
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 63377 - 89255 + 43683? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 89255 + 43683 = 132938, so the expression becomes 63377 - 132938.\nStep2: Next, 63377 - 132938 = -69561, so the final answer is [-69561].\n\nBased on the new priorities, what is the value of 39213 - 65229 + 83444? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -109460
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 96964 - 41967 + 98211? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 41967 + 98211 = 140178, so the expression becomes 96964 - 140178.\nStep2: Next, 96964 - 140178 = -43214, so the final answer is [-43214].\n\nBased on the new priorities, what is the value of 47817 - 36340 + 4895? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6582
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 17110 + 23561 / 39865? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 17110 + 23561 = 40671, so the expression becomes 40671 / 39865.\nStep2: Next, 40671 / 39865 = 1.0202182365483508, so the final answer is [1.0202182365483508].\n\nBased on the new priorities, what is the value of 19936 + 81777 / 90534? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.123478472176199
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 89816 / 86656 + 95515? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 86656 + 95515 = 182171, so the expression becomes 89816 / 182171.\nStep2: Next, 89816 / 182171 = 0.4930312728151023, so the final answer is [0.4930312728151023].\n\nBased on the new priorities, what is the value of 32540 / 75162 + 50397? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.2591610318654975
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 90318 + 2275 / 46901? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 90318 + 2275 = 92593, so the expression becomes 92593 / 46901.\nStep2: Next, 92593 / 46901 = 1.974222298032025, so the final answer is [1.974222298032025].\n\nBased on the new priorities, what is the value of 4971 + 53869 / 57250? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.027772925764192
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 16680 + 61719 * 87660? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 16680 + 61719 = 78399, so the expression becomes 78399 * 87660.\nStep2: Next, 78399 * 87660 = 6872456340, so the final answer is [6872456340].\n\nBased on the new priorities, what is the value of 30619 + 98009 * 91810? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11809336680
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 55406 + 14674 / 65218? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 55406 + 14674 = 70080, so the expression becomes 70080 / 65218.\nStep2: Next, 70080 / 65218 = 1.0745499708669386, so the final answer is [1.0745499708669386].\n\nBased on the new priorities, what is the value of 43818 + 39206 / 55790? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.4881519985660512
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 89028 * 8839 + 59455? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 8839 + 59455 = 68294, so the expression becomes 89028 * 68294.\nStep2: Next, 89028 * 68294 = 6080078232, so the final answer is [6080078232].\n\nBased on the new priorities, what is the value of 33671 * 79171 + 87595? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5615177986
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 47356 - 39979 + 97845? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 39979 + 97845 = 137824, so the expression becomes 47356 - 137824.\nStep2: Next, 47356 - 137824 = -90468, so the final answer is [-90468].\n\nBased on the new priorities, what is the value of 97170 - 46041 + 21812? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            29317
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 80677 + 2305 * 58358? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 80677 + 2305 = 82982, so the expression becomes 82982 * 58358.\nStep2: Next, 82982 * 58358 = 4842663556, so the final answer is [4842663556].\n\nBased on the new priorities, what is the value of 10881 + 61248 * 58027? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4185429483
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 13747 + 10939 / 38918? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 13747 + 10939 = 24686, so the expression becomes 24686 / 38918.\nStep2: Next, 24686 / 38918 = 0.6343080322729843, so the final answer is [0.6343080322729843].\n\nBased on the new priorities, what is the value of 51300 + 74419 / 9286? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13.538552659918157
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 12290 * 18599 + 40233? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 18599 + 40233 = 58832, so the expression becomes 12290 * 58832.\nStep2: Next, 12290 * 58832 = 723045280, so the final answer is [723045280].\n\nBased on the new priorities, what is the value of 30469 * 92240 + 19065? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3391352045
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 93955 / 35016 + 57313? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 35016 + 57313 = 92329, so the expression becomes 93955 / 92329.\nStep2: Next, 93955 / 92329 = 1.0176109348092148, so the final answer is [1.0176109348092148].\n\nBased on the new priorities, what is the value of 54171 / 80866 + 64858? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.37173698224039964
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 84606 + 17251 / 12853? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 84606 + 17251 = 101857, so the expression becomes 101857 / 12853.\nStep2: Next, 101857 / 12853 = 7.924764646386058, so the final answer is [7.924764646386058].\n\nBased on the new priorities, what is the value of 39806 + 85786 / 65478? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.9180793548978283
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 7122 - 84495 + 16575? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 84495 + 16575 = 101070, so the expression becomes 7122 - 101070.\nStep2: Next, 7122 - 101070 = -93948, so the final answer is [-93948].\n\nBased on the new priorities, what is the value of 14501 - 31058 + 12798? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -29355
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 52635 / 31081 + 27430? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 31081 + 27430 = 58511, so the expression becomes 52635 / 58511.\nStep2: Next, 52635 / 58511 = 0.8995744389943772, so the final answer is [0.8995744389943772].\n\nBased on the new priorities, what is the value of 42866 / 97318 + 2312? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.43025193214895113
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 31881 / 40284 + 45032? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 40284 + 45032 = 85316, so the expression becomes 31881 / 85316.\nStep2: Next, 31881 / 85316 = 0.3736813727788457, so the final answer is [0.3736813727788457].\n\nBased on the new priorities, what is the value of 99041 / 92618 + 71696? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.602754482271748
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 54377 / 13774 + 16545? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 13774 + 16545 = 30319, so the expression becomes 54377 / 30319.\nStep2: Next, 54377 / 30319 = 1.7934958276988027, so the final answer is [1.7934958276988027].\n\nBased on the new priorities, what is the value of 7277 / 88698 + 27251? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.06276035153386403
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 92274 / 61769 + 72737? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 61769 + 72737 = 134506, so the expression becomes 92274 / 134506.\nStep2: Next, 92274 / 134506 = 0.6860214414226875, so the final answer is [0.6860214414226875].\n\nBased on the new priorities, what is the value of 83821 / 47100 + 54108? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.8282052802150027
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 26044 + 1359 / 46222? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 26044 + 1359 = 27403, so the expression becomes 27403 / 46222.\nStep2: Next, 27403 / 46222 = 0.592856215654883, so the final answer is [0.592856215654883].\n\nBased on the new priorities, what is the value of 45839 + 6112 / 18643? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.786622324733144
+        ]
+    ],
+    "-": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 58043 - 46483 * 36951? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 58043 - 46483 = 11560, so the expression becomes 11560 * 36951.\nStep2: Next, 11560 * 36951 = 427153560, so the final answer is [427153560].\n\nBased on the new priorities, what is the value of 48431 - 53939 * 5941? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -32723028
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 81580 - 49486 * 74651? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 81580 - 49486 = 32094, so the expression becomes 32094 * 74651.\nStep2: Next, 32094 * 74651 = 2395849194, so the final answer is [2395849194].\n\nBased on the new priorities, what is the value of 48612 - 19865 * 59234? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1702799798
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 90078 - 74456 + 89081? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 74456 + 89081 = 163537, so the expression becomes 90078 - 163537.\nStep2: Next, 90078 - 163537 = -73459, so the final answer is [-73459].\n\nBased on the new priorities, what is the value of 80451 - 70566 + 39906? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -30021
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 70087 - 15483 + 73562? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 15483 + 73562 = 89045, so the expression becomes 70087 - 89045.\nStep2: Next, 70087 - 89045 = -18958, so the final answer is [-18958].\n\nBased on the new priorities, what is the value of 37446 - 86837 + 19655? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -69046
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 19024 / 56992 - 81157? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 56992 - 81157 = -24165, so the expression becomes 19024 / -24165.\nStep2: Next, 19024 / -24165 = -0.7872542933995448, so the final answer is [-0.7872542933995448].\n\nBased on the new priorities, what is the value of 63154 / 95152 - 1057? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6711727509431957
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 5264 - 54011 + 23509? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 54011 + 23509 = 77520, so the expression becomes 5264 - 77520.\nStep2: Next, 5264 - 77520 = -72256, so the final answer is [-72256].\n\nBased on the new priorities, what is the value of 83411 - 80063 + 52031? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -48683
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 46301 / 8946 - 89491? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 8946 - 89491 = -80545, so the expression becomes 46301 / -80545.\nStep2: Next, 46301 / -80545 = -0.5748463591780992, so the final answer is [-0.5748463591780992].\n\nBased on the new priorities, what is the value of 63279 / 26575 - 36408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -6.435370690531882
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 62663 * 79371 - 11860? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 79371 - 11860 = 67511, so the expression becomes 62663 * 67511.\nStep2: Next, 62663 * 67511 = 4230441793, so the final answer is [4230441793].\n\nBased on the new priorities, what is the value of 24759 * 18542 - 27845? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -230332977
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 71520 - 12413 * 80492? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 71520 - 12413 = 59107, so the expression becomes 59107 * 80492.\nStep2: Next, 59107 * 80492 = 4757640644, so the final answer is [4757640644].\n\nBased on the new priorities, what is the value of 41078 - 24790 * 36880? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            600701440
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 12067 * 6604 - 76635? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 6604 - 76635 = -70031, so the expression becomes 12067 * -70031.\nStep2: Next, 12067 * -70031 = -845064077, so the final answer is [-845064077].\n\nBased on the new priorities, what is the value of 65468 * 67734 - 12102? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3642115776
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 12205 - 23100 * 71945? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 12205 - 23100 = -10895, so the expression becomes -10895 * 71945.\nStep2: Next, -10895 * 71945 = -783840775, so the final answer is [-783840775].\n\nBased on the new priorities, what is the value of 12639 - 39566 * 88925? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2394483475
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 75674 - 20858 / 88299? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 75674 - 20858 = 54816, so the expression becomes 54816 / 88299.\nStep2: Next, 54816 / 88299 = 0.6207997825569939, so the final answer is [0.6207997825569939].\n\nBased on the new priorities, what is the value of 77736 - 55843 / 65254? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.3355043368988874
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 79975 / 48868 - 84979? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 48868 - 84979 = -36111, so the expression becomes 79975 / -36111.\nStep2: Next, 79975 / -36111 = -2.214699122151145, so the final answer is [-2.214699122151145].\n\nBased on the new priorities, what is the value of 47039 / 82650 - 84197? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -30.406593406593405
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 72541 * 52728 - 53134? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 52728 - 53134 = -406, so the expression becomes 72541 * -406.\nStep2: Next, 72541 * -406 = -29451646, so the final answer is [-29451646].\n\nBased on the new priorities, what is the value of 31829 * 86202 - 22937? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2013661685
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 59908 - 72326 * 35864? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 59908 - 72326 = -12418, so the expression becomes -12418 * 35864.\nStep2: Next, -12418 * 35864 = -445359152, so the final answer is [-445359152].\n\nBased on the new priorities, what is the value of 54291 - 14512 * 47805? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1901635095
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 60062 * 26138 - 37110? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 26138 - 37110 = -10972, so the expression becomes 60062 * -10972.\nStep2: Next, 60062 * -10972 = -659000264, so the final answer is [-659000264].\n\nBased on the new priorities, what is the value of 32433 * 84135 - 51519? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1057834728
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 6699 * 35765 - 99928? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 35765 - 99928 = -64163, so the expression becomes 6699 * -64163.\nStep2: Next, 6699 * -64163 = -429827937, so the final answer is [-429827937].\n\nBased on the new priorities, what is the value of 51369 * 42357 - 71267? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1485077790
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 46652 - 60023 * 65837? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 46652 - 60023 = -13371, so the expression becomes -13371 * 65837.\nStep2: Next, -13371 * 65837 = -880306527, so the final answer is [-880306527].\n\nBased on the new priorities, what is the value of 72635 - 99165 * 79035? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2096798550
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 81800 / 4006 - 8157? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 4006 - 8157 = -4151, so the expression becomes 81800 / -4151.\nStep2: Next, 81800 / -4151 = -19.706094916887498, so the final answer is [-19.706094916887498].\n\nBased on the new priorities, what is the value of 85845 / 67724 - 83445? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5.460530500604287
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 13027 - 84973 + 9280? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 84973 + 9280 = 94253, so the expression becomes 13027 - 94253.\nStep2: Next, 13027 - 94253 = -81226, so the final answer is [-81226].\n\nBased on the new priorities, what is the value of 12067 - 66509 + 7164? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -61606
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 10587 - 84863 * 53899? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 10587 - 84863 = -74276, so the expression becomes -74276 * 53899.\nStep2: Next, -74276 * 53899 = -4003402124, so the final answer is [-4003402124].\n\nBased on the new priorities, what is the value of 25250 - 37889 * 16935? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -214041465
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 63393 / 59453 - 73552? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 59453 - 73552 = -14099, so the expression becomes 63393 / -14099.\nStep2: Next, 63393 / -14099 = -4.496276331654728, so the final answer is [-4.496276331654728].\n\nBased on the new priorities, what is the value of 92573 / 25829 - 62214? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2.544262745636938
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 34941 * 85011 - 70862? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 85011 - 70862 = 14149, so the expression becomes 34941 * 14149.\nStep2: Next, 34941 * 14149 = 494380209, so the final answer is [494380209].\n\nBased on the new priorities, what is the value of 50760 * 26346 - 38860? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -635210640
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 71510 - 43927 + 95775? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 43927 + 95775 = 139702, so the expression becomes 71510 - 139702.\nStep2: Next, 71510 - 139702 = -68192, so the final answer is [-68192].\n\nBased on the new priorities, what is the value of 25172 - 47166 + 28505? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -50499
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 49633 * 65317 - 59318? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 65317 - 59318 = 5999, so the expression becomes 49633 * 5999.\nStep2: Next, 49633 * 5999 = 297748367, so the final answer is [297748367].\n\nBased on the new priorities, what is the value of 89924 * 44998 - 65034? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1801717264
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 59643 - 89671 * 14513? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 59643 - 89671 = -30028, so the expression becomes -30028 * 14513.\nStep2: Next, -30028 * 14513 = -435796364, so the final answer is [-435796364].\n\nBased on the new priorities, what is the value of 7184 - 82456 * 87281? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -6569815432
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 45318 / 87126 - 48394? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 87126 - 48394 = 38732, so the expression becomes 45318 / 38732.\nStep2: Next, 45318 / 38732 = 1.1700402767737272, so the final answer is [1.1700402767737272].\n\nBased on the new priorities, what is the value of 26757 / 48836 - 34270? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.8369490594535218
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 20373 - 76620 / 73386? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 20373 - 76620 = -56247, so the expression becomes -56247 / 73386.\nStep2: Next, -56247 / 73386 = -0.7664540920611561, so the final answer is [-0.7664540920611561].\n\nBased on the new priorities, what is the value of 23852 - 71166 / 14233? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.324246469472353
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 99249 - 62320 * 62838? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 99249 - 62320 = 36929, so the expression becomes 36929 * 62838.\nStep2: Next, 36929 * 62838 = 2320544502, so the final answer is [2320544502].\n\nBased on the new priorities, what is the value of 77963 - 92031 * 97667? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1373979356
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 12525 / 53074 - 36746? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 53074 - 36746 = 16328, so the expression becomes 12525 / 16328.\nStep2: Next, 12525 / 16328 = 0.7670872121509065, so the final answer is [0.7670872121509065].\n\nBased on the new priorities, what is the value of 95504 / 60194 - 44479? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.077251034043907
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 59025 - 54296 * 55579? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 59025 - 54296 = 4729, so the expression becomes 4729 * 55579.\nStep2: Next, 4729 * 55579 = 262833091, so the final answer is [262833091].\n\nBased on the new priorities, what is the value of 40345 - 45848 * 98782? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -543597346
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 74512 - 80555 * 27776? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 74512 - 80555 = -6043, so the expression becomes -6043 * 27776.\nStep2: Next, -6043 * 27776 = -167850368, so the final answer is [-167850368].\n\nBased on the new priorities, what is the value of 29051 - 60639 * 95436? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3014632368
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 50186 - 19400 * 91168? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 50186 - 19400 = 30786, so the expression becomes 30786 * 91168.\nStep2: Next, 30786 * 91168 = 2806698048, so the final answer is [2806698048].\n\nBased on the new priorities, what is the value of 21398 - 81239 * 19216? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1149904656
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 95906 - 30904 / 50122? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 95906 - 30904 = 65002, so the expression becomes 65002 / 50122.\nStep2: Next, 65002 / 50122 = 1.296875623478712, so the final answer is [1.296875623478712].\n\nBased on the new priorities, what is the value of 55858 - 36872 / 78072? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.2431857772312737
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 89157 - 98112 * 13833? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 89157 - 98112 = -8955, so the expression becomes -8955 * 13833.\nStep2: Next, -8955 * 13833 = -123874515, so the final answer is [-123874515].\n\nBased on the new priorities, what is the value of 92496 - 78359 * 77062? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1089425494
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 69174 * 58070 - 60551? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 58070 - 60551 = -2481, so the expression becomes 69174 * -2481.\nStep2: Next, 69174 * -2481 = -171620694, so the final answer is [-171620694].\n\nBased on the new priorities, what is the value of 93444 * 97401 - 29836? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6313543860
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 91437 - 93870 / 91897? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 91437 - 93870 = -2433, so the expression becomes -2433 / 91897.\nStep2: Next, -2433 / 91897 = -0.026475292991066084, so the final answer is [-0.026475292991066084].\n\nBased on the new priorities, what is the value of 92332 - 96088 / 6351? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.59140292867265
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 80785 - 34560 * 94064? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 80785 - 34560 = 46225, so the expression becomes 46225 * 94064.\nStep2: Next, 46225 * 94064 = 4348108400, so the final answer is [4348108400].\n\nBased on the new priorities, what is the value of 54144 - 15888 * 431? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16488336
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 9200 * 44706 - 59967? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 44706 - 59967 = -15261, so the expression becomes 9200 * -15261.\nStep2: Next, 9200 * -15261 = -140401200, so the final answer is [-140401200].\n\nBased on the new priorities, what is the value of 7240 * 85753 - 69758? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            115803800
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 73414 - 12461 / 721? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 73414 - 12461 = 60953, so the expression becomes 60953 / 721.\nStep2: Next, 60953 / 721 = 84.53952843273231, so the final answer is [84.53952843273231].\n\nBased on the new priorities, what is the value of 76129 - 58163 / 76026? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.2363138926156841
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 32012 - 71157 * 94464? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 32012 - 71157 = -39145, so the expression becomes -39145 * 94464.\nStep2: Next, -39145 * 94464 = -3697793280, so the final answer is [-3697793280].\n\nBased on the new priorities, what is the value of 53129 - 42527 * 96329? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1021280058
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 16544 - 68347 / 81728? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 16544 - 68347 = -51803, so the expression becomes -51803 / 81728.\nStep2: Next, -51803 / 81728 = -0.6338464173844949, so the final answer is [-0.6338464173844949].\n\nBased on the new priorities, what is the value of 44283 - 87379 / 25979? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.6588783248008006
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 41301 - 6700 / 49343? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 41301 - 6700 = 34601, so the expression becomes 34601 / 49343.\nStep2: Next, 34601 / 49343 = 0.7012342176195205, so the final answer is [0.7012342176195205].\n\nBased on the new priorities, what is the value of 55720 - 75860 / 17883? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.1262092490074371
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 84409 - 68728 + 86844? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 68728 + 86844 = 155572, so the expression becomes 84409 - 155572.\nStep2: Next, 84409 - 155572 = -71163, so the final answer is [-71163].\n\nBased on the new priorities, what is the value of 57030 - 44455 + 57385? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -44810
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 23620 - 181 * 20814? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 23620 - 181 = 23439, so the expression becomes 23439 * 20814.\nStep2: Next, 23439 * 20814 = 487859346, so the final answer is [487859346].\n\nBased on the new priorities, what is the value of 80559 - 69133 * 58039? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            663153614
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 93222 - 69460 + 36794? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 69460 + 36794 = 106254, so the expression becomes 93222 - 106254.\nStep2: Next, 93222 - 106254 = -13032, so the final answer is [-13032].\n\nBased on the new priorities, what is the value of 5123 - 47073 + 61590? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -103540
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 81028 - 38393 * 90869? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 81028 - 38393 = 42635, so the expression becomes 42635 * 90869.\nStep2: Next, 42635 * 90869 = 3874199815, so the final answer is [3874199815].\n\nBased on the new priorities, what is the value of 75902 - 61127 * 22473? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            332038575
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 37595 - 74028 / 96741? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 37595 - 74028 = -36433, so the expression becomes -36433 / 96741.\nStep2: Next, -36433 / 96741 = -0.3766035083366928, so the final answer is [-0.3766035083366928].\n\nBased on the new priorities, what is the value of 65062 - 24780 / 31952? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2607035553329995
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 79291 - 11186 * 27736? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 79291 - 11186 = 68105, so the expression becomes 68105 * 27736.\nStep2: Next, 68105 * 27736 = 1888960280, so the final answer is [1888960280].\n\nBased on the new priorities, what is the value of 97568 - 86371 * 16834? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            188490298
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 94772 - 7084 / 62385? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 94772 - 7084 = 87688, so the expression becomes 87688 / 62385.\nStep2: Next, 87688 / 62385 = 1.40559429350004, so the final answer is [1.40559429350004].\n\nBased on the new priorities, what is the value of 95178 - 9310 / 29330? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.927650869416979
+        ]
+    ],
+    "*": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 62207 + 84654 * 83752? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 62207 + 84654 = 146861, so the expression becomes 146861 * 83752.\nStep2: Next, 146861 * 83752 = 12299902472, so the final answer is [12299902472].\n\nBased on the new priorities, what is the value of 59961 + 65864 * 45604? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5738123300
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 45595 - 23737 * 99193? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 45595 - 23737 = 21858, so the expression becomes 21858 * 99193.\nStep2: Next, 21858 * 99193 = 2168160594, so the final answer is [2168160594].\n\nBased on the new priorities, what is the value of 48575 - 58096 * 87256? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -830764376
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 42259 - 14019 * 98234? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 42259 - 14019 = 28240, so the expression becomes 28240 * 98234.\nStep2: Next, 28240 * 98234 = 2774128160, so the final answer is [2774128160].\n\nBased on the new priorities, what is the value of 83553 - 7309 * 4308? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            328459152
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 93688 + 45395 * 18370? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 93688 + 45395 = 139083, so the expression becomes 139083 * 18370.\nStep2: Next, 139083 * 18370 = 2554954710, so the final answer is [2554954710].\n\nBased on the new priorities, what is the value of 45297 + 94273 * 82778? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11553325460
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 47939 + 53267 * 30568? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 47939 + 53267 = 101206, so the expression becomes 101206 * 30568.\nStep2: Next, 101206 * 30568 = 3093665008, so the final answer is [3093665008].\n\nBased on the new priorities, what is the value of 73376 + 97854 * 2069? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            354274870
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 97125 / 2982 * 84371? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 2982 * 84371 = 251594322, so the expression becomes 97125 / 251594322.\nStep2: Next, 97125 / 251594322 = 0.0003860381237061463, so the final answer is [0.0003860381237061463].\n\nBased on the new priorities, what is the value of 47562 / 76436 * 50285? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2374387234065736e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 12326 - 8351 * 28872? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 12326 - 8351 = 3975, so the expression becomes 3975 * 28872.\nStep2: Next, 3975 * 28872 = 114766200, so the final answer is [114766200].\n\nBased on the new priorities, what is the value of 44569 - 42558 * 72931? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            146664241
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 292 + 77740 * 57297? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 292 + 77740 = 78032, so the expression becomes 78032 * 57297.\nStep2: Next, 78032 * 57297 = 4470999504, so the final answer is [4470999504].\n\nBased on the new priorities, what is the value of 14825 + 40217 * 81587? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4490711654
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 89891 + 70992 * 10614? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 89891 + 70992 = 160883, so the expression becomes 160883 * 10614.\nStep2: Next, 160883 * 10614 = 1707612162, so the final answer is [1707612162].\n\nBased on the new priorities, what is the value of 96258 + 56036 * 28439? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4331089066
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 89810 - 97811 * 17866? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 89810 - 97811 = -8001, so the expression becomes -8001 * 17866.\nStep2: Next, -8001 * 17866 = -142945866, so the final answer is [-142945866].\n\nBased on the new priorities, what is the value of 66343 - 87779 * 30099? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -645202164
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 63951 + 179 * 78404? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 63951 + 179 = 64130, so the expression becomes 64130 * 78404.\nStep2: Next, 64130 * 78404 = 5028048520, so the final answer is [5028048520].\n\nBased on the new priorities, what is the value of 26252 + 44713 * 45652? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3239694180
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 83725 + 91072 * 56421? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 83725 + 91072 = 174797, so the expression becomes 174797 * 56421.\nStep2: Next, 174797 * 56421 = 9862221537, so the final answer is [9862221537].\n\nBased on the new priorities, what is the value of 77020 + 86409 * 12293? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2009032697
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 73282 - 67100 * 34647? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 73282 - 67100 = 6182, so the expression becomes 6182 * 34647.\nStep2: Next, 6182 * 34647 = 214187754, so the final answer is [214187754].\n\nBased on the new priorities, what is the value of 32622 - 73852 * 33213? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1369371990
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 44086 + 93005 * 496? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 44086 + 93005 = 137091, so the expression becomes 137091 * 496.\nStep2: Next, 137091 * 496 = 67997136, so the final answer is [67997136].\n\nBased on the new priorities, what is the value of 3082 + 45139 * 35537? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1713629677
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 85904 * 6253 - 35793? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 6253 - 35793 = -29540, so the expression becomes 85904 * -29540.\nStep2: Next, 85904 * -29540 = -2537604160, so the final answer is [-2537604160].\n\nBased on the new priorities, what is the value of 73471 * 81966 - 21215? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4463436721
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 20883 + 48345 * 31685? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 20883 + 48345 = 69228, so the expression becomes 69228 * 31685.\nStep2: Next, 69228 * 31685 = 2193489180, so the final answer is [2193489180].\n\nBased on the new priorities, what is the value of 57379 + 25182 * 73771? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6090607531
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 72211 + 52553 * 74369? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 72211 + 52553 = 124764, so the expression becomes 124764 * 74369.\nStep2: Next, 124764 * 74369 = 9278573916, so the final answer is [9278573916].\n\nBased on the new priorities, what is the value of 1540 + 93511 * 77875? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7402096625
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 31679 - 96213 * 18863? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 31679 - 96213 = -64534, so the expression becomes -64534 * 18863.\nStep2: Next, -64534 * 18863 = -1217304842, so the final answer is [-1217304842].\n\nBased on the new priorities, what is the value of 80359 - 10893 * 1555? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            108019630
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 34440 - 11878 * 8874? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 34440 - 11878 = 22562, so the expression becomes 22562 * 8874.\nStep2: Next, 22562 * 8874 = 200215188, so the final answer is [200215188].\n\nBased on the new priorities, what is the value of 885 - 29871 * 2265? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -65653290
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 44161 + 7887 * 96300? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 44161 + 7887 = 52048, so the expression becomes 52048 * 96300.\nStep2: Next, 52048 * 96300 = 5012222400, so the final answer is [5012222400].\n\nBased on the new priorities, what is the value of 85221 + 3046 * 89752? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7922139784
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 66759 / 30727 * 99883? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 30727 * 99883 = 3069104941, so the expression becomes 66759 / 3069104941.\nStep2: Next, 66759 / 3069104941 = 2.1751944388792407e-05, so the final answer is [2.1751944388792407e-05].\n\nBased on the new priorities, what is the value of 10117 / 16142 * 62814? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.97787265458796e-06
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 72127 + 79360 * 91807? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 72127 + 79360 = 151487, so the expression becomes 151487 * 91807.\nStep2: Next, 151487 * 91807 = 13907567009, so the final answer is [13907567009].\n\nBased on the new priorities, what is the value of 7174 + 69611 * 5239? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            402276615
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 80303 + 15399 * 38223? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 80303 + 15399 = 95702, so the expression becomes 95702 * 38223.\nStep2: Next, 95702 * 38223 = 3658017546, so the final answer is [3658017546].\n\nBased on the new priorities, what is the value of 15936 + 59907 * 76967? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5837408181
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 44120 - 19495 * 29680? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 44120 - 19495 = 24625, so the expression becomes 24625 * 29680.\nStep2: Next, 24625 * 29680 = 730870000, so the final answer is [730870000].\n\nBased on the new priorities, what is the value of 55353 - 67464 * 66608? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -806689488
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 10370 * 30040 + 94696? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 30040 + 94696 = 124736, so the expression becomes 10370 * 124736.\nStep2: Next, 10370 * 124736 = 1293512320, so the final answer is [1293512320].\n\nBased on the new priorities, what is the value of 81358 * 59807 + 70374? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10591265798
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 63831 - 42922 * 56945? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 63831 - 42922 = 20909, so the expression becomes 20909 * 56945.\nStep2: Next, 20909 * 56945 = 1190663005, so the final answer is [1190663005].\n\nBased on the new priorities, what is the value of 25796 - 79429 * 26456? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1418914648
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 12991 + 16417 * 73524? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 12991 + 16417 = 29408, so the expression becomes 29408 * 73524.\nStep2: Next, 29408 * 73524 = 2162193792, so the final answer is [2162193792].\n\nBased on the new priorities, what is the value of 76119 + 3129 * 9889? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            783683472
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 44098 - 51814 * 5553? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 44098 - 51814 = -7716, so the expression becomes -7716 * 5553.\nStep2: Next, -7716 * 5553 = -42846948, so the final answer is [-42846948].\n\nBased on the new priorities, what is the value of 69833 - 79865 * 71273? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -715010736
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 32019 * 16756 - 19051? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 16756 - 19051 = -2295, so the expression becomes 32019 * -2295.\nStep2: Next, 32019 * -2295 = -73483605, so the final answer is [-73483605].\n\nBased on the new priorities, what is the value of 76304 * 42227 - 408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3190956976
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 60020 * 24094 + 65646? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 24094 + 65646 = 89740, so the expression becomes 60020 * 89740.\nStep2: Next, 60020 * 89740 = 5386194800, so the final answer is [5386194800].\n\nBased on the new priorities, what is the value of 27750 * 25703 + 7394? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            918441750
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 91408 - 72558 * 44356? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 91408 - 72558 = 18850, so the expression becomes 18850 * 44356.\nStep2: Next, 18850 * 44356 = 836110600, so the final answer is [836110600].\n\nBased on the new priorities, what is the value of 71314 - 62783 * 19466? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            166064446
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 62694 * 23228 - 48260? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 23228 - 48260 = -25032, so the expression becomes 62694 * -25032.\nStep2: Next, 62694 * -25032 = -1569356208, so the final answer is [-1569356208].\n\nBased on the new priorities, what is the value of 16764 * 94973 - 92808? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            36294060
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 83059 - 35718 * 9899? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 83059 - 35718 = 47341, so the expression becomes 47341 * 9899.\nStep2: Next, 47341 * 9899 = 468628559, so the final answer is [468628559].\n\nBased on the new priorities, what is the value of 28378 - 44739 * 83719? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1369726559
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 38572 + 90747 * 54057? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 38572 + 90747 = 129319, so the expression becomes 129319 * 54057.\nStep2: Next, 129319 * 54057 = 6990597183, so the final answer is [6990597183].\n\nBased on the new priorities, what is the value of 67395 + 48984 * 75013? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8729937927
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 83427 - 97143 * 67291? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 83427 - 97143 = -13716, so the expression becomes -13716 * 67291.\nStep2: Next, -13716 * 67291 = -922963356, so the final answer is [-922963356].\n\nBased on the new priorities, what is the value of 43453 - 16736 * 10716? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            286299372
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 20393 / 23296 * 8806? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 23296 * 8806 = 205144576, so the expression becomes 20393 / 205144576.\nStep2: Next, 20393 / 205144576 = 9.940794145100868e-05, so the final answer is [9.940794145100868e-05].\n\nBased on the new priorities, what is the value of 99580 / 97529 * 53335? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.9143707555363606e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 62185 * 80963 - 67768? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 80963 - 67768 = 13195, so the expression becomes 62185 * 13195.\nStep2: Next, 62185 * 13195 = 820531075, so the final answer is [820531075].\n\nBased on the new priorities, what is the value of 37111 * 20305 - 56149? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1330206684
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 72752 * 51484 - 19982? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 51484 - 19982 = 31502, so the expression becomes 72752 * 31502.\nStep2: Next, 72752 * 31502 = 2291833504, so the final answer is [2291833504].\n\nBased on the new priorities, what is the value of 70400 * 68319 - 26487? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2944972800
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 31688 + 61178 * 7830? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 31688 + 61178 = 92866, so the expression becomes 92866 * 7830.\nStep2: Next, 92866 * 7830 = 727140780, so the final answer is [727140780].\n\nBased on the new priorities, what is the value of 48189 + 51 * 48875? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2357730000
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 6981 * 28383 + 30235? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 28383 + 30235 = 58618, so the expression becomes 6981 * 58618.\nStep2: Next, 6981 * 58618 = 409212258, so the final answer is [409212258].\n\nBased on the new priorities, what is the value of 17157 * 62838 + 55382? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2028300540
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 97609 / 51573 * 62166? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 51573 * 62166 = 3206087118, so the expression becomes 97609 / 3206087118.\nStep2: Next, 97609 / 3206087118 = 3.044489947013349e-05, so the final answer is [3.044489947013349e-05].\n\nBased on the new priorities, what is the value of 53990 / 57255 * 73652? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2803106673478611e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 73361 + 10598 * 84292? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 73361 + 10598 = 83959, so the expression becomes 83959 * 84292.\nStep2: Next, 83959 * 84292 = 7077072028, so the final answer is [7077072028].\n\nBased on the new priorities, what is the value of 43896 + 78235 * 23940? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2923816140
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 81527 + 34808 * 96120? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 81527 + 34808 = 116335, so the expression becomes 116335 * 96120.\nStep2: Next, 116335 * 96120 = 11182120200, so the final answer is [11182120200].\n\nBased on the new priorities, what is the value of 72170 + 77913 * 46406? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6964751698
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 77636 / 41157 * 59397? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 41157 * 59397 = 2444602329, so the expression becomes 77636 / 2444602329.\nStep2: Next, 77636 / 2444602329 = 3.175813058795462e-05, so the final answer is [3.175813058795462e-05].\n\nBased on the new priorities, what is the value of 85266 / 89305 * 64826? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.472824127724505e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 53742 + 86540 * 18469? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 53742 + 86540 = 140282, so the expression becomes 140282 * 18469.\nStep2: Next, 140282 * 18469 = 2590868258, so the final answer is [2590868258].\n\nBased on the new priorities, what is the value of 52088 + 55747 * 27233? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2936670555
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 45016 - 36997 * 96908? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 45016 - 36997 = 8019, so the expression becomes 8019 * 96908.\nStep2: Next, 8019 * 96908 = 777105252, so the final answer is [777105252].\n\nBased on the new priorities, what is the value of 60138 - 26273 * 54158? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1834060670
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 49107 - 69411 * 50678? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 49107 - 69411 = -20304, so the expression becomes -20304 * 50678.\nStep2: Next, -20304 * 50678 = -1028966112, so the final answer is [-1028966112].\n\nBased on the new priorities, what is the value of 88628 - 34576 * 86133? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4655660916
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 31261 - 40413 * 9475? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 31261 - 40413 = -9152, so the expression becomes -9152 * 9475.\nStep2: Next, -9152 * 9475 = -86715200, so the final answer is [-86715200].\n\nBased on the new priorities, what is the value of 32755 - 91158 * 11415? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -666670245
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 82791 * 78164 + 51922? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 78164 + 51922 = 130086, so the expression becomes 82791 * 130086.\nStep2: Next, 82791 * 130086 = 10769950026, so the final answer is [10769950026].\n\nBased on the new priorities, what is the value of 523 * 54652 + 21380? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            39764736
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 92307 - 72927 * 60827? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 92307 - 72927 = 19380, so the expression becomes 19380 * 60827.\nStep2: Next, 19380 * 60827 = 1178827260, so the final answer is [1178827260].\n\nBased on the new priorities, what is the value of 61519 - 22659 * 78698? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3058204280
+        ]
+    ],
+    "/": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 42668 / 59334 * 64517? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 59334 * 64517 = 3828051678, so the expression becomes 42668 / 3828051678.\nStep2: Next, 42668 / 3828051678 = 1.1146140018227832e-05, so the final answer is [1.1146140018227832e-05].\n\nBased on the new priorities, what is the value of 27885 / 48114 * 32061? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.8076823633823197e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 89151 - 622 / 34123? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 89151 - 622 = 88529, so the expression becomes 88529 / 34123.\nStep2: Next, 88529 / 34123 = 2.5944084634996925, so the final answer is [2.5944084634996925].\n\nBased on the new priorities, what is the value of 93150 - 27949 / 77016? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.8465903188947751
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 94523 / 26643 * 71619? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 26643 * 71619 = 1908145017, so the expression becomes 94523 / 1908145017.\nStep2: Next, 94523 / 1908145017 = 4.953659137952197e-05, so the final answer is [4.953659137952197e-05].\n\nBased on the new priorities, what is the value of 45136 / 89100 * 7278? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.960385819046623e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 63781 / 65252 * 24835? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 65252 * 24835 = 1620533420, so the expression becomes 63781 / 1620533420.\nStep2: Next, 63781 / 1620533420 = 3.935802817321719e-05, so the final answer is [3.935802817321719e-05].\n\nBased on the new priorities, what is the value of 20966 / 36873 * 23386? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.4313706100461937e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 32064 / 93370 + 17169? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 93370 + 17169 = 110539, so the expression becomes 32064 / 110539.\nStep2: Next, 32064 / 110539 = 0.29006956820669627, so the final answer is [0.29006956820669627].\n\nBased on the new priorities, what is the value of 60808 / 5917 + 1031? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.751871042026483
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 62931 / 91293 * 87235? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 91293 * 87235 = 7963944855, so the expression becomes 62931 / 7963944855.\nStep2: Next, 62931 / 7963944855 = 7.90198841727163e-06, so the final answer is [7.90198841727163e-06].\n\nBased on the new priorities, what is the value of 62849 / 53484 * 70897? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.6574736519972148e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 6599 / 99333 * 76501? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 99333 * 76501 = 7599073833, so the expression becomes 6599 / 7599073833.\nStep2: Next, 6599 / 7599073833 = 8.683952998775923e-07, so the final answer is [8.683952998775923e-07].\n\nBased on the new priorities, what is the value of 29820 / 66536 * 29066? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.5419336328433757e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 42402 - 42008 / 35691? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 42402 - 42008 = 394, so the expression becomes 394 / 35691.\nStep2: Next, 394 / 35691 = 0.011039197556807039, so the final answer is [0.011039197556807039].\n\nBased on the new priorities, what is the value of 60664 - 17096 / 54790? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.7951816024822048
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 84136 / 43919 + 43077? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 43919 + 43077 = 86996, so the expression becomes 84136 / 86996.\nStep2: Next, 84136 / 86996 = 0.9671249252839211, so the final answer is [0.9671249252839211].\n\nBased on the new priorities, what is the value of 41741 / 89382 + 25538? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.3632178907065785
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 28314 + 88155 / 8099? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 28314 + 88155 = 116469, so the expression becomes 116469 / 8099.\nStep2: Next, 116469 / 8099 = 14.380664279540683, so the final answer is [14.380664279540683].\n\nBased on the new priorities, what is the value of 32052 + 3729 / 78733? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.4544600104149467
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 26636 / 86992 * 55938? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 86992 * 55938 = 4866158496, so the expression becomes 26636 / 4866158496.\nStep2: Next, 26636 / 4866158496 = 5.473722243509924e-06, so the final answer is [5.473722243509924e-06].\n\nBased on the new priorities, what is the value of 29459 / 42391 * 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.0408785438640555
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 55574 / 4815 * 18636? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 4815 * 18636 = 89732340, so the expression becomes 55574 / 89732340.\nStep2: Next, 55574 / 89732340 = 0.0006193307786245182, so the final answer is [0.0006193307786245182].\n\nBased on the new priorities, what is the value of 44111 / 89498 * 39115? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2600571368539599e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 10563 / 56875 - 60205? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 56875 - 60205 = -3330, so the expression becomes 10563 / -3330.\nStep2: Next, 10563 / -3330 = -3.172072072072072, so the final answer is [-3.172072072072072].\n\nBased on the new priorities, what is the value of 74519 / 43898 - 14373? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.5239288738357324
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 27950 / 36697 - 90271? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 36697 - 90271 = -53574, so the expression becomes 27950 / -53574.\nStep2: Next, 27950 / -53574 = -0.5217082913353492, so the final answer is [-0.5217082913353492].\n\nBased on the new priorities, what is the value of 36800 / 8661 - 65115? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.6518581499982287
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 10680 - 7495 / 26356? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 10680 - 7495 = 3185, so the expression becomes 3185 / 26356.\nStep2: Next, 3185 / 26356 = 0.1208453483077857, so the final answer is [0.1208453483077857].\n\nBased on the new priorities, what is the value of 45462 - 51014 / 60334? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.09202108263997083
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 78656 + 82513 / 2822? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 78656 + 82513 = 161169, so the expression becomes 161169 / 2822.\nStep2: Next, 161169 / 2822 = 57.111622962437984, so the final answer is [57.111622962437984].\n\nBased on the new priorities, what is the value of 80360 + 28218 / 47221? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.299358336333411
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 30596 / 21041 * 76159? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 21041 * 76159 = 1602461519, so the expression becomes 30596 / 1602461519.\nStep2: Next, 30596 / 1602461519 = 1.909312619194321e-05, so the final answer is [1.909312619194321e-05].\n\nBased on the new priorities, what is the value of 71451 / 61212 * 92323? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2643340481885933e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 66828 / 37166 * 65280? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 37166 * 65280 = 2426196480, so the expression becomes 66828 / 2426196480.\nStep2: Next, 66828 / 2426196480 = 2.754434793343695e-05, so the final answer is [2.754434793343695e-05].\n\nBased on the new priorities, what is the value of 58097 / 93736 * 35699? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.736165968852882e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 90648 + 80942 / 93114? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 90648 + 80942 = 171590, so the expression becomes 171590 / 93114.\nStep2: Next, 171590 / 93114 = 1.8427948536202934, so the final answer is [1.8427948536202934].\n\nBased on the new priorities, what is the value of 46319 + 62145 / 79408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.3659077171065888
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 44739 - 79156 / 94052? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 44739 - 79156 = -34417, so the expression becomes -34417 / 94052.\nStep2: Next, -34417 / 94052 = -0.36593586526602306, so the final answer is [-0.36593586526602306].\n\nBased on the new priorities, what is the value of 44345 - 53856 / 44960? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.21154359430604983
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 22331 - 67593 / 89373? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 22331 - 67593 = -45262, so the expression becomes -45262 / 89373.\nStep2: Next, -45262 / 89373 = -0.506439304935495, so the final answer is [-0.506439304935495].\n\nBased on the new priorities, what is the value of 32537 - 88954 / 93077? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.6061325569152423
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 48350 / 85643 * 45531? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 85643 * 45531 = 3899411433, so the expression becomes 48350 / 3899411433.\nStep2: Next, 48350 / 3899411433 = 1.2399307134103077e-05, so the final answer is [1.2399307134103077e-05].\n\nBased on the new priorities, what is the value of 88229 / 34622 * 55402? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.599745062691967e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 61955 + 94332 / 30081? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 61955 + 94332 = 156287, so the expression becomes 156287 / 30081.\nStep2: Next, 156287 / 30081 = 5.195538712143878, so the final answer is [5.195538712143878].\n\nBased on the new priorities, what is the value of 34008 + 79635 / 84954? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.337700402570803
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 9658 - 84067 / 2175? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 9658 - 84067 = -74409, so the expression becomes -74409 / 2175.\nStep2: Next, -74409 / 2175 = -34.21103448275862, so the final answer is [-34.21103448275862].\n\nBased on the new priorities, what is the value of 42482 - 38300 / 2996? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.3958611481975969
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 99426 + 60537 / 84588? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 99426 + 60537 = 159963, so the expression becomes 159963 / 84588.\nStep2: Next, 159963 / 84588 = 1.891083841679671, so the final answer is [1.891083841679671].\n\nBased on the new priorities, what is the value of 44040 + 46244 / 74640? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2095927116827438
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 44195 / 46218 * 97950? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 46218 * 97950 = 4527053100, so the expression becomes 44195 / 4527053100.\nStep2: Next, 44195 / 4527053100 = 9.762421386221426e-06, so the final answer is [9.762421386221426e-06].\n\nBased on the new priorities, what is the value of 64452 / 69051 * 3374? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.0002766440587881244
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 96374 / 49824 + 49067? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 49824 + 49067 = 98891, so the expression becomes 96374 / 98891.\nStep2: Next, 96374 / 98891 = 0.9745477343742099, so the final answer is [0.9745477343742099].\n\nBased on the new priorities, what is the value of 46646 / 56609 + 33014? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5204690760184327
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 46190 - 42498 / 38894? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 46190 - 42498 = 3692, so the expression becomes 3692 / 38894.\nStep2: Next, 3692 / 38894 = 0.09492466704375996, so the final answer is [0.09492466704375996].\n\nBased on the new priorities, what is the value of 36218 - 60780 / 72829? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.3372557635008033
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 41918 - 29371 / 18602? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 41918 - 29371 = 12547, so the expression becomes 12547 / 18602.\nStep2: Next, 12547 / 18602 = 0.6744973658746372, so the final answer is [0.6744973658746372].\n\nBased on the new priorities, what is the value of 86099 - 26993 / 1652? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            35.77845036319613
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 18612 / 83585 * 5969? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 83585 * 5969 = 498918865, so the expression becomes 18612 / 498918865.\nStep2: Next, 18612 / 498918865 = 3.730466275313121e-05, so the final answer is [3.730466275313121e-05].\n\nBased on the new priorities, what is the value of 7122 / 14522 * 3409? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.0001438628089348783
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 52078 / 35927 - 608? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 35927 - 608 = 35319, so the expression becomes 52078 / 35319.\nStep2: Next, 52078 / 35319 = 1.4745038081485886, so the final answer is [1.4745038081485886].\n\nBased on the new priorities, what is the value of 52013 / 37693 - 29285? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.186132254995242
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 87093 + 14476 / 35230? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 87093 + 14476 = 101569, so the expression becomes 101569 / 35230.\nStep2: Next, 101569 / 35230 = 2.8830258302583025, so the final answer is [2.8830258302583025].\n\nBased on the new priorities, what is the value of 20636 + 88917 / 40122? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.7304969841981954
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 428 / 59271 - 85072? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 59271 - 85072 = -25801, so the expression becomes 428 / -25801.\nStep2: Next, 428 / -25801 = -0.016588504321537925, so the final answer is [-0.016588504321537925].\n\nBased on the new priorities, what is the value of 13256 / 65628 - 60795? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.7428098489551003
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 85612 / 84229 + 41823? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 84229 + 41823 = 126052, so the expression becomes 85612 / 126052.\nStep2: Next, 85612 / 126052 = 0.6791800209437375, so the final answer is [0.6791800209437375].\n\nBased on the new priorities, what is the value of 60767 / 85356 + 53152? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.43872556097842724
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 3581 / 95416 + 10737? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 95416 + 10737 = 106153, so the expression becomes 3581 / 106153.\nStep2: Next, 3581 / 106153 = 0.03373432686782286, so the final answer is [0.03373432686782286].\n\nBased on the new priorities, what is the value of 61393 / 22979 + 68315? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6724757377264662
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 51630 / 56715 - 724? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 56715 - 724 = 55991, so the expression becomes 51630 / 55991.\nStep2: Next, 51630 / 55991 = 0.922112482363237, so the final answer is [0.922112482363237].\n\nBased on the new priorities, what is the value of 29770 / 83573 - 1060? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.3607916328336141
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 26845 / 60923 * 74376? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 60923 * 74376 = 4531209048, so the expression becomes 26845 / 4531209048.\nStep2: Next, 26845 / 4531209048 = 5.92446733655975e-06, so the final answer is [5.92446733655975e-06].\n\nBased on the new priorities, what is the value of 85060 / 59772 * 52160? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.7282867124110475e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 9790 / 44023 * 70404? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 44023 * 70404 = 3099395292, so the expression becomes 9790 / 3099395292.\nStep2: Next, 9790 / 3099395292 = 3.1586806707971214e-06, so the final answer is [3.1586806707971214e-06].\n\nBased on the new priorities, what is the value of 19453 / 36166 * 44458? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2098629776348784e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 30920 / 48692 * 37966? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 48692 * 37966 = 1848640472, so the expression becomes 30920 / 1848640472.\nStep2: Next, 30920 / 1848640472 = 1.6725804973072123e-05, so the final answer is [1.6725804973072123e-05].\n\nBased on the new priorities, what is the value of 25245 / 130 * 17664? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.010993676839464882
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 43390 + 80798 / 41800? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 43390 + 80798 = 124188, so the expression becomes 124188 / 41800.\nStep2: Next, 124188 / 41800 = 2.9710047846889953, so the final answer is [2.9710047846889953].\n\nBased on the new priorities, what is the value of 37521 + 98393 / 11252? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12.079097049413438
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 85088 / 67121 * 69719? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 67121 * 69719 = 4679608999, so the expression becomes 85088 / 4679608999.\nStep2: Next, 85088 / 4679608999 = 1.818271569658549e-05, so the final answer is [1.818271569658549e-05].\n\nBased on the new priorities, what is the value of 63688 / 71391 * 69798? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2781186355697931e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 58189 - 84460 / 70108? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 58189 - 84460 = -26271, so the expression becomes -26271 / 70108.\nStep2: Next, -26271 / 70108 = -0.37472185770525474, so the final answer is [-0.37472185770525474].\n\nBased on the new priorities, what is the value of 35312 - 27981 / 88114? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.08319903761036838
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 62515 + 49896 / 35284? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 62515 + 49896 = 112411, so the expression becomes 112411 / 35284.\nStep2: Next, 112411 / 35284 = 3.1858916222650495, so the final answer is [3.1858916222650495].\n\nBased on the new priorities, what is the value of 77119 + 84970 / 34850? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.651047345767576
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 36756 / 36218 + 96654? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 36218 + 96654 = 132872, so the expression becomes 36756 / 132872.\nStep2: Next, 36756 / 132872 = 0.27662712986934795, so the final answer is [0.27662712986934795].\n\nBased on the new priorities, what is the value of 63558 / 78550 + 72347? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.4212012167239905
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 20595 / 71948 * 45652? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 71948 * 45652 = 3284570096, so the expression becomes 20595 / 3284570096.\nStep2: Next, 20595 / 3284570096 = 6.270226969758053e-06, so the final answer is [6.270226969758053e-06].\n\nBased on the new priorities, what is the value of 35458 / 97782 * 76208? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.75833216518144e-06
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 53165 - 47577 / 26721? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 53165 - 47577 = 5588, so the expression becomes 5588 / 26721.\nStep2: Next, 5588 / 26721 = 0.20912391003330713, so the final answer is [0.20912391003330713].\n\nBased on the new priorities, what is the value of 33559 - 81443 / 88769? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.5394225461591321
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 17582 / 50820 * 12538? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 50820 * 12538 = 637181160, so the expression becomes 17582 / 637181160.\nStep2: Next, 17582 / 637181160 = 2.759340844289872e-05, so the final answer is [2.759340844289872e-05].\n\nBased on the new priorities, what is the value of 79190 / 9811 * 4289? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.0018819194076034249
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 82180 / 23934 - 81598? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 23934 - 81598 = -57664, so the expression becomes 82180 / -57664.\nStep2: Next, 82180 / -57664 = -1.4251526082130965, so the final answer is [-1.4251526082130965].\n\nBased on the new priorities, what is the value of 38532 / 7417 - 53601? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.8343149142560194
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 20481 / 30289 * 62014? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 30289 * 62014 = 1878342046, so the expression becomes 20481 / 1878342046.\nStep2: Next, 20481 / 1878342046 = 1.0903764862004265e-05, so the final answer is [1.0903764862004265e-05].\n\nBased on the new priorities, what is the value of 71594 / 88079 * 63393? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.2822211830190323e-05
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 90596 + 65614 / 78855? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 90596 + 65614 = 156210, so the expression becomes 156210 / 78855.\nStep2: Next, 156210 / 78855 = 1.9809777439604337, so the final answer is [1.9809777439604337].\n\nBased on the new priorities, what is the value of 16673 + 15820 / 27115? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.1983404019915176
+        ]
+    ]
+}

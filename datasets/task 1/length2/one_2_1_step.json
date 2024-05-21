@@ -1,0 +1,810 @@
+{
+    "+": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 9 - 5 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 5 - 4 + 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 2 + 9 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            77
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 * 3 + 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            33
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 2 + 4 / 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 8 + 7 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            105
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 4 + 8 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 5 + 3 / 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.3333333333333333
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 6 * 1 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            42
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 1 + 7 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 7 * 6 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            63
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 7 + 8 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            120
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 5 - 1 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 6 + 1 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            42
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 9 * 6 + 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            72
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 7 - 6 + 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 6 - 7 + 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -8
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 3 + 1 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 2 - 3 + 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -10
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 4 + 2 / 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 * 5 + 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            42
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 5 * 2 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            40
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 6 - 2 + 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 7 - 5 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 + 2 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            30
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 5 + 4 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\nBased on the new priorities, what is the value of 3 + 3 / 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\nBased on the new priorities, what is the value of 7 + 8 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.142857142857143
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 8 + 7 / 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 7 / 4 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\nBased on the new priorities, what is the value of 4 + 5 / 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 2 - 6 + 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -9
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 2 * 7 + 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            30
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 6 + 9 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.6666666666666667
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 8 + 1 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            36
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 1 - 1 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 5 * 4 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            50
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 7 / 9 + 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 2 + 9 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            88
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 4 / 9 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.26666666666666666
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\nBased on the new priorities, what is the value of 2 + 1 / 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 1 / 3 + 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.1
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 5 * 2 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            25
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 9 + 9 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            72
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 * 7 + 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            42
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\nBased on the new priorities, what is the value of 8 + 6 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            98
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 5 * 1 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 4 - 6 + 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -7
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 7 - 4 + 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 9 - 9 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3
+        ]
+    ],
+    "-": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\nBased on the new priorities, what is the value of 3 - 2 / 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.125
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 4 * 8 - 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 9 - 5 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            32
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 2 * 8 - 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 3 / 2 - 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 8 - 8 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 4 - 8 / 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.6666666666666666
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 7 - 1 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            18
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 5 - 6 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 8 - 7 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 6 - 3 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 1 - 8 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -42
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\nBased on the new priorities, what is the value of 5 - 1 / 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 3 - 6 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\nBased on the new priorities, what is the value of 9 - 2 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 5 * 4 - 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 2 / 9 - 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.2857142857142857
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 1 - 4 / 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.6
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 3 * 3 - 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 8 - 8 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 9 - 2 / 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 2 - 8 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -18
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 9 - 9 / 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 9 - 1 + 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\nBased on the new priorities, what is the value of 7 - 5 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.2222222222222222
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 7 * 4 - 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -7
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 3 / 2 - 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 1 - 4 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 7 - 7 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 2 / 1 - 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.6666666666666666
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 9 - 2 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            21
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 1 - 8 + 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -9
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 7 / 5 - 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -7.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 4 * 5 - 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -16
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 2 - 7 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -20
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 4 - 2 + 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 8 - 5 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.42857142857142855
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\nBased on the new priorities, what is the value of 8 - 2 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6666666666666666
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 2 - 1 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 3 / 1 - 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.75
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 6 * 6 - 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\nBased on the new priorities, what is the value of 1 - 3 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.2222222222222222
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 5 * 2 - 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -10
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 3 / 7 - 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 4 * 2 - 1? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 8 - 9 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -8
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 8 / 3 - 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\nBased on the new priorities, what is the value of 8 - 3 + 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 6 * 9 - 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\nBased on the new priorities, what is the value of 4 - 5 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4
+        ]
+    ],
+    "*": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 6 + 1 * 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            63
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\nBased on the new priorities, what is the value of 3 + 4 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            14
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\nBased on the new priorities, what is the value of 1 + 3 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 8 * 4 + 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            104
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\nBased on the new priorities, what is the value of 6 + 7 * 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            117
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 9 / 3 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.42857142857142855
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 2 - 5 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 9 * 5 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            99
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 2 * 7 - 1? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 1 - 9 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -56
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 * 5 + 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            42
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 6 * 9 + 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            66
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 1 / 7 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.023809523809523808
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 8 * 9 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            96
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 7 / 4 * 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.19444444444444445
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\nBased on the new priorities, what is the value of 2 - 9 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -28
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 4 + 5 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            54
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\nBased on the new priorities, what is the value of 2 - 7 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -15
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\nBased on the new priorities, what is the value of 4 - 2 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 8 + 4 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            60
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 6 - 2 * 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            36
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 7 - 7 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 5 + 3 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            32
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\nBased on the new priorities, what is the value of 5 - 8 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 6 + 1 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            49
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 9 + 8 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            85
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 4 + 7 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            88
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 6 - 9 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 9 + 5 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            112
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 3 - 3 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 + 2 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 8 * 5 - 1? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            32
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 2 * 6 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 7 - 8 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 8 * 2 - 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -16
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 4 * 1 - 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -20
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\nBased on the new priorities, what is the value of 9 - 5 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 4 * 5 + 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            44
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 6 / 5 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.15
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 5 - 4 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 8 + 3 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            44
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 9 * 2 - 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -45
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\nBased on the new priorities, what is the value of 9 - 7 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            14
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 * 1 + 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 8 - 2 * 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            54
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 3 * 9 - 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 3 + 7 * 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            90
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\nBased on the new priorities, what is the value of 3 - 5 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -8
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\nBased on the new priorities, what is the value of 8 + 4 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            96
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 1 / 3 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.041666666666666664
+        ]
+    ],
+    "/": [
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 3 / 3 + 1? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.75
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 3 / 1 + 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.6
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 5 / 4 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.3125
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 1 / 1 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.2
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 4 / 6 - 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 3 / 5 - 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 6 + 1 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.7777777777777778
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 5 / 2 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.625
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\nBased on the new priorities, what is the value of 9 + 8 / 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.25
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 2 / 7 * 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.05714285714285714
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 8 / 6 + 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.8888888888888888
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 7 / 4 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.4375
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 4 / 3 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.16666666666666666
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\nBased on the new priorities, what is the value of 9 + 5 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\nBased on the new priorities, what is the value of 5 + 8 / 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.625
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 7 + 8 / 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 1 / 6 + 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.1
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 9 / 3 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.75
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 2 / 5 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.06666666666666667
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 1 / 8 + 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.07692307692307693
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 7 / 8 - 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.75
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\nBased on the new priorities, what is the value of 1 - 7 / 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 1 / 6 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.05555555555555555
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 5 + 8 / 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 2 / 6 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.1111111111111111
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 4 / 4 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.125
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\nBased on the new priorities, what is the value of 6 + 2 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.8888888888888888
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 5 + 9 / 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 5 + 9 / 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\nBased on the new priorities, what is the value of 4 + 5 / 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\nBased on the new priorities, what is the value of 7 - 6 / 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\nBased on the new priorities, what is the value of 8 + 7 / 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 6 / 8 * 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.09375
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 5 / 8 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.3125
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 7 + 2 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\nBased on the new priorities, what is the value of 5 - 6 / 5? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.2
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 7 - 8 / 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.25
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 9 + 2 / 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.375
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 6 + 8 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.5555555555555556
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 5 + 3 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.1428571428571428
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 8 / 9 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.14814814814814814
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 3 / 6 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.07142857142857142
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 7 - 8 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.14285714285714285
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 1 + 1 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.2857142857142857
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 4 + 2 / 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 6 / 7 + 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.4
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\nBased on the new priorities, what is the value of 3 + 7 / 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.4285714285714286
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\nBased on the new priorities, what is the value of 7 / 7 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.5
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\nBased on the new priorities, what is the value of 3 / 6 - 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1.0
+        ],
+        [
+            "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\nBased on the new priorities, what is the value of 5 / 8 + 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            0.4166666666666667
+        ]
+    ]
+}

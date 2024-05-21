@@ -1,0 +1,810 @@
+{
+    "+": [
+        [
+            "[Example Question]: What is the value of 1355 - 4710 + 4257? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 1355 - 4710 = -3355, so the expression becomes -3355 + 4257.\nStep2: Next, -3355 + 4257 = 902, so the final answer is [902].\n\nWhat is the value of 5713 - 8378 + 3682? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1017
+        ],
+        [
+            "[Example Question]: What is the value of 8271 + 7218 * 4880? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7218 * 4880 = 35223840, so the expression becomes 8271 + 35223840.\nNext, 8271 + 35223840 = 35232111, so the final answer is [35232111].\n\nWhat is the value of 8405 + 2593 * 2120? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5505565
+        ],
+        [
+            "[Example Question]: What is the value of 4987 / 9664 + 9234? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 4987 / 9664 = 0.5160389072847682, so the expression becomes 0.5160389072847682 + 9234.\nNext, 0.5160389072847682 + 9234 = 9234.516038907284, so the final answer is [9234.516038907284].\n\nWhat is the value of 6519 / 5187 + 2738? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2739.256795835743
+        ],
+        [
+            "[Example Question]: What is the value of 1534 + 3106 * 2098? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3106 * 2098 = 6516388, so the expression becomes 1534 + 6516388.\nNext, 1534 + 6516388 = 6517922, so the final answer is [6517922].\n\nWhat is the value of 1658 + 2957 * 6903? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20413829
+        ],
+        [
+            "[Example Question]: What is the value of 6116 * 5046 + 1699? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6116 * 5046 = 30861336, so the expression becomes 30861336 + 1699.\nNext, 30861336 + 1699 = 30863035, so the final answer is [30863035].\n\nWhat is the value of 1790 * 2 + 6407? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9987
+        ],
+        [
+            "[Example Question]: What is the value of 720 - 9744 + 1457? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 720 - 9744 = -9024, so the expression becomes -9024 + 1457.\nStep2: Next, -9024 + 1457 = -7567, so the final answer is [-7567].\n\nWhat is the value of 8028 - 4304 + 1692? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5416
+        ],
+        [
+            "[Example Question]: What is the value of 9524 + 6797 / 9661? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6797 / 9661 = 0.7035503571058896, so the expression becomes 9524 + 0.7035503571058896.\nNext, 9524 + 0.7035503571058896 = 9524.703550357106, so the final answer is [9524.703550357106].\n\nWhat is the value of 4309 + 9346 / 2390? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4312.910460251046
+        ],
+        [
+            "[Example Question]: What is the value of 3842 / 1275 + 225? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3842 / 1275 = 3.013333333333333, so the expression becomes 3.013333333333333 + 225.\nNext, 3.013333333333333 + 225 = 228.01333333333332, so the final answer is [228.01333333333332].\n\nWhat is the value of 3802 / 9542 + 8797? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8797.398448962482
+        ],
+        [
+            "[Example Question]: What is the value of 5217 + 954 * 2370? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 954 * 2370 = 2260980, so the expression becomes 5217 + 2260980.\nNext, 5217 + 2260980 = 2266197, so the final answer is [2266197].\n\nWhat is the value of 6994 + 8122 * 5005? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            40657604
+        ],
+        [
+            "[Example Question]: What is the value of 6407 - 4126 + 5435? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 6407 - 4126 = 2281, so the expression becomes 2281 + 5435.\nStep2: Next, 2281 + 5435 = 7716, so the final answer is [7716].\n\nWhat is the value of 1612 - 3192 + 5281? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3701
+        ],
+        [
+            "[Example Question]: What is the value of 3365 - 2544 + 3740? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 3365 - 2544 = 821, so the expression becomes 821 + 3740.\nStep2: Next, 821 + 3740 = 4561, so the final answer is [4561].\n\nWhat is the value of 3391 - 7440 + 283? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3766
+        ],
+        [
+            "[Example Question]: What is the value of 7879 * 5783 + 4273? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7879 * 5783 = 45564257, so the expression becomes 45564257 + 4273.\nNext, 45564257 + 4273 = 45568530, so the final answer is [45568530].\n\nWhat is the value of 6682 * 6961 + 192? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            46513594
+        ],
+        [
+            "[Example Question]: What is the value of 8617 + 5806 * 2880? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5806 * 2880 = 16721280, so the expression becomes 8617 + 16721280.\nNext, 8617 + 16721280 = 16729897, so the final answer is [16729897].\n\nWhat is the value of 1802 + 6737 * 5031? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            33895649
+        ],
+        [
+            "[Example Question]: What is the value of 4166 - 8698 + 8960? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 4166 - 8698 = -4532, so the expression becomes -4532 + 8960.\nStep2: Next, -4532 + 8960 = 4428, so the final answer is [4428].\n\nWhat is the value of 6147 - 5287 + 6280? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7140
+        ],
+        [
+            "[Example Question]: What is the value of 2670 - 1381 + 8529? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 2670 - 1381 = 1289, so the expression becomes 1289 + 8529.\nStep2: Next, 1289 + 8529 = 9818, so the final answer is [9818].\n\nWhat is the value of 4856 - 7333 + 2907? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            430
+        ],
+        [
+            "[Example Question]: What is the value of 421 + 1002 * 5901? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1002 * 5901 = 5912802, so the expression becomes 421 + 5912802.\nNext, 421 + 5912802 = 5913223, so the final answer is [5913223].\n\nWhat is the value of 5831 + 366 * 4902? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1799963
+        ],
+        [
+            "[Example Question]: What is the value of 3704 + 6600 / 8915? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6600 / 8915 = 0.7403252944475603, so the expression becomes 3704 + 0.7403252944475603.\nNext, 3704 + 0.7403252944475603 = 3704.7403252944478, so the final answer is [3704.7403252944478].\n\nWhat is the value of 4692 + 1069 / 6328? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4692.168931731985
+        ],
+        [
+            "[Example Question]: What is the value of 3975 - 3098 + 4973? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 3975 - 3098 = 877, so the expression becomes 877 + 4973.\nStep2: Next, 877 + 4973 = 5850, so the final answer is [5850].\n\nWhat is the value of 7219 - 1396 + 536? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6359
+        ],
+        [
+            "[Example Question]: What is the value of 9971 / 8316 + 4447? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 9971 / 8316 = 1.199013949013949, so the expression becomes 1.199013949013949 + 4447.\nNext, 1.199013949013949 + 4447 = 4448.1990139490135, so the final answer is [4448.1990139490135].\n\nWhat is the value of 4641 / 9285 + 5638? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5638.499838449112
+        ],
+        [
+            "[Example Question]: What is the value of 1351 - 3268 + 4839? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 1351 - 3268 = -1917, so the expression becomes -1917 + 4839.\nStep2: Next, -1917 + 4839 = 2922, so the final answer is [2922].\n\nWhat is the value of 3633 - 1093 + 900? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3440
+        ],
+        [
+            "[Example Question]: What is the value of 7367 + 3678 * 3754? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3678 * 3754 = 13807212, so the expression becomes 7367 + 13807212.\nNext, 7367 + 13807212 = 13814579, so the final answer is [13814579].\n\nWhat is the value of 7297 + 904 * 6880? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6226817
+        ],
+        [
+            "[Example Question]: What is the value of 7782 - 5725 + 1766? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 7782 - 5725 = 2057, so the expression becomes 2057 + 1766.\nStep2: Next, 2057 + 1766 = 3823, so the final answer is [3823].\n\nWhat is the value of 2630 - 7109 + 6668? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2189
+        ],
+        [
+            "[Example Question]: What is the value of 533 + 7406 * 2909? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7406 * 2909 = 21544054, so the expression becomes 533 + 21544054.\nNext, 533 + 21544054 = 21544587, so the final answer is [21544587].\n\nWhat is the value of 9158 + 6229 * 997? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6219471
+        ],
+        [
+            "[Example Question]: What is the value of 4995 + 8446 * 1194? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8446 * 1194 = 10084524, so the expression becomes 4995 + 10084524.\nNext, 4995 + 10084524 = 10089519, so the final answer is [10089519].\n\nWhat is the value of 6838 + 2980 * 7992? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            23822998
+        ],
+        [
+            "[Example Question]: What is the value of 1994 + 7143 * 145? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7143 * 145 = 1035735, so the expression becomes 1994 + 1035735.\nNext, 1994 + 1035735 = 1037729, so the final answer is [1037729].\n\nWhat is the value of 9998 + 3987 * 3968? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15830414
+        ],
+        [
+            "[Example Question]: What is the value of 5973 + 3462 / 9330? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3462 / 9330 = 0.3710610932475884, so the expression becomes 5973 + 0.3710610932475884.\nNext, 5973 + 0.3710610932475884 = 5973.371061093248, so the final answer is [5973.371061093248].\n\nWhat is the value of 617 + 3484 / 3526? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            617.988088485536
+        ],
+        [
+            "[Example Question]: What is the value of 7069 - 4036 + 9321? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 7069 - 4036 = 3033, so the expression becomes 3033 + 9321.\nStep2: Next, 3033 + 9321 = 12354, so the final answer is [12354].\n\nWhat is the value of 6869 - 6820 + 7739? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7788
+        ],
+        [
+            "[Example Question]: What is the value of 1469 - 3784 + 3374? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 1469 - 3784 = -2315, so the expression becomes -2315 + 3374.\nStep2: Next, -2315 + 3374 = 1059, so the final answer is [1059].\n\nWhat is the value of 7316 - 1878 + 8560? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13998
+        ],
+        [
+            "[Example Question]: What is the value of 5144 / 4522 + 4128? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5144 / 4522 = 1.1375497567448032, so the expression becomes 1.1375497567448032 + 4128.\nNext, 1.1375497567448032 + 4128 = 4129.137549756745, so the final answer is [4129.137549756745].\n\nWhat is the value of 7449 / 2620 + 905? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            907.8431297709924
+        ],
+        [
+            "[Example Question]: What is the value of 4273 + 1390 * 670? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1390 * 670 = 931300, so the expression becomes 4273 + 931300.\nNext, 4273 + 931300 = 935573, so the final answer is [935573].\n\nWhat is the value of 1767 + 421 * 2876? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1212563
+        ],
+        [
+            "[Example Question]: What is the value of 4598 + 9728 * 5933? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9728 * 5933 = 57716224, so the expression becomes 4598 + 57716224.\nNext, 4598 + 57716224 = 57720822, so the final answer is [57720822].\n\nWhat is the value of 4733 + 5194 * 1517? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7884031
+        ],
+        [
+            "[Example Question]: What is the value of 6715 + 4830 / 1355? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 4830 / 1355 = 3.5645756457564577, so the expression becomes 6715 + 3.5645756457564577.\nNext, 6715 + 3.5645756457564577 = 6718.564575645756, so the final answer is [6718.564575645756].\n\nWhat is the value of 444 + 6377 / 2216? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            446.8777075812274
+        ],
+        [
+            "[Example Question]: What is the value of 6215 / 2672 + 740? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6215 / 2672 = 2.3259730538922154, so the expression becomes 2.3259730538922154 + 740.\nNext, 2.3259730538922154 + 740 = 742.3259730538922, so the final answer is [742.3259730538922].\n\nWhat is the value of 1325 / 3709 + 6590? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6590.357239148018
+        ],
+        [
+            "[Example Question]: What is the value of 5771 - 623 + 4709? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 5771 - 623 = 5148, so the expression becomes 5148 + 4709.\nStep2: Next, 5148 + 4709 = 9857, so the final answer is [9857].\n\nWhat is the value of 2805 - 1110 + 6638? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8333
+        ],
+        [
+            "[Example Question]: What is the value of 4010 + 4560 / 3426? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 4560 / 3426 = 1.3309982486865148, so the expression becomes 4010 + 1.3309982486865148.\nNext, 4010 + 1.3309982486865148 = 4011.3309982486867, so the final answer is [4011.3309982486867].\n\nWhat is the value of 6859 + 6896 / 2493? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6861.766145206579
+        ],
+        [
+            "[Example Question]: What is the value of 773 + 6808 * 4082? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6808 * 4082 = 27790256, so the expression becomes 773 + 27790256.\nNext, 773 + 27790256 = 27791029, so the final answer is [27791029].\n\nWhat is the value of 5283 + 6413 * 9463? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            60691502
+        ],
+        [
+            "[Example Question]: What is the value of 5315 - 5323 + 1413? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 5315 - 5323 = -8, so the expression becomes -8 + 1413.\nStep2: Next, -8 + 1413 = 1405, so the final answer is [1405].\n\nWhat is the value of 4206 - 1172 + 129? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3163
+        ],
+        [
+            "[Example Question]: What is the value of 2358 + 1995 / 7558? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1995 / 7558 = 0.2639587192378936, so the expression becomes 2358 + 0.2639587192378936.\nNext, 2358 + 0.2639587192378936 = 2358.263958719238, so the final answer is [2358.263958719238].\n\nWhat is the value of 919 + 9230 / 7661? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            920.2048035504504
+        ],
+        [
+            "[Example Question]: What is the value of 6787 + 9540 * 2683? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9540 * 2683 = 25595820, so the expression becomes 6787 + 25595820.\nNext, 6787 + 25595820 = 25602607, so the final answer is [25602607].\n\nWhat is the value of 858 + 637 * 8646? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5508360
+        ],
+        [
+            "[Example Question]: What is the value of 2985 + 3658 * 9904? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3658 * 9904 = 36228832, so the expression becomes 2985 + 36228832.\nNext, 2985 + 36228832 = 36231817, so the final answer is [36231817].\n\nWhat is the value of 650 + 6469 * 2341? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            15144579
+        ],
+        [
+            "[Example Question]: What is the value of 4110 / 1797 + 1963? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 4110 / 1797 = 2.287145242070117, so the expression becomes 2.287145242070117 + 1963.\nNext, 2.287145242070117 + 1963 = 1965.2871452420702, so the final answer is [1965.2871452420702].\n\nWhat is the value of 7244 / 6825 + 2574? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2575.061391941392
+        ],
+        [
+            "[Example Question]: What is the value of 5459 + 5467 / 4521? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5467 / 4521 = 1.2092457420924574, so the expression becomes 5459 + 1.2092457420924574.\nNext, 5459 + 1.2092457420924574 = 5460.209245742092, so the final answer is [5460.209245742092].\n\nWhat is the value of 4752 + 9660 / 1124? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4760.594306049822
+        ],
+        [
+            "[Example Question]: What is the value of 6075 - 2540 + 2559? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 6075 - 2540 = 3535, so the expression becomes 3535 + 2559.\nStep2: Next, 3535 + 2559 = 6094, so the final answer is [6094].\n\nWhat is the value of 7190 - 2577 + 6069? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10682
+        ],
+        [
+            "[Example Question]: What is the value of 7232 - 7578 + 5616? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 7232 - 7578 = -346, so the expression becomes -346 + 5616.\nStep2: Next, -346 + 5616 = 5270, so the final answer is [5270].\n\nWhat is the value of 8810 - 5375 + 3814? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7249
+        ],
+        [
+            "[Example Question]: What is the value of 5546 / 2780 + 8619? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5546 / 2780 = 1.9949640287769783, so the expression becomes 1.9949640287769783 + 8619.\nNext, 1.9949640287769783 + 8619 = 8620.994964028778, so the final answer is [8620.994964028778].\n\nWhat is the value of 9288 / 9940 + 3184? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3184.934406438632
+        ],
+        [
+            "[Example Question]: What is the value of 6789 - 7814 + 3069? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 6789 - 7814 = -1025, so the expression becomes -1025 + 3069.\nStep2: Next, -1025 + 3069 = 2044, so the final answer is [2044].\n\nWhat is the value of 1086 - 4042 + 3463? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            507
+        ],
+        [
+            "[Example Question]: What is the value of 4375 - 9689 + 9421? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 4375 - 9689 = -5314, so the expression becomes -5314 + 9421.\nStep2: Next, -5314 + 9421 = 4107, so the final answer is [4107].\n\nWhat is the value of 3951 - 9596 + 1139? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4506
+        ],
+        [
+            "[Example Question]: What is the value of 3520 - 7271 + 827? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 3520 - 7271 = -3751, so the expression becomes -3751 + 827.\nStep2: Next, -3751 + 827 = -2924, so the final answer is [-2924].\n\nWhat is the value of 5643 - 9693 + 3010? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1040
+        ],
+        [
+            "[Example Question]: What is the value of 5381 / 4411 + 1765? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5381 / 4411 = 1.2199047834958059, so the expression becomes 1.2199047834958059 + 1765.\nNext, 1.2199047834958059 + 1765 = 1766.2199047834958, so the final answer is [1766.2199047834958].\n\nWhat is the value of 7521 / 9479 + 4544? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4544.793438126385
+        ],
+        [
+            "[Example Question]: What is the value of 7339 + 7081 * 505? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7081 * 505 = 3575905, so the expression becomes 7339 + 3575905.\nNext, 7339 + 3575905 = 3583244, so the final answer is [3583244].\n\nWhat is the value of 2181 + 5214 * 7446? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            38825625
+        ]
+    ],
+    "-": [
+        [
+            "[Example Question]: What is the value of 8926 / 1162 - 7681? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8926 / 1162 = 7.6815834767641995, so the expression becomes 7.6815834767641995 - 7681.\nNext, 7.6815834767641995 - 7681 = -7673.318416523236, so the final answer is [-7673.318416523236].\n\nWhat is the value of 9605 / 7005 - 7728? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -7726.628836545325
+        ],
+        [
+            "[Example Question]: What is the value of 8845 / 4176 - 9535? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8845 / 4176 = 2.1180555555555554, so the expression becomes 2.1180555555555554 - 9535.\nNext, 2.1180555555555554 - 9535 = -9532.881944444445, so the final answer is [-9532.881944444445].\n\nWhat is the value of 2800 / 9348 - 5523? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5522.700470688917
+        ],
+        [
+            "[Example Question]: What is the value of 9287 - 8095 / 420? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8095 / 420 = 19.273809523809526, so the expression becomes 9287 - 19.273809523809526.\nNext, 9287 - 19.273809523809526 = 9267.72619047619, so the final answer is [9267.72619047619].\n\nWhat is the value of 6364 - 2774 / 8106? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6363.657784357266
+        ],
+        [
+            "[Example Question]: What is the value of 4823 * 3759 - 1409? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4823 * 3759 = 18129657, so the expression becomes 18129657 - 1409.\nNext, 18129657 - 1409 = 18128248, so the final answer is [18128248].\n\nWhat is the value of 6554 * 6642 - 371? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            43531297
+        ],
+        [
+            "[Example Question]: What is the value of 3330 - 4183 * 1570? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4183 * 1570 = 6567310, so the expression becomes 3330 - 6567310.\nNext, 3330 - 6567310 = -6563980, so the final answer is [-6563980].\n\nWhat is the value of 7585 - 9357 * 3856? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -36073007
+        ],
+        [
+            "[Example Question]: What is the value of 9006 - 766 / 1640? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 766 / 1640 = 0.46707317073170734, so the expression becomes 9006 - 0.46707317073170734.\nNext, 9006 - 0.46707317073170734 = 9005.532926829268, so the final answer is [9005.532926829268].\n\nWhat is the value of 764 - 8943 / 3983? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            761.7547075069043
+        ],
+        [
+            "[Example Question]: What is the value of 377 - 567 / 8976? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 567 / 8976 = 0.06316844919786097, so the expression becomes 377 - 0.06316844919786097.\nNext, 377 - 0.06316844919786097 = 376.93683155080214, so the final answer is [376.93683155080214].\n\nWhat is the value of 1670 - 5015 / 4549? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1668.8975599032754
+        ],
+        [
+            "[Example Question]: What is the value of 6289 - 8953 / 8758? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8953 / 8758 = 1.0222653573875313, so the expression becomes 6289 - 1.0222653573875313.\nNext, 6289 - 1.0222653573875313 = 6287.977734642613, so the final answer is [6287.977734642613].\n\nWhat is the value of 7577 - 6863 / 5512? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7575.754898403483
+        ],
+        [
+            "[Example Question]: What is the value of 3958 - 7408 / 7795? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 7408 / 7795 = 0.9503527902501604, so the expression becomes 3958 - 0.9503527902501604.\nNext, 3958 - 0.9503527902501604 = 3957.0496472097498, so the final answer is [3957.0496472097498].\n\nWhat is the value of 5144 - 3771 / 5942? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5143.365365196903
+        ],
+        [
+            "[Example Question]: What is the value of 6443 - 8799 * 8965? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 8799 * 8965 = 78883035, so the expression becomes 6443 - 78883035.\nNext, 6443 - 78883035 = -78876592, so the final answer is [-78876592].\n\nWhat is the value of 5497 - 910 * 3803? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3455233
+        ],
+        [
+            "[Example Question]: What is the value of 3777 * 6795 - 4457? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3777 * 6795 = 25664715, so the expression becomes 25664715 - 4457.\nNext, 25664715 - 4457 = 25660258, so the final answer is [25660258].\n\nWhat is the value of 5582 * 949 - 1510? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5295808
+        ],
+        [
+            "[Example Question]: What is the value of 866 - 9497 + 7429? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 866 - 9497 = -8631, so the expression becomes -8631 + 7429.\nStep2: Next, -8631 + 7429 = -1202, so the final answer is [-1202].\n\nWhat is the value of 3693 - 7307 + 1028? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2586
+        ],
+        [
+            "[Example Question]: What is the value of 5263 - 5638 * 2387? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5638 * 2387 = 13457906, so the expression becomes 5263 - 13457906.\nNext, 5263 - 13457906 = -13452643, so the final answer is [-13452643].\n\nWhat is the value of 7168 - 7763 * 138? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1064126
+        ],
+        [
+            "[Example Question]: What is the value of 6866 - 5536 * 7862? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5536 * 7862 = 43524032, so the expression becomes 6866 - 43524032.\nNext, 6866 - 43524032 = -43517166, so the final answer is [-43517166].\n\nWhat is the value of 2474 - 2412 * 1670? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4025566
+        ],
+        [
+            "[Example Question]: What is the value of 7413 - 4577 / 1197? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 4577 / 1197 = 3.8237259816207185, so the expression becomes 7413 - 3.8237259816207185.\nNext, 7413 - 3.8237259816207185 = 7409.176274018379, so the final answer is [7409.176274018379].\n\nWhat is the value of 5516 - 9211 / 1198? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5508.311352253756
+        ],
+        [
+            "[Example Question]: What is the value of 9127 * 9690 - 1336? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9127 * 9690 = 88440630, so the expression becomes 88440630 - 1336.\nNext, 88440630 - 1336 = 88439294, so the final answer is [88439294].\n\nWhat is the value of 4923 * 8865 - 9661? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            43632734
+        ],
+        [
+            "[Example Question]: What is the value of 7229 - 2471 * 1151? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2471 * 1151 = 2844121, so the expression becomes 7229 - 2844121.\nNext, 7229 - 2844121 = -2836892, so the final answer is [-2836892].\n\nWhat is the value of 3179 - 3007 * 6152? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -18495885
+        ],
+        [
+            "[Example Question]: What is the value of 5514 - 6620 / 147? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 6620 / 147 = 45.034013605442176, so the expression becomes 5514 - 45.034013605442176.\nNext, 5514 - 45.034013605442176 = 5468.965986394558, so the final answer is [5468.965986394558].\n\nWhat is the value of 6718 - 5717 / 6868? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6717.167588817705
+        ],
+        [
+            "[Example Question]: What is the value of 4141 - 5116 / 4177? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 5116 / 4177 = 1.2248024898252334, so the expression becomes 4141 - 1.2248024898252334.\nNext, 4141 - 1.2248024898252334 = 4139.775197510175, so the final answer is [4139.775197510175].\n\nWhat is the value of 47 - 5907 / 9250? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            46.36140540540541
+        ],
+        [
+            "[Example Question]: What is the value of 1220 / 7014 - 5331? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1220 / 7014 = 0.1739378386084973, so the expression becomes 0.1739378386084973 - 5331.\nNext, 0.1739378386084973 - 5331 = -5330.826062161392, so the final answer is [-5330.826062161392].\n\nWhat is the value of 646 / 9410 - 2069? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2068.931349628055
+        ],
+        [
+            "[Example Question]: What is the value of 2733 - 2114 / 3905? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2114 / 3905 = 0.5413572343149808, so the expression becomes 2733 - 0.5413572343149808.\nNext, 2733 - 0.5413572343149808 = 2732.458642765685, so the final answer is [2732.458642765685].\n\nWhat is the value of 3933 - 9867 / 3923? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3930.484833035942
+        ],
+        [
+            "[Example Question]: What is the value of 8894 / 7163 - 266? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8894 / 7163 = 1.241658522965238, so the expression becomes 1.241658522965238 - 266.\nNext, 1.241658522965238 - 266 = -264.7583414770348, so the final answer is [-264.7583414770348].\n\nWhat is the value of 103 / 7559 - 1703? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1702.986373858976
+        ],
+        [
+            "[Example Question]: What is the value of 6061 * 6033 - 9053? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 6061 * 6033 = 36566013, so the expression becomes 36566013 - 9053.\nNext, 36566013 - 9053 = 36556960, so the final answer is [36556960].\n\nWhat is the value of 634 * 3673 - 3534? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2325148
+        ],
+        [
+            "[Example Question]: What is the value of 7456 * 566 - 2159? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7456 * 566 = 4220096, so the expression becomes 4220096 - 2159.\nNext, 4220096 - 2159 = 4217937, so the final answer is [4217937].\n\nWhat is the value of 333 * 4933 - 4174? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1638515
+        ],
+        [
+            "[Example Question]: What is the value of 5829 - 3042 * 3866? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3042 * 3866 = 11760372, so the expression becomes 5829 - 11760372.\nNext, 5829 - 11760372 = -11754543, so the final answer is [-11754543].\n\nWhat is the value of 3633 - 6835 * 4814? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -32900057
+        ],
+        [
+            "[Example Question]: What is the value of 2855 - 2845 / 417? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2845 / 417 = 6.822541966426859, so the expression becomes 2855 - 6.822541966426859.\nNext, 2855 - 6.822541966426859 = 2848.177458033573, so the final answer is [2848.177458033573].\n\nWhat is the value of 3184 - 4268 / 6442? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3183.3374728345234
+        ],
+        [
+            "[Example Question]: What is the value of 1503 * 7610 - 7857? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1503 * 7610 = 11437830, so the expression becomes 11437830 - 7857.\nNext, 11437830 - 7857 = 11429973, so the final answer is [11429973].\n\nWhat is the value of 899 * 8566 - 3086? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7697748
+        ],
+        [
+            "[Example Question]: What is the value of 5032 * 3663 - 1370? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5032 * 3663 = 18432216, so the expression becomes 18432216 - 1370.\nNext, 18432216 - 1370 = 18430846, so the final answer is [18430846].\n\nWhat is the value of 7737 * 6149 - 2927? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            47571886
+        ],
+        [
+            "[Example Question]: What is the value of 7466 * 7250 - 2319? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7466 * 7250 = 54128500, so the expression becomes 54128500 - 2319.\nNext, 54128500 - 2319 = 54126181, so the final answer is [54126181].\n\nWhat is the value of 2274 * 7933 - 7678? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            18031964
+        ],
+        [
+            "[Example Question]: What is the value of 9902 - 658 + 610? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 9902 - 658 = 9244, so the expression becomes 9244 + 610.\nStep2: Next, 9244 + 610 = 9854, so the final answer is [9854].\n\nWhat is the value of 1209 - 2356 + 716? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -431
+        ],
+        [
+            "[Example Question]: What is the value of 9457 * 8385 - 7550? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9457 * 8385 = 79296945, so the expression becomes 79296945 - 7550.\nNext, 79296945 - 7550 = 79289395, so the final answer is [79289395].\n\nWhat is the value of 7859 * 6665 - 3970? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            52376265
+        ],
+        [
+            "[Example Question]: What is the value of 71 / 4644 - 6889? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 71 / 4644 = 0.0152885443583118, so the expression becomes 0.0152885443583118 - 6889.\nNext, 0.0152885443583118 - 6889 = -6888.984711455641, so the final answer is [-6888.984711455641].\n\nWhat is the value of 5653 / 3662 - 3789? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3787.4563080283997
+        ],
+        [
+            "[Example Question]: What is the value of 8526 - 7167 / 7105? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 7167 / 7105 = 1.0087262491203377, so the expression becomes 8526 - 1.0087262491203377.\nNext, 8526 - 1.0087262491203377 = 8524.99127375088, so the final answer is [8524.99127375088].\n\nWhat is the value of 1321 - 4273 / 2892? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1319.5224757952974
+        ],
+        [
+            "[Example Question]: What is the value of 6864 / 4066 - 4596? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 6864 / 4066 = 1.6881455976389572, so the expression becomes 1.6881455976389572 - 4596.\nNext, 1.6881455976389572 - 4596 = -4594.311854402361, so the final answer is [-4594.311854402361].\n\nWhat is the value of 4815 / 991 - 9436? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -9431.141271442986
+        ],
+        [
+            "[Example Question]: What is the value of 7952 - 489 / 1793? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 489 / 1793 = 0.2727272727272727, so the expression becomes 7952 - 0.2727272727272727.\nNext, 7952 - 0.2727272727272727 = 7951.727272727273, so the final answer is [7951.727272727273].\n\nWhat is the value of 552 - 8486 / 9117? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            551.0692113633871
+        ],
+        [
+            "[Example Question]: What is the value of 5095 / 1443 - 222? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 5095 / 1443 = 3.530838530838531, so the expression becomes 3.530838530838531 - 222.\nNext, 3.530838530838531 - 222 = -218.46916146916146, so the final answer is [-218.46916146916146].\n\nWhat is the value of 3521 / 7282 - 9289? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -9288.516478989288
+        ],
+        [
+            "[Example Question]: What is the value of 7209 - 6432 * 7549? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 6432 * 7549 = 48555168, so the expression becomes 7209 - 48555168.\nNext, 7209 - 48555168 = -48547959, so the final answer is [-48547959].\n\nWhat is the value of 8614 - 4701 * 1449? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -6803135
+        ],
+        [
+            "[Example Question]: What is the value of 7031 - 5292 * 3543? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5292 * 3543 = 18749556, so the expression becomes 7031 - 18749556.\nNext, 7031 - 18749556 = -18742525, so the final answer is [-18742525].\n\nWhat is the value of 6442 - 7373 * 5998? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -44216812
+        ],
+        [
+            "[Example Question]: What is the value of 1338 / 9097 - 5169? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1338 / 9097 = 0.14708145542486534, so the expression becomes 0.14708145542486534 - 5169.\nNext, 0.14708145542486534 - 5169 = -5168.852918544575, so the final answer is [-5168.852918544575].\n\nWhat is the value of 7869 / 2174 - 4907? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4903.380404783808
+        ],
+        [
+            "[Example Question]: What is the value of 8105 / 3125 - 4806? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8105 / 3125 = 2.5936, so the expression becomes 2.5936 - 4806.\nNext, 2.5936 - 4806 = -4803.4064, so the final answer is [-4803.4064].\n\nWhat is the value of 4827 / 2768 - 964? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -962.256141618497
+        ],
+        [
+            "[Example Question]: What is the value of 4315 * 244 - 1080? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4315 * 244 = 1052860, so the expression becomes 1052860 - 1080.\nNext, 1052860 - 1080 = 1051780, so the final answer is [1051780].\n\nWhat is the value of 3580 * 9731 - 2048? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            34834932
+        ],
+        [
+            "[Example Question]: What is the value of 6267 - 6196 * 1251? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 6196 * 1251 = 7751196, so the expression becomes 6267 - 7751196.\nNext, 6267 - 7751196 = -7744929, so the final answer is [-7744929].\n\nWhat is the value of 4507 - 5295 * 9302? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -49249583
+        ],
+        [
+            "[Example Question]: What is the value of 4831 - 9358 + 9179? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 4831 - 9358 = -4527, so the expression becomes -4527 + 9179.\nStep2: Next, -4527 + 9179 = 4652, so the final answer is [4652].\n\nWhat is the value of 2117 - 4309 + 1447? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -745
+        ],
+        [
+            "[Example Question]: What is the value of 6798 - 4676 / 7574? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 4676 / 7574 = 0.6173752310536045, so the expression becomes 6798 - 0.6173752310536045.\nNext, 6798 - 0.6173752310536045 = 6797.382624768947, so the final answer is [6797.382624768947].\n\nWhat is the value of 9619 - 5194 / 468? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9607.901709401709
+        ],
+        [
+            "[Example Question]: What is the value of 2465 * 5085 - 7184? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2465 * 5085 = 12534525, so the expression becomes 12534525 - 7184.\nNext, 12534525 - 7184 = 12527341, so the final answer is [12527341].\n\nWhat is the value of 1046 * 1441 - 6504? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1500782
+        ],
+        [
+            "[Example Question]: What is the value of 1442 - 7566 / 1631? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 7566 / 1631 = 4.638871857755978, so the expression becomes 1442 - 4.638871857755978.\nNext, 1442 - 4.638871857755978 = 1437.361128142244, so the final answer is [1437.361128142244].\n\nWhat is the value of 3068 - 925 / 962? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3067.0384615384614
+        ],
+        [
+            "[Example Question]: What is the value of 2584 - 1265 + 9529? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '+' and '-' have the same priority, we evaluate them from left to right. In this case, '-' comes before '+', so we calculate '-' first: 2584 - 1265 = 1319, so the expression becomes 1319 + 9529.\nStep2: Next, 1319 + 9529 = 10848, so the final answer is [10848].\n\nWhat is the value of 373 - 1748 + 1467? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            92
+        ],
+        [
+            "[Example Question]: What is the value of 4245 - 5397 * 9163? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5397 * 9163 = 49452711, so the expression becomes 4245 - 49452711.\nNext, 4245 - 49452711 = -49448466, so the final answer is [-49448466].\n\nWhat is the value of 7520 - 2714 * 2747? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -7447838
+        ],
+        [
+            "[Example Question]: What is the value of 1262 * 2543 - 3810? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1262 * 2543 = 3209266, so the expression becomes 3209266 - 3810.\nNext, 3209266 - 3810 = 3205456, so the final answer is [3205456].\n\nWhat is the value of 5064 * 6945 - 9522? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            35159958
+        ],
+        [
+            "[Example Question]: What is the value of 781 - 1398 / 1602? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1398 / 1602 = 0.8726591760299626, so the expression becomes 781 - 0.8726591760299626.\nNext, 781 - 0.8726591760299626 = 780.12734082397, so the final answer is [780.12734082397].\n\nWhat is the value of 1100 - 4134 / 6752? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1099.3877369668246
+        ]
+    ],
+    "*": [
+        [
+            "[Example Question]: What is the value of 140 / 3246 * 9208? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 140 / 3246 = 0.04313000616142945, so the expression becomes 0.04313000616142945 * 9208.\nStep2: Next, 0.04313000616142945 * 9208 = 397.1410967344424, so the final answer is [397.1410967344424].\n\nWhat is the value of 567 / 7462 * 6306? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            479.1613508442777
+        ],
+        [
+            "[Example Question]: What is the value of 9391 - 3063 * 3621? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3063 * 3621 = 11091123, so the expression becomes 9391 - 11091123.\nNext, 9391 - 11091123 = -11081732, so the final answer is [-11081732].\n\nWhat is the value of 1081 - 4681 * 3051? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -14280650
+        ],
+        [
+            "[Example Question]: What is the value of 8318 - 9855 * 138? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9855 * 138 = 1359990, so the expression becomes 8318 - 1359990.\nNext, 8318 - 1359990 = -1351672, so the final answer is [-1351672].\n\nWhat is the value of 9796 - 4381 * 8428? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -36913272
+        ],
+        [
+            "[Example Question]: What is the value of 3094 - 837 * 3106? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 837 * 3106 = 2599722, so the expression becomes 3094 - 2599722.\nNext, 3094 - 2599722 = -2596628, so the final answer is [-2596628].\n\nWhat is the value of 6148 - 9330 * 6049? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -56431022
+        ],
+        [
+            "[Example Question]: What is the value of 2828 + 9395 * 6798? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 9395 * 6798 = 63867210, so the expression becomes 2828 + 63867210.\nNext, 2828 + 63867210 = 63870038, so the final answer is [63870038].\n\nWhat is the value of 8029 + 4329 * 2345? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10159534
+        ],
+        [
+            "[Example Question]: What is the value of 5058 + 1311 * 2369? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1311 * 2369 = 3105759, so the expression becomes 5058 + 3105759.\nNext, 5058 + 3105759 = 3110817, so the final answer is [3110817].\n\nWhat is the value of 4197 + 5460 * 2503? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13670577
+        ],
+        [
+            "[Example Question]: What is the value of 9981 + 7493 * 7062? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7493 * 7062 = 52915566, so the expression becomes 9981 + 52915566.\nNext, 9981 + 52915566 = 52925547, so the final answer is [52925547].\n\nWhat is the value of 9256 + 3620 * 4770? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17276656
+        ],
+        [
+            "[Example Question]: What is the value of 4375 * 4808 - 1929? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4375 * 4808 = 21035000, so the expression becomes 21035000 - 1929.\nNext, 21035000 - 1929 = 21033071, so the final answer is [21033071].\n\nWhat is the value of 1014 * 2033 - 1705? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2059757
+        ],
+        [
+            "[Example Question]: What is the value of 304 + 7772 * 86? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7772 * 86 = 668392, so the expression becomes 304 + 668392.\nNext, 304 + 668392 = 668696, so the final answer is [668696].\n\nWhat is the value of 3986 + 2700 * 6500? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17553986
+        ],
+        [
+            "[Example Question]: What is the value of 5879 - 7107 * 8443? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7107 * 8443 = 60004401, so the expression becomes 5879 - 60004401.\nNext, 5879 - 60004401 = -59998522, so the final answer is [-59998522].\n\nWhat is the value of 284 - 9487 * 1884? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -17873224
+        ],
+        [
+            "[Example Question]: What is the value of 7388 + 6750 * 3086? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 6750 * 3086 = 20830500, so the expression becomes 7388 + 20830500.\nNext, 7388 + 20830500 = 20837888, so the final answer is [20837888].\n\nWhat is the value of 4060 + 688 * 256? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            180188
+        ],
+        [
+            "[Example Question]: What is the value of 9235 * 922 - 8861? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9235 * 922 = 8514670, so the expression becomes 8514670 - 8861.\nNext, 8514670 - 8861 = 8505809, so the final answer is [8505809].\n\nWhat is the value of 8148 * 6267 - 2339? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            51061177
+        ],
+        [
+            "[Example Question]: What is the value of 9836 / 2152 * 1032? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 9836 / 2152 = 4.570631970260223, so the expression becomes 4.570631970260223 * 1032.\nStep2: Next, 4.570631970260223 * 1032 = 4716.89219330855, so the final answer is [4716.89219330855].\n\nWhat is the value of 3535 / 7190 * 1595? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            784.1898470097358
+        ],
+        [
+            "[Example Question]: What is the value of 3856 * 9616 + 4036? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3856 * 9616 = 37079296, so the expression becomes 37079296 + 4036.\nNext, 37079296 + 4036 = 37083332, so the final answer is [37083332].\n\nWhat is the value of 7393 * 6279 + 5764? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            46426411
+        ],
+        [
+            "[Example Question]: What is the value of 959 + 5694 * 2347? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5694 * 2347 = 13363818, so the expression becomes 959 + 13363818.\nNext, 959 + 13363818 = 13364777, so the final answer is [13364777].\n\nWhat is the value of 2186 + 5716 * 2913? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            16652894
+        ],
+        [
+            "[Example Question]: What is the value of 5874 * 5035 + 6789? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5874 * 5035 = 29575590, so the expression becomes 29575590 + 6789.\nNext, 29575590 + 6789 = 29582379, so the final answer is [29582379].\n\nWhat is the value of 6576 * 1399 + 7340? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9207164
+        ],
+        [
+            "[Example Question]: What is the value of 6889 - 1569 * 4879? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1569 * 4879 = 7655151, so the expression becomes 6889 - 7655151.\nNext, 6889 - 7655151 = -7648262, so the final answer is [-7648262].\n\nWhat is the value of 9849 - 8329 * 3659? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -30465962
+        ],
+        [
+            "[Example Question]: What is the value of 8683 - 2540 * 6382? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2540 * 6382 = 16210280, so the expression becomes 8683 - 16210280.\nNext, 8683 - 16210280 = -16201597, so the final answer is [-16201597].\n\nWhat is the value of 9362 - 2033 * 7595? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -15431273
+        ],
+        [
+            "[Example Question]: What is the value of 2946 + 7414 * 311? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7414 * 311 = 2305754, so the expression becomes 2946 + 2305754.\nNext, 2946 + 2305754 = 2308700, so the final answer is [2308700].\n\nWhat is the value of 7258 + 6726 * 5962? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            40107670
+        ],
+        [
+            "[Example Question]: What is the value of 1637 + 139 * 8706? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 139 * 8706 = 1210134, so the expression becomes 1637 + 1210134.\nNext, 1637 + 1210134 = 1211771, so the final answer is [1211771].\n\nWhat is the value of 7605 + 6280 * 2108? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13245845
+        ],
+        [
+            "[Example Question]: What is the value of 4497 + 5947 * 1761? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5947 * 1761 = 10472667, so the expression becomes 4497 + 10472667.\nNext, 4497 + 10472667 = 10477164, so the final answer is [10477164].\n\nWhat is the value of 1439 + 1286 * 4367? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5617401
+        ],
+        [
+            "[Example Question]: What is the value of 1714 - 2479 * 808? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2479 * 808 = 2003032, so the expression becomes 1714 - 2003032.\nNext, 1714 - 2003032 = -2001318, so the final answer is [-2001318].\n\nWhat is the value of 6823 - 5661 * 4433? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -25088390
+        ],
+        [
+            "[Example Question]: What is the value of 99 + 8325 * 7807? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8325 * 7807 = 64993275, so the expression becomes 99 + 64993275.\nNext, 99 + 64993275 = 64993374, so the final answer is [64993374].\n\nWhat is the value of 4081 + 624 * 9119? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5694337
+        ],
+        [
+            "[Example Question]: What is the value of 8633 / 702 * 3136? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 8633 / 702 = 12.297720797720798, so the expression becomes 12.297720797720798 * 3136.\nStep2: Next, 12.297720797720798 * 3136 = 38565.65242165242, so the final answer is [38565.65242165242].\n\nWhat is the value of 5198 / 5862 * 7373? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6537.846127601501
+        ],
+        [
+            "[Example Question]: What is the value of 9558 / 433 * 5214? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 9558 / 433 = 22.073903002309468, so the expression becomes 22.073903002309468 * 5214.\nStep2: Next, 22.073903002309468 * 5214 = 115093.33025404156, so the final answer is [115093.33025404156].\n\nWhat is the value of 3458 / 1078 * 422? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1353.6883116883116
+        ],
+        [
+            "[Example Question]: What is the value of 6496 + 2114 * 699? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 2114 * 699 = 1477686, so the expression becomes 6496 + 1477686.\nNext, 6496 + 1477686 = 1484182, so the final answer is [1484182].\n\nWhat is the value of 9132 + 4075 * 4937? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            20127407
+        ],
+        [
+            "[Example Question]: What is the value of 7251 * 9397 - 9224? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7251 * 9397 = 68137647, so the expression becomes 68137647 - 9224.\nNext, 68137647 - 9224 = 68128423, so the final answer is [68128423].\n\nWhat is the value of 9998 * 1773 - 5274? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17721180
+        ],
+        [
+            "[Example Question]: What is the value of 591 - 5158 * 1511? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 5158 * 1511 = 7793738, so the expression becomes 591 - 7793738.\nNext, 591 - 7793738 = -7793147, so the final answer is [-7793147].\n\nWhat is the value of 1900 - 8093 * 8395? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -67938835
+        ],
+        [
+            "[Example Question]: What is the value of 3668 * 335 - 2557? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3668 * 335 = 1228780, so the expression becomes 1228780 - 2557.\nNext, 1228780 - 2557 = 1226223, so the final answer is [1226223].\n\nWhat is the value of 2136 * 1086 - 1409? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2318287
+        ],
+        [
+            "[Example Question]: What is the value of 462 - 227 * 6744? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 227 * 6744 = 1530888, so the expression becomes 462 - 1530888.\nNext, 462 - 1530888 = -1530426, so the final answer is [-1530426].\n\nWhat is the value of 7220 - 1299 * 4983? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -6465697
+        ],
+        [
+            "[Example Question]: What is the value of 4260 * 6339 - 1857? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4260 * 6339 = 27004140, so the expression becomes 27004140 - 1857.\nNext, 27004140 - 1857 = 27002283, so the final answer is [27002283].\n\nWhat is the value of 4214 * 7736 - 3945? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            32595559
+        ],
+        [
+            "[Example Question]: What is the value of 3058 - 7793 * 5805? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 7793 * 5805 = 45238365, so the expression becomes 3058 - 45238365.\nNext, 3058 - 45238365 = -45235307, so the final answer is [-45235307].\n\nWhat is the value of 3198 - 9400 * 1116? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -10487202
+        ],
+        [
+            "[Example Question]: What is the value of 1777 * 7283 - 802? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1777 * 7283 = 12941891, so the expression becomes 12941891 - 802.\nNext, 12941891 - 802 = 12941089, so the final answer is [12941089].\n\nWhat is the value of 9704 * 4509 - 52? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            43755284
+        ],
+        [
+            "[Example Question]: What is the value of 6420 - 1908 * 9189? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 1908 * 9189 = 17532612, so the expression becomes 6420 - 17532612.\nNext, 6420 - 17532612 = -17526192, so the final answer is [-17526192].\n\nWhat is the value of 8130 - 7319 * 4921? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -36008669
+        ],
+        [
+            "[Example Question]: What is the value of 8761 + 101 * 7621? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 101 * 7621 = 769721, so the expression becomes 8761 + 769721.\nNext, 8761 + 769721 = 778482, so the final answer is [778482].\n\nWhat is the value of 3224 + 5421 * 827? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4486391
+        ],
+        [
+            "[Example Question]: What is the value of 7895 + 5964 * 629? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 5964 * 629 = 3751356, so the expression becomes 7895 + 3751356.\nNext, 7895 + 3751356 = 3759251, so the final answer is [3759251].\n\nWhat is the value of 5311 + 8464 * 8783? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            74344623
+        ],
+        [
+            "[Example Question]: What is the value of 1699 * 3249 + 7123? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1699 * 3249 = 5520051, so the expression becomes 5520051 + 7123.\nNext, 5520051 + 7123 = 5527174, so the final answer is [5527174].\n\nWhat is the value of 8732 * 5036 + 3722? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            43978074
+        ],
+        [
+            "[Example Question]: What is the value of 8904 - 9601 * 5065? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 9601 * 5065 = 48629065, so the expression becomes 8904 - 48629065.\nNext, 8904 - 48629065 = -48620161, so the final answer is [-48620161].\n\nWhat is the value of 2764 - 786 * 9055? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -7114466
+        ],
+        [
+            "[Example Question]: What is the value of 2435 + 1728 * 168? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1728 * 168 = 290304, so the expression becomes 2435 + 290304.\nNext, 2435 + 290304 = 292739, so the final answer is [292739].\n\nWhat is the value of 8985 + 3556 * 2278? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8109553
+        ],
+        [
+            "[Example Question]: What is the value of 8704 * 1460 + 9748? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 8704 * 1460 = 12707840, so the expression becomes 12707840 + 9748.\nNext, 12707840 + 9748 = 12717588, so the final answer is [12717588].\n\nWhat is the value of 2720 * 3177 + 5438? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8646878
+        ],
+        [
+            "[Example Question]: What is the value of 4369 * 957 + 8045? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 4369 * 957 = 4181133, so the expression becomes 4181133 + 8045.\nNext, 4181133 + 8045 = 4189178, so the final answer is [4189178].\n\nWhat is the value of 8644 * 9076 + 9363? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            78462307
+        ],
+        [
+            "[Example Question]: What is the value of 4762 / 558 * 1225? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 4762 / 558 = 8.53405017921147, so the expression becomes 8.53405017921147 * 1225.\nStep2: Next, 8.53405017921147 * 1225 = 10454.21146953405, so the final answer is [10454.21146953405].\n\nWhat is the value of 8041 / 1040 * 4300? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            33246.44230769231
+        ],
+        [
+            "[Example Question]: What is the value of 3877 * 3661 - 970? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 3877 * 3661 = 14193697, so the expression becomes 14193697 - 970.\nNext, 14193697 - 970 = 14192727, so the final answer is [14192727].\n\nWhat is the value of 9255 * 3846 - 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            35594669
+        ],
+        [
+            "[Example Question]: What is the value of 399 / 7080 * 4457? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 399 / 7080 = 0.05635593220338983, so the expression becomes 0.05635593220338983 * 4457.\nStep2: Next, 0.05635593220338983 * 4457 = 251.17838983050848, so the final answer is [251.17838983050848].\n\nWhat is the value of 1033 / 9323 * 8810? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            976.1589617076048
+        ],
+        [
+            "[Example Question]: What is the value of 1378 - 2420 * 1383? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 2420 * 1383 = 3346860, so the expression becomes 1378 - 3346860.\nNext, 1378 - 3346860 = -3345482, so the final answer is [-3345482].\n\nWhat is the value of 7229 - 3095 * 9114? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -28200601
+        ],
+        [
+            "[Example Question]: What is the value of 174 + 4258 * 5341? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 4258 * 5341 = 22741978, so the expression becomes 174 + 22741978.\nNext, 174 + 22741978 = 22742152, so the final answer is [22742152].\n\nWhat is the value of 9589 + 4366 * 1000? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4375589
+        ],
+        [
+            "[Example Question]: What is the value of 724 + 7103 * 6285? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 7103 * 6285 = 44642355, so the expression becomes 724 + 44642355.\nNext, 724 + 44642355 = 44643079, so the final answer is [44643079].\n\nWhat is the value of 1031 + 7727 * 7343? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            56740392
+        ],
+        [
+            "[Example Question]: What is the value of 4153 + 1808 * 8146? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 1808 * 8146 = 14727968, so the expression becomes 4153 + 14727968.\nNext, 4153 + 14727968 = 14732121, so the final answer is [14732121].\n\nWhat is the value of 3526 + 2945 * 3264? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9616006
+        ],
+        [
+            "[Example Question]: What is the value of 3792 * 4456 + 2858? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '+', we calculate '*' first: 3792 * 4456 = 16897152, so the expression becomes 16897152 + 2858.\nNext, 16897152 + 2858 = 16900010, so the final answer is [16900010].\n\nWhat is the value of 2830 * 4558 + 6002? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12905142
+        ],
+        [
+            "[Example Question]: What is the value of 4897 * 1517 - 8866? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' has priority over '-', we calculate '*' first: 4897 * 1517 = 7428749, so the expression becomes 7428749 - 8866.\nNext, 7428749 - 8866 = 7419883, so the final answer is [7419883].\n\nWhat is the value of 662 * 5045 - 414? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3339376
+        ]
+    ],
+    "/": [
+        [
+            "[Example Question]: What is the value of 9612 / 3631 + 4940? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 9612 / 3631 = 2.6472046268245664, so the expression becomes 2.6472046268245664 + 4940.\nNext, 2.6472046268245664 + 4940 = 4942.6472046268245, so the final answer is [4942.6472046268245].\n\nWhat is the value of 6120 / 2258 + 9865? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9867.710363153234
+        ],
+        [
+            "[Example Question]: What is the value of 1726 + 2818 / 4168? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 2818 / 4168 = 0.6761036468330134, so the expression becomes 1726 + 0.6761036468330134.\nNext, 1726 + 0.6761036468330134 = 1726.676103646833, so the final answer is [1726.676103646833].\n\nWhat is the value of 8259 + 1755 / 9794? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8259.179191341638
+        ],
+        [
+            "[Example Question]: What is the value of 9953 + 6852 / 7254? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6852 / 7254 = 0.9445822994210091, so the expression becomes 9953 + 0.9445822994210091.\nNext, 9953 + 0.9445822994210091 = 9953.94458229942, so the final answer is [9953.94458229942].\n\nWhat is the value of 4189 + 5779 / 8817? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4189.655438357718
+        ],
+        [
+            "[Example Question]: What is the value of 572 - 2111 / 4918? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2111 / 4918 = 0.42923952826352174, so the expression becomes 572 - 0.42923952826352174.\nNext, 572 - 0.42923952826352174 = 571.5707604717364, so the final answer is [571.5707604717364].\n\nWhat is the value of 3563 - 4201 / 1716? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3560.5518648018647
+        ],
+        [
+            "[Example Question]: What is the value of 677 + 7817 / 4842? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 7817 / 4842 = 1.6144155307724082, so the expression becomes 677 + 1.6144155307724082.\nNext, 677 + 1.6144155307724082 = 678.6144155307724, so the final answer is [678.6144155307724].\n\nWhat is the value of 3945 + 966 / 3801? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3945.254143646409
+        ],
+        [
+            "[Example Question]: What is the value of 6 + 7423 / 272? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 7423 / 272 = 27.290441176470587, so the expression becomes 6 + 27.290441176470587.\nNext, 6 + 27.290441176470587 = 33.29044117647059, so the final answer is [33.29044117647059].\n\nWhat is the value of 1193 + 7436 / 6592? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1194.1280339805826
+        ],
+        [
+            "[Example Question]: What is the value of 3478 / 3682 - 4920? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 3478 / 3682 = 0.9445953286257469, so the expression becomes 0.9445953286257469 - 4920.\nNext, 0.9445953286257469 - 4920 = -4919.055404671374, so the final answer is [-4919.055404671374].\n\nWhat is the value of 5901 / 2936 - 3737? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3734.990122615804
+        ],
+        [
+            "[Example Question]: What is the value of 6281 / 4406 + 5328? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 6281 / 4406 = 1.4255560599182933, so the expression becomes 1.4255560599182933 + 5328.\nNext, 1.4255560599182933 + 5328 = 5329.425556059919, so the final answer is [5329.425556059919].\n\nWhat is the value of 6242 / 3621 + 6031? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6032.72383319525
+        ],
+        [
+            "[Example Question]: What is the value of 7066 + 3754 / 9777? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3754 / 9777 = 0.3839623606423238, so the expression becomes 7066 + 0.3839623606423238.\nNext, 7066 + 0.3839623606423238 = 7066.383962360643, so the final answer is [7066.383962360643].\n\nWhat is the value of 2025 + 3745 / 1948? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2026.9224845995893
+        ],
+        [
+            "[Example Question]: What is the value of 7827 / 1729 * 9315? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 7827 / 1729 = 4.526894158473106, so the expression becomes 4.526894158473106 * 9315.\nStep2: Next, 4.526894158473106 * 9315 = 42168.01908617698, so the final answer is [42168.01908617698].\n\nWhat is the value of 5428 / 5569 * 1495? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1457.148500628479
+        ],
+        [
+            "[Example Question]: What is the value of 7233 / 6246 * 9254? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 7233 / 6246 = 1.1580211335254562, so the expression becomes 1.1580211335254562 * 9254.\nStep2: Next, 1.1580211335254562 * 9254 = 10716.327569644573, so the final answer is [10716.327569644573].\n\nWhat is the value of 37 / 7115 * 818? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.2538299367533385
+        ],
+        [
+            "[Example Question]: What is the value of 7394 / 8626 * 753? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 7394 / 8626 = 0.8571759795965685, so the expression becomes 0.8571759795965685 * 753.\nStep2: Next, 0.8571759795965685 * 753 = 645.4535126362161, so the final answer is [645.4535126362161].\n\nWhat is the value of 5558 / 5320 * 1216? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1270.4
+        ],
+        [
+            "[Example Question]: What is the value of 6537 / 158 * 1793? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 6537 / 158 = 41.37341772151899, so the expression becomes 41.37341772151899 * 1793.\nStep2: Next, 41.37341772151899 * 1793 = 74182.53797468355, so the final answer is [74182.53797468355].\n\nWhat is the value of 4805 / 4692 * 7078? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7248.463341858482
+        ],
+        [
+            "[Example Question]: What is the value of 7338 / 2538 * 6617? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 7338 / 2538 = 2.8912529550827424, so the expression becomes 2.8912529550827424 * 6617.\nStep2: Next, 2.8912529550827424 * 6617 = 19131.420803782505, so the final answer is [19131.420803782505].\n\nWhat is the value of 6232 / 2872 * 6513? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            14132.66573816156
+        ],
+        [
+            "[Example Question]: What is the value of 1778 / 5961 - 1422? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 1778 / 5961 = 0.2982721019963093, so the expression becomes 0.2982721019963093 - 1422.\nNext, 0.2982721019963093 - 1422 = -1421.7017278980036, so the final answer is [-1421.7017278980036].\n\nWhat is the value of 8213 / 7440 - 5517? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -5515.896102150537
+        ],
+        [
+            "[Example Question]: What is the value of 1020 / 4172 * 40? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 1020 / 4172 = 0.24448705656759348, so the expression becomes 0.24448705656759348 * 40.\nStep2: Next, 0.24448705656759348 * 40 = 9.77948226270374, so the final answer is [9.77948226270374].\n\nWhat is the value of 7740 / 7654 * 7590? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7675.2808988764045
+        ],
+        [
+            "[Example Question]: What is the value of 2892 + 3341 / 7004? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3341 / 7004 = 0.47701313535122786, so the expression becomes 2892 + 0.47701313535122786.\nNext, 2892 + 0.47701313535122786 = 2892.477013135351, so the final answer is [2892.477013135351].\n\nWhat is the value of 3626 + 5529 / 139? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3665.776978417266
+        ],
+        [
+            "[Example Question]: What is the value of 2522 / 3343 * 6321? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 2522 / 3343 = 0.7544122046066407, so the expression becomes 0.7544122046066407 * 6321.\nStep2: Next, 0.7544122046066407 * 6321 = 4768.639545318576, so the final answer is [4768.639545318576].\n\nWhat is the value of 6809 / 7387 * 5540? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5106.519561391634
+        ],
+        [
+            "[Example Question]: What is the value of 9693 + 3936 / 5301? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3936 / 5301 = 0.7425014148273911, so the expression becomes 9693 + 0.7425014148273911.\nNext, 9693 + 0.7425014148273911 = 9693.742501414827, so the final answer is [9693.742501414827].\n\nWhat is the value of 2755 + 2075 / 1326? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2756.5648567119156
+        ],
+        [
+            "[Example Question]: What is the value of 6109 - 8630 / 2849? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8630 / 2849 = 3.029133029133029, so the expression becomes 6109 - 3.029133029133029.\nNext, 6109 - 3.029133029133029 = 6105.970866970867, so the final answer is [6105.970866970867].\n\nWhat is the value of 5499 - 3283 / 724? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5494.465469613259
+        ],
+        [
+            "[Example Question]: What is the value of 9196 / 1669 + 1632? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 9196 / 1669 = 5.509886159376872, so the expression becomes 5.509886159376872 + 1632.\nNext, 5.509886159376872 + 1632 = 1637.509886159377, so the final answer is [1637.509886159377].\n\nWhat is the value of 4050 / 1334 + 5337? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5340.035982008995
+        ],
+        [
+            "[Example Question]: What is the value of 4557 / 4069 - 5565? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 4557 / 4069 = 1.1199311870238389, so the expression becomes 1.1199311870238389 - 5565.\nNext, 1.1199311870238389 - 5565 = -5563.880068812976, so the final answer is [-5563.880068812976].\n\nWhat is the value of 5909 / 979 - 3487? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3480.964249233912
+        ],
+        [
+            "[Example Question]: What is the value of 967 / 8501 - 3445? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 967 / 8501 = 0.11375132337372074, so the expression becomes 0.11375132337372074 - 3445.\nNext, 0.11375132337372074 - 3445 = -3444.886248676626, so the final answer is [-3444.886248676626].\n\nWhat is the value of 2014 / 7543 - 1853? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1852.7329974811082
+        ],
+        [
+            "[Example Question]: What is the value of 3035 / 5415 + 991? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 3035 / 5415 = 0.5604801477377654, so the expression becomes 0.5604801477377654 + 991.\nNext, 0.5604801477377654 + 991 = 991.5604801477377, so the final answer is [991.5604801477377].\n\nWhat is the value of 454 / 7574 + 9211? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9211.059941906522
+        ],
+        [
+            "[Example Question]: What is the value of 4474 - 8867 / 9870? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8867 / 9870 = 0.8983789260385006, so the expression becomes 4474 - 0.8983789260385006.\nNext, 4474 - 0.8983789260385006 = 4473.101621073962, so the final answer is [4473.101621073962].\n\nWhat is the value of 7747 - 8700 / 6142? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7745.583523282318
+        ],
+        [
+            "[Example Question]: What is the value of 1103 - 779 / 2954? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 779 / 2954 = 0.26371022342586325, so the expression becomes 1103 - 0.26371022342586325.\nNext, 1103 - 0.26371022342586325 = 1102.736289776574, so the final answer is [1102.736289776574].\n\nWhat is the value of 1826 - 8230 / 2781? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1823.0406328658755
+        ],
+        [
+            "[Example Question]: What is the value of 2596 / 4221 * 3406? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 2596 / 4221 = 0.6150201374081972, so the expression becomes 0.6150201374081972 * 3406.\nStep2: Next, 0.6150201374081972 * 3406 = 2094.7585880123197, so the final answer is [2094.7585880123197].\n\nWhat is the value of 6048 / 9713 * 9034? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5625.206630289304
+        ],
+        [
+            "[Example Question]: What is the value of 8139 / 6597 - 1279? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8139 / 6597 = 1.2337426102773987, so the expression becomes 1.2337426102773987 - 1279.\nNext, 1.2337426102773987 - 1279 = -1277.7662573897226, so the final answer is [-1277.7662573897226].\n\nWhat is the value of 5298 / 7444 - 1356? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1355.288285867813
+        ],
+        [
+            "[Example Question]: What is the value of 3614 / 6005 * 1345? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 3614 / 6005 = 0.6018318068276436, so the expression becomes 0.6018318068276436 * 1345.\nStep2: Next, 0.6018318068276436 * 1345 = 809.4637801831806, so the final answer is [809.4637801831806].\n\nWhat is the value of 3994 / 8326 * 7867? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3773.8167187124673
+        ],
+        [
+            "[Example Question]: What is the value of 272 + 8571 / 2944? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 8571 / 2944 = 2.9113451086956523, so the expression becomes 272 + 2.9113451086956523.\nNext, 272 + 2.9113451086956523 = 274.9113451086956, so the final answer is [274.9113451086956].\n\nWhat is the value of 243 + 3190 / 365? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            251.73972602739727
+        ],
+        [
+            "[Example Question]: What is the value of 9308 / 5159 * 4346? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 9308 / 5159 = 1.8042256251211475, so the expression becomes 1.8042256251211475 * 4346.\nStep2: Next, 1.8042256251211475 * 4346 = 7841.164566776507, so the final answer is [7841.164566776507].\n\nWhat is the value of 3093 / 3837 * 3195? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2575.484753713839
+        ],
+        [
+            "[Example Question]: What is the value of 1428 / 5674 * 3864? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 1428 / 5674 = 0.2516743038420867, so the expression becomes 0.2516743038420867 * 3864.\nStep2: Next, 0.2516743038420867 * 3864 = 972.4695100458231, so the final answer is [972.4695100458231].\n\nWhat is the value of 3298 / 6198 * 6439? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3426.237818651178
+        ],
+        [
+            "[Example Question]: What is the value of 1866 / 5808 + 5705? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1866 / 5808 = 0.3212809917355372, so the expression becomes 0.3212809917355372 + 5705.\nNext, 0.3212809917355372 + 5705 = 5705.321280991736, so the final answer is [5705.321280991736].\n\nWhat is the value of 1199 / 5510 + 8610? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8610.217604355717
+        ],
+        [
+            "[Example Question]: What is the value of 2118 / 842 * 9426? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 2118 / 842 = 2.5154394299287413, so the expression becomes 2.5154394299287413 * 9426.\nStep2: Next, 2.5154394299287413 * 9426 = 23710.532066508316, so the final answer is [23710.532066508316].\n\nWhat is the value of 581 / 5137 * 4592? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            519.3599377068329
+        ],
+        [
+            "[Example Question]: What is the value of 3516 / 2580 * 6423? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 3516 / 2580 = 1.3627906976744186, so the expression becomes 1.3627906976744186 * 6423.\nStep2: Next, 1.3627906976744186 * 6423 = 8753.20465116279, so the final answer is [8753.20465116279].\n\nWhat is the value of 459 / 9294 * 2299? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            113.54002582311169
+        ],
+        [
+            "[Example Question]: What is the value of 520 - 6598 / 7228? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 6598 / 7228 = 0.9128389596015495, so the expression becomes 520 - 0.9128389596015495.\nNext, 520 - 0.9128389596015495 = 519.0871610403984, so the final answer is [519.0871610403984].\n\nWhat is the value of 2388 - 7573 / 8067? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2387.061237138961
+        ],
+        [
+            "[Example Question]: What is the value of 9046 + 9421 / 4669? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 9421 / 4669 = 2.0177768258727777, so the expression becomes 9046 + 2.0177768258727777.\nNext, 9046 + 2.0177768258727777 = 9048.017776825873, so the final answer is [9048.017776825873].\n\nWhat is the value of 7439 + 9966 / 1874? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7444.318036286019
+        ],
+        [
+            "[Example Question]: What is the value of 7902 - 4098 / 7284? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 4098 / 7284 = 0.5626029654036244, so the expression becomes 7902 - 0.5626029654036244.\nNext, 7902 - 0.5626029654036244 = 7901.437397034596, so the final answer is [7901.437397034596].\n\nWhat is the value of 5926 - 9719 / 3225? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5922.986356589147
+        ],
+        [
+            "[Example Question]: What is the value of 1538 / 5801 + 8251? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 1538 / 5801 = 0.2651267022927081, so the expression becomes 0.2651267022927081 + 8251.\nNext, 0.2651267022927081 + 8251 = 8251.265126702292, so the final answer is [8251.265126702292].\n\nWhat is the value of 9298 / 4556 + 6537? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6539.040825285338
+        ],
+        [
+            "[Example Question]: What is the value of 440 / 7130 - 1883? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 440 / 7130 = 0.061711079943899017, so the expression becomes 0.061711079943899017 - 1883.\nNext, 0.061711079943899017 - 1883 = -1882.938288920056, so the final answer is [-1882.938288920056].\n\nWhat is the value of 9507 / 8246 - 1950? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1948.8470773708464
+        ],
+        [
+            "[Example Question]: What is the value of 9217 / 5225 * 6881? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 9217 / 5225 = 1.764019138755981, so the expression becomes 1.764019138755981 * 6881.\nStep2: Next, 1.764019138755981 * 6881 = 12138.215693779905, so the final answer is [12138.215693779905].\n\nWhat is the value of 148 / 7421 * 7479? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            149.15671742352782
+        ],
+        [
+            "[Example Question]: What is the value of 1811 - 8370 / 7508? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8370 / 7508 = 1.1148108684070326, so the expression becomes 1811 - 1.1148108684070326.\nNext, 1811 - 1.1148108684070326 = 1809.885189131593, so the final answer is [1809.885189131593].\n\nWhat is the value of 8337 - 2228 / 5085? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8336.561848574238
+        ],
+        [
+            "[Example Question]: What is the value of 7168 + 8959 / 1275? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 8959 / 1275 = 7.026666666666666, so the expression becomes 7168 + 7.026666666666666.\nNext, 7168 + 7.026666666666666 = 7175.026666666667, so the final answer is [7175.026666666667].\n\nWhat is the value of 4769 + 6745 / 8418? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4769.801259206462
+        ],
+        [
+            "[Example Question]: What is the value of 8019 - 2037 / 9829? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 2037 / 9829 = 0.20724387018007936, so the expression becomes 8019 - 0.20724387018007936.\nNext, 8019 - 0.20724387018007936 = 8018.79275612982, so the final answer is [8018.79275612982].\n\nWhat is the value of 6391 - 3056 / 3596? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6390.150166852058
+        ],
+        [
+            "[Example Question]: What is the value of 6656 / 3748 * 5747? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 6656 / 3748 = 1.775880469583778, so the expression becomes 1.775880469583778 * 5747.\nStep2: Next, 1.775880469583778 * 5747 = 10205.985058697972, so the final answer is [10205.985058697972].\n\nWhat is the value of 4621 / 5336 * 2316? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2005.6664167916042
+        ],
+        [
+            "[Example Question]: What is the value of 362 + 5837 / 9477? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5837 / 9477 = 0.6159122085048011, so the expression becomes 362 + 0.6159122085048011.\nNext, 362 + 0.6159122085048011 = 362.6159122085048, so the final answer is [362.6159122085048].\n\nWhat is the value of 3323 + 8538 / 1541? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3328.5405580791694
+        ],
+        [
+            "[Example Question]: What is the value of 8332 + 5235 / 3034? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '+', we calculate '/' first: 5235 / 3034 = 1.7254449571522743, so the expression becomes 8332 + 1.7254449571522743.\nNext, 8332 + 1.7254449571522743 = 8333.725444957152, so the final answer is [8333.725444957152].\n\nWhat is the value of 2408 + 4241 / 2330? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2409.82017167382
+        ],
+        [
+            "[Example Question]: What is the value of 4475 / 6300 * 2920? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 4475 / 6300 = 0.7103174603174603, so the expression becomes 0.7103174603174603 * 2920.\nStep2: Next, 0.7103174603174603 * 2920 = 2074.126984126984, so the final answer is [2074.126984126984].\n\nWhat is the value of 4070 / 1597 * 1631? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4156.649968691297
+        ],
+        [
+            "[Example Question]: What is the value of 8275 / 1303 - 4563? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '/' has priority over '-', we calculate '/' first: 8275 / 1303 = 6.350729086722947, so the expression becomes 6.350729086722947 - 4563.\nNext, 6.350729086722947 - 4563 = -4556.649270913277, so the final answer is [-4556.649270913277].\n\nWhat is the value of 5763 / 5283 - 3351? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3349.909142532652
+        ],
+        [
+            "[Example Question]: What is the value of 2283 / 5580 * 9515? \n[Answer]: Based on the elementary arithmetic, '*' and '/' have the same priority. They have higher priority over '+' and '-', which have the same priority.\nStep1: Since '*' and '/' have the same priority, we evaluate them from left to right. In this case, '/' comes before '*', so we calculate '/' first: 2283 / 5580 = 0.40913978494623654, so the expression becomes 0.40913978494623654 * 9515.\nStep2: Next, 0.40913978494623654 * 9515 = 3892.9650537634407, so the final answer is [3892.9650537634407].\n\nWhat is the value of 9924 / 2491 * 1529? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6091.447611401044
+        ]
+    ]
+}

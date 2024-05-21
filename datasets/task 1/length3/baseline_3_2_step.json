@@ -1,0 +1,826 @@
+{
+    "+": {
+        "*": [
+            [
+                "What is the value of 98 * 43 + 29 / 25? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4215.16
+            ],
+            [
+                "What is the value of 37 - 59 + 71 * 51? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3599
+            ],
+            [
+                "What is the value of 56 - 37 * 69 + 98? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2399
+            ],
+            [
+                "What is the value of 29 - 97 * 52 + 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5011
+            ],
+            [
+                "What is the value of 18 * 56 + 96 / 91? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1009.054945054945
+            ],
+            [
+                "What is the value of 23 - 27 + 92 * 85? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7816
+            ],
+            [
+                "What is the value of 54 * 29 + 35 / 52? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1566.673076923077
+            ],
+            [
+                "What is the value of 83 - 35 + 61 * 39? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2427
+            ],
+            [
+                "What is the value of 60 * 88 + 63 / 40? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5281.575
+            ],
+            [
+                "What is the value of 80 + 77 / 3 * 22? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                644.6666666666667
+            ],
+            [
+                "What is the value of 8 - 29 + 72 * 36? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2571
+            ],
+            [
+                "What is the value of 7 - 40 * 66 + 77? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2556
+            ],
+            [
+                "What is the value of 54 - 26 + 26 * 97? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2550
+            ],
+            [
+                "What is the value of 98 - 52 + 40 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                286
+            ],
+            [
+                "What is the value of 51 - 73 + 54 * 83? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4460
+            ],
+            [
+                "What is the value of 87 * 50 + 90 / 42? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4352.142857142857
+            ],
+            [
+                "What is the value of 91 - 95 * 58 + 1? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5418
+            ],
+            [
+                "What is the value of 8 + 39 * 84 - 77? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3207
+            ],
+            [
+                "What is the value of 28 * 22 + 49 / 33? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                617.4848484848485
+            ],
+            [
+                "What is the value of 88 - 3 * 62 + 69? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -29
+            ],
+            [
+                "What is the value of 59 - 72 * 95 + 89? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6692
+            ],
+            [
+                "What is the value of 2 - 45 * 28 + 75? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1183
+            ],
+            [
+                "What is the value of 40 - 98 + 67 * 79? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5235
+            ],
+            [
+                "What is the value of 69 - 75 * 14 + 35? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -946
+            ],
+            [
+                "What is the value of 97 - 29 * 16 + 84? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -283
+            ]
+        ],
+        "/": [
+            [
+                "What is the value of 67 / 2 + 42 * 45? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1923.5
+            ],
+            [
+                "What is the value of 93 * 71 / 35 + 23? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                211.65714285714284
+            ],
+            [
+                "What is the value of 14 / 74 * 57 + 54? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                64.78378378378379
+            ],
+            [
+                "What is the value of 80 / 34 + 75 * 79? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5927.35294117647
+            ],
+            [
+                "What is the value of 64 + 32 / 46 * 13? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                73.04347826086956
+            ],
+            [
+                "What is the value of 28 - 20 + 71 / 64? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9.109375
+            ],
+            [
+                "What is the value of 96 + 18 / 27 * 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                102.0
+            ],
+            [
+                "What is the value of 42 - 95 + 5 / 61? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -52.91803278688525
+            ],
+            [
+                "What is the value of 67 / 65 + 87 * 18? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1567.0307692307692
+            ],
+            [
+                "What is the value of 69 + 24 / 15 * 45? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                141.0
+            ],
+            [
+                "What is the value of 14 + 63 / 10 * 12? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                89.6
+            ],
+            [
+                "What is the value of 34 / 48 - 26 + 77? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                51.70833333333333
+            ],
+            [
+                "What is the value of 32 + 19 / 24 * 32? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                57.33333333333333
+            ],
+            [
+                "What is the value of 23 + 59 / 91 * 67? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                66.43956043956044
+            ],
+            [
+                "What is the value of 45 + 87 / 71 * 42? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                96.46478873239437
+            ],
+            [
+                "What is the value of 5 + 14 / 25 * 22? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                17.32
+            ],
+            [
+                "What is the value of 94 / 82 + 43 * 57? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2452.1463414634145
+            ],
+            [
+                "What is the value of 10 / 41 + 46 * 60? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2760.243902439024
+            ],
+            [
+                "What is the value of 40 + 91 / 36 * 68? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                211.88888888888889
+            ],
+            [
+                "What is the value of 74 / 85 + 49 - 35? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                14.870588235294115
+            ],
+            [
+                "What is the value of 14 / 28 - 8 + 95? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                87.5
+            ],
+            [
+                "What is the value of 17 - 83 / 1 + 36? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -30.0
+            ],
+            [
+                "What is the value of 46 + 3 / 46 * 31? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                48.02173913043478
+            ],
+            [
+                "What is the value of 72 - 62 / 85 + 25? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                96.27058823529411
+            ],
+            [
+                "What is the value of 4 - 50 + 4 / 91? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -45.956043956043956
+            ]
+        ]
+    },
+    "-": {
+        "*": [
+            [
+                "What is the value of 30 * 61 - 94 / 61? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1828.4590163934427
+            ],
+            [
+                "What is the value of 72 * 40 - 60 / 39? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2878.4615384615386
+            ],
+            [
+                "What is the value of 44 * 1 - 89 + 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -41
+            ],
+            [
+                "What is the value of 33 + 56 * 57 - 16? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3209
+            ],
+            [
+                "What is the value of 91 - 68 * 94 + 56? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6245
+            ],
+            [
+                "What is the value of 19 / 9 * 27 - 95? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -38.0
+            ],
+            [
+                "What is the value of 94 - 94 * 63 + 18? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5810
+            ],
+            [
+                "What is the value of 60 / 61 * 1 - 1? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.016393442622950838
+            ],
+            [
+                "What is the value of 80 * 70 - 67 + 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5535
+            ],
+            [
+                "What is the value of 34 / 62 * 80 - 36? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.87096774193548
+            ],
+            [
+                "What is the value of 55 + 74 * 67 - 74? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4939
+            ],
+            [
+                "What is the value of 36 / 74 - 27 * 44? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1187.5135135135135
+            ],
+            [
+                "What is the value of 71 - 64 * 47 + 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2935
+            ],
+            [
+                "What is the value of 44 + 82 - 53 * 35? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1729
+            ],
+            [
+                "What is the value of 7 + 47 - 60 * 60? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3546
+            ],
+            [
+                "What is the value of 2 + 63 - 21 * 57? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1132
+            ],
+            [
+                "What is the value of 85 - 75 * 40 + 63? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2852
+            ],
+            [
+                "What is the value of 41 * 16 - 85 + 46? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                617
+            ],
+            [
+                "What is the value of 47 / 7 - 92 * 63? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5789.285714285715
+            ],
+            [
+                "What is the value of 9 + 82 - 85 * 57? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4754
+            ],
+            [
+                "What is the value of 47 - 90 + 75 * 86? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6407
+            ],
+            [
+                "What is the value of 27 * 65 - 77 / 50? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1753.46
+            ],
+            [
+                "What is the value of 3 - 87 * 36 / 75? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -38.76
+            ],
+            [
+                "What is the value of 91 - 95 + 56 * 48? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2684
+            ],
+            [
+                "What is the value of 84 - 74 * 80 / 99? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                24.2020202020202
+            ]
+        ],
+        "/": [
+            [
+                "What is the value of 70 - 82 / 33 + 40? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                107.51515151515152
+            ],
+            [
+                "What is the value of 17 - 95 / 22 * 12? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -34.81818181818182
+            ],
+            [
+                "What is the value of 82 - 62 / 29 + 24? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                103.86206896551724
+            ],
+            [
+                "What is the value of 74 - 69 / 65 + 72? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                144.93846153846152
+            ],
+            [
+                "What is the value of 79 / 73 - 53 * 90? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4768.917808219178
+            ],
+            [
+                "What is the value of 87 - 58 / 70 + 15? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                101.17142857142858
+            ],
+            [
+                "What is the value of 21 + 32 - 3 / 72? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                52.958333333333336
+            ],
+            [
+                "What is the value of 23 - 12 / 25 + 28? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                50.519999999999996
+            ],
+            [
+                "What is the value of 86 / 18 * 25 - 84? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                35.44444444444444
+            ],
+            [
+                "What is the value of 27 - 4 + 98 / 37? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25.64864864864865
+            ],
+            [
+                "What is the value of 4 - 90 / 79 * 4? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.556962025316456
+            ],
+            [
+                "What is the value of 33 / 57 - 41 * 79? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3238.4210526315787
+            ],
+            [
+                "What is the value of 49 / 90 - 70 * 98? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6859.455555555555
+            ],
+            [
+                "What is the value of 34 + 87 - 40 / 47? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                120.14893617021276
+            ],
+            [
+                "What is the value of 6 / 2 - 76 * 17? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1289.0
+            ],
+            [
+                "What is the value of 11 + 39 - 26 / 98? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                49.734693877551024
+            ],
+            [
+                "What is the value of 70 - 19 / 85 * 70? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                54.35294117647059
+            ],
+            [
+                "What is the value of 78 + 99 / 17 - 36? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                47.82352941176471
+            ],
+            [
+                "What is the value of 24 - 77 / 50 + 12? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                34.46
+            ],
+            [
+                "What is the value of 41 / 6 * 92 - 81? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                547.6666666666666
+            ],
+            [
+                "What is the value of 74 - 66 / 87 * 25? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                55.03448275862069
+            ],
+            [
+                "What is the value of 37 - 51 / 48 + 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                37.9375
+            ],
+            [
+                "What is the value of 91 - 93 / 35 * 46? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -31.228571428571428
+            ],
+            [
+                "What is the value of 59 * 93 / 52 - 54? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                51.519230769230774
+            ],
+            [
+                "What is the value of 73 + 88 - 64 / 87? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                160.26436781609195
+            ]
+        ]
+    },
+    "*": {
+        "+": [
+            [
+                "What is the value of 37 / 85 + 95 * 53? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5035.435294117647
+            ],
+            [
+                "What is the value of 84 * 60 - 42 + 53? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5051
+            ],
+            [
+                "What is the value of 64 * 50 - 89 + 77? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3188
+            ],
+            [
+                "What is the value of 1 + 82 / 40 * 81? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                167.04999999999998
+            ],
+            [
+                "What is the value of 59 * 87 + 65 / 84? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5133.773809523809
+            ],
+            [
+                "What is the value of 77 - 60 + 94 * 41? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3871
+            ],
+            [
+                "What is the value of 43 * 80 - 53 + 98? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3485
+            ],
+            [
+                "What is the value of 65 - 52 + 34 * 92? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3141
+            ],
+            [
+                "What is the value of 85 * 36 + 79 / 43? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3061.8372093023254
+            ],
+            [
+                "What is the value of 97 / 78 + 72 * 93? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6697.24358974359
+            ],
+            [
+                "What is the value of 69 - 49 * 82 + 42? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3907
+            ],
+            [
+                "What is the value of 7 + 66 - 44 * 89? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3843
+            ],
+            [
+                "What is the value of 88 - 75 * 93 + 71? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6816
+            ],
+            [
+                "What is the value of 20 - 10 * 39 + 10? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -360
+            ],
+            [
+                "What is the value of 39 + 87 - 19 * 57? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -957
+            ],
+            [
+                "What is the value of 96 - 52 * 68 + 38? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3402
+            ],
+            [
+                "What is the value of 68 + 61 - 42 * 48? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1887
+            ],
+            [
+                "What is the value of 65 + 38 / 92 * 61? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                90.19565217391305
+            ],
+            [
+                "What is the value of 58 - 30 * 85 + 44? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2448
+            ],
+            [
+                "What is the value of 1 / 2 + 60 * 55? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3300.5
+            ],
+            [
+                "What is the value of 85 - 10 + 26 * 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                231
+            ],
+            [
+                "What is the value of 94 + 70 / 99 * 45? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                125.81818181818181
+            ],
+            [
+                "What is the value of 67 * 36 - 75 + 49? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2386
+            ],
+            [
+                "What is the value of 5 - 6 + 19 * 95? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1804
+            ],
+            [
+                "What is the value of 8 - 97 + 68 * 80? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5351
+            ]
+        ],
+        "-": [
+            [
+                "What is the value of 19 - 87 / 29 * 37? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -92.0
+            ],
+            [
+                "What is the value of 81 - 46 / 80 * 50? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                52.25
+            ],
+            [
+                "What is the value of 35 / 87 - 70 * 70? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4899.597701149425
+            ],
+            [
+                "What is the value of 8 / 46 - 65 * 40? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2599.8260869565215
+            ],
+            [
+                "What is the value of 25 / 61 - 18 * 35? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -629.5901639344262
+            ],
+            [
+                "What is the value of 51 + 44 * 50 - 46? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2205
+            ],
+            [
+                "What is the value of 65 - 21 / 9 * 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                60.333333333333336
+            ],
+            [
+                "What is the value of 45 / 90 - 32 * 47? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1503.5
+            ],
+            [
+                "What is the value of 44 + 80 * 26 - 92? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2032
+            ],
+            [
+                "What is the value of 96 / 71 - 55 * 38? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2088.6478873239435
+            ],
+            [
+                "What is the value of 69 + 86 * 76 - 49? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6556
+            ],
+            [
+                "What is the value of 90 - 48 + 34 * 50? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1742
+            ],
+            [
+                "What is the value of 98 + 1 * 24 - 95? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                27
+            ],
+            [
+                "What is the value of 76 - 94 * 11 + 82? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -876
+            ],
+            [
+                "What is the value of 94 - 68 / 95 * 30? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                72.52631578947368
+            ],
+            [
+                "What is the value of 13 / 13 - 32 * 62? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1983.0
+            ],
+            [
+                "What is the value of 85 - 68 / 84 * 49? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                45.333333333333336
+            ],
+            [
+                "What is the value of 74 - 96 / 3 * 49? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1494.0
+            ],
+            [
+                "What is the value of 86 - 57 / 77 * 33? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                61.57142857142857
+            ],
+            [
+                "What is the value of 58 / 5 * 82 - 21? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                930.1999999999999
+            ],
+            [
+                "What is the value of 76 - 17 / 93 * 38? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                69.05376344086021
+            ],
+            [
+                "What is the value of 70 / 24 - 5 * 38? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -187.08333333333334
+            ],
+            [
+                "What is the value of 82 + 88 * 6 - 99? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                511
+            ],
+            [
+                "What is the value of 68 * 14 - 59 / 32? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                950.15625
+            ],
+            [
+                "What is the value of 24 + 20 * 33 - 76? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                608
+            ]
+        ]
+    },
+    "/": {
+        "+": [
+            [
+                "What is the value of 74 / 15 * 81 + 98? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                497.6
+            ],
+            [
+                "What is the value of 69 / 80 * 47 + 39? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                79.5375
+            ],
+            [
+                "What is the value of 14 - 75 / 90 + 45? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                58.166666666666664
+            ],
+            [
+                "What is the value of 43 - 51 / 88 + 96? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                138.42045454545456
+            ],
+            [
+                "What is the value of 94 / 11 * 27 + 21? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                251.72727272727272
+            ],
+            [
+                "What is the value of 84 + 66 / 23 * 41? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                201.65217391304347
+            ],
+            [
+                "What is the value of 83 + 10 * 88 / 6? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                229.66666666666666
+            ],
+            [
+                "What is the value of 56 - 50 + 93 / 91? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.021978021978022
+            ],
+            [
+                "What is the value of 83 + 20 * 37 / 58? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                95.75862068965517
+            ],
+            [
+                "What is the value of 72 / 64 * 81 + 96? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                187.125
+            ],
+            [
+                "What is the value of 37 / 69 * 92 + 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                56.333333333333336
+            ],
+            [
+                "What is the value of 55 - 91 + 15 / 25? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -35.4
+            ],
+            [
+                "What is the value of 77 / 37 * 29 + 42? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                102.35135135135135
+            ],
+            [
+                "What is the value of 35 - 6 / 79 + 68? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                102.92405063291139
+            ],
+            [
+                "What is the value of 22 + 39 / 79 * 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                23.481012658227847
+            ],
+            [
+                "What is the value of 4 + 35 / 99 * 49? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                21.32323232323232
+            ],
+            [
+                "What is the value of 93 / 29 * 79 + 99? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                352.34482758620686
+            ],
+            [
+                "What is the value of 50 / 39 * 52 + 62? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                128.66666666666669
+            ],
+            [
+                "What is the value of 26 + 61 / 59 * 7? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33.23728813559322
+            ],
+            [
+                "What is the value of 99 / 17 - 21 + 71? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                55.82352941176471
+            ],
+            [
+                "What is the value of 54 - 48 / 95 + 61? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                114.49473684210525
+            ],
+            [
+                "What is the value of 23 + 45 / 97 * 55? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                48.51546391752578
+            ],
+            [
+                "What is the value of 87 / 33 - 75 + 65? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -7.36363636363636
+            ],
+            [
+                "What is the value of 75 / 11 - 92 + 85? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.18181818181818699
+            ],
+            [
+                "What is the value of 14 * 10 + 62 / 40? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                141.55
+            ]
+        ],
+        "-": [
+            [
+                "What is the value of 27 - 87 * 46 / 35? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -87.34285714285714
+            ],
+            [
+                "What is the value of 61 + 75 / 76 - 67? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5.0131578947368425
+            ],
+            [
+                "What is the value of 82 - 36 + 62 / 43? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                47.44186046511628
+            ],
+            [
+                "What is the value of 85 / 32 * 4 - 24? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -13.375
+            ],
+            [
+                "What is the value of 44 / 15 * 14 - 84? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -42.93333333333334
+            ],
+            [
+                "What is the value of 61 - 39 / 98 * 55? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                39.11224489795919
+            ],
+            [
+                "What is the value of 97 / 70 * 95 - 57? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                74.64285714285714
+            ],
+            [
+                "What is the value of 19 / 82 * 94 - 36? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -14.21951219512195
+            ],
+            [
+                "What is the value of 4 + 46 / 91 - 2? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.5054945054945055
+            ],
+            [
+                "What is the value of 41 + 58 / 95 - 58? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -16.38947368421053
+            ],
+            [
+                "What is the value of 70 - 24 / 49 * 38? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                51.38775510204081
+            ],
+            [
+                "What is the value of 60 - 95 + 93 / 47? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -33.02127659574468
+            ],
+            [
+                "What is the value of 84 - 23 * 71 / 41? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                44.170731707317074
+            ],
+            [
+                "What is the value of 88 / 88 - 80 * 20? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1599.0
+            ],
+            [
+                "What is the value of 2 * 25 - 67 / 91? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                49.26373626373626
+            ],
+            [
+                "What is the value of 23 - 31 * 7 / 3? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -49.33333333333333
+            ],
+            [
+                "What is the value of 81 - 61 * 55 / 8? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -338.375
+            ],
+            [
+                "What is the value of 72 - 36 * 6 / 96? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                69.75
+            ],
+            [
+                "What is the value of 11 / 80 * 24 - 88? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -84.7
+            ],
+            [
+                "What is the value of 93 - 84 * 84 / 45? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -63.80000000000001
+            ],
+            [
+                "What is the value of 33 / 15 * 44 - 10? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                86.80000000000001
+            ],
+            [
+                "What is the value of 13 * 13 - 12 / 78? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                168.84615384615384
+            ],
+            [
+                "What is the value of 19 - 21 + 98 / 41? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3902439024390243
+            ],
+            [
+                "What is the value of 55 - 45 * 54 / 9? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -215.0
+            ],
+            [
+                "What is the value of 83 / 84 * 22 - 18? Please do this step by step. You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.738095238095241
+            ]
+        ]
+    }
+}
