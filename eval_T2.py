@@ -7,9 +7,8 @@ from src.api.chat import get_answer_4
 if __name__ == '__main__':
     path = 'datasets/task 2'
     outs = os.listdir(path)
-    print(outs)
     for filename in os.listdir(path):
-        if os.path.isfile(os.path.join(path, filename)):
+        if os.path.isfile(os.path.join(path, filename)) and filename[-1] == 'n':
             data_acc = dict()
             with open(os.path.join(path, filename), 'r') as f:
                 all_data = json.load(f)

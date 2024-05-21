@@ -2,14 +2,14 @@ import json
 import re
 import time
 import os
-from src.api.chat_math import get_answer_4
+from src.api.chat import get_answer_4
 
 if __name__ == '__main__':
-    path = 'src/rerun/prompt/t1'
+    path = 'datasets/task 1/length3'
     for filename in os.listdir(path):
         if os.path.isfile(os.path.join(path, filename)):
-            if filename == '.DS_Store' or filename[0] != 't':
-                print(filename)
+            if filename == '.DS_Store':
+                # print(filename)
                 pass
             else:
                 data_acc = dict()
@@ -77,6 +77,6 @@ if __name__ == '__main__':
                             data_acc[key][key2]['accuracy'] = '{}/{}={}'.format(str(correct), str(total), str(acc))
                             data_acc[key][key2]['invalid'] = '{}/{}={}'.format(str(inval), str(total), str(invalid))
                             data_acc[key][key2]['data'] = new_data
-                            output_file = 'src/rerun/rerun_acc/t1/re1_{}'.format(filename)
+                            output_file = 'results/task 1/length3/acc_{}'.format(filename)
                             with open(output_file, 'w', encoding='utf8') as f1:
                                 json.dump(data_acc, f1, ensure_ascii=False, indent=4)
