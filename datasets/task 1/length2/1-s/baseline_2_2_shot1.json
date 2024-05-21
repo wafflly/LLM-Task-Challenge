@@ -1,0 +1,810 @@
+{
+    "+": [
+        [
+            "[Example Question]: 37 - 23 + 46\n[Answer]: 60\n\nWhat is the value of 9 - 52 + 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            27
+        ],
+        [
+            "[Example Question]: 18 + 6 * 7\n[Answer]: 60\n\nWhat is the value of 98 + 8 * 30? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            338
+        ],
+        [
+            "[Example Question]: 96 * 57 + 44\n[Answer]: 5516\n\nWhat is the value of 58 * 56 + 34? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3282
+        ],
+        [
+            "[Example Question]: 45 - 3 + 55\n[Answer]: 97\n\nWhat is the value of 69 - 41 + 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            51
+        ],
+        [
+            "[Example Question]: 81 - 58 + 19\n[Answer]: 42\n\nWhat is the value of 17 - 87 + 64? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -6
+        ],
+        [
+            "[Example Question]: 15 - 48 + 70\n[Answer]: 37\n\nWhat is the value of 71 - 27 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            50
+        ],
+        [
+            "[Example Question]: 91 / 64 + 62\n[Answer]: 63.421875\n\nWhat is the value of 8 / 35 + 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            98.22857142857143
+        ],
+        [
+            "[Example Question]: 87 - 19 + 97\n[Answer]: 165\n\nWhat is the value of 34 - 70 + 78? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            42
+        ],
+        [
+            "[Example Question]: 32 + 28 * 60\n[Answer]: 1712\n\nWhat is the value of 17 + 20 * 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            937
+        ],
+        [
+            "[Example Question]: 95 * 31 + 22\n[Answer]: 2967\n\nWhat is the value of 75 * 47 + 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3556
+        ],
+        [
+            "[Example Question]: 28 * 49 + 85\n[Answer]: 1457\n\nWhat is the value of 72 * 34 + 53? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2501
+        ],
+        [
+            "[Example Question]: 35 / 80 + 68\n[Answer]: 68.4375\n\nWhat is the value of 2 / 52 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.038461538461538
+        ],
+        [
+            "[Example Question]: 3 + 13 * 18\n[Answer]: 237\n\nWhat is the value of 92 + 73 * 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6808
+        ],
+        [
+            "[Example Question]: 37 + 45 / 97\n[Answer]: 37.4639175257732\n\nWhat is the value of 61 + 42 / 67? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            61.62686567164179
+        ],
+        [
+            "[Example Question]: 27 + 80 * 72\n[Answer]: 5787\n\nWhat is the value of 90 + 25 * 40? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1090
+        ],
+        [
+            "[Example Question]: 24 + 60 / 37\n[Answer]: 25.62162162162162\n\nWhat is the value of 63 + 4 / 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            63.125
+        ],
+        [
+            "[Example Question]: 37 + 28 / 23\n[Answer]: 38.21739130434783\n\nWhat is the value of 3 + 81 / 65? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.246153846153846
+        ],
+        [
+            "[Example Question]: 28 / 21 + 32\n[Answer]: 33.333333333333336\n\nWhat is the value of 29 / 2 + 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            36.5
+        ],
+        [
+            "[Example Question]: 57 - 2 + 11\n[Answer]: 66\n\nWhat is the value of 11 - 43 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -27
+        ],
+        [
+            "[Example Question]: 92 + 60 * 27\n[Answer]: 1712\n\nWhat is the value of 54 + 71 * 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5521
+        ],
+        [
+            "[Example Question]: 44 - 23 + 53\n[Answer]: 74\n\nWhat is the value of 13 - 57 + 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17
+        ],
+        [
+            "[Example Question]: 46 - 15 + 53\n[Answer]: 84\n\nWhat is the value of 31 - 60 + 33? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4
+        ],
+        [
+            "[Example Question]: 60 + 26 / 68\n[Answer]: 60.38235294117647\n\nWhat is the value of 1 + 53 / 87? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1.6091954022988506
+        ],
+        [
+            "[Example Question]: 4 + 8 * 92\n[Answer]: 740\n\nWhat is the value of 99 + 79 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            652
+        ],
+        [
+            "[Example Question]: 43 + 10 * 52\n[Answer]: 563\n\nWhat is the value of 13 + 68 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2189
+        ],
+        [
+            "[Example Question]: 64 - 62 + 4\n[Answer]: 6\n\nWhat is the value of 35 - 51 + 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            63
+        ],
+        [
+            "[Example Question]: 33 - 88 + 5\n[Answer]: -50\n\nWhat is the value of 26 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            25
+        ],
+        [
+            "[Example Question]: 89 + 15 / 74\n[Answer]: 89.20270270270271\n\nWhat is the value of 12 + 16 / 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13.142857142857142
+        ],
+        [
+            "[Example Question]: 67 + 17 * 76\n[Answer]: 1359\n\nWhat is the value of 97 + 84 * 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4885
+        ],
+        [
+            "[Example Question]: 22 - 35 + 73\n[Answer]: 60\n\nWhat is the value of 99 - 73 + 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            76
+        ],
+        [
+            "[Example Question]: 68 - 23 + 54\n[Answer]: 99\n\nWhat is the value of 87 - 83 + 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            33
+        ],
+        [
+            "[Example Question]: 51 / 20 + 84\n[Answer]: 86.55\n\nWhat is the value of 54 / 33 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            69.63636363636364
+        ],
+        [
+            "[Example Question]: 52 * 18 + 72\n[Answer]: 1008\n\nWhat is the value of 28 * 11 + 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            407
+        ],
+        [
+            "[Example Question]: 47 - 69 + 30\n[Answer]: 8\n\nWhat is the value of 60 - 56 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            72
+        ],
+        [
+            "[Example Question]: 91 + 83 / 84\n[Answer]: 91.98809523809524\n\nWhat is the value of 83 + 29 / 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            83.6304347826087
+        ],
+        [
+            "[Example Question]: 13 + 80 * 43\n[Answer]: 3453\n\nWhat is the value of 64 + 45 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4339
+        ],
+        [
+            "[Example Question]: 99 + 99 * 70\n[Answer]: 7029\n\nWhat is the value of 71 + 87 * 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8510
+        ],
+        [
+            "[Example Question]: 5 + 17 * 55\n[Answer]: 940\n\nWhat is the value of 60 + 67 * 15? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1065
+        ],
+        [
+            "[Example Question]: 28 / 34 + 11\n[Answer]: 11.823529411764707\n\nWhat is the value of 77 / 4 + 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            107.25
+        ],
+        [
+            "[Example Question]: 22 - 43 + 73\n[Answer]: 52\n\nWhat is the value of 61 - 52 + 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            27
+        ],
+        [
+            "[Example Question]: 43 + 9 * 3\n[Answer]: 70\n\nWhat is the value of 98 + 69 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3548
+        ],
+        [
+            "[Example Question]: 39 + 89 * 28\n[Answer]: 2531\n\nWhat is the value of 49 + 22 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            753
+        ],
+        [
+            "[Example Question]: 82 + 51 / 20\n[Answer]: 84.55\n\nWhat is the value of 17 + 51 / 86? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            17.593023255813954
+        ],
+        [
+            "[Example Question]: 18 + 73 / 10\n[Answer]: 25.3\n\nWhat is the value of 6 + 11 / 78? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.141025641025641
+        ],
+        [
+            "[Example Question]: 90 + 81 * 80\n[Answer]: 6570\n\nWhat is the value of 12 + 21 * 21? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            453
+        ],
+        [
+            "[Example Question]: 80 + 53 / 7\n[Answer]: 87.57142857142857\n\nWhat is the value of 31 + 73 / 34? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            33.14705882352941
+        ],
+        [
+            "[Example Question]: 18 / 66 + 89\n[Answer]: 89.27272727272727\n\nWhat is the value of 83 / 31 + 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            33.67741935483871
+        ],
+        [
+            "[Example Question]: 85 + 72 / 65\n[Answer]: 86.1076923076923\n\nWhat is the value of 94 + 35 / 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            94.39772727272727
+        ],
+        [
+            "[Example Question]: 78 * 64 + 60\n[Answer]: 5052\n\nWhat is the value of 29 * 84 + 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2454
+        ],
+        [
+            "[Example Question]: 29 - 73 + 11\n[Answer]: -33\n\nWhat is the value of 58 - 65 + 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            87
+        ]
+    ],
+    "-": [
+        [
+            "[Example Question]: 64 / 26 - 34\n[Answer]: -31.53846153846154\n\nWhat is the value of 97 / 19 - 71? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -65.89473684210526
+        ],
+        [
+            "[Example Question]: 74 - 73 + 8\n[Answer]: 9\n\nWhat is the value of 84 - 26 + 74? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            132
+        ],
+        [
+            "[Example Question]: 46 - 28 / 18\n[Answer]: 44.44444444444444\n\nWhat is the value of 35 - 86 / 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            30.22222222222222
+        ],
+        [
+            "[Example Question]: 24 * 13 - 34\n[Answer]: 278\n\nWhat is the value of 42 * 44 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1842
+        ],
+        [
+            "[Example Question]: 93 - 72 / 84\n[Answer]: 92.14285714285714\n\nWhat is the value of 42 - 41 / 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            41.16326530612245
+        ],
+        [
+            "[Example Question]: 35 - 20 / 5\n[Answer]: 31.0\n\nWhat is the value of 7 - 48 / 74? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6.351351351351351
+        ],
+        [
+            "[Example Question]: 50 - 54 * 91\n[Answer]: -4864\n\nWhat is the value of 90 - 49 * 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3340
+        ],
+        [
+            "[Example Question]: 58 - 33 + 18\n[Answer]: 43\n\nWhat is the value of 39 - 64 + 89? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            64
+        ],
+        [
+            "[Example Question]: 24 / 16 - 3\n[Answer]: -1.5\n\nWhat is the value of 22 / 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3.4000000000000004
+        ],
+        [
+            "[Example Question]: 12 * 43 - 41\n[Answer]: 475\n\nWhat is the value of 54 * 31 - 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1597
+        ],
+        [
+            "[Example Question]: 3 * 5 - 21\n[Answer]: -6\n\nWhat is the value of 22 * 11 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            229
+        ],
+        [
+            "[Example Question]: 36 - 58 + 95\n[Answer]: 73\n\nWhat is the value of 89 - 70 + 59? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            78
+        ],
+        [
+            "[Example Question]: 5 - 2 + 13\n[Answer]: 16\n\nWhat is the value of 98 - 17 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            82
+        ],
+        [
+            "[Example Question]: 15 - 61 * 49\n[Answer]: -2974\n\nWhat is the value of 13 - 58 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1321
+        ],
+        [
+            "[Example Question]: 42 - 71 + 42\n[Answer]: 13\n\nWhat is the value of 41 - 32 + 41? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            50
+        ],
+        [
+            "[Example Question]: 15 - 70 * 88\n[Answer]: -6145\n\nWhat is the value of 11 - 20 * 16? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -309
+        ],
+        [
+            "[Example Question]: 25 - 80 / 77\n[Answer]: 23.961038961038962\n\nWhat is the value of 92 - 98 / 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            90.0
+        ],
+        [
+            "[Example Question]: 51 - 75 / 73\n[Answer]: 49.97260273972603\n\nWhat is the value of 59 - 60 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            39.0
+        ],
+        [
+            "[Example Question]: 24 - 84 + 4\n[Answer]: -56\n\nWhat is the value of 46 - 42 + 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            58
+        ],
+        [
+            "[Example Question]: 96 - 1 / 95\n[Answer]: 95.98947368421052\n\nWhat is the value of 26 - 32 / 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            25.483870967741936
+        ],
+        [
+            "[Example Question]: 42 - 11 * 78\n[Answer]: -816\n\nWhat is the value of 92 - 15 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            62
+        ],
+        [
+            "[Example Question]: 51 - 31 * 16\n[Answer]: -445\n\nWhat is the value of 17 - 28 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -627
+        ],
+        [
+            "[Example Question]: 74 - 22 / 3\n[Answer]: 66.66666666666667\n\nWhat is the value of 59 - 89 / 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            57.06521739130435
+        ],
+        [
+            "[Example Question]: 63 - 32 + 77\n[Answer]: 108\n\nWhat is the value of 48 - 59 + 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            59
+        ],
+        [
+            "[Example Question]: 18 - 43 / 5\n[Answer]: 9.4\n\nWhat is the value of 63 - 55 / 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            62.41489361702128
+        ],
+        [
+            "[Example Question]: 36 / 54 - 46\n[Answer]: -45.333333333333336\n\nWhat is the value of 97 / 51 - 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -21.098039215686274
+        ],
+        [
+            "[Example Question]: 14 - 62 * 86\n[Answer]: -5318\n\nWhat is the value of 22 - 77 * 28? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2134
+        ],
+        [
+            "[Example Question]: 5 - 69 / 58\n[Answer]: 3.810344827586207\n\nWhat is the value of 61 - 47 / 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            60.32857142857143
+        ],
+        [
+            "[Example Question]: 98 * 56 - 9\n[Answer]: 5479\n\nWhat is the value of 33 * 71 - 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2247
+        ],
+        [
+            "[Example Question]: 48 - 3 / 22\n[Answer]: 47.86363636363637\n\nWhat is the value of 42 - 28 / 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            41.54838709677419
+        ],
+        [
+            "[Example Question]: 40 - 11 / 16\n[Answer]: 39.3125\n\nWhat is the value of 26 - 96 / 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            24.989473684210527
+        ],
+        [
+            "[Example Question]: 9 - 52 / 99\n[Answer]: 8.474747474747474\n\nWhat is the value of 92 - 56 / 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            91.01754385964912
+        ],
+        [
+            "[Example Question]: 39 / 78 - 65\n[Answer]: -64.5\n\nWhat is the value of 56 / 77 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2.2727272727272725
+        ],
+        [
+            "[Example Question]: 86 - 16 / 64\n[Answer]: 85.75\n\nWhat is the value of 29 - 97 / 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            22.07142857142857
+        ],
+        [
+            "[Example Question]: 37 - 58 / 90\n[Answer]: 36.355555555555554\n\nWhat is the value of 2 - 13 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4.5
+        ],
+        [
+            "[Example Question]: 96 * 26 - 13\n[Answer]: 2483\n\nWhat is the value of 17 * 63 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1065
+        ],
+        [
+            "[Example Question]: 22 - 40 * 99\n[Answer]: -3938\n\nWhat is the value of 27 - 84 * 90? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -7533
+        ],
+        [
+            "[Example Question]: 38 - 17 / 85\n[Answer]: 37.8\n\nWhat is the value of 61 - 71 / 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            58.16
+        ],
+        [
+            "[Example Question]: 94 - 44 / 52\n[Answer]: 93.15384615384616\n\nWhat is the value of 99 - 96 / 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            95.90322580645162
+        ],
+        [
+            "[Example Question]: 60 - 92 / 99\n[Answer]: 59.07070707070707\n\nWhat is the value of 94 - 36 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            89.5
+        ],
+        [
+            "[Example Question]: 88 * 82 - 28\n[Answer]: 7188\n\nWhat is the value of 93 * 56 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5204
+        ],
+        [
+            "[Example Question]: 14 - 33 / 20\n[Answer]: 12.35\n\nWhat is the value of 58 - 45 / 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            55.35294117647059
+        ],
+        [
+            "[Example Question]: 64 / 87 - 43\n[Answer]: -42.264367816091955\n\nWhat is the value of 70 / 93 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12.24731182795699
+        ],
+        [
+            "[Example Question]: 95 * 62 - 86\n[Answer]: 5804\n\nWhat is the value of 58 * 40 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2318
+        ],
+        [
+            "[Example Question]: 41 - 16 / 93\n[Answer]: 40.82795698924731\n\nWhat is the value of 41 - 77 / 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            39.2093023255814
+        ],
+        [
+            "[Example Question]: 6 * 57 - 15\n[Answer]: 327\n\nWhat is the value of 17 * 74 - 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1236
+        ],
+        [
+            "[Example Question]: 99 * 86 - 47\n[Answer]: 8467\n\nWhat is the value of 97 * 9 - 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            776
+        ],
+        [
+            "[Example Question]: 46 - 58 + 90\n[Answer]: 78\n\nWhat is the value of 77 - 26 + 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            130
+        ],
+        [
+            "[Example Question]: 49 - 50 * 78\n[Answer]: -3851\n\nWhat is the value of 90 - 61 * 81? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4851
+        ],
+        [
+            "[Example Question]: 60 / 19 - 80\n[Answer]: -76.84210526315789\n\nWhat is the value of 47 / 63 - 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -95.25396825396825
+        ]
+    ],
+    "*": [
+        [
+            "[Example Question]: 61 * 22 - 56\n[Answer]: 1286\n\nWhat is the value of 9 * 45 - 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            387
+        ],
+        [
+            "[Example Question]: 70 + 78 * 75\n[Answer]: 5920\n\nWhat is the value of 30 + 81 * 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3999
+        ],
+        [
+            "[Example Question]: 77 * 42 + 2\n[Answer]: 3236\n\nWhat is the value of 71 * 86 + 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6200
+        ],
+        [
+            "[Example Question]: 67 + 53 * 62\n[Answer]: 3353\n\nWhat is the value of 32 + 58 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1366
+        ],
+        [
+            "[Example Question]: 37 - 35 * 63\n[Answer]: -2168\n\nWhat is the value of 45 - 20 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5
+        ],
+        [
+            "[Example Question]: 44 * 39 + 62\n[Answer]: 1778\n\nWhat is the value of 39 * 66 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2642
+        ],
+        [
+            "[Example Question]: 30 - 74 * 32\n[Answer]: -2338\n\nWhat is the value of 44 - 47 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -332
+        ],
+        [
+            "[Example Question]: 57 - 35 * 53\n[Answer]: -1798\n\nWhat is the value of 51 - 6 * 24? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -93
+        ],
+        [
+            "[Example Question]: 66 - 58 * 44\n[Answer]: -2486\n\nWhat is the value of 15 - 39 * 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -648
+        ],
+        [
+            "[Example Question]: 22 - 35 * 43\n[Answer]: -1483\n\nWhat is the value of 9 - 49 * 20? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -971
+        ],
+        [
+            "[Example Question]: 33 * 94 + 44\n[Answer]: 3146\n\nWhat is the value of 92 * 57 + 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5342
+        ],
+        [
+            "[Example Question]: 13 * 48 - 34\n[Answer]: 590\n\nWhat is the value of 70 * 74 - 44? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5136
+        ],
+        [
+            "[Example Question]: 74 - 21 * 48\n[Answer]: -934\n\nWhat is the value of 18 - 30 * 84? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2502
+        ],
+        [
+            "[Example Question]: 65 + 80 * 58\n[Answer]: 4705\n\nWhat is the value of 69 + 65 * 37? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2474
+        ],
+        [
+            "[Example Question]: 48 / 64 * 82\n[Answer]: 61.5\n\nWhat is the value of 46 / 42 * 75? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            82.14285714285715
+        ],
+        [
+            "[Example Question]: 12 + 55 * 73\n[Answer]: 4027\n\nWhat is the value of 86 + 31 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1078
+        ],
+        [
+            "[Example Question]: 70 / 49 * 92\n[Answer]: 131.42857142857144\n\nWhat is the value of 76 / 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            38.0
+        ],
+        [
+            "[Example Question]: 48 * 28 + 61\n[Answer]: 1405\n\nWhat is the value of 68 * 34 + 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2337
+        ],
+        [
+            "[Example Question]: 87 / 64 * 30\n[Answer]: 40.78125\n\nWhat is the value of 44 / 86 * 65? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            33.25581395348837
+        ],
+        [
+            "[Example Question]: 22 - 20 * 60\n[Answer]: -1178\n\nWhat is the value of 48 - 96 * 11? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1008
+        ],
+        [
+            "[Example Question]: 40 * 13 + 38\n[Answer]: 558\n\nWhat is the value of 93 * 67 + 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            6285
+        ],
+        [
+            "[Example Question]: 48 - 38 * 91\n[Answer]: -3410\n\nWhat is the value of 98 - 45 * 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4042
+        ],
+        [
+            "[Example Question]: 95 - 40 * 2\n[Answer]: 15\n\nWhat is the value of 95 - 43 * 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4119
+        ],
+        [
+            "[Example Question]: 76 + 97 * 93\n[Answer]: 9097\n\nWhat is the value of 29 + 54 * 37? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2027
+        ],
+        [
+            "[Example Question]: 20 * 31 + 78\n[Answer]: 698\n\nWhat is the value of 66 * 37 + 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2519
+        ],
+        [
+            "[Example Question]: 83 / 23 * 13\n[Answer]: 46.91304347826087\n\nWhat is the value of 51 / 82 * 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            49.13414634146341
+        ],
+        [
+            "[Example Question]: 49 * 47 + 69\n[Answer]: 2372\n\nWhat is the value of 62 * 54 + 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            3380
+        ],
+        [
+            "[Example Question]: 69 / 27 * 81\n[Answer]: 206.99999999999997\n\nWhat is the value of 53 / 3 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            883.3333333333334
+        ],
+        [
+            "[Example Question]: 10 + 22 * 93\n[Answer]: 2056\n\nWhat is the value of 39 + 55 * 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5374
+        ],
+        [
+            "[Example Question]: 4 * 72 + 55\n[Answer]: 343\n\nWhat is the value of 59 * 6 + 45? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            399
+        ],
+        [
+            "[Example Question]: 60 - 7 * 43\n[Answer]: -241\n\nWhat is the value of 84 - 98 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2366
+        ],
+        [
+            "[Example Question]: 45 + 3 * 22\n[Answer]: 111\n\nWhat is the value of 95 + 45 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4370
+        ],
+        [
+            "[Example Question]: 75 * 31 + 3\n[Answer]: 2328\n\nWhat is the value of 78 * 25 + 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1993
+        ],
+        [
+            "[Example Question]: 80 + 43 * 78\n[Answer]: 3434\n\nWhat is the value of 72 + 26 * 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            436
+        ],
+        [
+            "[Example Question]: 53 + 45 * 3\n[Answer]: 188\n\nWhat is the value of 21 + 45 * 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1326
+        ],
+        [
+            "[Example Question]: 81 - 61 * 19\n[Answer]: -1078\n\nWhat is the value of 67 - 20 * 56? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -1053
+        ],
+        [
+            "[Example Question]: 81 - 54 * 58\n[Answer]: -3051\n\nWhat is the value of 61 - 62 * 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -6015
+        ],
+        [
+            "[Example Question]: 40 * 41 - 77\n[Answer]: 1563\n\nWhat is the value of 74 * 81 - 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5895
+        ],
+        [
+            "[Example Question]: 61 + 34 * 51\n[Answer]: 1795\n\nWhat is the value of 17 + 59 * 12? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            725
+        ],
+        [
+            "[Example Question]: 35 / 7 * 38\n[Answer]: 190.0\n\nWhat is the value of 94 / 5 * 72? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1353.6000000000001
+        ],
+        [
+            "[Example Question]: 27 - 58 * 2\n[Answer]: -89\n\nWhat is the value of 77 - 20 * 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -363
+        ],
+        [
+            "[Example Question]: 93 - 91 * 27\n[Answer]: -2364\n\nWhat is the value of 25 - 78 * 55? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -4265
+        ],
+        [
+            "[Example Question]: 78 * 50 + 62\n[Answer]: 3962\n\nWhat is the value of 33 * 56 + 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            1891
+        ],
+        [
+            "[Example Question]: 50 / 21 * 81\n[Answer]: 192.85714285714286\n\nWhat is the value of 20 / 27 * 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            65.18518518518518
+        ],
+        [
+            "[Example Question]: 26 + 31 * 46\n[Answer]: 1452\n\nWhat is the value of 37 + 27 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            2602
+        ],
+        [
+            "[Example Question]: 91 / 27 * 66\n[Answer]: 222.44444444444443\n\nWhat is the value of 60 / 81 * 35? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            25.925925925925924
+        ],
+        [
+            "[Example Question]: 53 + 36 * 92\n[Answer]: 3365\n\nWhat is the value of 47 + 14 * 48? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            719
+        ],
+        [
+            "[Example Question]: 32 - 66 * 68\n[Answer]: -4456\n\nWhat is the value of 77 - 5 * 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            7
+        ],
+        [
+            "[Example Question]: 88 + 70 * 21\n[Answer]: 1558\n\nWhat is the value of 72 + 37 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            997
+        ],
+        [
+            "[Example Question]: 68 - 13 * 60\n[Answer]: -712\n\nWhat is the value of 73 - 45 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -2177
+        ]
+    ],
+    "/": [
+        [
+            "[Example Question]: 37 - 8 / 51\n[Answer]: 36.84313725490196\n\nWhat is the value of 93 - 97 / 10? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            83.3
+        ],
+        [
+            "[Example Question]: 71 - 67 / 25\n[Answer]: 68.32\n\nWhat is the value of 79 - 9 / 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            78.5909090909091
+        ],
+        [
+            "[Example Question]: 44 / 1 * 82\n[Answer]: 3608.0\n\nWhat is the value of 22 / 13 * 83? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            140.46153846153845
+        ],
+        [
+            "[Example Question]: 1 - 33 / 73\n[Answer]: 0.547945205479452\n\nWhat is the value of 63 - 9 / 66? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            62.86363636363637
+        ],
+        [
+            "[Example Question]: 93 / 86 * 52\n[Answer]: 56.23255813953488\n\nWhat is the value of 52 / 30 * 83? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            143.86666666666667
+        ],
+        [
+            "[Example Question]: 22 / 77 * 26\n[Answer]: 7.428571428571428\n\nWhat is the value of 17 / 54 * 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13.537037037037038
+        ],
+        [
+            "[Example Question]: 29 / 17 * 39\n[Answer]: 66.52941176470588\n\nWhat is the value of 77 / 59 * 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            88.74576271186442
+        ],
+        [
+            "[Example Question]: 99 - 36 / 82\n[Answer]: 98.5609756097561\n\nWhat is the value of 71 - 53 / 91? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            70.41758241758242
+        ],
+        [
+            "[Example Question]: 4 / 22 - 56\n[Answer]: -55.81818181818182\n\nWhat is the value of 11 / 75 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -3.8533333333333335
+        ],
+        [
+            "[Example Question]: 33 - 92 / 15\n[Answer]: 26.866666666666667\n\nWhat is the value of 80 - 5 / 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            79.94845360824742
+        ],
+        [
+            "[Example Question]: 58 / 40 - 37\n[Answer]: -35.55\n\nWhat is the value of 28 / 51 - 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -60.450980392156865
+        ],
+        [
+            "[Example Question]: 56 / 1 - 9\n[Answer]: 47.0\n\nWhat is the value of 33 / 45 - 80? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -79.26666666666667
+        ],
+        [
+            "[Example Question]: 29 + 97 / 38\n[Answer]: 31.55263157894737\n\nWhat is the value of 9 + 30 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            14.0
+        ],
+        [
+            "[Example Question]: 49 - 51 / 34\n[Answer]: 47.5\n\nWhat is the value of 64 - 80 / 15? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            58.666666666666664
+        ],
+        [
+            "[Example Question]: 80 - 95 / 33\n[Answer]: 77.12121212121212\n\nWhat is the value of 35 - 73 / 33? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            32.78787878787879
+        ],
+        [
+            "[Example Question]: 50 / 91 * 27\n[Answer]: 14.835164835164836\n\nWhat is the value of 74 / 54 * 55? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            75.37037037037038
+        ],
+        [
+            "[Example Question]: 87 / 84 * 29\n[Answer]: 30.03571428571429\n\nWhat is the value of 69 / 96 * 73? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            52.46875
+        ],
+        [
+            "[Example Question]: 86 / 61 - 99\n[Answer]: -97.59016393442623\n\nWhat is the value of 28 / 3 - 91? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -81.66666666666667
+        ],
+        [
+            "[Example Question]: 30 / 36 * 53\n[Answer]: 44.16666666666667\n\nWhat is the value of 77 / 38 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            12.157894736842104
+        ],
+        [
+            "[Example Question]: 93 / 9 + 16\n[Answer]: 26.333333333333336\n\nWhat is the value of 33 / 45 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            8.733333333333333
+        ],
+        [
+            "[Example Question]: 27 / 67 - 30\n[Answer]: -29.597014925373134\n\nWhat is the value of 65 / 22 - 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -58.04545454545455
+        ],
+        [
+            "[Example Question]: 89 / 43 * 72\n[Answer]: 149.02325581395348\n\nWhat is the value of 35 / 97 * 72? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            25.97938144329897
+        ],
+        [
+            "[Example Question]: 66 - 23 / 25\n[Answer]: 65.08\n\nWhat is the value of 60 - 19 / 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            59.79347826086956
+        ],
+        [
+            "[Example Question]: 58 / 16 - 87\n[Answer]: -83.375\n\nWhat is the value of 19 / 40 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -12.525
+        ],
+        [
+            "[Example Question]: 61 / 11 * 57\n[Answer]: 316.0909090909091\n\nWhat is the value of 38 / 83 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            11.44578313253012
+        ],
+        [
+            "[Example Question]: 23 / 79 * 86\n[Answer]: 25.037974683544302\n\nWhat is the value of 31 / 97 * 42? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            13.422680412371133
+        ],
+        [
+            "[Example Question]: 32 - 72 / 10\n[Answer]: 24.8\n\nWhat is the value of 52 - 29 / 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            51.0
+        ],
+        [
+            "[Example Question]: 31 + 80 / 41\n[Answer]: 32.951219512195124\n\nWhat is the value of 47 + 73 / 60? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            48.21666666666667
+        ],
+        [
+            "[Example Question]: 60 / 36 + 73\n[Answer]: 74.66666666666667\n\nWhat is the value of 19 / 72 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.26388888888889
+        ],
+        [
+            "[Example Question]: 70 + 6 / 88\n[Answer]: 70.06818181818181\n\nWhat is the value of 3 + 65 / 47? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.382978723404255
+        ],
+        [
+            "[Example Question]: 47 - 38 / 14\n[Answer]: 44.285714285714285\n\nWhat is the value of 40 - 6 / 26? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            39.76923076923077
+        ],
+        [
+            "[Example Question]: 53 / 78 * 69\n[Answer]: 46.88461538461539\n\nWhat is the value of 91 / 16 * 90? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            511.875
+        ],
+        [
+            "[Example Question]: 12 / 38 * 91\n[Answer]: 28.736842105263158\n\nWhat is the value of 21 / 6 * 41? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            143.5
+        ],
+        [
+            "[Example Question]: 93 + 90 / 67\n[Answer]: 94.34328358208955\n\nWhat is the value of 43 + 12 / 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            43.125
+        ],
+        [
+            "[Example Question]: 63 / 45 * 28\n[Answer]: 39.199999999999996\n\nWhat is the value of 12 / 55 * 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            21.599999999999998
+        ],
+        [
+            "[Example Question]: 82 + 89 / 41\n[Answer]: 84.17073170731707\n\nWhat is the value of 25 + 88 / 24? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            28.666666666666668
+        ],
+        [
+            "[Example Question]: 23 / 93 * 89\n[Answer]: 22.010752688172044\n\nWhat is the value of 43 / 19 * 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            174.26315789473685
+        ],
+        [
+            "[Example Question]: 50 / 2 * 44\n[Answer]: 1100.0\n\nWhat is the value of 38 / 36 * 26? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            27.444444444444446
+        ],
+        [
+            "[Example Question]: 98 - 98 / 5\n[Answer]: 78.4\n\nWhat is the value of 11 - 73 / 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            9.54
+        ],
+        [
+            "[Example Question]: 87 / 95 + 9\n[Answer]: 9.91578947368421\n\nWhat is the value of 27 / 13 + 28? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            30.076923076923077
+        ],
+        [
+            "[Example Question]: 39 / 86 + 6\n[Answer]: 6.453488372093023\n\nWhat is the value of 53 / 63 + 76? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            76.84126984126983
+        ],
+        [
+            "[Example Question]: 59 - 67 / 54\n[Answer]: 57.75925925925926\n\nWhat is the value of 67 - 91 / 38? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            64.60526315789474
+        ],
+        [
+            "[Example Question]: 80 / 76 * 50\n[Answer]: 52.63157894736842\n\nWhat is the value of 70 / 13 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            10.76923076923077
+        ],
+        [
+            "[Example Question]: 87 + 77 / 99\n[Answer]: 87.77777777777777\n\nWhat is the value of 35 + 4 / 71? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            35.056338028169016
+        ],
+        [
+            "[Example Question]: 77 / 48 * 43\n[Answer]: 68.97916666666667\n\nWhat is the value of 93 / 64 * 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            90.09375
+        ],
+        [
+            "[Example Question]: 73 + 56 / 82\n[Answer]: 73.6829268292683\n\nWhat is the value of 49 + 71 / 93? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            49.763440860215056
+        ],
+        [
+            "[Example Question]: 71 - 50 / 76\n[Answer]: 70.34210526315789\n\nWhat is the value of 24 - 68 / 81? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            23.160493827160494
+        ],
+        [
+            "[Example Question]: 65 / 98 * 58\n[Answer]: 38.46938775510204\n\nWhat is the value of 5 / 55 * 64? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            5.818181818181818
+        ],
+        [
+            "[Example Question]: 89 - 97 / 77\n[Answer]: 87.74025974025975\n\nWhat is the value of 1 - 30 / 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            -0.36363636363636354
+        ],
+        [
+            "[Example Question]: 18 / 66 * 1\n[Answer]: 0.2727272727272727\n\nWhat is the value of 10 / 40 * 16? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+            4.0
+        ]
+    ]
+}
