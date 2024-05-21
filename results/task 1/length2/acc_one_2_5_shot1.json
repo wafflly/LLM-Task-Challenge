@@ -1,0 +1,1227 @@
+{
+    "+": {
+        "accuracy": "27/50=0.54",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 70683 - 49366 + 93794\n[Answer]: -72477\n\nBased on the new priorities, what is the value of 2845 - 57785 + 49208? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -104148.0,
+                -104148,
+                "According to the new priorities, the '+' operator has a higher priority than the '-' operator. Therefore, we must perform the addition before the subtraction.\n\nGiven the expression: 2845 - 57785 + 49208\n\nFirst, we perform the addition:\n57785 + 49208 = 106993\n\nNow, we perform the subtraction with the result of the addition:\n2845 - 106993\n\nFinally, we calculate the result:\n2845 - 106993 = -104148\n\nSo the value of the expression 2845 - 57785 + 49208, with the new priorities, is [-104148]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 87150 - 82624 + 7671\n[Answer]: -3145\n\nBased on the new priorities, what is the value of 89314 - 75438 + 80290? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -66414.0,
+                -66314,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 89314 - 75438 + 80290, we first calculate the addition part:\n\n75438 + 80290 = 155728\n\nNow we perform the subtraction with the result of the addition:\n\n89314 - 155728\n\nFinally, we calculate the subtraction:\n\n89314 - 155728 = -66314\n\nSo the value of the expression 89314 - 75438 + 80290, based on the new priorities, is [-66314]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 57830 + 97175 / 91922\n[Answer]: 1.686266617349492\n\nBased on the new priorities, what is the value of 38708 + 48661 / 64955? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                1.3,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 38708 + 48661 / 64955, we first add 38708 and 48661:\n\n38708 + 48661 = 87369\n\nNow we divide this sum by 64955:\n\n87369 / 64955 = 1.3450407925407925\n\nTherefore, the value of the expression 38708 + 48661 / 64955, with the new priorities, is approximately [1.3450407925407925]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 71277 - 99046 + 16916\n[Answer]: -44685\n\nBased on the new priorities, what is the value of 22083 - 80059 + 18079? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -76055.0,
+                -76055,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 22083 - 80059 + 18079, we first calculate 80059 + 18079:\n\n80059 + 18079 = 98138\n\nNow we perform the subtraction:\n\n22083 - 98138 = -76055\n\nTherefore, the value of the expression 22083 - 80059 + 18079, with the new priorities, is [-76055]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 15860 / 65602 + 9859\n[Answer]: 0.21017479227680524\n\nBased on the new priorities, what is the value of 84652 / 62037 + 33434? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.9,
+                0.9,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 62037 and 33434:\n\n62037 + 33434 = 95471\n\nNow we perform the division:\n\n84652 / 95471\n\nTo get the decimal result, we divide 84652 by 95471:\n\n84652 / 95471 ≈ 0.886775\n\nTherefore, the value of 84652 / 62037 + 33434 with the new priorities is approximately [0.886775]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 53655 + 65252 / 10506\n[Answer]: 11.318008756900818\n\nBased on the new priorities, what is the value of 30821 + 53071 / 1856? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                45.2,
+                0.0,
+                "Based on the redefined priorities where '+' is now considered as '/', we will treat the '+' operator as division. So the expression 30821 + 53071 / 1856 will be calculated as follows:\n\n30821 / 53071 / 1856\n\nTo solve this, we first divide 30821 by 53071, and then divide the result by 1856.\n\n30821 / 53071 = 0.580792572\n\nNow we take this result and divide it by 1856:\n\n0.580792572 / 1856 = 0.000312927\n\nSo the value of the expression 30821 + 53071 / 1856, with the redefined priorities, is approximately [0.000312927]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 78954 - 34110 + 20232\n[Answer]: 24612\n\nBased on the new priorities, what is the value of 68848 - 31690 + 98640? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -61482.0,
+                -61482,
+                "According to the new priorities, the '+' operator has a higher priority than the '-' operator. Therefore, we first perform the addition before the subtraction.\n\nThe expression is: 68848 - 31690 + 98640\n\nFirst, we perform the addition (since '+' has a higher priority than '-'):\n\n31690 + 98640 = 130330\n\nNow, we perform the subtraction with the result of the addition:\n\n68848 - 130330\n\nFinally, we calculate the subtraction:\n\n68848 - 130330 = -61482\n\nSo the value of the expression 68848 - 31690 + 98640, with the new priorities, is [-61482]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 87147 - 45752 + 12271\n[Answer]: 29124\n\nBased on the new priorities, what is the value of 75366 - 48614 + 46707? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -19955.0,
+                -19955,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 75366 - 48614 + 46707, we first add 48614 and 46707:\n\n46707 + 48614 = 95321\n\nNow we subtract this sum from 75366:\n\n75366 - 95321 = -19955\n\nTherefore, the value of the expression 75366 - 48614 + 46707 with the new priorities is [-19955]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 78946 + 70186 / 36667\n[Answer]: 4.067199389096463\n\nBased on the new priorities, what is the value of 93095 + 5161 / 40895? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.4,
+                2.4,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 93095 + 5161 / 40895, we first add 93095 and 5161:\n\n93095 + 5161 = 98256\n\nNow we divide this sum by 40895:\n\n98256 / 40895 = 2.4017582938388626\n\nTherefore, the value of the expression 93095 + 5161 / 40895 with the new priorities is approximately [2.4017582938388626]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 89565 - 69174 + 7933\n[Answer]: 12458\n\nBased on the new priorities, what is the value of 94528 - 44458 + 27870? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                22200.0,
+                22200,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 94528 - 44458 + 27870, we first add 44458 and 27870:\n\n44458 + 27870 = 72328\n\nNow we subtract this sum from 94528:\n\n94528 - 72328 = 22200\n\nTherefore, the value of the expression 94528 - 44458 + 27870, with the new priorities, is [22200]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 36494 * 13611 + 19532\n[Answer]: 1209520642\n\nBased on the new priorities, what is the value of 20387 * 22605 + 22556? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                920697307.0,
+                920455047,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, for the expression 20387 * 22605 + 22556, we first add 22605 and 22556:\n\n22605 + 22556 = 45161\n\nNow we multiply the result by 20387:\n\n20387 * 45161 = 920,455,047\n\nTherefore, the value of the expression is [920,455,047]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 54243 + 77743 / 4741\n[Answer]: 27.839274414680446\n\nBased on the new priorities, what is the value of 40808 + 52830 / 11894? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.9,
+                7.9,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 40808 and 52830:\n\n40808 + 52830 = 93638\n\nNow we divide this sum by 11894:\n\n93638 / 11894 ≈ 7.874\n\nTherefore, the value of the expression 40808 + 52830 / 11894 with the new priorities is approximately [7.874]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 46063 + 91990 * 27686\n[Answer]: 3822135358\n\nBased on the new priorities, what is the value of 31501 + 2041 * 62737? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2104324454.0,
+                2103963144,
+                "Based on the new priorities where '+' has the same priority as '*', we can treat all operations as having the same precedence and simply perform them from left to right.\n\nSo, for the expression 31501 + 2041 * 62737, we would calculate it as follows:\n\n(31501 + 2041) * 62737\n= (33542) * 62737\n= 2103963144\n\nTherefore, the value of the expression is [2103963144]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 97071 - 25007 + 78695\n[Answer]: -6631\n\nBased on the new priorities, what is the value of 79513 - 34091 + 31760? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                13662.0,
+                13662,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 79513 - 34091 + 31760, we first add 34091 and 31760.\n\n34091 + 31760 = 65851\n\nNow we subtract this sum from 79513.\n\n79513 - 65851 = 13662\n\nTherefore, the value of the expression 79513 - 34091 + 31760, based on the new priorities, is [13662]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 57875 / 57842 + 8807\n[Answer]: 0.8683551141052379\n\nBased on the new priorities, what is the value of 26377 / 68530 + 2669? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 26377 / 68530 + 2669, we first calculate the sum of 68530 and 2669.\n\n68530 + 2669 = 71199\n\nNow we perform the division:\n\n26377 / 71199\n\nTo get the decimal result, we divide 26377 by 71199:\n\n26377 ÷ 71199 ≈ 0.37037037037037035\n\nTherefore, the value of the expression 26377 / 68530 + 2669 with the new priorities is approximately [0.37037037037037035]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 48888 - 78830 + 30295\n[Answer]: -60237\n\nBased on the new priorities, what is the value of 42762 - 93990 + 29286? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -80514.0,
+                -80514,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 42762 - 93990 + 29286, we first calculate 93990 + 29286, and then subtract the result from 42762.\n\n93990 + 29286 = 123276\n\nNow we subtract this result from 42762:\n\n42762 - 123276 = -80514\n\nTherefore, the value of the expression 42762 - 93990 + 29286 based on the new priorities is [-80514]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 84301 - 31012 + 16885\n[Answer]: 36404\n\nBased on the new priorities, what is the value of 71425 - 40911 + 68472? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -37958.0,
+                -37958,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 71425 - 40911 + 68472, we first calculate 40911 + 68472:\n\n40911 + 68472 = 109383\n\nNow we perform the subtraction:\n\n71425 - 109383 = -37958\n\nTherefore, the value of the expression 71425 - 40911 + 68472, with the new priorities, is [-37958]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 8251 + 32632 / 14994\n[Answer]: 2.7266239829265038\n\nBased on the new priorities, what is the value of 22669 + 24247 / 86441? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 22669 and 24247:\n\n22669 + 24247 = 46916\n\nNow we divide this sum by 86441:\n\n46916 / 86441 = 0.542695117264\n\nTherefore, the value of the expression 22669 + 24247 / 86441 with the new priorities is approximately [0.542695117264]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 883 + 233 / 87919\n[Answer]: 0.01269350197340734\n\nBased on the new priorities, what is the value of 76801 + 5638 / 21676? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.8,
+                0.0,
+                "Based on the redefined priorities where '+' is now treated as '/', we will perform the division first and then the addition.\n\nSo, for the expression 76801 + 5638 / 21676, we will first divide 76801 by 5638 and then divide the result by 21676.\n\nLet's do the calculations step by step:\n\nStep 1: Divide 76801 by 5638\n76801 / 5638 ≈ 13.625044405\n\nStep 2: Divide the result from step 1 by 21676\n13.625044405 / 21676 ≈ 0.000628571\n\nTherefore, the value of the expression 76801 + 5638 / 21676, based on the new priorities, is approximately [0.000628571]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 56943 + 39652 * 93678\n[Answer]: 9048826410\n\nBased on the new priorities, what is the value of 72605 + 4493 * 78598? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6059748604.0,
+                6062275404,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 72605 + 4493 * 78598, we first add 72605 and 4493:\n\n72605 + 4493 = 77098\n\nNow we multiply the result by 78598:\n\n77098 * 78598 = 6062275404\n\nTherefore, the value of the expression 72605 + 4493 * 78598, with the new priorities, is [6062275404]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 38948 + 46855 / 65490\n[Answer]: 1.3101694915254238\n\nBased on the new priorities, what is the value of 37356 + 84786 / 45121? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.7,
+                2.7,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we calculate 37356 + 84786 first:\n\n37356 + 84786 = 122142\n\nNow we divide this sum by 45121:\n\n122142 / 45121 ≈ 2.706\n\nTherefore, the value of the expression 37356 + 84786 / 45121 with the new priorities is approximately [2.706]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 20598 + 91832 * 98246\n[Answer]: 11045797780\n\nBased on the new priorities, what is the value of 61248 + 2187 * 57151? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3625373685.0,
+                3619650385,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 61248 + 2187 * 57151, we first add 61248 and 2187:\n\n61248 + 2187 = 63335\n\nNow we multiply the result by 57151:\n\n63335 * 57151 = 3619650385\n\nTherefore, the value of the expression is [3619650385]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 76539 + 57114 / 64799\n[Answer]: 2.0625781262056515\n\nBased on the new priorities, what is the value of 79456 + 86650 / 10792? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                15.4,
+                9896,
+                "To solve the expression 79456 + 86650 / 10792 with the new priority where '+' acts as '/', we will perform the division first, as per the standard order of operations.\n\nFirst, we divide 86650 by 10792:\n\n86650 / 10792 = 8.03125\n\nNow, we use the new priority to treat '+' as '/':\n\n79456 + 86650 / 10792 becomes 79456 / 8.03125\n\nNow we divide 79456 by 8.03125:\n\n79456 / 8.03125 = 9896\n\nSo the value of the expression 79456 + 86650 / 10792 with the new priorities is [9896]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 67878 + 88621 * 98766\n[Answer]: 15456780234\n\nBased on the new priorities, what is the value of 8067 + 23107 * 92667? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2888801058.0,
+                2889815418,
+                "Based on the new priorities where '+' has the same priority as '*', we can treat all operations as having the same precedence and simply evaluate from left to right.\n\nSo, for the expression 8067 + 23107 * 92667, we would calculate it as follows:\n\n8067 + 23107 = 31174\n31174 * 92667 = 2889815418\n\nTherefore, the value of the expression 8067 + 23107 * 92667 is [2889815418]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 15338 + 34794 / 20495\n[Answer]: 2.4460600146377165\n\nBased on the new priorities, what is the value of 69648 + 83210 / 98447? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.6,
+                1.6,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 69648 + 83210 / 98447, we first add 69648 and 83210:\n\n69648 + 83210 = 152858\n\nNow we divide this sum by 98447:\n\n152858 / 98447 = 1.552122235864297\n\nTherefore, the value of the expression is approximately [1.552122235864297]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 42230 - 91760 + 55553\n[Answer]: -105083\n\nBased on the new priorities, what is the value of 38498 - 71287 + 11549? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -44338.0,
+                21240,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 38498 - 71287 + 11549, we first add 38498 and 11549:\n\n38498 + 11549 = 50047\n\nNow we subtract the result from 71287:\n\n71287 - 50047 = 21240\n\nTherefore, the value of the expression 38498 - 71287 + 11549 based on the new priorities is [21240]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 12735 * 85668 + 85194\n[Answer]: 2175927570\n\nBased on the new priorities, what is the value of 16926 * 14536 + 39586? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                916068972.0,
+                916013172,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, for the expression 16926 * 14536 + 39586, we first add 39586 to 14536, and then multiply the result by 16926.\n\n14536 + 39586 = 54122\n\nNow, we multiply 16926 by 54122:\n\n16926 * 54122 = 916,013,172\n\nTherefore, the value of the expression is [916,013,172]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 4492 * 16086 + 27465\n[Answer]: 195631092\n\nBased on the new priorities, what is the value of 75914 * 10331 + 55466? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4994913458.0,
+                1357915380,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 75914 * 10331 + 55466, we first add 55466 to 75914:\n\n75914 + 55466 = 131380\n\nNow we multiply this sum by 10331:\n\n131380 * 10331 = 1357915380\n\nTherefore, the value of the expression 75914 * 10331 + 55466 with the new priorities is [1357915380]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 16395 + 99843 / 57230\n[Answer]: 2.031067621876638\n\nBased on the new priorities, what is the value of 26453 + 85193 / 99241? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.1,
+                1.1,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 26453 + 85193 / 99241, we first add 26453 and 85193:\n\n26453 + 85193 = 111646\n\nNow we divide this sum by 99241:\n\n111646 / 99241 = 1.125\n\nTherefore, the value of the expression 26453 + 85193 / 99241 with the new priorities is approximately [1.125]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 67061 - 83272 + 85476\n[Answer]: -101687\n\nBased on the new priorities, what is the value of 9927 - 91322 + 25352? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -106747.0,
+                -56043,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 9927 - 91322 + 25352, we first add 9927 and 25352:\n\n9927 + 25352 = 35279\n\nNow we subtract 91322 from the result:\n\n35279 - 91322 = -56043\n\nTherefore, the value of the expression 9927 - 91322 + 25352, with the new priorities, is [-56043]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 13973 - 67603 + 77817\n[Answer]: -131447\n\nBased on the new priorities, what is the value of 39213 - 65229 + 83444? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -109460.0,
+                -109460,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 39213 - 65229 + 83444, we first add 65229 and 83444:\n\n65229 + 83444 = 148673\n\nNow we subtract this sum from 39213:\n\n39213 - 148673 = -109460\n\nTherefore, the value of the expression 39213 - 65229 + 83444 with the new priorities is [-109460]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 69849 - 48516 + 5263\n[Answer]: 16070\n\nBased on the new priorities, what is the value of 47817 - 36340 + 4895? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6582.0,
+                6582,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 47817 - 36340 + 4895, we first add 36340 and 4895:\n\n36340 + 4895 = 41235\n\nNow we subtract this result from 47817:\n\n47817 - 41235 = 6582\n\nTherefore, the value of the expression 47817 - 36340 + 4895 is [6582]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 36716 + 36752 / 15505\n[Answer]: 4.738342470170912\n\nBased on the new priorities, what is the value of 19936 + 81777 / 90534? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.1,
+                0.0,
+                "Based on the redefined priorities where '+' is treated as '/', we will perform the operation as if the '+' symbol represents division. So, the expression 19936 + 81777 / 90534 will be calculated as follows:\n\n19936 / 81777 / 90534\n\nTo solve this, we perform the divisions from left to right:\n\nFirst, divide 19936 by 81777:\n19936 / 81777 = 0.2438518147 (approximately)\n\nThen, divide the result by 90534:\n0.2438518147 / 90534 = 0.0000026941 (approximately)\n\nSo, the value of the expression 19936 + 81777 / 90534, with the redefined priorities, is approximately [0.0000026941]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 45507 / 78509 + 57153\n[Answer]: 0.3354439710456871\n\nBased on the new priorities, what is the value of 32540 / 75162 + 50397? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                1.1,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 50397 to 32540:\n\n32540 + 50397 = 82937\n\nNow we divide this sum by 75162:\n\n82937 / 75162 = 1.103501\n\nTherefore, the value of the expression 32540 / 75162 + 50397 with the new priorities is approximately [1.103501]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 88180 + 82310 / 77177\n[Answer]: 2.2090778340697357\n\nBased on the new priorities, what is the value of 4971 + 53869 / 57250? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.0,
+                1.0,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 4971 to 53869:\n\n4971 + 53869 = 58840\n\nNow we divide this sum by 57250:\n\n58840 / 57250 = 1.0277777777777777\n\nTherefore, the value of the expression 4971 + 53869 / 57250 with the new priorities is approximately [1.0277777777777777]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 76958 + 77782 * 97266\n[Answer]: 15050940840\n\nBased on the new priorities, what is the value of 30619 + 98009 * 91810? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                11809336680.0,
+                1181282680,
+                "Based on the new priority where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, for the expression 30619 + 98009 * 91810, we first add 30619 and 98009:\n\n30619 + 98009 = 128628\n\nNow we multiply this sum by 91810:\n\n128628 * 91810 = 1181282680\n\nTherefore, the value of the expression 30619 + 98009 * 91810, with the new priorities, is [1181282680]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 10789 + 13060 / 81178\n[Answer]: 0.2937864938776516\n\nBased on the new priorities, what is the value of 43818 + 39206 / 55790? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.5,
+                1.5,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 43818 and 39206:\n\n43818 + 39206 = 83024\n\nNow we divide this sum by 55790:\n\n83024 / 55790 = 1.4880733944954128\n\nTherefore, the value of the expression 43818 + 39206 / 55790 with the new priorities is approximately [1.4880733944954128]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 15223 * 99386 + 49479\n[Answer]: 2266171895\n\nBased on the new priorities, what is the value of 33671 * 79171 + 87595? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5615177986.0,
+                5615688136,
+                "Based on the new priority where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 33671 * 79171 + 87595, we first add 87595 to 79171:\n\n79171 + 87595 = 166766\n\nNow we multiply the result by 33671:\n\n33671 * 166766 = 5615688136\n\nTherefore, the value of the expression 33671 * 79171 + 87595 with the new priorities is [5615688136]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 59724 - 90620 + 4895\n[Answer]: -35791\n\nBased on the new priorities, what is the value of 97170 - 46041 + 21812? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                29317.0,
+                29317,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 97170 - 46041 + 21812, we first calculate 46041 + 21812, and then subtract the result from 97170.\n\n46041 + 21812 = 67853\n\nNow we subtract this sum from 97170:\n\n97170 - 67853 = 29317\n\nTherefore, the value of the expression 97170 - 46041 + 21812 with the new priorities is [29317]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 39259 + 66523 * 1012\n[Answer]: 107051384\n\nBased on the new priorities, what is the value of 10881 + 61248 * 58027? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4185429483.0,
+                4186952823,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 10881 + 61248 * 58027, we first add 10881 and 61248:\n\n10881 + 61248 = 72129\n\nNow we multiply the result by 58027:\n\n72129 * 58027 = 4186952823\n\nTherefore, the value of the expression 10881 + 61248 * 58027 is [4186952823]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 20628 + 21331 / 11322\n[Answer]: 3.7059706765589118\n\nBased on the new priorities, what is the value of 51300 + 74419 / 9286? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                13.5,
+                13.5,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 51300 and 74419:\n\n51300 + 74419 = 125719\n\nNow we divide this sum by 9286:\n\n125719 / 9286 ≈ 13.541\n\nTherefore, the value of the expression 51300 + 74419 / 9286 with the new priorities is approximately [13.541]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 88386 * 34459 + 81810\n[Answer]: 10276551834\n\nBased on the new priorities, what is the value of 30469 * 92240 + 19065? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3391352045.0,
+                3391172085,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, for the expression 30469 * 92240 + 19065, we first add 19065 to 92240:\n\n92240 + 19065 = 111305\n\nNow we multiply the result by 30469:\n\n30469 * 111305 = 3391172085\n\nTherefore, the value of the expression is [3391172085]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 75223 / 29054 + 54412\n[Answer]: 0.9012412239714375\n\nBased on the new priorities, what is the value of 54171 / 80866 + 64858? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                1.5,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 54171 / 80866 + 64858, we first add 64858 to 54171:\n\n64858 + 54171 = 119029\n\nNow we divide this sum by 80866:\n\n119029 / 80866 = 1.472045\n\nTherefore, the value of the expression 54171 / 80866 + 64858 with the new priorities is approximately [1.472045]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 28970 + 37632 / 82235\n[Answer]: 0.8098984617255427\n\nBased on the new priorities, what is the value of 39806 + 85786 / 65478? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.9,
+                1.9,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 39806 + 85786 / 65478, we first add 39806 and 85786:\n\n39806 + 85786 = 125592\n\nNow we divide this sum by 65478:\n\n125592 / 65478 ≈ 1.918033\n\nTherefore, the value of the expression 39806 + 85786 / 65478 with the new priorities is approximately [1.918033]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 45795 - 35414 + 13342\n[Answer]: -2961\n\nBased on the new priorities, what is the value of 14501 - 31058 + 12798? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -29355.0,
+                -29355,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 14501 - 31058 + 12798, we first calculate 31058 + 12798:\n\n31058 + 12798 = 43856\n\nNow we subtract this result from 14501:\n\n14501 - 43856 = -29355\n\nTherefore, the value of the expression 14501 - 31058 + 12798 based on the new priorities is [-29355]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 45859 / 65341 + 34754\n[Answer]: 0.45815475298466457\n\nBased on the new priorities, what is the value of 42866 / 97318 + 2312? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.5,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 42866 / 97318 + 2312, we first add 2312 to 42866, and then divide the result by 97318.\n\nFirst, we do the addition:\n42866 + 2312 = 45178\n\nNow, we divide the result by 97318:\n45178 / 97318 = 0.4642045028142589\n\nTherefore, the value of the expression 42866 / 97318 + 2312 with the new priorities is approximately [0.4642045028142589]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 74624 / 37380 + 70966\n[Answer]: 0.6887563915603714\n\nBased on the new priorities, what is the value of 99041 / 92618 + 71696? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.6,
+                0.6,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 99041 / 92618 + 71696, we first add 92618 and 71696:\n\n92618 + 71696 = 164314\n\nNow we divide 99041 by the result of the addition:\n\n99041 / 164314 ≈ 0.6028696741854637\n\nTherefore, the value of the expression is approximately [0.6028696741854637]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 58136 / 6213 + 36306\n[Answer]: 1.367294621228157\n\nBased on the new priorities, what is the value of 7277 / 88698 + 27251? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.4,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 7277 / 88698 + 27251, we first add 27251 to 7277:\n\n7277 + 27251 = 34528\n\nNow we divide this sum by 88698:\n\n34528 / 88698 = 0.389285... (approximately)\n\nTherefore, the value of the expression 7277 / 88698 + 27251 with the new priorities is approximately [0.389285]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 42557 / 79521 + 88110\n[Answer]: 0.2538730902995269\n\nBased on the new priorities, what is the value of 83821 / 47100 + 54108? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 83821 / 47100 + 54108, we first add 47100 and 54108:\n\n47100 + 54108 = 101208\n\nNow we divide 83821 by the result of the addition:\n\n83821 / 101208\n\nCalculating this gives us:\n\n83821 / 101208 ≈ 0.8282828282828283\n\nTherefore, the value of the expression 83821 / 47100 + 54108 with the new priorities is approximately [0.8282828282828283]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 65635 + 48613 / 10699\n[Answer]: 10.678381157117487\n\nBased on the new priorities, what is the value of 45839 + 6112 / 18643? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.8,
+                0.0,
+                "Given the new priorities where '+' is treated as '/', we will perform the operation as if the '+' is a division operator.\n\nSo, the expression 45839 + 6112 / 18643 becomes:\n\n45839 / 6112 / 18643\n\nTo solve this, we first divide 45839 by 6112, and then divide the result by 18643.\n\n45839 / 6112 = 7.500327153762268\n7.500327153762268 / 18643 = 0.000402285318759276\n\nTherefore, the value of the expression is approximately [0.000402285318759276]."
+            ]
+        ]
+    },
+    "overall_accuracy": "87/200=0.435",
+    "-": {
+        "accuracy": "15/50=0.3",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 63942 - 23132 * 91547\n[Answer]: 3736033070\n\nBased on the new priorities, what is the value of 48431 - 53939 * 5941? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -32723028.0,
+                15511828470829,
+                "Based on the new priorities where '-' is treated as multiplication ('*'), the expression 48431 - 53939 * 5941 should be calculated as follows:\n\n48431 * 53939 * 5941\n\nNow, let's calculate the result step by step:\n\nFirst, multiply 48431 by 53939:\n48431 * 53939 = 2,612,013,709\n\nNext, multiply the result by 5941:\n2,612,013,709 * 5941 = 15,511,828,470,829\n\nSo the value of the expression 48431 - 53939 * 5941 with the new priorities is [15,511,828,470,829]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 71335 - 22299 * 46\n[Answer]: 2255656\n\nBased on the new priorities, what is the value of 48612 - 19865 * 59234? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1702799798.0,
+                1702593198,
+                "Based on the new priorities where subtraction '-' has a higher priority than multiplication '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 48612 - 19865 * 59234, we first subtract 19865 from 48612:\n\n48612 - 19865 = 28747\n\nNow we multiply the result by 59234:\n\n28747 * 59234 = 1702593198\n\nTherefore, the value of the expression 48612 - 19865 * 59234, with the new priorities, is [1702593198]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 30394 - 40196 + 67030\n[Answer]: -76832\n\nBased on the new priorities, what is the value of 80451 - 70566 + 39906? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -30021.0,
+                -29921,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 80451 - 70566 + 39906, we first calculate 70566 + 39906, and then subtract the result from 80451.\n\n70566 + 39906 = 110472\n\nNow we subtract this sum from 80451:\n\n80451 - 110472 = -29921\n\nTherefore, the value of the expression 80451 - 70566 + 39906, with the new priorities, is [-29921]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 65131 - 96786 + 46160\n[Answer]: -77815\n\nBased on the new priorities, what is the value of 37446 - 86837 + 19655? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -69046.0,
+                -69046,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 37446 - 86837 + 19655, we first calculate 86837 + 19655:\n\n86837 + 19655 = 106492\n\nNow we perform the subtraction with the result:\n\n37446 - 106492 = -69046\n\nTherefore, the value of the expression 37446 - 86837 + 19655, with the new priorities, is [-69046]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 90697 / 18815 - 56748\n[Answer]: -2.390978831096934\n\nBased on the new priorities, what is the value of 63154 / 95152 - 1057? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.7,
+                0.7,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 63154 / 95152 - 1057, we first calculate 95152 - 1057.\n\n95152 - 1057 = 94095\n\nNow we perform the division:\n\n63154 / 94095\n\nTo get the decimal result, we divide 63154 by 94095:\n\n63154 / 94095 ≈ 0.6714285714285714\n\nSo the value of the expression 63154 / 95152 - 1057 with the new priorities is approximately [0.6714285714285714]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 44084 - 38066 + 63127\n[Answer]: -57109\n\nBased on the new priorities, what is the value of 83411 - 80063 + 52031? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -48683.0,
+                -48683,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 83411 - 80063 + 52031, we first calculate 80063 + 52031.\n\n80063 + 52031 = 132094\n\nNow we subtract this result from 83411:\n\n83411 - 132094 = -48683\n\nTherefore, the value of the expression 83411 - 80063 + 52031, with the new priorities, is [-48683]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 48715 / 8200 - 26661\n[Answer]: -2.638806131845512\n\nBased on the new priorities, what is the value of 63279 / 26575 - 36408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6.4,
+                -6.4,
+                "Given the new priorities where the subtraction operator '-' has a higher priority than the division operator '/', we need to perform the subtraction before the division in the expression:\n\n63279 / 26575 - 36408\n\nFirst, we subtract 36408 from 26575:\n\n26575 - 36408 = -9833\n\nNow we have:\n\n63279 / -9833\n\nNext, we perform the division:\n\n63279 / -9833 ≈ -6.437\n\nSo the value of the expression 63279 / 26575 - 36408 with the new priorities is approximately [-6.437]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 72965 * 26627 - 67441\n[Answer]: -2977993510\n\nBased on the new priorities, what is the value of 24759 * 18542 - 27845? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -230332977.0,
+                230396277,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 24759 * 18542 - 27845, we first calculate:\n\n27845 - 18542 = 9303\n\nNow we multiply the result by 24759:\n\n24759 * 9303 = 230396277\n\nTherefore, the value of the expression 24759 * 18542 - 27845 with the new priorities is [230396277]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 87651 - 92386 * 66759\n[Answer]: -316103865\n\nBased on the new priorities, what is the value of 41078 - 24790 * 36880? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                600701440.0,
+                37550945536000,
+                "Based on the new priorities where '-' is treated as '*', we will perform the multiplication first and then the subtraction. So the expression 41078 - 24790 * 36880 will be calculated as follows:\n\n41078 * 24790 * 36880\n\nNow, let's calculate the result step by step:\n\nFirst, multiply 41078 by 24790:\n41078 * 24790 = 1,018,154,420\n\nNow, multiply the result by 36880:\n1,018,154,420 * 36880 = 37,550,945,536,000\n\nSo the value of the expression 41078 - 24790 * 36880, with the new priorities, is [37,550,945,536,000]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 48621 * 83962 - 42577\n[Answer]: 2012180085\n\nBased on the new priorities, what is the value of 65468 * 67734 - 12102? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3642115776.0,
+                3640392736,
+                "Based on the redefined priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 65468 * 67734 - 12102, we first calculate:\n\n67734 - 12102 = 55632\n\nNow we multiply the result by 65468:\n\n65468 * 55632 = 3640392736\n\nTherefore, the value of the expression 65468 * 67734 - 12102 with the new priorities is [3640392736]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 15243 - 24881 * 87680\n[Answer]: -845059840\n\nBased on the new priorities, what is the value of 12639 - 39566 * 88925? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2394483475.0,
+                44460015541550,
+                "Based on the new priorities where '-' is treated as '*', we will treat the expression as a multiplication problem. So, the expression 12639 - 39566 * 88925 will be calculated as follows:\n\n12639 * 39566 * 88925\n\nNow, let's calculate the result step by step:\n\nFirst, multiply 12639 and 39566:\n12639 * 39566 = 500034174\n\nNow, multiply the result with 88925:\n500034174 * 88925 = 44460015541550\n\nSo, the value of the expression 12639 - 39566 * 88925 with the new priorities is [44460015541550]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 99922 - 82953 / 88915\n[Answer]: 0.19084518922566496\n\nBased on the new priorities, what is the value of 77736 - 55843 / 65254? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                77735.1,
+                "Given the redefined priorities where '-' is treated as '/', we will perform the division first and then the subtraction. The expression is:\n\n77736 - 55843 / 65254\n\nFirst, we divide 55843 by 65254:\n\n55843 / 65254 = 0.855798069\n\nNow, we subtract this result from 77736:\n\n77736 - 0.855798069 = 77735.144201931\n\nSo the value of the expression is approximately [77735.144201931]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 75344 / 83493 - 46068\n[Answer]: 2.013199732798931\n\nBased on the new priorities, what is the value of 47039 / 82650 - 84197? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -30.4,
+                -30.4,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 47039 / 82650 - 84197, we first calculate 82650 - 84197.\n\n82650 - 84197 = -1547\n\nNow we divide 47039 by the result of the subtraction:\n\n47039 / -1547\n\nTo get the decimal result, we perform the division:\n\n47039 / -1547 ≈ -30.40400710730252\n\nSo the value of the expression 47039 / 82650 - 84197 with the new priorities is approximately [-30.40400710730252]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 8479 * 70440 - 97280\n[Answer]: -227576360\n\nBased on the new priorities, what is the value of 31829 * 86202 - 22937? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2013661685.0,
+                766390584,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 31829 * 86202 - 22937, we first calculate:\n\n31829 - 22937 = 8892\n\nNow we multiply the result by 86202:\n\n8892 * 86202 = 766,390,584\n\nTherefore, the value of the expression 31829 * 86202 - 22937 with the new priorities is [766,390,584]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 15147 - 60900 * 91557\n[Answer]: -4189007421\n\nBased on the new priorities, what is the value of 54291 - 14512 * 47805? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1901635095.0,
+                -693644469,
+                "Based on the new priorities where '-' is treated as '*', we will perform the multiplication first and then the subtraction. So for the expression 54291 - 14512 * 47805, we will first multiply 14512 by 47805 and then subtract the result from 54291.\n\nLet's do the calculation:\n\n14512 * 47805 = 693,698,760\n\nNow we subtract this result from 54291:\n\n54291 - 693,698,760 = -693,644,469\n\nSo the value of the expression 54291 - 14512 * 47805 is [-693,644,469]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 2001 * 14545 - 61787\n[Answer]: -94531242\n\nBased on the new priorities, what is the value of 32433 * 84135 - 51519? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1057834728.0,
+                1605638610,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 32433 * 84135 - 51519, we first calculate:\n\n51519 - 32433 = 19086\n\nNow we multiply the result by 84135:\n\n19086 * 84135 = 1605638610\n\nTherefore, the value of the expression 32433 * 84135 - 51519 with the new priorities is [1605638610]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 33406 * 93678 - 63446\n[Answer]: 1009930192\n\nBased on the new priorities, what is the value of 51369 * 42357 - 71267? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1485077790.0,
+                -1484925410,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 51369 * 42357 - 71267, we first calculate:\n\n71267 (subtraction is done first due to the new priority rules)\n\nThen we multiply the result by 51369:\n\n51369 * (42357 - 71267)\n\nNow let's do the subtraction:\n\n42357 - 71267 = -28910\n\nNow we multiply 51369 by -28910:\n\n51369 * -28910 = -1484925410\n\nSo the value of the expression 51369 * 42357 - 71267 based on the new priorities is [-1484925410]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 64841 - 938 * 90618\n[Answer]: 5790762054\n\nBased on the new priorities, what is the value of 72635 - 99165 * 79035? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2096798550.0,
+                -2096143050,
+                "Based on the new priorities where subtraction '-' has a higher priority than multiplication '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 72635 - 99165 * 79035, we first calculate the subtraction:\n\n72635 - 99165 = -26530\n\nNow we multiply the result by 79035:\n\n-26530 * 79035 = -2096143050\n\nTherefore, the value of the expression 72635 - 99165 * 79035 is [-2096143050]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 86121 / 62069 - 71203\n[Answer]: -9.42861834902562\n\nBased on the new priorities, what is the value of 85845 / 67724 - 83445? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5.5,
+                0.0,
+                "Given the new priorities where subtraction '-' has a higher priority than division '/', we need to perform the subtraction before the division in the expression 85845 / 67724 - 83445.\n\nFirst, we subtract 83445 from 85845:\n85845 - 83445 = 2400\n\nNow we have the expression:\n2400 / 67724\n\nNext, we perform the division:\n2400 / 67724 ≈ 0.035438\n\nSo the value of the expression 85845 / 67724 - 83445 with the new priorities is approximately [0.035438]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 49271 - 19626 + 16054\n[Answer]: 13591\n\nBased on the new priorities, what is the value of 12067 - 66509 + 7164? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -61606.0,
+                -61606,
+                "According to the new priorities, we first perform the addition before the subtraction. So for the expression:\n\n12067 - 66509 + 7164\n\nWe first calculate the addition:\n\n66509 + 7164 = 73673\n\nNow we perform the subtraction with the result of the addition:\n\n12067 - 73673 = -61606\n\nSo the value of the expression is [-61606]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 62975 - 78948 * 40106\n[Answer]: -640613138\n\nBased on the new priorities, what is the value of 25250 - 37889 * 16935? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -214041465.0,
+                16197880228750,
+                "Based on the redefined priorities where '-' is now equivalent to '*', we will treat the '-' as a multiplication operator. Therefore, the expression 25250 - 37889 * 16935 will be calculated as follows:\n\n25250 * 37889 * 16935\n\nNow, let's calculate the result step by step:\n\nFirst, multiply 25250 by 37889:\n25250 * 37889 = 956217250\n\nNow, multiply the result by 16935:\n956217250 * 16935 = 16197880228750\n\nSo the value of the expression 25250 - 37889 * 16935 with the new priorities is [16197880228750]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 31734 / 28211 - 87665\n[Answer]: -0.5337571904329398\n\nBased on the new priorities, what is the value of 92573 / 25829 - 62214? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2.5,
+                2.5,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo, we first calculate:\n\n62214 - 25829 = 36385\n\nNow we perform the division:\n\n92573 / 36385\n\nUsing a calculator, we find:\n\n92573 / 36385 ≈ 2.544789\n\nTherefore, the value of the expression 92573 / 25829 - 62214 with the new priorities is approximately [2.544789]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 87130 * 97009 - 20460\n[Answer]: 6669714370\n\nBased on the new priorities, what is the value of 50760 * 26346 - 38860? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -635210640.0,
+                635073840,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 50760 * 26346 - 38860, we first calculate:\n\n38860 - 26346 = 12514\n\nNow we multiply the result by 50760:\n\n50760 * 12514 = 635073840\n\nTherefore, the value of the expression 50760 * 26346 - 38860 is [635073840]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 14223 - 89816 + 1148\n[Answer]: -76741\n\nBased on the new priorities, what is the value of 25172 - 47166 + 28505? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -50499.0,
+                -50499,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 25172 - 47166 + 28505, we first calculate the addition part:\n\n47166 + 28505 = 75671\n\nNow we perform the subtraction with the remaining number:\n\n25172 - 75671 = -50499\n\nTherefore, the value of the expression 25172 - 47166 + 28505 with the new priorities is [-50499]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 23349 * 82678 - 87626\n[Answer]: -115530852\n\nBased on the new priorities, what is the value of 89924 * 44998 - 65034? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1801717264.0,
+                -1801920624,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 89924 * 44998 - 65034, we first calculate 44998 - 65034:\n\n44998 - 65034 = -20036\n\nNow we multiply the result by 89924:\n\n89924 * (-20036) = -1801920624\n\nTherefore, the value of the expression is [-1801920624]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 69299 - 89700 * 38754\n[Answer]: -790620354\n\nBased on the new priorities, what is the value of 7184 - 82456 * 87281? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6569815432.0,
+                -6571472232,
+                "Based on the redefined priorities where '-' has the same priority as '*', we need to perform the subtraction and multiplication operations from left to right, as they now have equal precedence.\n\nSo, for the expression 7184 - 82456 * 87281, we would calculate it as follows:\n\nFirst, we subtract 82456 from 7184:\n7184 - 82456 = -75272\n\nThen, we multiply the result by 87281:\n-75272 * 87281 = -6571472232\n\nTherefore, the value of the expression 7184 - 82456 * 87281 is [-6571472232]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 94396 / 81350 - 33669\n[Answer]: 1.9797403577945094\n\nBased on the new priorities, what is the value of 26757 / 48836 - 34270? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.8,
+                1.8,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo, for the expression 26757 / 48836 - 34270, we first calculate 48836 - 34270:\n\n48836 - 34270 = 14566\n\nNow we have the expression:\n\n26757 / 14566\n\nNow we perform the division:\n\n26757 / 14566 ≈ 1.837\n\nTherefore, the value of the expression 26757 / 48836 - 34270 with the new priorities is approximately [1.837]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 23548 - 67727 / 55493\n[Answer]: -0.7961184293514497\n\nBased on the new priorities, what is the value of 23852 - 71166 / 14233? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.3,
+                0.0,
+                "To solve the expression 23852 - 71166 / 14233 with the new priority where '-' has the same priority as '/', we should treat the '-' as a division operation.\n\nSo the expression becomes:\n\n23852 / 71166 / 14233\n\nNow we can calculate it step by step:\n\nFirst, divide 23852 by 71166:\n\n23852 / 71166 = 0.335238\n\nThen, divide this result by 14233:\n\n0.335238 / 14233 = 0.000023548\n\nSo the value of the expression 23852 - 71166 / 14233 with the new priorities is approximately [0.000023548]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 99012 - 55774 * 23384\n[Answer]: 1011077392\n\nBased on the new priorities, what is the value of 77963 - 92031 * 97667? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1373979356.0,
+                700989258481831,
+                "Based on the new priorities where '-' is treated as '*', we will perform the multiplication first and then the subtraction. So for the expression:\n\n77963 - 92031 * 97667\n\nWe will first multiply 92031 by 97667 and then multiply the result by 77963.\n\nFirst, let's do the multiplication of 92031 and 97667:\n\n92031 * 97667 = 8989819577\n\nNow, we multiply this result by 77963:\n\n8989819577 * 77963 = 700989258481831\n\nSo the value of the expression 77963 - 92031 * 97667, with the new priorities, is [700989258481831]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 4161 / 21381 - 95334\n[Answer]: -0.05626546590402012\n\nBased on the new priorities, what is the value of 95504 / 60194 - 44479? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.1,
+                6.1,
+                "Given the new priorities where subtraction '-' has a higher priority than division '/', we need to perform the subtraction before the division in the expression:\n\n95504 / 60194 - 44479\n\nFirst, we subtract 44479 from 60194:\n\n60194 - 44479 = 15715\n\nNow we divide 95504 by the result of the subtraction:\n\n95504 / 15715 ≈ 6.078\n\nSo the value of the expression 95504 / 60194 - 44479 with the new priorities is approximately [6.078]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 14181 - 72766 * 10310\n[Answer]: -604011350\n\nBased on the new priorities, what is the value of 40345 - 45848 * 98782? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -543597346.0,
+                -543517766,
+                "Based on the redefined priorities where '-' has the same priority as '*', we should perform the subtraction and multiplication operations from left to right as they appear, because they now have the same precedence.\n\nSo for the expression 40345 - 45848 * 98782, we first do the subtraction, then the multiplication:\n\n40345 - 45848 = -5503\n\nNow we multiply the result by 98782:\n\n-5503 * 98782 = -543,517,766\n\nTherefore, the value of the expression is [-543,517,766]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 11954 - 92167 * 69749\n[Answer]: -5594776537\n\nBased on the new priorities, what is the value of 29051 - 60639 * 95436? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3014632368.0,
+                168226751850884,
+                "Based on the new priorities where '-' is treated as '*', we will treat the expression as a multiplication problem. So, the expression 29051 - 60639 * 95436 will be calculated as follows:\n\n29051 * 60639 * 95436\n\nNow, let's calculate the result step by step:\n\nFirst, multiply 29051 by 60639:\n29051 * 60639 = 1762260139\n\nNext, multiply the result by 95436:\n1762260139 * 95436 = 168226751850884\n\nSo, the value of the expression 29051 - 60639 * 95436, with the new priorities, is [168226751850884]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 58794 - 69542 * 15248\n[Answer]: -163885504\n\nBased on the new priorities, what is the value of 21398 - 81239 * 19216? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1149904656.0,
+                33402866750792,
+                "Given the new priorities where '-' is treated as '*', we will perform the multiplication first and then the subtraction. The expression is:\n\n21398 - 81239 * 19216\n\nFirst, we multiply 81239 by 19216:\n\n81239 * 19216 = 1560873704\n\nNow, we multiply 21398 by the result:\n\n21398 * 1560873704 = 33402866750792\n\nSo the value of the expression 21398 - 81239 * 19216 with the new priorities is:\n\n[33402866750792]"
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 28487 - 10045 / 24896\n[Answer]: 0.7407615681233933\n\nBased on the new priorities, what is the value of 55858 - 36872 / 78072? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                55857.5,
+                "Given the new priorities where '-' is treated as '/', we will perform the division first and then the subtraction. So for the expression:\n\n55858 - 36872 / 78072\n\nWe first divide 36872 by 78072, and then subtract the result from 55858.\n\n36872 / 78072 = 0.4722222222222222\n\nNow we subtract this result from 55858:\n\n55858 - 0.4722222222222222 = 55857.52777777778\n\nSo the value of the expression is approximately [55857.52777777778]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 1382 - 81731 * 35544\n[Answer]: -2855924856\n\nBased on the new priorities, what is the value of 92496 - 78359 * 77062? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1089425494.0,
+                -6037456682,
+                "Based on the new priorities where '-' is treated as '*', we will perform the multiplication first and then the subtraction. So for the expression:\n\n92496 - 78359 * 77062\n\nWe will first multiply 78359 by 77062, and then subtract the result from 92496.\n\n78359 * 77062 = 6037549178\n\nNow we subtract this result from 92496:\n\n92496 - 6037549178 = -6037456682\n\nSo the value of the expression 92496 - 78359 * 77062 is [-6037456682]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 79109 * 90676 - 30160\n[Answer]: 4787360244\n\nBased on the new priorities, what is the value of 93444 * 97401 - 29836? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6313543860.0,
+                6311473380,
+                "Given the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 93444 * 97401 - 29836, we first calculate:\n\n97401 - 29836 = 67565\n\nNow we multiply the result by 93444:\n\n93444 * 67565 = 6311473380\n\nTherefore, the value of the expression 93444 * 97401 - 29836 with the new priorities is [6311473380]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 96441 - 8551 / 88773\n[Answer]: 0.9900532819663637\n\nBased on the new priorities, what is the value of 92332 - 96088 / 6351? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.6,
+                92316.9,
+                "Based on the redefined priorities where '-' is treated as '/', we will perform the division first and then the subtraction. So for the expression 92332 - 96088 / 6351, we will first divide 96088 by 6351 and then subtract the result from 92332.\n\nLet's calculate it step by step:\n\n1. Divide 96088 by 6351:\n96088 / 6351 ≈ 15.132\n\n2. Subtract the result from 92332:\n92332 - 15.132 ≈ 92316.868\n\nSo the value of the expression 92332 - 96088 / 6351 is approximately [92316.868]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 58302 - 61553 * 21451\n[Answer]: -69737201\n\nBased on the new priorities, what is the value of 54144 - 15888 * 431? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                16488336.0,
+                16484336,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo, for the expression 54144 - 15888 * 431, we first calculate 54144 - 15888:\n\n54144 - 15888 = 38256\n\nNow we multiply the result by 431:\n\n38256 * 431 = 16484336\n\nTherefore, the value of the expression 54144 - 15888 * 431, with the new priorities, is [16484336]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 24902 * 56736 - 36463\n[Answer]: 504838246\n\nBased on the new priorities, what is the value of 7240 * 85753 - 69758? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                115803800.0,
+                115796800,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 7240 * 85753 - 69758, we first calculate:\n\n85753 - 69758 = 15995\n\nNow we multiply the result by 7240:\n\n7240 * 15995 = 115796800\n\nTherefore, the value of the expression 7240 * 85753 - 69758 with the new priorities is [115796800]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 53334 - 28667 / 40785\n[Answer]: 0.6048056883658207\n\nBased on the new priorities, what is the value of 76129 - 58163 / 76026? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 76129 - 58163 / 76026, we first calculate 76129 - 58163.\n\n76129 - 58163 = 17966\n\nNow we divide this result by 76026:\n\n17966 / 76026 = 0.236344606866002\n\nTherefore, the value of the expression is approximately [0.236344606866002]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 80722 - 1759 * 39446\n[Answer]: 3114774498\n\nBased on the new priorities, what is the value of 53129 - 42527 * 96329? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1021280058.0,
+                2097152000000007,
+                "Based on the redefined priorities where '-' is treated as '*', we will treat the subtraction symbol as multiplication. So the expression:\n\n53129 - 42527 * 96329\n\nbecomes:\n\n53129 * 42527 * 96329\n\nNow we will calculate the result by multiplying these numbers:\n\n53129 * 42527 * 96329 = 21765076343 * 96329\n\nNow we multiply 21765076343 by 96329:\n\n21765076343 * 96329 = 2097152000000007\n\nSo the value of the expression 53129 - 42527 * 96329 with the new priorities is:\n\n[2097152000000007]"
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 72642 - 61195 / 54691\n[Answer]: 0.20930317602530582\n\nBased on the new priorities, what is the value of 44283 - 87379 / 25979? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.7,
+                -1.7,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 44283 - 87379 / 25979, we first calculate 44283 - 87379:\n\n44283 - 87379 = -43096\n\nNow we divide this result by 25979:\n\n-43096 / 25979 ≈ -1.6588\n\nTherefore, the value of the expression 44283 - 87379 / 25979 with the new priorities is approximately [-1.6588]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 89098 - 89508 / 43750\n[Answer]: -0.009371428571428572\n\nBased on the new priorities, what is the value of 55720 - 75860 / 17883? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.1,
+                0.0,
+                "Given the redefined priorities where '-' is now equivalent to '/', we will treat the '-' operator as a division operator. Therefore, the expression 55720 - 75860 / 17883 should be calculated as a division operation in the order it appears.\n\nFirst, we divide 55720 by 75860:\n\n55720 / 75860 = 0.7346938775510204\n\nNext, we divide the result by 17883:\n\n0.7346938775510204 / 17883 = 0.00004108433734939759\n\nSo the value of the expression 55720 - 75860 / 17883, with the redefined priorities, is approximately [0.00004108433734939759]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 39999 - 72723 + 92238\n[Answer]: -124962\n\nBased on the new priorities, what is the value of 57030 - 44455 + 57385? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -44810.0,
+                -44810,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 57030 - 44455 + 57385, we first calculate the addition part:\n\n44455 + 57385 = 101840\n\nNow we perform the subtraction with the remaining number:\n\n57030 - 101840 = -44810\n\nTherefore, the value of the expression 57030 - 44455 + 57385, based on the new priorities, is [-44810]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 70269 - 48263 * 98473\n[Answer]: 2166996838\n\nBased on the new priorities, what is the value of 80559 - 69133 * 58039? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                663153614.0,
+                663114114,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 80559 - 69133 * 58039, we first calculate 80559 - 69133:\n\n80559 - 69133 = 11426\n\nNow we multiply the result by 58039:\n\n11426 * 58039 = 663,114,114\n\nTherefore, the value of the expression 80559 - 69133 * 58039, with the new priorities, is [663,114,114]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 43953 - 91145 + 78131\n[Answer]: -125323\n\nBased on the new priorities, what is the value of 5123 - 47073 + 61590? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -103540.0,
+                -103540,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 5123 - 47073 + 61590, we first calculate the addition part:\n\n47073 + 61590 = 108663\n\nNow we perform the subtraction with the remaining number:\n\n5123 - 108663 = -103540\n\nTherefore, the value of the expression 5123 - 47073 + 61590 with the new priorities is [-103540]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 58794 - 49278 * 38320\n[Answer]: 364653120\n\nBased on the new priorities, what is the value of 75902 - 61127 * 22473? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                332038575.0,
+                331891575,
+                "Based on the redefined priorities where '-' has the same priority as '*', we should perform the subtraction and multiplication operations from left to right as they appear, because they now have the same level of precedence.\n\nSo for the expression 75902 - 61127 * 22473, we first do the subtraction, then the multiplication:\n\n75902 - 61127 = 14775\n\nNow we multiply the result by 22473:\n\n14775 * 22473 = 331891575\n\nTherefore, the value of the expression 75902 - 61127 * 22473 is [331891575]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 3370 - 70114 / 59434\n[Answer]: -1.1229935727024936\n\nBased on the new priorities, what is the value of 65062 - 24780 / 31952? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                1.3,
+                "Given the redefined priorities where '-' has the same priority as '/', we should perform the subtraction and division from left to right as they appear, because they now have the same precedence.\n\nSo for the expression 65062 - 24780 / 31952, we first subtract 24780 from 65062, and then divide the result by 31952.\n\nLet's do the calculation step by step:\n\n1. 65062 - 24780 = 40282\n2. 40282 / 31952 = 1.2605862354892207\n\nTherefore, the value of the expression 65062 - 24780 / 31952 is approximately [1.2605862354892207]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 74074 - 48258 * 65974\n[Answer]: 1703184784\n\nBased on the new priorities, what is the value of 97568 - 86371 * 16834? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                188490298.0,
+                188596518,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 97568 - 86371 * 16834, we first calculate 97568 - 86371:\n\n97568 - 86371 = 11197\n\nNow we multiply the result by 16834:\n\n11197 * 16834 = 188596518\n\nTherefore, the value of the expression 97568 - 86371 * 16834 with the new priorities is [188596518]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 42932 - 4187 / 41886\n[Answer]: 0.9250107434464976\n\nBased on the new priorities, what is the value of 95178 - 9310 / 29330? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.9,
+                2.9,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo, for the expression 95178 - 9310 / 29330, we first calculate 95178 - 9310, and then divide the result by 29330.\n\n95178 - 9310 = 85868\n\nNow we divide 85868 by 29330:\n\n85868 / 29330 ≈ 2.927\n\nTherefore, the value of the expression 95178 - 9310 / 29330 with the new priorities is approximately [2.927]."
+            ]
+        ]
+    },
+    "*": {
+        "accuracy": "5/50=0.1",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 26362 + 39609 * 34640\n[Answer]: 2285235440\n\nBased on the new priorities, what is the value of 59961 + 65864 * 45604? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5738123300.0,
+                171429,
+                "Based on the redefined priorities where '*' is treated as '+', we will perform the operations as if the '*' is a '+'.\n\nSo, the expression 59961 + 65864 * 45604 becomes:\n59961 + 65864 + 45604\n\nNow, we simply add the numbers together:\n59961 + 65864 + 45604 = 171429\n\nTherefore, the value of the expression is [171429]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 85513 - 54594 * 27004\n[Answer]: 834936676\n\nBased on the new priorities, what is the value of 48575 - 58096 * 87256? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -830764376.0,
+                77735,
+                "Given the new priorities where '*' is now equivalent to '-', we should perform the multiplication operation as a subtraction instead. So, the expression 48575 - 58096 * 87256 should be calculated as follows:\n\n48575 - (58096 - 87256)\n\nFirst, we calculate the subtraction inside the parentheses:\n\n58096 - 87256 = -29160\n\nNow we subtract this result from 48575:\n\n48575 - (-29160) = 48575 + 29160\n\nNow we add the two numbers:\n\n48575 + 29160 = 77735\n\nSo the value of the expression 48575 - 58096 * 87256, with the new priorities, is [77735]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 52068 - 99685 * 96230\n[Answer]: -4582183910\n\nBased on the new priorities, what is the value of 83553 - 7309 * 4308? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                328459152.0,
+                328396512,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication, which is the opposite of the normal order of operations.\n\nSo, for the expression 83553 - 7309 * 4308, we will first subtract 7309 from 83553, and then multiply the result by 4308.\n\nLet's do the calculation step by step:\n\n1. Subtract 7309 from 83553:\n   83553 - 7309 = 76244\n\n2. Multiply the result by 4308:\n   76244 * 4308 = 328396512\n\nTherefore, the value of the expression 83553 - 7309 * 4308, based on the new priorities, is [328396512]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 92330 + 44748 * 72997\n[Answer]: 10006282766\n\nBased on the new priorities, what is the value of 45297 + 94273 * 82778? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                11553325460.0,
+                222348,
+                "Based on the redefined priorities where '*' is treated as '+', we will perform the operations as if all the operators are addition.\n\nSo, the expression 45297 + 94273 * 82778 becomes:\n\n45297 + 94273 + 82778\n\nNow, we simply add all the numbers together:\n\n45297 + 94273 + 82778 = 222348\n\nTherefore, the value of the expression is [222348]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 50772 + 80103 * 84403\n[Answer]: 11046242625\n\nBased on the new priorities, what is the value of 73376 + 97854 * 2069? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                354274870.0,
+                103299,
+                "Based on the new priorities where '*' is treated as '+', we will perform the operations as if the '*' is a '+'.\n\nSo, the expression 73376 + 97854 * 2069 becomes 73376 + 97854 + 2069 when we replace '*' with '+'.\n\nNow, we simply add the numbers together:\n\n73376\n+ 97854\n+ 2069\n---------\n103299\n\nTherefore, the value of the expression 73376 + 97854 * 2069 with the new priorities is [103299]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 77693 / 17434 * 18720\n[Answer]: 0.00023805593059636883\n\nBased on the new priorities, what is the value of 47562 / 76436 * 50285? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 47562 / 76436 * 50285.\n\nFirst, we perform the multiplication:\n76436 * 50285 = 3843451860\n\nNow, we perform the division with the result of the multiplication:\n47562 / 3843451860\n\nCalculating this gives us:\n47562 / 3843451860 ≈ 0.0000123722\n\nSo the value of the expression 47562 / 76436 * 50285 with the new priorities is approximately [0.0000123722]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 53118 - 38584 * 90457\n[Answer]: 1314702038\n\nBased on the new priorities, what is the value of 44569 - 42558 * 72931? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                146664241.0,
+                146750241,
+                "Based on the new priorities where subtraction '-' has a higher priority than multiplication '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 44569 - 42558 * 72931, we first subtract 42558 from 44569:\n\n44569 - 42558 = 2011\n\nNow we multiply the result by 72931:\n\n2011 * 72931 = 146750241\n\nTherefore, the value of the expression 44569 - 42558 * 72931, with the new priorities, is [146750241]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 8429 + 73955 * 71621\n[Answer]: 5900424464\n\nBased on the new priorities, what is the value of 14825 + 40217 * 81587? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4490711654.0,
+                4491582134,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo for the expression 14825 + 40217 * 81587, we calculate it as follows:\n\n14825 + 40217 = 55042\n55042 * 81587 = 4491582134\n\nTherefore, the value of the expression is [4491582134]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 86660 + 52836 * 39316\n[Answer]: 5484424736\n\nBased on the new priorities, what is the value of 96258 + 56036 * 28439? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4331089066.0,
+                4331777266,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 96258 + 56036 * 28439, we first add 96258 and 56036:\n\n96258 + 56036 = 152294\n\nNow we multiply this sum by 28439:\n\n152294 * 28439 = 4331777266\n\nTherefore, the value of the expression is [4331777266]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 3483 - 74382 * 95468\n[Answer]: -6768585732\n\nBased on the new priorities, what is the value of 66343 - 87779 * 30099? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -645202164.0,
+                -645034764,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication, which is the opposite of the normal order of operations.\n\nSo, for the expression 66343 - 87779 * 30099, we will first subtract 87779 from 66343:\n\n66343 - 87779 = -21436\n\nNow, we will multiply this result by 30099:\n\n-21436 * 30099 = -645,034,764\n\nTherefore, the value of the expression 66343 - 87779 * 30099, with the new priorities, is [-645,034,764]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 41744 + 49408 * 42456\n[Answer]: 3869949312\n\nBased on the new priorities, what is the value of 26252 + 44713 * 45652? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3239694180.0,
+                116617,
+                "Based on the new priorities where '*' is treated as '+', we simply add all the numbers together instead of performing multiplication and addition in their usual order.\n\nSo, for the expression 26252 + 44713 * 45652, we treat it as 26252 + 44713 + 45652.\n\nNow, let's add these numbers together:\n\n26252\n+44713\n+45652\n-------\n116617\n\nThe value of the expression 26252 + 44713 * 45652 with the new priorities is [116617]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 56713 + 32592 * 93965\n[Answer]: 8391544325\n\nBased on the new priorities, what is the value of 77020 + 86409 * 12293? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2009032697.0,
+                175722,
+                "Based on the new priorities where '*' is treated as '+', we simply add all the numbers together instead of performing multiplication first.\n\nSo, the expression 77020 + 86409 * 12293 becomes 77020 + 86409 + 12293 when we treat '*' as '+'.\n\nNow, we add the numbers together:\n\n77020\n+ 86409\n+ 12293\n---------\n= 175722\n\nTherefore, the value of the expression is [175722]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 44259 - 17584 * 57012\n[Answer]: 1520795100\n\nBased on the new priorities, what is the value of 32622 - 73852 * 33213? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1369371990.0,
+                -1369819590,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nSo for the expression 32622 - 73852 * 33213, we will first subtract 73852 from 32622:\n\n32622 - 73852 = -41230\n\nNow we will multiply this result by 33213:\n\n-41230 * 33213 = -1369819590\n\nTherefore, the value of the expression 32622 - 73852 * 33213 is [-1369819590]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 38940 + 20578 * 64307\n[Answer]: 3827424026\n\nBased on the new priorities, what is the value of 3082 + 45139 * 35537? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1713629677.0,
+                83758,
+                "Based on the new priorities where '*' is treated as '+', we simply add all the numbers together instead of performing multiplication and addition in their usual order.\n\nSo, the expression 3082 + 45139 * 35537 becomes 3082 + 45139 + 35537.\n\nNow, let's add these numbers together:\n\n3082\n45139\n+ 35537\n---------\n83758\n\nThe value of the expression 3082 + 45139 * 35537 with the new priorities is [83758]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 85254 * 61877 - 11653\n[Answer]: 4281796896\n\nBased on the new priorities, what is the value of 73471 * 81966 - 21215? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4463436721.0,
+                4474570421,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 73471 * 81966 - 21215, we first calculate:\n\n81966 - 21215 = 60751\n\nNow we multiply the result by 73471:\n\n73471 * 60751 = [4474570421]"
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 37859 + 6264 * 93939\n[Answer]: 4144870497\n\nBased on the new priorities, what is the value of 57379 + 25182 * 73771? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6090607531.0,
+                156332,
+                "Based on the redefined priorities where '*' is treated as '+', we simply add all the numbers together:\n\n57379 + 25182 + 73771\n\nNow, let's add these numbers:\n\n57379\n25182\n73771\n-------\n156332\n\nSo the value of 57379 + 25182 * 73771 with the new priorities is [156332]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 57416 + 60658 * 55277\n[Answer]: 6526776498\n\nBased on the new priorities, what is the value of 1540 + 93511 * 77875? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7402096625.0,
+                7279855665,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo for the expression 1540 + 93511 * 77875, we calculate it as follows:\n\n1540 + 93511 * 77875\n= 1540 + (93511 * 77875)\n= 1540 + 7279854125\n= 7279855665\n\nTherefore, the value of the expression is [7279855665]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 97287 - 64572 * 37590\n[Answer]: 1229756850\n\nBased on the new priorities, what is the value of 80359 - 10893 * 1555? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                108019630.0,
+                108039830,
+                "Based on the redefined priorities where '*' now has the same priority as '-', we should perform the operations from left to right without considering the usual precedence of multiplication over subtraction.\n\nSo for the expression 80359 - 10893 * 1555, we will first subtract 10893 from 80359, and then multiply the result by 1555.\n\nLet's do the calculation step by step:\n\n1. 80359 - 10893 = 69466\n2. 69466 * 1555 = 108039830\n\nTherefore, the value of the expression 80359 - 10893 * 1555 is [108039830]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 47682 - 69516 * 74559\n[Answer]: -1627921206\n\nBased on the new priorities, what is the value of 885 - 29871 * 2265? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -65653290.0,
+                -65636590,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 885 - 29871 * 2265, we first calculate 885 - 29871:\n\n885 - 29871 = -28986\n\nNow we multiply this result by 2265:\n\n-28986 * 2265 = -65636590\n\nTherefore, the value of the expression 885 - 29871 * 2265, with the new priorities, is [-65636590]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 87966 + 62005 * 49418\n[Answer]: 7411266878\n\nBased on the new priorities, what is the value of 85221 + 3046 * 89752? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7922139784.0,
+                7923941984,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, we first add 85221 and 3046:\n\n85221 + 3046 = 88267\n\nNow we multiply the result by 89752:\n\n88267 * 89752 = 7923941984\n\nTherefore, the value of the expression 85221 + 3046 * 89752 with the new priorities is [7923941984]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 20665 / 57666 * 25975\n[Answer]: 1.3796217286182917e-05\n\nBased on the new priorities, what is the value of 10117 / 16142 * 62814? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 10117 / 16142 * 62814.\n\nFirst, we multiply 16142 by 62814:\n\n16142 * 62814 = 1014585648\n\nNow, we divide 10117 by the result of the multiplication:\n\n10117 / 1014585648 ≈ 9.9751184855e-06\n\nSo the value of the expression 10117 / 16142 * 62814 with the new priorities is approximately [9.9751184855e-06]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 70814 + 64217 * 35721\n[Answer]: 4823442351\n\nBased on the new priorities, what is the value of 7174 + 69611 * 5239? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                402276615.0,
+                82024,
+                "Based on the new priorities where '*' is treated as '+', we will simply add all the numbers together instead of performing multiplication and addition in their usual order.\n\nSo, the expression 7174 + 69611 * 5239 becomes 7174 + 69611 + 5239 when we treat '*' as '+'.\n\nNow, let's add these numbers together:\n\n7174 + 69611 + 5239 = 7174 + 69611 + 5239\n= 7174 + 74850\n= 82024\n\nThe value of the expression 7174 + 69611 * 5239 with the new priorities is [82024]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 92275 + 40262 * 39652\n[Answer]: 5255357124\n\nBased on the new priorities, what is the value of 15936 + 59907 * 76967? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5837408181.0,
+                5836552841,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we can simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo, for the expression 15936 + 59907 * 76967, we would calculate it as follows:\n\n15936 + 59907 = 75843\n75843 * 76967 = 5836552841\n\nTherefore, the value of the expression is [5836552841]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 31200 - 26305 * 56407\n[Answer]: 276112265\n\nBased on the new priorities, what is the value of 55353 - 67464 * 66608? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -806689488.0,
+                -806596968,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 55353 - 67464 * 66608, we first calculate 55353 - 67464:\n\n55353 - 67464 = -12111\n\nNow we multiply this result by 66608:\n\n-12111 * 66608 = -806596968\n\nTherefore, the value of the expression 55353 - 67464 * 66608, with the new priorities, is [-806596968]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 88606 * 91009 + 44175\n[Answer]: 11978113504\n\nBased on the new priorities, what is the value of 81358 * 59807 + 70374? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10591265798.0,
+                10589557378,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 81358 * 59807 + 70374, we first add 70374 to 59807:\n\n59807 + 70374 = 130181\n\nNow we multiply the result by 81358:\n\n81358 * 130181 = 10589557378\n\nTherefore, the value of the expression is [10589557378]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 24708 - 80188 * 77614\n[Answer]: -4306024720\n\nBased on the new priorities, what is the value of 25796 - 79429 * 26456? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1418914648.0,
+                -27177,
+                "Given the new priorities where '*' is now equivalent to '-', we should perform the multiplication operation as a subtraction instead. So the expression 25796 - 79429 * 26456 should be calculated as follows:\n\n25796 - (79429 - 26456)\n\nFirst, we subtract 26456 from 79429:\n\n79429 - 26456 = 52973\n\nNow we subtract the result from 25796:\n\n25796 - 52973 = -27177\n\nSo the value of the expression 25796 - 79429 * 26456 with the new priorities is [-27177]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 38981 + 74021 * 32075\n[Answer]: 3624539150\n\nBased on the new priorities, what is the value of 76119 + 3129 * 9889? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                783683472.0,
+                783517512,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, we first add 76119 and 3129:\n\n76119 + 3129 = 79248\n\nNow we multiply the result by 9889:\n\n79248 * 9889 = 783,517,512\n\nTherefore, the value of 76119 + 3129 * 9889 with the new priorities is [783,517,512]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 125 - 6478 * 79627\n[Answer]: -505870331\n\nBased on the new priorities, what is the value of 69833 - 79865 * 71273? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -715010736.0,
+                -715034976,
+                "Based on the new priorities where the subtraction operator '-' has a higher priority than the multiplication operator '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 69833 - 79865 * 71273, we first calculate 69833 - 79865:\n\n69833 - 79865 = -10032\n\nNow we multiply this result by 71273:\n\n-10032 * 71273 = -715,034,976\n\nTherefore, the value of the expression 69833 - 79865 * 71273, with the new priorities, is [-715,034,976]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 83264 * 2369 - 86762\n[Answer]: -7026898752\n\nBased on the new priorities, what is the value of 76304 * 42227 - 408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3190956976.0,
+                3191420736,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo, for the expression 76304 * 42227 - 408, we first calculate:\n\n408 (subtraction has higher priority)\n\nThen we multiply the result by 76304:\n\n76304 * (42227 - 408)\n\nNow, let's do the subtraction:\n\n42227 - 408 = 41819\n\nNow we multiply 76304 by 41819:\n\n76304 * 41819 = 3191420736\n\nSo the value of the expression 76304 * 42227 - 408 with the new priorities is [3191420736]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 15629 * 62953 + 17543\n[Answer]: 1258071984\n\nBased on the new priorities, what is the value of 27750 * 25703 + 7394? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                918441750.0,
+                918442250,
+                "Based on the new priority where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 27750 * 25703 + 7394, we first add 7394 to 25703:\n\n25703 + 7394 = 33097\n\nNow we multiply the result by 27750:\n\n27750 * 33097 = 918442250\n\nTherefore, the value of the expression 27750 * 25703 + 7394 with the new priorities is [918442250]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 9084 - 3535 * 9192\n[Answer]: 51006408\n\nBased on the new priorities, what is the value of 71314 - 62783 * 19466? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                166064446.0,
+                166045146,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nSo for the expression 71314 - 62783 * 19466, we will first subtract 62783 from 71314:\n\n71314 - 62783 = 8531\n\nNow we will multiply the result by 19466:\n\n8531 * 19466 = 166,045,146\n\nTherefore, the value of the expression 71314 - 62783 * 19466 is [166,045,146]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 1145 * 29973 - 87678\n[Answer]: -66072225\n\nBased on the new priorities, what is the value of 16764 * 94973 - 92808? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                36294060.0,
+                -7220342932,
+                "Based on the new priorities where subtraction '-' has a higher priority than multiplication '*', we first perform the subtraction before the multiplication.\n\nSo for the expression:\n\n16764 * 94973 - 92808\n\nWe first subtract 92808 from 16764:\n\n16764 - 92808 = -76044\n\nNow we multiply the result by 94973:\n\n-76044 * 94973 = -7220342932\n\nTherefore, the value of the expression is [-7220342932]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 26716 - 46127 * 51624\n[Answer]: -1002073464\n\nBased on the new priorities, what is the value of 28378 - 44739 * 83719? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1369726559.0,
+                -1369604359,
+                "Based on the new priorities where subtraction '-' has a higher priority than multiplication '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 28378 - 44739 * 83719, we first calculate the subtraction:\n\n28378 - 44739 = -16361\n\nNow we multiply the result by 83719:\n\n-16361 * 83719 = -1369604359\n\nTherefore, the value of the expression 28378 - 44739 * 83719 is [-1369604359]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 20232 + 57335 * 82887\n[Answer]: 6429295929\n\nBased on the new priorities, what is the value of 67395 + 48984 * 75013? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8729937927.0,
+                191392,
+                "Based on the new priorities where '*' is treated as '+', we simply add all the numbers together instead of performing multiplication first.\n\nSo, the expression 67395 + 48984 * 75013 becomes 67395 + 48984 + 75013 when we treat '*' as '+'.\n\nNow, we add the numbers together:\n\n67395\n+ 48984\n+ 75013\n---------\n191392\n\nThe value of the expression 67395 + 48984 * 75013 with the new priorities is [191392]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 80767 - 18195 * 77416\n[Answer]: 4844073952\n\nBased on the new priorities, what is the value of 43453 - 16736 * 10716? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                286299372.0,
+                286225572,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 43453 - 16736 * 10716, we first calculate 43453 - 16736:\n\n43453 - 16736 = 26717\n\nNow we multiply the result by 10716:\n\n26717 * 10716 = 286,225,572\n\nTherefore, the value of the expression 43453 - 16736 * 10716, with the new priorities, is [286,225,572]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 69848 / 81390 * 65391\n[Answer]: 1.3123961503930605e-05\n\nBased on the new priorities, what is the value of 99580 / 97529 * 53335? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 99580 / 97529 * 53335.\n\nFirst, we multiply 97529 by 53335:\n\n97529 * 53335 = 5202635155\n\nNow, we divide 99580 by the result of the multiplication:\n\n99580 / 5202635155 ≈ 1.9142857142857143e-05\n\nSo the value of the expression 99580 / 97529 * 53335 with the new priorities is approximately [1.9142857142857143e-05]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 67841 * 87049 - 76508\n[Answer]: 715111981\n\nBased on the new priorities, what is the value of 37111 * 20305 - 56149? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1330206684.0,
+                -386469690,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 37111 * 20305 - 56149, we first calculate:\n\n56149 subtracted from 37111, which is:\n\n37111 - 56149 = -19038\n\nNow we multiply the result by 20305:\n\n-19038 * 20305 = -386469690\n\nSo the value of the expression 37111 * 20305 - 56149 with the new priorities is [-386469690]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 35821 * 95603 - 88178\n[Answer]: 265970925\n\nBased on the new priorities, what is the value of 70400 * 68319 - 26487? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2944972800.0,
+                2944764800,
+                "Given the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 70400 * 68319 - 26487, we first calculate:\n\n68319 - 26487 = 41832\n\nNow we multiply the result by 70400:\n\n70400 * 41832 = 2944764800\n\nTherefore, the value of the expression 70400 * 68319 - 26487 with the new priorities is [2944764800]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 66475 + 36614 * 16349\n[Answer]: 1685402061\n\nBased on the new priorities, what is the value of 48189 + 51 * 48875? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2357730000.0,
+                2358120000,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo, for the expression 48189 + 51 * 48875, we would calculate it as follows:\n\n48189 + 51 * 48875\n= (48189 + 51) * 48875\n= 48240 * 48875\n= 2358120000\n\nTherefore, the value of the expression is [2358120000]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 21807 * 49212 + 30748\n[Answer]: 1743687720\n\nBased on the new priorities, what is the value of 17157 * 62838 + 55382? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2028300540.0,
+                4556688242,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 17157 * 62838 + 55382, we first add 55382 to 17157:\n\n17157 + 55382 = 72539\n\nNow we multiply the result by 62838:\n\n72539 * 62838 = [4556688242]"
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 12360 / 90265 * 79514\n[Answer]: 1.722088564448456e-06\n\nBased on the new priorities, what is the value of 53990 / 57255 * 73652? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 53990 / 57255 * 73652.\n\nFirst, we multiply 57255 by 73652:\n57255 * 73652 = 4218128260\n\nNow, we divide 53990 by the result of the multiplication:\n53990 / 4218128260 ≈ 1.279775e-05\n\nSo the value of the expression 53990 / 57255 * 73652 with the new priorities is approximately [1.279775e-05]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 53153 + 70748 * 8456\n[Answer]: 1047706856\n\nBased on the new priorities, what is the value of 43896 + 78235 * 23940? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2923816140.0,
+                146071,
+                "Based on the new priorities where '*' is treated as '+', we will simply add all the numbers together instead of performing multiplication and addition in their usual order.\n\nSo, the expression 43896 + 78235 * 23940 will be calculated as:\n\n43896 + 78235 + 23940\n\nNow, let's add these numbers together:\n\n43896\n+ 78235\n+ 23940\n---------\n146071\n\nTherefore, the value of the expression 43896 + 78235 * 23940 with the new priorities is [146071]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 86047 + 42419 * 20009\n[Answer]: 2570476194\n\nBased on the new priorities, what is the value of 72170 + 77913 * 46406? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6964751698.0,
+                6963452748,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, we first add 72170 and 77913:\n\n72170 + 77913 = 150083\n\nNow we multiply this sum by 46406:\n\n150083 * 46406 = 6963452748\n\nTherefore, the value of the expression 72170 + 77913 * 46406 with the new priorities is [6963452748]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 59421 / 85978 * 31137\n[Answer]: 2.2196058010129932e-05\n\nBased on the new priorities, what is the value of 85266 / 89305 * 64826? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 85266 / 89305 * 64826, we first calculate 89305 * 64826.\n\n89305 * 64826 = 5789627950\n\nNow we perform the division:\n\n85266 / 5789627950 = 1.472622760e-05\n\nTherefore, the value of the expression 85266 / 89305 * 64826 with the new priorities is approximately [1.472622760e-05]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 45608 + 1899 * 85640\n[Answer]: 4068499480\n\nBased on the new priorities, what is the value of 52088 + 55747 * 27233? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2936670555.0,
+                2936959055,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo, we first add 52088 and 55747:\n\n52088 + 55747 = 107835\n\nNow we multiply the result by 27233:\n\n107835 * 27233 = 2936959055\n\nTherefore, the value of 52088 + 55747 * 27233 with the new priorities is [2936959055]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 64278 - 13230 * 75029\n[Answer]: 3830080392\n\nBased on the new priorities, what is the value of 60138 - 26273 * 54158? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1834060670.0,
+                1833779070,
+                "Based on the redefined priorities where '*' now has the same priority as '-', we should perform the operations from left to right without considering the usual precedence of multiplication over subtraction.\n\nSo for the expression 60138 - 26273 * 54158, we would first subtract 26273 from 60138 and then multiply the result by 54158.\n\nLet's do the calculation step by step:\n\nStep 1: Subtract 26273 from 60138\n60138 - 26273 = 33865\n\nStep 2: Multiply the result by 54158\n33865 * 54158 = 1833779070\n\nTherefore, the value of the expression 60138 - 26273 * 54158, based on the new priorities, is [1833779070]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 9937 - 89151 * 87243\n[Answer]: -6910867002\n\nBased on the new priorities, what is the value of 88628 - 34576 * 86133? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4655660916.0,
+                4655029656,
+                "Based on the new priorities where '*' is redefined to have the same priority as '-', we should perform the operations from left to right without considering the usual precedence of multiplication over subtraction.\n\nSo for the expression 88628 - 34576 * 86133, we would first subtract 34576 from 88628, and then multiply the result by 86133.\n\nLet's do the calculations step by step:\n\n1. 88628 - 34576 = 54052\n2. 54052 * 86133 = 4655029656\n\nTherefore, the value of the expression 88628 - 34576 * 86133 is [4655029656]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 6336 - 32870 * 36724\n[Answer]: -974434616\n\nBased on the new priorities, what is the value of 32755 - 91158 * 11415? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -666670245.0,
+                -69818,
+                "Given the new priorities where '*' is now equivalent to '-', we will perform the operations in the order they appear since both '-' and '*' now have the same priority level.\n\nSo, the expression 32755 - 91158 * 11415 will be calculated as follows:\n\n32755 - 91158 = -58403 (since 32755 - 91158 = -58403)\n\nNow, we take the result of the first operation and subtract the next number:\n\n-58403 - 11415 = -69818 (since -58403 - 11415 = -69818)\n\nTherefore, the value of the expression 32755 - 91158 * 11415, based on the new priorities, is [-69818]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 72803 * 74201 + 31392\n[Answer]: 7687487179\n\nBased on the new priorities, what is the value of 523 * 54652 + 21380? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                39764736.0,
+                39749776,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 523 * 54652 + 21380, we first add 21380 to 54652:\n\n54652 + 21380 = 76032\n\nNow we multiply the result by 523:\n\n523 * 76032 = 39749776\n\nTherefore, the value of the expression 523 * 54652 + 21380 with the new priorities is [39749776]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 58847 - 70400 * 9552\n[Answer]: -110354256\n\nBased on the new priorities, what is the value of 61519 - 22659 * 78698? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3058204280.0,
+                3059319240,
+                "Based on the new priorities where '*' is now equivalent to '-', the expression should be evaluated as a subtraction first, rather than multiplication. So, we will subtract first and then multiply.\n\nThe expression is:\n\n61519 - 22659 * 78698\n\nFirst, we subtract 22659 from 61519:\n\n61519 - 22659 = 38860\n\nNow, we multiply the result by 78698:\n\n38860 * 78698\n\nCalculating this gives:\n\n38860 * 78698 = 3059319240\n\nSo the value of the expression 61519 - 22659 * 78698 with the new priorities is [3059319240]."
+            ]
+        ]
+    },
+    "/": {
+        "accuracy": "40/50=0.8",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 45376 / 60588 * 20007\n[Answer]: 3.743325737490525e-05\n\nBased on the new priorities, what is the value of 27885 / 48114 * 32061? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 27885 / 48114 * 32061.\n\nFirst, we multiply 48114 and 32061:\n\n48114 * 32061 = 1542040794\n\nNow, we divide 27885 by the result of the multiplication:\n\n27885 / 1542040794 ≈ 1.808622e-05\n\nSo the value of the expression 27885 / 48114 * 32061 with the new priorities is approximately [1.808622e-05]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 46671 - 33895 / 8838\n[Answer]: 1.4455759221543336\n\nBased on the new priorities, what is the value of 93150 - 27949 / 77016? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Given the new priorities where division ('/') has the same priority as subtraction ('-'), we will perform the operations from left to right without considering the usual precedence of division over subtraction.\n\nSo for the expression 93150 - 27949 / 77016, we will first subtract 27949 from 93150 and then divide the result by 77016.\n\nLet's do the calculation step by step:\n\n1. Subtract 27949 from 93150:\n   93150 - 27949 = 65201\n\n2. Divide the result by 77016:\n   65201 / 77016 = 0.846394233576642\n\nTherefore, the value of the expression 93150 - 27949 / 77016, based on the new priorities, is approximately [0.846394233576642]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 95459 / 44125 * 80131\n[Answer]: 2.6998000406063117e-05\n\nBased on the new priorities, what is the value of 45136 / 89100 * 7278? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 45136 / 89100 * 7278.\n\nFirst, we multiply:\n89100 * 7278 = 648438600\n\nThen, we divide 45136 by the result of the multiplication:\n45136 / 648438600\n\nNow, let's calculate the value:\n45136 / 648438600 ≈ 0.0000696\n\nSo, the value of the expression 45136 / 89100 * 7278 with the new priorities is approximately [0.0000696]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 43913 / 3537 * 56528\n[Answer]: 0.00021963139896453496\n\nBased on the new priorities, what is the value of 20966 / 36873 * 23386? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 20966 / 36873 * 23386.\n\nFirst, we multiply 36873 by 23386:\n36873 * 23386 = 862,373,258\n\nNow, we divide 20966 by the result of the multiplication:\n20966 / 862,373,258 ≈ 0.000024301\n\nTherefore, the value of the expression 20966 / 36873 * 23386 with the new priorities is approximately [0.000024301]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 92720 / 86872 + 82767\n[Answer]: 0.5465724273309793\n\nBased on the new priorities, what is the value of 60808 / 5917 + 1031? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8.8,
+                10.4,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 1031 to 60808:\n\n60808 + 1031 = 61839\n\nNow we divide this sum by 5917:\n\n61839 / 5917 ≈ 10.448\n\nTherefore, the value of the expression 60808 / 5917 + 1031 with the new priorities is approximately [10.448]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 36369 / 35285 * 90917\n[Answer]: 1.1336947651828912e-05\n\nBased on the new priorities, what is the value of 62849 / 53484 * 70897? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 62849 / 53484 * 70897, we first calculate 53484 * 70897.\n\n53484 * 70897 = 3793064718\n\nNow we divide 62849 by the result of the multiplication:\n\n62849 / 3793064718 ≈ 1.656789e-05\n\nTherefore, the value of the expression 62849 / 53484 * 70897 with the new priorities is approximately [1.656789e-05]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 52075 / 34961 * 80831\n[Answer]: 1.8427545004381175e-05\n\nBased on the new priorities, what is the value of 29820 / 66536 * 29066? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                13022.0,
+                "Given the new priorities where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 29820 / 66536 * 29066.\n\nFirst, we multiply 29820 by 29066:\n29820 * 29066 = 866631720\n\nNow, we divide the result by 66536:\n866631720 / 66536 ≈ 13021.999548\n\nSo the value of the expression 29820 / 66536 * 29066 with the new priorities is approximately [13021.999548]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 12748 - 94118 / 42260\n[Answer]: -1.9254614292475154\n\nBased on the new priorities, what is the value of 60664 - 17096 / 54790? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Given the new priorities where division ('/') has the same priority as subtraction ('-'), we should perform the operations from left to right without considering the usual precedence of division over subtraction.\n\nSo for the expression 60664 - 17096 / 54790, we will first subtract 17096 from 60664, and then divide the result by 54790.\n\nLet's do the calculation step by step:\n\nStep 1: Subtract 17096 from 60664\n60664 - 17096 = 43568\n\nStep 2: Divide the result by 54790\n43568 / 54790 = 0.794927373568287\n\nTherefore, the value of the expression 60664 - 17096 / 54790, based on the new priorities, is approximately [0.794927373568287]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 96574 / 949 + 94417\n[Answer]: 1.0126669882348007\n\nBased on the new priorities, what is the value of 41741 / 89382 + 25538? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 41741 / 89382 + 25538, we first calculate the sum of 89382 and 25538.\n\n89382 + 25538 = 114920\n\nNow we divide 41741 by the result of the addition:\n\n41741 / 114920\n\nLet's calculate the division:\n\n41741 / 114920 ≈ 0.363235\n\nSo the value of the expression 41741 / 89382 + 25538 with the new priorities is approximately [0.363235]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: 37094 + 15532 / 30079\n[Answer]: 1.7495927391203165\n\nBased on the new priorities, what is the value of 32052 + 3729 / 78733? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                114514,
+                "Based on the redefined priorities where '/' is treated as '+', we will perform the operations as if both '+' and '/' have the same priority level. This means we will calculate from left to right without considering the usual priority of division over addition.\n\nSo for the expression 32052 + 3729 / 78733, we will first add 32052 and 3729, and then add the result to 78733.\n\n32052 + 3729 = 35781\n\nNow we add this result to 78733:\n\n35781 + 78733 = 114514\n\nTherefore, the value of the expression 32052 + 3729 / 78733, with the redefined priorities, is [114514]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 73255 / 22467 * 66418\n[Answer]: 4.909151031866689e-05\n\nBased on the new priorities, what is the value of 29459 / 42391 * 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 29459 / 42391 * 17.\n\nFirst, we multiply 42391 by 17:\n42391 * 17 = 720847\n\nNow, we divide 29459 by the result of the multiplication:\n29459 / 720847\n\nLet's calculate the value:\n29459 / 720847 ≈ 0.040875\n\nSo the value of the expression 29459 / 42391 * 17 with the new priorities is approximately [0.040875]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 34376 / 6678 * 24319\n[Answer]: 0.00021167190249210907\n\nBased on the new priorities, what is the value of 44111 / 89498 * 39115? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 44111 / 89498 * 39115.\n\nFirst, we multiply 89498 and 39115:\n\n89498 * 39115 = 3500870470\n\nNow, we divide 44111 by the result of the multiplication:\n\n44111 / 3500870470\n\nPerforming the division gives us:\n\n44111 / 3500870470 ≈ 0.000012598\n\nSo the value of the expression 44111 / 89498 * 39115 with the new priorities is approximately [0.000012598]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 5273 / 8349 - 74831\n[Answer]: -0.07931470172377486\n\nBased on the new priorities, what is the value of 74519 / 43898 - 14373? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.5,
+                2.5,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 74519 / 43898 - 14373, we first calculate:\n\n14373 (subtraction is done first due to the new priority)\n\nThen we perform the division:\n\n74519 / (43898 - 14373)\n\nNow we calculate 43898 - 14373:\n\n43898 - 14373 = 29525\n\nNow we divide 74519 by the result:\n\n74519 / 29525 ≈ 2.524\n\nSo the value of the expression 74519 / 43898 - 14373 with the new priorities is approximately [2.524]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 21175 / 37360 - 67905\n[Answer]: -0.6932394827303978\n\nBased on the new priorities, what is the value of 36800 / 8661 - 65115? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.7,
+                -0.7,
+                "Given the new priority where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo, for the expression 36800 / 8661 - 65115, we first calculate 8661 - 65115:\n\n8661 - 65115 = -56454\n\nNow we divide 36800 by the result of the subtraction:\n\n36800 / (-56454) = -0.6517985611510791\n\nTherefore, the value of the expression 36800 / 8661 - 65115 with the new priorities is approximately [-0.6517985611510791]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 31288 - 5519 / 76805\n[Answer]: 0.33551201093678795\n\nBased on the new priorities, what is the value of 45462 - 51014 / 60334? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.1,
+                -0.1,
+                "Based on the redefined priorities where '/' has the same priority as '-', we should perform the operations from left to right without considering the usual precedence of division over subtraction.\n\nSo for the expression 45462 - 51014 / 60334, we first perform the subtraction and then the division:\n\n45462 - 51014 = -5552\n\nNow we divide this result by 60334:\n\n-5552 / 60334 = -0.092005\n\nTherefore, the value of the expression is approximately [-0.092005]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 22200 + 63233 / 43935\n[Answer]: 1.9445316945487652\n\nBased on the new priorities, what is the value of 80360 + 28218 / 47221? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.3,
+                2.3,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 80360 and 28218:\n\n80360 + 28218 = 108578\n\nNow we divide this sum by 47221:\n\n108578 / 47221 ≈ 2.299988\n\nTherefore, the value of the expression 80360 + 28218 / 47221 with the new priorities is approximately [2.299988]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 54624 / 82184 * 11744\n[Answer]: 5.659527594225332e-05\n\nBased on the new priorities, what is the value of 71451 / 61212 * 92323? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 71451 / 61212 * 92323.\n\nFirst, we multiply 61212 and 92323:\n\n61212 * 92323 = 565,148,1916\n\nNow, we divide 71451 by the result of the multiplication:\n\n71451 / 565,148,1916 ≈ 0.000126438\n\nTherefore, the value of the expression 71451 / 61212 * 92323 with the new priorities is approximately [0.000126438]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 69945 / 46503 * 57562\n[Answer]: 2.613002518853735e-05\n\nBased on the new priorities, what is the value of 58097 / 93736 * 35699? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 58097 / 93736 * 35699.\n\nFirst, we multiply 93736 by 35699:\n93736 * 35699 = 3346487264\n\nNow, we divide 58097 by the result of the multiplication:\n58097 / 3346487264 ≈ 1.736025957e-5\n\nSo the value of the expression 58097 / 93736 * 35699 with the new priorities is approximately [1.736025957e-5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 92801 + 63161 / 96884\n[Answer]: 1.6097807687543866\n\nBased on the new priorities, what is the value of 46319 + 62145 / 79408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.4,
+                1.4,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 46319 and 62145:\n\n46319 + 62145 = 108464\n\nNow we divide this sum by 79408:\n\n108464 / 79408 ≈ 1.3661971830985915\n\nTherefore, the value of the expression 46319 + 62145 / 79408 with the new priorities is approximately [1.3661971830985915]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 47152 - 10087 / 90047\n[Answer]: 0.41161837706975246\n\nBased on the new priorities, what is the value of 44345 - 53856 / 44960? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.2,
+                -0.2,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 44345 - 53856 / 44960, we first calculate 44345 - 53856, and then divide the result by 44960.\n\n44345 - 53856 = -9511\n\nNow we divide -9511 by 44960:\n\n-9511 / 44960 = -0.21161837706975246\n\nTherefore, the value of the expression 44345 - 53856 / 44960, based on the new priorities, is [-0.21161837706975246]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 86455 - 30104 / 42050\n[Answer]: 1.3400951248513675\n\nBased on the new priorities, what is the value of 32537 - 88954 / 93077? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.6,
+                -0.6,
+                "Given the new priorities where '/' is redefined to have the same priority as '-', we should perform the operations from left to right without considering the usual precedence of division over subtraction.\n\nSo for the expression 32537 - 88954 / 93077, we will first do the subtraction and then the division.\n\nFirst, subtract 88954 from 32537:\n32537 - 88954 = -56417\n\nNow, divide this result by 93077:\n-56417 / 93077 = -0.6060257585744926\n\nTherefore, the value of the expression 32537 - 88954 / 93077 is approximately [-0.6060257585744926]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 80698 / 2565 * 51193\n[Answer]: 0.0006145607519973054\n\nBased on the new priorities, what is the value of 88229 / 34622 * 55402? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 88229 / 34622 * 55402.\n\nFirst, we multiply 34622 by 55402:\n34622 * 55402 = 1917812844\n\nNow, we divide 88229 by the result of the multiplication:\n88229 / 1917812844 ≈ 0.000046006\n\nTherefore, the value of the expression 88229 / 34622 * 55402 with the new priorities is approximately [0.000046006]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 24663 + 75906 / 97752\n[Answer]: 1.028817824699239\n\nBased on the new priorities, what is the value of 34008 + 79635 / 84954? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                1.3,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 34008 and 79635:\n\n34008 + 79635 = 113643\n\nNow we divide this sum by 84954:\n\n113643 / 84954 = 1.337787\n\nTherefore, the value of the expression 34008 + 79635 / 84954 with the new priorities is approximately [1.337787]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 94167 - 80774 / 99159\n[Answer]: 0.1350659042547827\n\nBased on the new priorities, what is the value of 42482 - 38300 / 2996? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.4,
+                1.4,
+                "Given the new priorities where subtraction '-' has a higher priority than division '/', we first perform the subtraction before the division.\n\nSo for the expression 42482 - 38300 / 2996, we first calculate 42482 - 38300, and then divide the result by 2996.\n\n42482 - 38300 = 4182\n\nNow we divide 4182 by 2996:\n\n4182 / 2996 ≈ 1.3958611495327103\n\nTherefore, the value of the expression 42482 - 38300 / 2996, with the new priorities, is approximately [1.3958611495327103]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: 90318 + 33715 / 30018\n[Answer]: 4.131954160836831\n\nBased on the new priorities, what is the value of 44040 + 46244 / 74640? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.2,
+                164924,
+                "Given the new priorities where '/' is treated as '+', we will perform the operations as if both '+' and '/' are of the same priority level and will be executed from left to right.\n\nSo for the expression 44040 + 46244 / 74640, we will first add 44040 and 46244, and then add the result to 74640.\n\nLet's do the calculations:\n\n44040 + 46244 = 90284\n\nNow we add this result to 74640:\n\n90284 + 74640 = 164924\n\nTherefore, the value of the expression 44040 + 46244 / 74640 with the new priorities is [164924]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 89024 / 35525 * 56107\n[Answer]: 4.466383078466728e-05\n\nBased on the new priorities, what is the value of 64452 / 69051 * 3374? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 64452 / 69051 * 3374.\n\nFirst, we multiply:\n69051 * 3374 = 232981674\n\nThen, we divide:\n64452 / 232981674\n\nNow, let's calculate the division:\n64452 / 232981674 ≈ 0.000276502\n\nSo, the value of the expression 64452 / 69051 * 3374 with the new priorities is approximately [0.000276502]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 20347 / 68092 + 62486\n[Answer]: 0.15582257348098455\n\nBased on the new priorities, what is the value of 46646 / 56609 + 33014? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                1.4,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 46646 / 56609 + 33014, we first add 33014 to 46646:\n\n46646 + 33014 = 79660\n\nNow we divide this sum by 56609:\n\n79660 / 56609 ≈ 1.407243\n\nTherefore, the value of the expression 46646 / 56609 + 33014 with the new priorities is approximately [1.407243]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 85690 - 36088 / 7364\n[Answer]: 6.73574144486692\n\nBased on the new priorities, what is the value of 36218 - 60780 / 72829? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.3,
+                -0.3,
+                "Given the new priorities where division ('/') has the same priority as subtraction ('-'), we will perform the operations from left to right without considering the usual precedence of division over subtraction.\n\nSo for the expression 36218 - 60780 / 72829, we will first subtract 60780 from 36218 and then divide the result by 72829.\n\nLet's do the calculation step by step:\n\n1. 36218 - 60780 = -24562\n2. -24562 / 72829 = -0.337238\n\nTherefore, the value of the expression 36218 - 60780 / 72829 is approximately [-0.337238]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 65724 - 41881 / 67356\n[Answer]: 0.35398479719698317\n\nBased on the new priorities, what is the value of 86099 - 26993 / 1652? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                35.8,
+                35.8,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo, for the expression 86099 - 26993 / 1652, we first calculate 86099 - 26993, and then divide the result by 1652.\n\n86099 - 26993 = 59106\n\nNow we divide 59106 by 1652:\n\n59106 / 1652 ≈ 35.778450665\n\nTherefore, the value of the expression 86099 - 26993 / 1652, based on the new priorities, is approximately [35.778450665]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 91586 / 7217 * 30492\n[Answer]: 0.0004161850496892758\n\nBased on the new priorities, what is the value of 7122 / 14522 * 3409? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 7122 / 14522 * 3409, we first calculate 14522 * 3409.\n\n14522 * 3409 = 49491198\n\nNow we perform the division:\n\n7122 / 49491198 = 0.0001439119182746876\n\nTherefore, the value of the expression is approximately [0.0001439119182746876]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 40009 / 30892 - 61420\n[Answer]: -1.3105673480083857\n\nBased on the new priorities, what is the value of 52013 / 37693 - 29285? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.2,
+                6.2,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo, for the expression 52013 / 37693 - 29285, we first calculate 37693 - 29285:\n\n37693 - 29285 = 8408\n\nNow we divide 52013 by the result of the subtraction:\n\n52013 / 8408 ≈ 6.186\n\nTherefore, the value of the expression 52013 / 37693 - 29285 with the new priorities is approximately [6.186]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 54808 + 8379 / 46441\n[Answer]: 1.3605865506772032\n\nBased on the new priorities, what is the value of 20636 + 88917 / 40122? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.7,
+                2.7,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 20636 and 88917:\n\n20636 + 88917 = 109553\n\nNow we divide this sum by 40122:\n\n109553 / 40122 ≈ 2.730\n\nTherefore, the value of the expression 20636 + 88917 / 40122 with the new priorities is approximately [2.730]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 79223 / 95456 - 34183\n[Answer]: 1.2929512183180194\n\nBased on the new priorities, what is the value of 13256 / 65628 - 60795? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.7,
+                2.7,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 13256 / 65628 - 60795, we first calculate 65628 - 60795:\n\n65628 - 60795 = 4833\n\nNow we divide 13256 by the result of the subtraction:\n\n13256 / 4833 ≈ 2.742857142857143\n\nTherefore, the value of the expression is approximately [2.742857142857143]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 21235 / 70690 + 58108\n[Answer]: 0.16487057252441809\n\nBased on the new priorities, what is the value of 60767 / 85356 + 53152? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                1.3,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 60767 / 85356 + 53152, we first add 53152 to 60767:\n\n60767 + 53152 = 113919\n\nNow we divide this sum by 85356:\n\n113919 / 85356 = 1.334992041\n\nTherefore, the value of the expression 60767 / 85356 + 53152 with the new priorities is approximately [1.334992041]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 90384 / 82875 + 47106\n[Answer]: 0.6953631684630831\n\nBased on the new priorities, what is the value of 61393 / 22979 + 68315? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.7,
+                0.7,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 61393 / 22979 + 68315, we first add 22979 and 68315:\n\n22979 + 68315 = 91294\n\nNow we divide 61393 by the result of the addition:\n\n61393 / 91294\n\nCalculating this gives us:\n\n61393 / 91294 ≈ 0.672528\n\nTherefore, the value of the expression 61393 / 22979 + 68315 with the new priorities is approximately [0.672528]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 27771 / 20367 - 82586\n[Answer]: -0.4463427570356322\n\nBased on the new priorities, what is the value of 29770 / 83573 - 1060? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Given the new priority where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo, for the expression 29770 / 83573 - 1060, we first calculate 83573 - 1060.\n\n83573 - 1060 = 82513\n\nNow we perform the division:\n\n29770 / 82513\n\nTo get the decimal result, we divide 29770 by 82513:\n\n29770 / 82513 ≈ 0.360752688172043\n\nSo the value of the expression 29770 / 83573 - 1060 with the new priorities is approximately [0.360752688172043]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 21233 / 93326 * 95673\n[Answer]: 2.378040875642751e-06\n\nBased on the new priorities, what is the value of 85060 / 59772 * 52160? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 85060 / 59772 * 52160.\n\nFirst, we multiply 59772 by 52160:\n\n59772 * 52160 = 3117035520\n\nNow, we divide 85060 by the result of the multiplication:\n\n85060 / 3117035520 ≈ 0.000027289\n\nSo, the value of the expression 85060 / 59772 * 52160 with the new priorities is approximately [0.000027289]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 34680 / 86419 * 2213\n[Answer]: 0.0001813378399934823\n\nBased on the new priorities, what is the value of 19453 / 36166 * 44458? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 19453 / 36166 * 44458, we first calculate 36166 * 44458.\n\nMultiplying 36166 by 44458 gives us:\n36166 * 44458 = 1608455408\n\nNow we divide 19453 by the result of the multiplication:\n19453 / 1608455408\n\nPerforming the division gives us:\n19453 / 1608455408 ≈ 0.000012095\n\nTherefore, the value of the expression 19453 / 36166 * 44458 with the new priorities is approximately [0.000012095]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 51420 / 64310 * 97675\n[Answer]: 8.185969889178572e-06\n\nBased on the new priorities, what is the value of 25245 / 130 * 17664? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 25245 / 130 * 17664, we first calculate 130 * 17664.\n\n130 * 17664 = 2296320\n\nNow we divide 25245 by the result of the multiplication:\n\n25245 / 2296320 ≈ 0.010995\n\nTherefore, the value of the expression 25245 / 130 * 17664 with the new priorities is approximately [0.010995]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 25300 + 82907 / 32604\n[Answer]: 3.318825910931174\n\nBased on the new priorities, what is the value of 37521 + 98393 / 11252? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                12.1,
+                12.1,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 37521 + 98393 / 11252, we first add 37521 and 98393:\n\n37521 + 98393 = 135914\n\nNow we divide this sum by 11252:\n\n135914 / 11252 ≈ 12.080\n\nTherefore, the value of the expression 37521 + 98393 / 11252 with the new priorities is approximately [12.080]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 27535 / 86488 * 14619\n[Answer]: 2.177767741037991e-05\n\nBased on the new priorities, what is the value of 63688 / 71391 * 69798? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                622.5,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 63688 / 71391 * 69798.\n\nFirst, we perform the multiplication:\n69798 * 63688 = 4445093104\n\nNow, we divide the result by 71391:\n4445093104 / 71391 ≈ 622.499\n\nTherefore, the value of the expression 63688 / 71391 * 69798 with the new priorities is approximately [622.499]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 26943 - 51030 / 20872\n[Answer]: -1.1540341126868532\n\nBased on the new priorities, what is the value of 35312 - 27981 / 88114? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 35312 - 27981 / 88114, we first calculate 35312 - 27981, and then divide the result by 88114.\n\n35312 - 27981 = 7331\n\nNow we divide 7331 by 88114:\n\n7331 / 88114 ≈ 0.083183\n\nTherefore, the value of the expression 35312 - 27981 / 88114 with the new priorities is approximately [0.083183]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: 55388 + 89162 / 52525\n[Answer]: 2.7520228462636838\n\nBased on the new priorities, what is the value of 77119 + 84970 / 34850? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.7,
+                162091.4,
+                "Based on the redefined priorities where '/' is treated as '+', we will perform the operations as if both '+' and '/' have the same priority level. This means we will calculate from left to right without considering the usual priority of division over addition.\n\nSo for the expression 77119 + 84970 / 34850, we will first add 77119 and 84970, and then add the result to the division of 84970 by 34850.\n\nFirst, we add 77119 and 84970:\n77119 + 84970 = 162089\n\nNext, we divide 84970 by 34850:\n84970 / 34850 = 2.437878787878788\n\nNow, we add the two results together:\n162089 + 2.437878787878788 = 162091.43787878788\n\nTherefore, the value of the expression 77119 + 84970 / 34850, based on the new priorities, is [162091.43787878788]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 82128 / 71039 + 56865\n[Answer]: 0.6421065799349512\n\nBased on the new priorities, what is the value of 63558 / 78550 + 72347? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                1.7,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 63558 / 78550 + 72347, we first add 72347 to 63558:\n\n63558 + 72347 = 135905\n\nNow we divide this sum by 78550:\n\n135905 / 78550 = 1.730\n\nTherefore, the value of the expression 63558 / 78550 + 72347 with the new priorities is approximately [1.730]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 98734 / 51166 * 68845\n[Answer]: 2.8029339320730733e-05\n\nBased on the new priorities, what is the value of 35458 / 97782 * 76208? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                276.3,
+                "Given the new priority where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 35458 / 97782 * 76208.\n\nFirst, we multiply 35458 by 76208:\n35458 * 76208 = 2702796784\n\nNow, we divide the result by 97782:\n2702796784 / 97782 ≈ 276.345\n\nSo, the value of the expression 35458 / 97782 * 76208 with the new priorities is approximately [276.345]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 59280 - 98937 / 72834\n[Answer]: -0.544484718675344\n\nBased on the new priorities, what is the value of 33559 - 81443 / 88769? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.5,
+                -0.5,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 33559 - 81443 / 88769, we first calculate 33559 - 81443:\n\n33559 - 81443 = -47884\n\nNow we divide this result by 88769:\n\n-47884 / 88769 = -0.539501\n\nTherefore, the value of the expression 33559 - 81443 / 88769 with the new priorities is approximately [-0.539501]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 30744 / 78500 * 80606\n[Answer]: 4.8587364724947375e-06\n\nBased on the new priorities, what is the value of 79190 / 9811 * 4289? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 79190 / 9811 * 4289, we first calculate 9811 * 4289.\n\n9811 * 4289 = 42084579\n\nNow we divide 79190 by the result of the multiplication:\n\n79190 / 42084579 = 0.001882\n\nTherefore, the value of the expression 79190 / 9811 * 4289 with the new priorities is approximately [0.001882]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 71046 / 63625 - 61037\n[Answer]: 27.452086553323028\n\nBased on the new priorities, what is the value of 38532 / 7417 - 53601? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.8,
+                -0.8,
+                "Given the new priorities where subtraction '-' has a higher priority than division '/', we need to perform the subtraction before the division in the expression 38532 / 7417 - 53601.\n\nFirst, we subtract 53601 from 7417:\n7417 - 53601 = -46184\n\nNow, we divide 38532 by the result of the subtraction:\n38532 / (-46184) = -0.8342245989304813\n\nSo the value of the expression 38532 / 7417 - 53601 with the new priorities is approximately [-0.8342245989304813]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 20611 / 7345 * 35801\n[Answer]: 7.838123562878372e-05\n\nBased on the new priorities, what is the value of 71594 / 88079 * 63393? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where multiplication '*' has a higher priority than division '/', we need to perform the multiplication before the division in the expression 71594 / 88079 * 63393.\n\nFirst, we multiply 88079 and 63393:\n\n88079 * 63393 = 558,474,507\n\nNow, we divide 71594 by the result of the multiplication:\n\n71594 / 558,474,507 ≈ 0.000128224\n\nSo the value of the expression 71594 / 88079 * 63393 with the new priorities is approximately [0.000128224]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 42137 + 95624 / 91773\n[Answer]: 1.501105989779129\n\nBased on the new priorities, what is the value of 16673 + 15820 / 27115? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.2,
+                1.2,
+                "Given the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 16673 + 15820 / 27115, we first add 16673 and 15820:\n\n16673 + 15820 = 32493\n\nNow we divide this sum by 27115:\n\n32493 / 27115 ≈ 1.1985\n\nTherefore, the value of the expression 16673 + 15820 / 27115 with the new priorities is approximately [1.1985]."
+            ]
+        ]
+    }
+}

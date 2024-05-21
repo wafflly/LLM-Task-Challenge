@@ -1,0 +1,1226 @@
+{
+    "+": {
+        "accuracy": "50/50=1.0",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "What is the value of 9 - 52 + 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                27.0,
+                27,
+                "To solve the expression 9 - 52 + 70, we follow the order of operations, which in this case is simply to perform the operations from left to right since they are all addition and subtraction:\n\n9 - 52 = -43\n-43 + 70 = 27\n\nSo the value of the expression 9 - 52 + 70 is [27]."
+            ],
+            [
+                "What is the value of 98 + 8 * 30? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                338.0,
+                338,
+                "To calculate the value of 98 + 8 * 30, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this order, multiplication should be performed before addition.\n\nFirst, we multiply 8 by 30:\n8 * 30 = 240\n\nThen, we add the result to 98:\n98 + 240 = 338\n\nTherefore, the value of 98 + 8 * 30 is [338]."
+            ],
+            [
+                "What is the value of 58 * 56 + 34? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3282.0,
+                3282,
+                "To calculate the value of 58 * 56 + 34, we first multiply 58 by 56 and then add 34 to the result.\n\n58 * 56 = 3248\n\nNow, we add 34 to 3248.\n\n3248 + 34 = 3282\n\nTherefore, the value of 58 * 56 + 34 is [3282]."
+            ],
+            [
+                "What is the value of 69 - 41 + 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                51.0,
+                51,
+                "To calculate the value of 69 - 41 + 23, you perform the operations in the order they appear:\n\nFirst, subtract 41 from 69:\n69 - 41 = 28\n\nThen, add 23 to the result:\n28 + 23 = 51\n\nSo the final result is [51]."
+            ],
+            [
+                "What is the value of 17 - 87 + 64? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6.0,
+                -6,
+                "Let's calculate the expression step by step:\n\n17 - 87 + 64\n\nFirst, we perform the subtraction:\n\n17 - 87 = -70\n\nNext, we add 64 to the result:\n\n-70 + 64 = -6\n\nSo the final result is [-6]."
+            ],
+            [
+                "What is the value of 71 - 27 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                50.0,
+                50,
+                "To calculate the value of 71 - 27 + 6, we first perform the subtraction, followed by the addition:\n\n71 - 27 = 44\n44 + 6 = 50\n\nSo the final result is [50]."
+            ],
+            [
+                "What is the value of 8 / 35 + 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                98.2,
+                98.2,
+                "To calculate the value of \\( \\frac{8}{35} + 98 \\), we first convert the fraction to a decimal and then add it to 98.\n\n\\( \\frac{8}{35} \\) as a decimal is approximately \\( 0.22857 \\) (rounded to five decimal places).\n\nNow, add this to 98:\n\n\\( 98 + 0.22857 \\approx 98.22857 \\) (rounded to five decimal places).\n\nSo the value of \\( \\frac{8}{35} + 98 \\) is approximately [98.22857]."
+            ],
+            [
+                "What is the value of 34 - 70 + 78? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                42.0,
+                42,
+                "To calculate the value of 34 - 70 + 78, we perform the operations in sequence:\n\n34 - 70 = -36\n-36 + 78 = 42\n\nSo the result is [42]."
+            ],
+            [
+                "What is the value of 17 + 20 * 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                937.0,
+                937,
+                "To solve the expression 17 + 20 * 46, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this order, multiplication is performed before addition.\n\nSo, you first multiply 20 by 46, and then add 17 to the result.\n\n20 * 46 = 920\n\nNow, add 17 to 920:\n\n920 + 17 = 937\n\nThe final result is [937]."
+            ],
+            [
+                "What is the value of 75 * 47 + 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3556.0,
+                3556,
+                "To solve the expression 75 * 47 + 31, we first perform the multiplication and then add the result to 31.\n\n75 * 47 = 3525\n\nNow, we add 31 to the result of the multiplication:\n\n3525 + 31 = 3556\n\nTherefore, the value of the expression is [3556]."
+            ],
+            [
+                "What is the value of 72 * 34 + 53? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2501.0,
+                2501,
+                "To calculate the value of 72 * 34 + 53, we first perform the multiplication and then the addition.\n\n72 * 34 = 2448\n2448 + 53 = 2501\n\nSo the final result is [2501]."
+            ],
+            [
+                "What is the value of 2 / 52 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.0,
+                6.0,
+                "To calculate the value of \\( \\frac{2}{52} + 6 \\), first simplify the fraction:\n\n\\( \\frac{2}{52} = \\frac{1}{26} \\)\n\nNow, convert the fraction to a decimal:\n\n\\( \\frac{1}{26} \\approx 0.03846153846 \\) (rounded to 11 decimal places)\n\nNext, add this decimal to 6:\n\n\\( 6 + 0.03846153846 \\approx 6.03846153846 \\)\n\nRounded to two decimal places, the result is approximately 6.04.\n\nSo the final numeric result is [6.04]."
+            ],
+            [
+                "What is the value of 92 + 73 * 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6808.0,
+                6808,
+                "To solve the expression 92 + 73 * 92, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nAccording to this rule, we first perform the multiplication before addition:\n\n73 * 92 = 6716\n\nNow, we add 92 to the result of the multiplication:\n\n92 + 6716 = 6808\n\nSo the value of the expression 92 + 73 * 92 is [6808]."
+            ],
+            [
+                "What is the value of 61 + 42 / 67? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                61.6,
+                61.6,
+                "To solve the expression 61 + 42 / 67, you must follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this order, you must perform the division before the addition.\n\nSo, we first divide 42 by 67:\n\n42 / 67 ≈ 0.62686567164\n\nThen, we add that result to 61:\n\n61 + 0.62686567164 ≈ 61.62686567164\n\nRounded to two decimal places, the result is approximately 61.63. So, the final numeric result is [61.63]."
+            ],
+            [
+                "What is the value of 90 + 25 * 40? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1090.0,
+                1090,
+                "To calculate the value of 90 + 25 * 40, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, you perform the multiplication:\n25 * 40 = 1000\n\nThen, you add the result to 90:\n90 + 1000 = 1090\n\nSo the final result is [1090]."
+            ],
+            [
+                "What is the value of 63 + 4 / 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                63.1,
+                63.1,
+                "To solve the expression 63 + 4 / 32, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, division comes before addition.\n\nSo, you first divide 4 by 32, and then add the result to 63.\n\n4 / 32 = 0.125\n\nNow, add this result to 63:\n\n63 + 0.125 = 63.125\n\nTherefore, the final result is [63.125]."
+            ],
+            [
+                "What is the value of 3 + 81 / 65? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.2,
+                4.2,
+                "To calculate the value of the expression 3 + 81 / 65, you first need to perform the division and then add the result to 3.\n\n81 divided by 65 is 1.24615384615 (rounded to 11 decimal places).\n\nNow, add that result to 3:\n\n3 + 1.24615384615 = 4.24615384615\n\nRounded to two decimal places, the result would be 4.25.\n\nSo, the value of the expression 3 + 81 / 65 is approximately [4.25]."
+            ],
+            [
+                "What is the value of 29 / 2 + 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                36.5,
+                36.5,
+                "To calculate \\( \\frac{29}{2} + 22 \\), first divide 29 by 2, and then add 22 to the result.\n\n\\( \\frac{29}{2} = 14.5 \\)\n\nNow add 22 to 14.5:\n\n\\( 14.5 + 22 = 36.5 \\)\n\nSo the final result is [36.5]."
+            ],
+            [
+                "What is the value of 11 - 43 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -27.0,
+                -27,
+                "To calculate the value of 11 - 43 + 5, follow the order of operations:\n\n11 - 43 = -32\n-32 + 5 = -27\n\nSo the result is [-27]."
+            ],
+            [
+                "What is the value of 54 + 71 * 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5521.0,
+                5521,
+                "To find the value of 54 + 71 * 77, we should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to this order, we should perform the multiplication before the addition:\n\n71 * 77 = 5,467\n\nNow, we add 54 to the result of the multiplication:\n\n54 + 5,467 = 5,521\n\nSo the final result is [5,521]."
+            ],
+            [
+                "What is the value of 13 - 57 + 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                17.0,
+                17,
+                "Let's calculate the expression step by step:\n\n13 - 57 + 61\n\nFirst, we calculate the subtraction:\n\n13 - 57 = -44\n\nNow we add 61 to the result:\n\n-44 + 61 = 17\n\nSo the final result is [17]."
+            ],
+            [
+                "What is the value of 31 - 60 + 33? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.0,
+                4,
+                "To calculate the value of 31 - 60 + 33, we can perform the operations in order:\n\n31 - 60 = -29\n-29 + 33 = 4\n\nSo the result of 31 - 60 + 33 is [4]."
+            ],
+            [
+                "What is the value of 1 + 53 / 87? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.6,
+                1.6,
+                "To calculate the value of 1 + 53 / 87, you first need to perform the division and then add the result to 1.\n\n53 divided by 87 is:\n\n53 / 87 ≈ 0.6091954022988506\n\nNow, add this result to 1:\n\n1 + 0.6091954022988506 ≈ 1.6091954022988506\n\nRounded to two decimal places, this is approximately 1.61.\n\nSo, the value of 1 + 53 / 87 is approximately [1.61]."
+            ],
+            [
+                "What is the value of 99 + 79 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                652.0,
+                652,
+                "To calculate the value of 99 + 79 * 7, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nFirst, calculate the multiplication:\n79 * 7 = 553\n\nThen, add the result to 99:\n99 + 553 = 652\n\nSo the value of 99 + 79 * 7 is [652]."
+            ],
+            [
+                "What is the value of 13 + 68 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2189.0,
+                2189,
+                "To calculate the value of 13 + 68 * 32, you should follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, you perform the multiplication:\n\n68 * 32 = 2176\n\nThen, you add the result to 13:\n\n13 + 2176 = 2189\n\nSo the value of 13 + 68 * 32 is [2189]."
+            ],
+            [
+                "What is the value of 35 - 51 + 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                63.0,
+                63,
+                "To calculate the value of 35 - 51 + 79, follow these steps:\n\n1. Subtract 51 from 35:\n35 - 51 = -16\n\n2. Add 79 to the result from step 1:\n-16 + 79 = 63\n\nThe final result is [63]."
+            ],
+            [
+                "What is the value of 26 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25.0,
+                25,
+                "To calculate the value of 26 - 6 + 5, you perform the operations in the order they appear since they are all of the same precedence (addition and subtraction).\n\nFirst, subtract 6 from 26:\n26 - 6 = 20\n\nThen, add 5 to the result:\n20 + 5 = 25\n\nSo the final result is [25]."
+            ],
+            [
+                "What is the value of 12 + 16 / 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                13.1,
+                13.1,
+                "To calculate the value of 12 + 16 / 14, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, division comes before addition.\n\nSo, you first divide 16 by 14, and then add the result to 12.\n\n16 / 14 = 1.142857 (rounded to six decimal places)\n\nNow, add this result to 12:\n\n12 + 1.142857 = 13.142857 (rounded to six decimal places)\n\nThe final result, rounded to six decimal places, is [13.142857]."
+            ],
+            [
+                "What is the value of 97 + 84 * 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4885.0,
+                4885,
+                "To solve the expression 97 + 84 * 57, we need to follow the order of operations, which is commonly known by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nFirst, we multiply 84 by 57:\n84 * 57 = 4788\n\nThen, we add 97 to the result of the multiplication:\n4788 + 97 = 4885\n\nSo the value of the expression 97 + 84 * 57 is [4885]."
+            ],
+            [
+                "What is the value of 99 - 73 + 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                76.0,
+                76,
+                "To calculate the value of 99 - 73 + 50, follow these steps:\n\n1. Subtract 73 from 99: 99 - 73 = 26\n2. Add 50 to the result: 26 + 50 = 76\n\nThe final result is [76]."
+            ],
+            [
+                "What is the value of 87 - 83 + 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33.0,
+                33,
+                "To calculate the value of 87 - 83 + 29, we perform the operations in the order they appear:\n\n87 - 83 = 4\n4 + 29 = 33\n\nSo the final result is [33]."
+            ],
+            [
+                "What is the value of 54 / 33 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                69.6,
+                69.6,
+                "To solve the expression 54 / 33 + 68, we first perform the division and then add the result to 68.\n\n54 divided by 33 is:\n\n54 / 33 = 1.63636363636... (This is a repeating decimal with the pattern \"36\" repeating indefinitely.)\n\nNow, we add this result to 68:\n\n1.63636363636... + 68 = 69.63636363636...\n\nSince you've asked for the result in decimal form, I'll round it to two decimal places for simplicity:\n\n69.64 (rounded to two decimal places)\n\nSo the final result is approximately [69.64]."
+            ],
+            [
+                "What is the value of 28 * 11 + 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                407.0,
+                407,
+                "To calculate the value of 28 * 11 + 99, we first multiply 28 by 11 and then add 99 to the result.\n\n28 * 11 = 308\n308 + 99 = 407\n\nTherefore, the value of 28 * 11 + 99 is [407]."
+            ],
+            [
+                "What is the value of 60 - 56 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                72.0,
+                72,
+                "To calculate the value of 60 - 56 + 68, you perform the operations in the order they appear since they are all addition and subtraction:\n\n60 - 56 = 4\n4 + 68 = 72\n\nSo the result is [72]."
+            ],
+            [
+                "What is the value of 83 + 29 / 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                83.6,
+                83.6,
+                "To solve the expression 83 + 29 / 46, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division comes before addition.\n\nFirst, divide 29 by 46:\n\n29 / 46 = 0.6304347826086957 (approximately)\n\nThen, add the result to 83:\n\n83 + 0.6304347826086957 = 83.6304347826086957\n\nRounded to two decimal places, the result would be 83.63. However, since you didn't specify the number of decimal places you want, I'll give you the full result from the calculation above.\n\nThe value of 83 + 29 / 46 is approximately [83.6304347826086957]."
+            ],
+            [
+                "What is the value of 64 + 45 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4339.0,
+                4339,
+                "To solve the expression 64 + 45 * 95, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nAccording to this rule, you must perform multiplication before addition. So first, you multiply 45 by 95, and then you add 64 to the result.\n\n45 * 95 = 4275\n\nNow, add 64 to the result of the multiplication:\n\n64 + 4275 = 4339\n\nSo the value of the expression 64 + 45 * 95 is [4339]."
+            ],
+            [
+                "What is the value of 71 + 87 * 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8510.0,
+                8510,
+                "To calculate the value of 71 + 87 * 97, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this order, multiplication is performed before addition.\n\nSo we first calculate 87 * 97:\n\n87 * 97 = 8439\n\nNow we add 71 to the result:\n\n8439 + 71 = 8510\n\nTherefore, the value of 71 + 87 * 97 is [8510]."
+            ],
+            [
+                "What is the value of 60 + 67 * 15? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1065.0,
+                1065,
+                "To solve the expression 60 + 67 * 15, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, you perform the multiplication:\n67 * 15 = 1005\n\nThen you add the result to 60:\n60 + 1005 = 1065\n\nSo the value of the expression is [1065]."
+            ],
+            [
+                "What is the value of 77 / 4 + 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                107.2,
+                107.2,
+                "First, we divide 77 by 4:\n\n77 / 4 = 19.25\n\nThen we add 88 to the result:\n\n19.25 + 88 = 107.25\n\nSo the value of 77 / 4 + 88 is [107.25]."
+            ],
+            [
+                "What is the value of 61 - 52 + 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                27.0,
+                27,
+                "To calculate the value of 61 - 52 + 18, follow the order of operations:\n\nFirst, perform the subtraction:\n61 - 52 = 9\n\nThen, add the result to 18:\n9 + 18 = 27\n\nThus, the final result is [27]."
+            ],
+            [
+                "What is the value of 98 + 69 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3548.0,
+                3548,
+                "To solve the expression 98 + 69 * 50, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we must perform the multiplication before the addition. So, we first multiply 69 by 50:\n\n69 * 50 = 3450\n\nThen we add 98 to the result of the multiplication:\n\n3450 + 98 = 3548\n\nSo the value of 98 + 69 * 50 is [3548]."
+            ],
+            [
+                "What is the value of 49 + 22 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                753.0,
+                753,
+                "To solve the expression 49 + 22 * 32, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nAccording to this order, we must perform multiplication before addition. So we first multiply 22 by 32:\n\n22 * 32 = 704\n\nThen we add 49 to the result of that multiplication:\n\n49 + 704 = 753\n\nTherefore, the value of the expression 49 + 22 * 32 is [753]."
+            ],
+            [
+                "What is the value of 17 + 51 / 86? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                17.6,
+                17.6,
+                "To solve the expression 17 + 51 / 86, you should first perform the division, and then add the result to 17.\n\n51 divided by 86 is:\n\n51 / 86 ≈ 0.5930232558\n\nNow, add that result to 17:\n\n17 + 0.5930232558 ≈ 17.5930232558\n\nRounded to two decimal places, the result is approximately 17.59.\n\nSo the final result is approximately [17.59]."
+            ],
+            [
+                "What is the value of 6 + 11 / 78? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.1,
+                6.1,
+                "To calculate the value of 6 + 11 / 78, you need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division:\n\n11 / 78 = 0.14102564 (rounded to 8 decimal places)\n\nNext, we add this result to 6:\n\n6 + 0.14102564 = 6.14102564 (rounded to 8 decimal places)\n\nSo, the final result rounded to two decimal places would be:\n\n6.14\n\nTherefore, the value of 6 + 11 / 78 is approximately [6.14]."
+            ],
+            [
+                "What is the value of 12 + 21 * 21? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                453.0,
+                453,
+                "To solve the expression 12 + 21 * 21, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we perform multiplication before addition.\n\nSo we first multiply 21 by 21, and then we add 12 to the result.\n\n21 * 21 = 441\n12 + 441 = 453\n\nThe final result is [453]."
+            ],
+            [
+                "What is the value of 31 + 73 / 34? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33.1,
+                33.1,
+                "To solve this expression, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division comes before addition.\n\nSo, let's first perform the division:\n\n73 / 34 = 2.1470588235 (approximately)\n\nNow, we can add this result to 31:\n\n31 + (73 / 34) ≈ 31 + 2.1470588235 ≈ 33.1470588235\n\nRounded to two decimal places, the result is approximately 33.15.\n\nSo, the final result is [33.15]."
+            ],
+            [
+                "What is the value of 83 / 31 + 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33.7,
+                33.7,
+                "To calculate the value of \\( \\frac{83}{31} + 31 \\), first divide 83 by 31, and then add 31 to the result.\n\n\\( \\frac{83}{31} = 2.67741935483870967741... \\) (This is an infinite repeating decimal, but we'll round it off for simplicity.)\n\nNow, add 31 to the result:\n\n\\( 2.67741935483870967741 + 31 = 33.67741935483870967741... \\)\n\nRounded to two decimal places, the result is approximately 33.68.\n\nSo, the final result is approximately [33.68]."
+            ],
+            [
+                "What is the value of 94 + 35 / 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                94.4,
+                94.4,
+                "To solve the expression 94 + 35 / 88, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this order, division comes before addition.\n\nFirst, we divide 35 by 88:\n\n35 / 88 = 0.3977272727...\n\nThen, we add the result to 94:\n\n94 + 0.3977272727... ≈ 94.3977272727...\n\nRounded to two decimal places, the result is approximately 94.40.\n\nSo the value of the expression is approximately [94.40]."
+            ],
+            [
+                "What is the value of 29 * 84 + 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2454.0,
+                2454,
+                "To calculate the value of 29 * 84 + 18, we first perform the multiplication and then add the 18.\n\n29 * 84 = 2436\n\nNow we add 18 to the result:\n\n2436 + 18 = 2454\n\nSo the final result is [2454]."
+            ],
+            [
+                "What is the value of 58 - 65 + 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                87.0,
+                87,
+                "To calculate the value of 58 - 65 + 94, follow these steps:\n\n1. Subtract 65 from 58:\n58 - 65 = -7\n\n2. Add 94 to the result of the first step:\n-7 + 94 = 87\n\nTherefore, the final result is [87]."
+            ]
+        ]
+    },
+    "-": {
+        "accuracy": "48/50=0.96",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "What is the value of 97 / 19 - 71? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -65.9,
+                -65.9,
+                "To calculate the value of 97 / 19 - 71, we first divide 97 by 19, then subtract 71 from the result.\n\n97 / 19 = 5.10526315789 (approximately)\n\nNow, subtract 71 from this result:\n\n5.10526315789 - 71 = -65.89473684211 (approximately)\n\nSo the final result is approximately [-65.89]."
+            ],
+            [
+                "What is the value of 84 - 26 + 74? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                132.0,
+                132,
+                "To calculate the value of 84 - 26 + 74, follow these steps:\n\n1. Subtract 26 from 84:\n84 - 26 = 58\n\n2. Add 74 to the result from step 1:\n58 + 74 = 132\n\nTherefore, the value of 84 - 26 + 74 is [132]."
+            ],
+            [
+                "What is the value of 35 - 86 / 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                30.2,
+                30.2,
+                "To calculate the value of 35 - 86 / 18, we must first perform the division, and then subtract the result from 35.\n\nFirst, calculate 86 / 18:\n\n86 / 18 ≈ 4.77777777778 (rounded to 11 decimal places)\n\nNow, subtract this result from 35:\n\n35 - 4.77777777778 ≈ 30.2222222222 (rounded to 11 decimal places)\n\nSo the value of 35 - 86 / 18 is approximately [30.22] when rounded to two decimal places."
+            ],
+            [
+                "What is the value of 42 * 44 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1842.0,
+                1842,
+                "To calculate the value of 42 * 44 - 6, first multiply 42 by 44, and then subtract 6 from the result.\n\n42 * 44 = 1848\n\nNow subtract 6 from 1848:\n\n1848 - 6 = 1842\n\nSo the final result is [1842]."
+            ],
+            [
+                "What is the value of 42 - 41 / 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                41.2,
+                41.2,
+                "To solve the expression 42 - 41 / 49, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). Division comes before subtraction, so we first divide 41 by 49 and then subtract the result from 42.\n\n41 / 49 = 0.836734693877551 (rounded to 15 decimal places)\n\nNow, subtract that result from 42:\n\n42 - 0.836734693877551 = 41.16326530612245 (rounded to 14 decimal places)\n\nSo the final result, rounded to two decimal places, is:\n\n41.16\n\nTherefore, the value of the expression 42 - 41 / 49 is approximately [41.16]."
+            ],
+            [
+                "What is the value of 7 - 48 / 74? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.4,
+                6.3,
+                "To solve 7 - 48 / 74, you should first perform the division and then the subtraction.\n\n48 divided by 74 equals approximately 0.6486486486486487.\n\nNow, subtract that from 7:\n\n7 - 0.6486486486486487 ≈ 6.351351351351351\n\nRounded to two decimal places, the result is approximately 6.35.\n\nSo, the value of 7 - 48 / 74 is approximately [6.35]."
+            ],
+            [
+                "What is the value of 90 - 49 * 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3340.0,
+                -3340,
+                "To calculate the value of 90 - 49 * 70, you first perform the multiplication and then the subtraction:\n\n49 * 70 = 3430\n\nNow subtract this result from 90:\n\n90 - 3430 = -3340\n\nSo the final result is [-3340]."
+            ],
+            [
+                "What is the value of 39 - 64 + 89? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                64.0,
+                64,
+                "To calculate the value of 39 - 64 + 89, we can perform the operations in sequence:\n\nFirst, we subtract 64 from 39:\n39 - 64 = -25\n\nThen, we add 89 to the result:\n-25 + 89 = 64\n\nTherefore, the final result is [64]."
+            ],
+            [
+                "What is the value of 22 / 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.4,
+                3.4,
+                "To calculate the value of \\( \\frac{22}{5} - 1 \\), first divide 22 by 5:\n\n\\( \\frac{22}{5} = 4.4 \\)\n\nThen subtract 1 from the result:\n\n\\( 4.4 - 1 = 3.4 \\)\n\nSo the value of \\( \\frac{22}{5} - 1 \\) is [3.4]."
+            ],
+            [
+                "What is the value of 54 * 31 - 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1597.0,
+                1597,
+                "First, let's perform the multiplication:\n\n54 * 31 = 1674\n\nNow, let's subtract 77 from the result:\n\n1674 - 77 = 1597\n\nTherefore, the value of 54 * 31 - 77 is [1597]."
+            ],
+            [
+                "What is the value of 22 * 11 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                229.0,
+                229,
+                "To calculate the value of 22 * 11 - 13:\n\nFirst, multiply 22 by 11:\n22 * 11 = 242\n\nThen, subtract 13 from the result:\n242 - 13 = 229\n\nSo the final result is [229]."
+            ],
+            [
+                "What is the value of 89 - 70 + 59? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                78.0,
+                78,
+                "To calculate the value of 89 - 70 + 59, we can perform the operations in sequence:\n\n89 - 70 = 19\n19 + 59 = 78\n\nTherefore, the result is [78]."
+            ],
+            [
+                "What is the value of 98 - 17 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                82.0,
+                82,
+                "To calculate the value of 98 - 17 + 1, you first do the subtraction and then the addition:\n\n98 - 17 = 81\n81 + 1 = 82\n\nSo the final result is [82]."
+            ],
+            [
+                "What is the value of 13 - 58 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1321.0,
+                -1321,
+                "To calculate the value of 13 - 58 * 23, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nGiven the expression, we first need to perform the multiplication before the subtraction:\n\n58 * 23 = 1334\n\nNow we subtract this result from 13:\n\n13 - 1334 = -1321\n\nSo the final result is [-1321]."
+            ],
+            [
+                "What is the value of 41 - 32 + 41? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                50.0,
+                50,
+                "To calculate the value of 41 - 32 + 41, we perform the operations in the order they appear since they are all of the same precedence (addition and subtraction):\n\n41 - 32 = 9\n9 + 41 = 50\n\nSo the final result is [50]."
+            ],
+            [
+                "What is the value of 11 - 20 * 16? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -309.0,
+                -309,
+                "To solve the expression 11 - 20 * 16, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n20 * 16 = 320\n\nThen, we subtract that result from 11:\n\n11 - 320 = -309\n\nSo the final result is [-309]."
+            ],
+            [
+                "What is the value of 92 - 98 / 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                90.0,
+                90,
+                "To calculate the value of 92 - 98 / 49, you should first perform the division and then the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 98 by 49:\n98 / 49 = 2\n\nThen, subtract the result from 92:\n92 - 2 = 90\n\nSo the final result is [90]."
+            ],
+            [
+                "What is the value of 59 - 60 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                39.0,
+                39,
+                "To solve the expression 59 - 60 / 3, we must follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nSince there are no parentheses or exponents to deal with here, we start with the division:\n\n60 / 3 = 20\n\nNow we can subtract that result from 59:\n\n59 - 20 = 39\n\nSo the final result is [39]."
+            ],
+            [
+                "What is the value of 46 - 42 + 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                58.0,
+                58,
+                "To calculate the value of 46 - 42 + 54, we perform the operations in the order they appear, since they are all addition and subtraction:\n\n46 - 42 = 4\n4 + 54 = 58\n\nSo the final result is [58]."
+            ],
+            [
+                "What is the value of 26 - 32 / 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25.5,
+                25.5,
+                "To solve the expression 26 - 32 / 62, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the division:\n\n32 / 62 = 0.516129032 (approximately)\n\nNow we subtract that result from 26:\n\n26 - 0.516129032 = 25.483870968 (approximately)\n\nRounded to a more manageable number of decimal places, the result is:\n\n25.4839 (approximately)\n\nSo, the value of the expression 26 - 32 / 62 is approximately [25.4839]."
+            ],
+            [
+                "What is the value of 92 - 15 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                62.0,
+                62,
+                "To solve the expression 92 - 15 * 2, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, you perform the multiplication:\n15 * 2 = 30\n\nThen, you subtract the result from 92:\n92 - 30 = 62\n\nSo the final result is [62]."
+            ],
+            [
+                "What is the value of 17 - 28 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -627.0,
+                -627,
+                "To solve the expression 17 - 28 * 23, you must follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we do the multiplication:\n28 * 23 = 644\n\nThen, we do the subtraction:\n17 - 644 = -627\n\nSo the value of the expression 17 - 28 * 23 is [-627]."
+            ],
+            [
+                "What is the value of 59 - 89 / 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                57.1,
+                57.1,
+                "To solve the expression 59 - 89 / 46, we must first perform the division before subtraction due to the order of operations (PEMDAS/BODMAS).\n\nFirst, we divide 89 by 46:\n\n89 / 46 = 1.9347826087 (approximately)\n\nNow, we subtract that result from 59:\n\n59 - 1.9347826087 ≈ 57.0652173913\n\nRounded to a reasonable number of decimal places, the result is approximately 57.07.\n\nSo the value of the expression is approximately [57.07]."
+            ],
+            [
+                "What is the value of 48 - 59 + 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                59.0,
+                59,
+                "To calculate the value of 48 - 59 + 70, we perform the operations in sequence:\n\n48 - 59 = -11 (since subtracting a larger number from a smaller one gives a negative result)\n-11 + 70 = 59 (adding 70 to -11 gives us a positive result)\n\nSo, the final result is [59]."
+            ],
+            [
+                "What is the value of 63 - 55 / 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                62.4,
+                62.4,
+                "To solve the expression 63 - 55 / 94, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division comes before subtraction.\n\nFirst, we perform the division:\n\n55 / 94 = 0.58510638297872340425531914893617 (rounded to 35 decimal places)\n\nNow, subtract the result from 63:\n\n63 - 0.58510638297872340425531914893617 = 62.41489361702127659574468085106383 (rounded to 35 decimal places)\n\nRounded to two decimal places, the result is 62.41.\n\nTherefore, the final numeric result is [62.41]."
+            ],
+            [
+                "What is the value of 97 / 51 - 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -21.1,
+                -21.1,
+                "To solve the expression 97 / 51 - 23, we first perform the division and then subtract 23 from the result.\n\n97 / 51 = 1.9019607843137255 (approximate value)\n\nNow subtract 23 from the result of the division:\n\n1.9019607843137255 - 23 = -21.0980392156862745 (approximate value)\n\nRounded to two decimal places, the result would be -21.10.\n\nSo the final result is approximately [-21.10]."
+            ],
+            [
+                "What is the value of 22 - 77 * 28? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2134.0,
+                -2134,
+                "To calculate the value of 22 - 77 * 28, you need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we do the multiplication:\n\n77 * 28 = 2156\n\nThen, we do the subtraction:\n\n22 - 2156 = -2134\n\nSo the final result is [-2134]."
+            ],
+            [
+                "What is the value of 61 - 47 / 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                60.3,
+                60.3,
+                "To solve the expression 61 - 47 / 70, we must first perform the division before the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 47 by 70:\n47 / 70 = 0.6714285714285714 (rounded to 15 decimal places)\n\nThen, subtract that result from 61:\n61 - 0.6714285714285714 = 60.32857142857143 (rounded to 14 decimal places)\n\nSo, the final result is approximately [60.33] when rounded to two decimal places."
+            ],
+            [
+                "What is the value of 33 * 71 - 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2247.0,
+                2247,
+                "To find the value of 33 * 71 - 96, first multiply 33 by 71, then subtract 96 from the result.\n\n33 * 71 = 2343\n\nNow subtract 96 from 2343:\n\n2343 - 96 = 2247\n\nSo the final result is [2247]."
+            ],
+            [
+                "What is the value of 42 - 28 / 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                41.5,
+                41.5,
+                "To solve the expression 42 - 28 / 62, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the division:\n\n28 / 62 = 0.4516129032 (rounded to 10 decimal places)\n\nNow, we subtract this result from 42:\n\n42 - 0.4516129032 = 41.5483870968 (rounded to 10 decimal places)\n\nTherefore, the value of the expression is approximately [41.55] when rounded to two decimal places."
+            ],
+            [
+                "What is the value of 26 - 96 / 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25.0,
+                25.0,
+                "To solve the expression 26 - 96 / 95, you should first perform the division and then the subtraction.\n\n96 / 95 = 1.01052631579 (approximated to 11 decimal places)\n\nNow subtract this result from 26:\n\n26 - 1.01052631579 = 24.98947368421 (approximated to 11 decimal places)\n\nRounded to two decimal places, the result would be 24.99.\n\nSo the value of the expression is approximately [24.99]."
+            ],
+            [
+                "What is the value of 92 - 56 / 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                91.0,
+                91.0,
+                "To solve the expression 92 - 56 / 57, we must follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). Division comes before subtraction, so we first divide 56 by 57.\n\n56 / 57 = 0.9824561403508771 (approximately)\n\nNow we subtract that result from 92:\n\n92 - 0.9824561403508771 = 91.01754385964912 (approximately)\n\nRounded to two decimal places, the result is 91.02.\n\nSo the final answer is [91.02]."
+            ],
+            [
+                "What is the value of 56 / 77 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2.3,
+                -2.3,
+                "To find the value of 56 / 77 - 3, we first divide 56 by 77 and then subtract 3 from the result.\n\n56 / 77 = 0.727272727272...\n\nNow, subtract 3 from this result:\n\n0.727272727272... - 3 = -2.272727272727...\n\nRounded to two decimal places, this is approximately -2.27.\n\nSo, the final numeric result is approximately [-2.27]."
+            ],
+            [
+                "What is the value of 29 - 97 / 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                22.1,
+                22.1,
+                "To solve the expression 29 - 97 / 14, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nFirst, we divide 97 by 14:\n\n97 / 14 = 6.92857142857 (rounded to 11 decimal places)\n\nThen, we subtract that result from 29:\n\n29 - 6.92857142857 = 22.07142857143 (rounded to 11 decimal places)\n\nSo, the value of the expression is approximately [22.07142857143]."
+            ],
+            [
+                "What is the value of 2 - 13 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4.5,
+                -4.5,
+                "To solve the expression 2 - 13 / 2, you first perform the division and then the subtraction.\n\n13 / 2 = 6.5\n\nNow, subtract this result from 2:\n\n2 - 6.5 = -4.5\n\nSo the final result is [-4.5]."
+            ],
+            [
+                "What is the value of 17 * 63 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1065.0,
+                1065,
+                "To calculate the value of \\( 17 \\times 63 - 6 \\), we first do the multiplication and then the subtraction.\n\n\\( 17 \\times 63 = 1071 \\)\n\nNow we subtract 6 from the result:\n\n\\( 1071 - 6 = 1065 \\)\n\nSo the final result is [1065]."
+            ],
+            [
+                "What is the value of 27 - 84 * 90? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -7533.0,
+                -7533,
+                "To calculate the value of 27 - 84 * 90, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, you perform the multiplication:\n84 * 90 = 7560\n\nThen, you subtract the result from 27:\n27 - 7560 = -7533\n\nSo the final result is [-7533]."
+            ],
+            [
+                "What is the value of 61 - 71 / 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                58.2,
+                58.2,
+                "To calculate the value of 61 - 71 / 25, we first need to perform the division, and then subtract the result from 61.\n\n71 divided by 25 is 2.84 (since 71/25 = 2.84).\n\nNow, we subtract this result from 61:\n\n61 - 2.84 = 58.16\n\nSo the value of 61 - 71 / 25 is [58.16]."
+            ],
+            [
+                "What is the value of 99 - 96 / 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                95.9,
+                95.9,
+                "To solve the expression 99 - 96 / 31, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nAccording to the order of operations, we must perform the division before the subtraction. So we first divide 96 by 31.\n\n96 / 31 = 3.09677419355 (approximately)\n\nNow we subtract this result from 99:\n\n99 - 3.09677419355 = 95.90322580645 (approximately)\n\nRounded to two decimal places, the result is:\n\n95.90\n\nTherefore, the value of the expression 99 - 96 / 31 is approximately [95.90]."
+            ],
+            [
+                "What is the value of 94 - 36 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                89.5,
+                89.5,
+                "To solve the expression 94 - 36 / 8, you must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Division comes before subtraction, so you must divide 36 by 8 first.\n\n36 / 8 = 4.5\n\nNow subtract that result from 94:\n\n94 - 4.5 = 89.5\n\nSo the final result is [89.5]."
+            ],
+            [
+                "What is the value of 93 * 56 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5204.0,
+                5204,
+                "To calculate the value of 93 * 56 - 4, you first multiply 93 by 56 and then subtract 4 from the result.\n\n93 * 56 = 5208\n\nThen subtract 4 from 5208:\n\n5208 - 4 = 5204\n\nSo the final result is [5204]."
+            ],
+            [
+                "What is the value of 58 - 45 / 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                55.4,
+                55.4,
+                "To solve the expression 58 - 45 / 17, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Division comes before subtraction, so you must divide 45 by 17 first and then subtract the result from 58.\n\n45 / 17 = 2.6470588235 (approximately)\n\nNow, subtract that result from 58:\n\n58 - 2.6470588235 = 55.3529411765 (approximately)\n\nRounded to two decimal places, the result is 55.35.\n\nSo, the value of the expression 58 - 45 / 17 is approximately [55.35]."
+            ],
+            [
+                "What is the value of 70 / 93 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -12.2,
+                -12.2,
+                "To solve the expression 70 / 93 - 13, we first need to perform the division and then subtract 13 from the result.\n\nFirst, we divide 70 by 93:\n\n70 / 93 ≈ 0.7527 (rounded to four decimal places)\n\nNext, we subtract 13 from the result of the division:\n\n0.7527 - 13 ≈ -12.2473 (rounded to four decimal places)\n\nTherefore, the value of the expression is approximately [-12.2473]."
+            ],
+            [
+                "What is the value of 58 * 40 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2318.0,
+                2318,
+                "To calculate the value of 58 * 40 - 2, follow these steps:\n\n1. Multiply 58 by 40:\n58 * 40 = 2320\n\n2. Subtract 2 from the result:\n2320 - 2 = 2318\n\nSo the final result is [2318]."
+            ],
+            [
+                "What is the value of 41 - 77 / 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                39.2,
+                39.2,
+                "To solve the expression 41 - 77 / 43, you need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division:\n\n77 / 43 = 1.7906976744186 (approximately)\n\nNow we subtract this result from 41:\n\n41 - 1.7906976744186 = 39.2093023255814 (approximately)\n\nRounded to two decimal places, the result would be 39.21.\n\nSo the value of the expression 41 - 77 / 43 is approximately [39.21]."
+            ],
+            [
+                "What is the value of 17 * 74 - 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1236.0,
+                1236,
+                "To calculate the value of 17 * 74 - 22, we first multiply 17 by 74 and then subtract 22 from the result.\n\n17 * 74 = 1258\n\nNow, subtract 22 from this result:\n\n1258 - 22 = 1236\n\nSo the final result is [1236]."
+            ],
+            [
+                "What is the value of 97 * 9 - 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                776.0,
+                776,
+                "To calculate the value of 97 * 9 - 97, you can factor out the 97 from both terms:\n\n97 * 9 - 97 = 97 * (9 - 1)\n97 * (8) = 776\n\nSo the final result is [776]."
+            ],
+            [
+                "What is the value of 77 - 26 + 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                130.0,
+                130,
+                "To calculate the value of 77 - 26 + 79, we perform the operations in order:\n\n1. Subtract 26 from 77:\n77 - 26 = 51\n\n2. Add 79 to the result:\n51 + 79 = 130\n\nTherefore, the final result is [130]."
+            ],
+            [
+                "What is the value of 90 - 61 * 81? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4851.0,
+                -4841,
+                "To calculate the value of 90 - 61 * 81, we first need to perform the multiplication and then the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\n61 * 81 = 4931\n\nNow, subtract this result from 90:\n\n90 - 4931 = -4841\n\nSo the final result is [-4841]."
+            ],
+            [
+                "What is the value of 47 / 63 - 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -95.3,
+                -95.3,
+                "To solve the expression \\( \\frac{47}{63} - 96 \\), we first divide 47 by 63 and then subtract 96 from the result.\n\n\\( \\frac{47}{63} \\approx 0.746 \\) (rounded to three decimal places)\n\nNow, subtract 96 from 0.746:\n\n\\( 0.746 - 96 = -95.254 \\)\n\nSo the final result is [-95.254]."
+            ]
+        ]
+    },
+    "*": {
+        "accuracy": "50/50=1.0",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "What is the value of 9 * 45 - 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                387.0,
+                387,
+                "To find the value of 9 * 45 - 18, first multiply 9 by 45, then subtract 18 from the result.\n\n9 * 45 = 405\n405 - 18 = 387\n\nSo the final result is [387]."
+            ],
+            [
+                "What is the value of 30 + 81 * 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3999.0,
+                3999,
+                "To calculate the value of 30 + 81 * 49, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nSo, you first multiply 81 by 49, and then add 30 to the result.\n\n81 * 49 = 3969\n30 + 3969 = 3999\n\nThe value of 30 + 81 * 49 is [3999]."
+            ],
+            [
+                "What is the value of 71 * 86 + 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6200.0,
+                6200,
+                "To calculate the value of 71 * 86 + 94, we first perform the multiplication and then add the result to 94.\n\n71 * 86 = 6106\n\nNow, we add 94 to the result of the multiplication:\n\n6106 + 94 = 6200\n\nSo, the final result is [6200]."
+            ],
+            [
+                "What is the value of 32 + 58 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1366.0,
+                1366,
+                "To calculate the value of 32 + 58 * 23, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n58 * 23 = 1334\n\nThen, we add the result to 32:\n32 + 1334 = 1366\n\nTherefore, the final result is [1366]."
+            ],
+            [
+                "What is the value of 45 - 20 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5.0,
+                5,
+                "To solve the expression 45 - 20 * 2, you must follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nAccording to the order of operations, you must first perform the multiplication before the subtraction:\n\n20 * 2 = 40\n\nNow, subtract the result from 45:\n\n45 - 40 = 5\n\nTherefore, the value of the expression 45 - 20 * 2 is [5]."
+            ],
+            [
+                "What is the value of 39 * 66 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2642.0,
+                2642,
+                "To calculate the value of 39 * 66 + 68:\n\nFirst, multiply 39 by 66:\n39 * 66 = 2574\n\nThen, add 68 to the result:\n2574 + 68 = 2642\n\nSo, the final result is [2642]."
+            ],
+            [
+                "What is the value of 44 - 47 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -332.0,
+                -332,
+                "To calculate the value of 44 - 47 * 8, you need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, perform the multiplication:\n47 * 8 = 376\n\nThen, subtract that result from 44:\n44 - 376 = -332\n\nSo the final result is [-332]."
+            ],
+            [
+                "What is the value of 51 - 6 * 24? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -93.0,
+                -93,
+                "To solve the expression 51 - 6 * 24, we must follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n6 * 24 = 144\n\nThen we subtract that result from 51:\n\n51 - 144 = -93\n\nSo the final result is [-93]."
+            ],
+            [
+                "What is the value of 15 - 39 * 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -648.0,
+                -648,
+                "To calculate the value of 15 - 39 * 17, you first need to perform the multiplication and then the subtraction.\n\n39 * 17 = 663\n\nNow, subtract that result from 15:\n\n15 - 663 = -648\n\nSo the final result is [-648]."
+            ],
+            [
+                "What is the value of 9 - 49 * 20? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -971.0,
+                -971,
+                "To calculate the value of 9 - 49 * 20, you first need to perform the multiplication and then the subtraction:\n\nFirst, multiply 49 by 20:\n49 * 20 = 980\n\nThen subtract that result from 9:\n9 - 980 = -971\n\nSo the final result is [-971]."
+            ],
+            [
+                "What is the value of 92 * 57 + 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5342.0,
+                5342,
+                "To calculate the value of 92 * 57 + 98, first multiply 92 by 57 and then add 98 to the result:\n\n92 * 57 = 5244\n5244 + 98 = 5342\n\nSo the final result is [5342]."
+            ],
+            [
+                "What is the value of 70 * 74 - 44? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5136.0,
+                5136,
+                "To calculate the value of 70 * 74 - 44, we first do the multiplication and then the subtraction:\n\n70 * 74 = 5180\n\nThen we subtract 44:\n\n5180 - 44 = 5136\n\nSo the value of 70 * 74 - 44 is [5136]."
+            ],
+            [
+                "What is the value of 18 - 30 * 84? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2502.0,
+                -2502,
+                "To calculate the value of 18 - 30 * 84, you need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nAccording to the order of operations, you should perform the multiplication before the subtraction:\n\n30 * 84 = 2520\n\nNow subtract that result from 18:\n\n18 - 2520 = -2502\n\nSo the value of 18 - 30 * 84 is [-2502]."
+            ],
+            [
+                "What is the value of 69 + 65 * 37? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2474.0,
+                2474,
+                "To solve this expression, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nIn this case, we need to do the multiplication first and then the addition.\n\nSo, we have:\n\n65 * 37 = 2405\n\nNow, we add 69 to the result of the multiplication:\n\n69 + 2405 = 2474\n\nTherefore, the final result is [2474]."
+            ],
+            [
+                "What is the value of 46 / 42 * 75? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                82.1,
+                82.1,
+                "To calculate the value of \\( \\frac{46}{42} \\times 75 \\), we first divide 46 by 42 and then multiply the result by 75.\n\n\\( \\frac{46}{42} \\approx 1.09523809524 \\)\n\nNow, multiply this by 75:\n\n\\( 1.09523809524 \\times 75 \\approx 82.1428571428 \\)\n\nSo, the value of \\( \\frac{46}{42} \\times 75 \\) is approximately [82.14] when rounded to two decimal places."
+            ],
+            [
+                "What is the value of 86 + 31 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1078.0,
+                1078,
+                "To solve 86 + 31 * 32, you should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nFirst, calculate the multiplication:\n31 * 32 = 992\n\nThen, add the result to 86:\n86 + 992 = 1078\n\nSo the final result is [1078]."
+            ],
+            [
+                "What is the value of 76 / 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                38.0,
+                38,
+                "To calculate the value of 76 / 4 * 2, we first perform the division and then the multiplication, according to the order of operations (PEMDAS/BODMAS).\n\n76 / 4 = 19\n19 * 2 = 38\n\nSo the value of 76 / 4 * 2 is [38]."
+            ],
+            [
+                "What is the value of 68 * 34 + 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2337.0,
+                2337,
+                "To calculate the value of 68 * 34 + 25, we first perform the multiplication and then add the result to 25.\n\n68 * 34 = 2312\n\nNow, we add 25 to the result of the multiplication:\n\n2312 + 25 = 2337\n\nSo the final result is [2337]."
+            ],
+            [
+                "What is the value of 44 / 86 * 65? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33.3,
+                33.3,
+                "To find the value of \\( \\frac{44}{86} \\times 65 \\), we first divide 44 by 86 and then multiply the result by 65.\n\n\\( \\frac{44}{86} \\approx 0.5116279069767441860465116279 \\)\n\nNow, multiply this by 65:\n\n\\( 0.5116279069767441860465116279 \\times 65 \\approx 33.255813953488372093023255814 \\)\n\nRounded to two decimal places, this would be approximately 33.26. So, the final result is [33.26]."
+            ],
+            [
+                "What is the value of 48 - 96 * 11? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1008.0,
+                -1008,
+                "To calculate the value of 48 - 96 * 11, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nSo, we first do the multiplication:\n\n96 * 11 = 1056\n\nNow we do the subtraction:\n\n48 - 1056 = -1008\n\nTherefore, the value of 48 - 96 * 11 is [-1008]."
+            ],
+            [
+                "What is the value of 93 * 67 + 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6285.0,
+                6285,
+                "To calculate the value of 93 * 67 + 54, we first perform the multiplication and then the addition:\n\n93 * 67 = 6231\n6231 + 54 = 6285\n\nSo the final result is [6285]."
+            ],
+            [
+                "What is the value of 98 - 45 * 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4042.0,
+                -4042,
+                "To solve the expression 98 - 45 * 92, we first need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n45 * 92 = 4140\n\nNext, we subtract the result from 98:\n98 - 4140 = -4042\n\nSo the value of the expression is [-4042]."
+            ],
+            [
+                "What is the value of 95 - 43 * 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4119.0,
+                -4119,
+                "To calculate the value of 95 - 43 * 98, you first need to perform the multiplication and then the subtraction:\n\n43 * 98 = 4214\n\nNow, subtract that result from 95:\n\n95 - 4214 = -4119\n\nSo the final result is [-4119]."
+            ],
+            [
+                "What is the value of 29 + 54 * 37? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2027.0,
+                2027,
+                "First, we must follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nSo, we first multiply 54 by 37:\n\n54 * 37 = 1998\n\nThen, we add 29 to the result:\n\n1998 + 29 = 2027\n\nTherefore, the value of 29 + 54 * 37 is [2027]."
+            ],
+            [
+                "What is the value of 66 * 37 + 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2519.0,
+                2519,
+                "To solve the expression 66 * 37 + 77, first multiply 66 by 37, and then add 77 to the result.\n\n66 * 37 = 2442\n\nNow, add 77 to the product:\n\n2442 + 77 = 2519\n\nSo the value of the expression is [2519]."
+            ],
+            [
+                "What is the value of 51 / 82 * 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                49.1,
+                49.1,
+                "To calculate the value of \\( \\frac{51}{82} \\times 79 \\), you first divide 51 by 82 and then multiply the result by 79.\n\n\\( \\frac{51}{82} \\approx 0.62195122 \\) (rounded to 8 decimal places)\n\nNow, multiply this by 79:\n\n\\( 0.62195122 \\times 79 \\approx 49.13414138 \\) (rounded to 8 decimal places)\n\nSo the value of \\( \\frac{51}{82} \\times 79 \\) is approximately [49.13414138]."
+            ],
+            [
+                "What is the value of 62 * 54 + 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3380.0,
+                3380,
+                "To calculate the value of 62 * 54 + 32, we first perform the multiplication and then the addition:\n\n62 * 54 = 3348\n\nNow we add 32 to the result:\n\n3348 + 32 = 3380\n\nTherefore, the final result is [3380]."
+            ],
+            [
+                "What is the value of 53 / 3 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                883.3,
+                883.3,
+                "To solve the expression 53 / 3 * 50, we first divide 53 by 3 and then multiply the result by 50.\n\n53 / 3 = 17.6666666667 (approximately)\n\nThen we multiply this result by 50:\n\n17.6666666667 * 50 = 883.333333335\n\nSo the final result is approximately [883.33]."
+            ],
+            [
+                "What is the value of 39 + 55 * 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5374.0,
+                5374,
+                "To calculate the expression 39 + 55 * 97, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n55 * 97 = 5335\n\nThen we add the result to 39:\n39 + 5335 = 5374\n\nTherefore, the final result is [5374]."
+            ],
+            [
+                "What is the value of 59 * 6 + 45? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                399.0,
+                399,
+                "To calculate the value of 59 * 6 + 45, we first do the multiplication and then the addition:\n\n59 * 6 = 354\n354 + 45 = 399\n\nSo the final result is [399]."
+            ],
+            [
+                "What is the value of 84 - 98 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2366.0,
+                -2366,
+                "To calculate the value of 84 - 98 * 25, you need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, perform the multiplication:\n98 * 25 = 2450\n\nThen, subtract that result from 84:\n84 - 2450 = -2366\n\nSo the final result is [-2366]."
+            ],
+            [
+                "What is the value of 95 + 45 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4370.0,
+                4370,
+                "To solve the expression 95 + 45 * 95, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nFirst, multiply 45 by 95:\n45 * 95 = 4275\n\nThen, add 95 to the result:\n4275 + 95 = 4370\n\nTherefore, the value of the expression is [4370]."
+            ],
+            [
+                "What is the value of 78 * 25 + 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1993.0,
+                1993,
+                "To calculate the value of 78 * 25 + 43, we first perform the multiplication and then add the 43.\n\n78 * 25 = 1950\n1950 + 43 = 1993\n\nSo the result is [1993]."
+            ],
+            [
+                "What is the value of 72 + 26 * 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                436.0,
+                436,
+                "To solve the expression 72 + 26 * 14, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, you perform the multiplication:\n26 * 14 = 364\n\nThen, you add that result to 72:\n72 + 364 = 436\n\nSo the final result is [436]."
+            ],
+            [
+                "What is the value of 21 + 45 * 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1326.0,
+                1326,
+                "To solve the expression 21 + 45 * 29, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nSo we first multiply 45 by 29:\n\n45 * 29 = 1305\n\nThen we add 21 to the result:\n\n1305 + 21 = 1326\n\nTherefore, the value of the expression is [1326]."
+            ],
+            [
+                "What is the value of 67 - 20 * 56? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1053.0,
+                -1053,
+                "To solve the expression 67 - 20 * 56, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before subtraction, so we first multiply 20 by 56.\n\n20 * 56 = 1120\n\nNow we subtract that result from 67:\n\n67 - 1120 = -1053\n\nSo the final result is [-1053]."
+            ],
+            [
+                "What is the value of 61 - 62 * 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6015.0,
+                -6015,
+                "To solve the expression 61 - 62 * 98, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, you perform the multiplication:\n\n62 * 98 = 6076\n\nThen, you subtract that result from 61:\n\n61 - 6076 = -6015\n\nSo, the final result is [-6015]."
+            ],
+            [
+                "What is the value of 74 * 81 - 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5895.0,
+                5895,
+                "To calculate the value of 74 * 81 - 99, we first multiply 74 by 81 and then subtract 99 from the result.\n\n74 * 81 = 5,994\n\nNow we subtract 99 from 5,994:\n\n5,994 - 99 = 5,895\n\nTherefore, the result is [5,895]."
+            ],
+            [
+                "What is the value of 17 + 59 * 12? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                725.0,
+                725,
+                "To solve the expression 17 + 59 * 12, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, you should perform multiplication before addition.\n\nFirst, multiply 59 by 12:\n59 * 12 = 708\n\nThen, add 17 to the result:\n17 + 708 = 725\n\nSo, the value of 17 + 59 * 12 is [725]."
+            ],
+            [
+                "What is the value of 94 / 5 * 72? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1353.6,
+                1353.6,
+                "To find the value of 94 / 5 * 72, we should first divide 94 by 5, and then multiply the result by 72.\n\n94 / 5 = 18.8\n\nNow, multiply this result by 72:\n\n18.8 * 72 = 1353.6\n\nSo, the value of 94 / 5 * 72 is [1353.6]."
+            ],
+            [
+                "What is the value of 77 - 20 * 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -363.0,
+                -363,
+                "To calculate the value of 77 - 20 * 22, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, perform the multiplication:\n20 * 22 = 440\n\nThen, subtract the result from 77:\n77 - 440 = -363\n\nSo the final result is [-363]."
+            ],
+            [
+                "What is the value of 25 - 78 * 55? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4265.0,
+                -4265,
+                "To calculate the value of 25 - 78 * 55, we first need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, multiplication should be done before subtraction.\n\nSo first, we multiply 78 by 55:\n\n78 * 55 = 4290\n\nThen, we subtract that result from 25:\n\n25 - 4290 = -4265\n\nTherefore, the final result is [-4265]."
+            ],
+            [
+                "What is the value of 33 * 56 + 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1891.0,
+                1891,
+                "To calculate the value of 33 * 56 + 43, we first do the multiplication and then add the result to 43.\n\n33 * 56 = 1848\n\nNow we add 43 to the result of the multiplication:\n\n1848 + 43 = 1891\n\nSo the value of 33 * 56 + 43 is [1891]."
+            ],
+            [
+                "What is the value of 20 / 27 * 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                65.2,
+                65.2,
+                "To find the value of \\( \\frac{20}{27} \\times 88 \\), you first divide 20 by 27 and then multiply the result by 88.\n\n\\( \\frac{20}{27} \\approx 0.7407407407 \\)\n\nNow, multiply this by 88:\n\n\\( 0.7407407407 \\times 88 \\approx 65.18518519 \\)\n\nRounded to two decimal places, the result is approximately [65.19]."
+            ],
+            [
+                "What is the value of 37 + 27 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2602.0,
+                2602,
+                "To calculate the value of 37 + 27 * 95, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, you perform the multiplication:\n27 * 95 = 2565\n\nThen, you add the result to 37:\n37 + 2565 = 2602\n\nSo the final result is [2602]."
+            ],
+            [
+                "What is the value of 60 / 81 * 35? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25.9,
+                25.9,
+                "To calculate the value of \\( \\frac{60}{81} \\times 35 \\), you can simplify the expression step by step.\n\nFirst, let's simplify the fraction \\( \\frac{60}{81} \\) by dividing both the numerator and the denominator by their greatest common divisor, which is 3:\n\n\\( \\frac{60 ÷ 3}{81 ÷ 3} = \\frac{20}{27} \\)\n\nNow, let's multiply this simplified fraction by 35:\n\n\\( \\frac{20}{27} \\times 35 = \\frac{20 \\times 35}{27} \\)\n\n\\( \\frac{700}{27} \\)\n\nNow, let's divide 700 by 27 to get the decimal value:\n\n\\( 700 ÷ 27 \\approx 25.9259259259 \\)\n\nRounded to two decimal places, this would be approximately 25.93.\n\nSo the final result is approximately [25.93]."
+            ],
+            [
+                "What is the value of 47 + 14 * 48? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                719.0,
+                719,
+                "To solve the expression 47 + 14 * 48, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nFirst, calculate the multiplication:\n14 * 48 = 672\n\nThen, add the result to 47:\n47 + 672 = 719\n\nSo the final result is [719]."
+            ],
+            [
+                "What is the value of 77 - 5 * 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.0,
+                7,
+                "To calculate the value of 77 - 5 * 14, you need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, you perform the multiplication:\n5 * 14 = 70\n\nThen, you subtract the result from 77:\n77 - 70 = 7\n\nSo, the final result is [7]."
+            ],
+            [
+                "What is the value of 72 + 37 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                997.0,
+                997,
+                "To calculate the value of 72 + 37 * 25, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the multiplication:\n\n37 * 25 = 925\n\nThen, we add the result to 72:\n\n72 + 925 = 997\n\nSo the final result is [997]."
+            ],
+            [
+                "What is the value of 73 - 45 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2177.0,
+                -2177,
+                "To solve the expression 73 - 45 * 50, we must follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication:\n\n45 * 50 = 2250\n\nThen, we subtract the result from 73:\n\n73 - 2250 = -2177\n\nSo, the value of the expression 73 - 45 * 50 is [-2177]."
+            ]
+        ]
+    },
+    "/": {
+        "accuracy": "46/50=0.92",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "What is the value of 93 - 97 / 10? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                83.3,
+                83.3,
+                "To solve the expression 93 - 97 / 10, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nHere, division comes before subtraction, so we first divide 97 by 10 and then subtract the result from 93.\n\n97 / 10 = 9.7\n\nNow, subtract this result from 93:\n\n93 - 9.7 = 83.3\n\nSo the final result is [83.3]."
+            ],
+            [
+                "What is the value of 79 - 9 / 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                78.6,
+                78.6,
+                "To calculate the value of 79 - 9 / 22, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often abbreviated as PEMDAS.\n\nFirst, we perform the division:\n\n9 / 22 = 0.4090909090909091 (rounded to 16 decimal places)\n\nNow we subtract that result from 79:\n\n79 - 0.4090909090909091 = 78.59090909090909 (rounded to 14 decimal places)\n\nSo, the final result is approximately [78.59090909090909]."
+            ],
+            [
+                "What is the value of 22 / 13 * 83? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                140.5,
+                140.5,
+                "To calculate the value of \\( \\frac{22}{13} \\times 83 \\), you first divide 22 by 13 and then multiply the result by 83.\n\n\\( \\frac{22}{13} \\approx 1.69230769231 \\)\n\nNow, multiply this by 83:\n\n\\( 1.69230769231 \\times 83 \\approx 140.46153846153 \\)\n\nRounded to two decimal places, the result is approximately 140.46.\n\nSo, the final numeric result is [140.46]."
+            ],
+            [
+                "What is the value of 63 - 9 / 66? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                62.9,
+                62.9,
+                "To solve the expression 63 - 9 / 66, we must follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, division comes before subtraction.\n\nFirst, we divide 9 by 66:\n9 / 66 = 0.13636363636...\n\nNext, we subtract this result from 63:\n63 - 0.13636363636... ≈ 62.8636363636...\n\nRounding to a reasonable number of decimal places, for example, two decimal places, we get:\n62.86\n\nSo the final result is approximately [62.86]."
+            ],
+            [
+                "What is the value of 52 / 30 * 83? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                143.9,
+                143.9,
+                "To calculate the value of \\( \\frac{52}{30} \\times 83 \\), you first divide 52 by 30 and then multiply the result by 83.\n\n\\( \\frac{52}{30} \\approx 1.7333 \\) (repeating)\n\nNow, multiply this by 83:\n\n\\( 1.7333 \\times 83 \\approx 143.8667 \\) (repeating)\n\nRounding to four decimal places, the final result is approximately [143.8667]."
+            ],
+            [
+                "What is the value of 17 / 54 * 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                13.5,
+                13.5,
+                "To calculate the value of \\( \\frac{17}{54} \\times 43 \\), you would first divide 17 by 54 and then multiply the result by 43.\n\n\\( \\frac{17}{54} \\approx 0.3148148148 \\)\n\nNow multiply this by 43:\n\n\\( 0.3148148148 \\times 43 \\approx 13.5366666664 \\)\n\nRounding to a reasonable number of decimal places, we get:\n\n\\( 13.5367 \\)\n\nSo the value of \\( \\frac{17}{54} \\times 43 \\) is approximately [13.5367]."
+            ],
+            [
+                "What is the value of 77 / 59 * 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                88.7,
+                88.8,
+                "To calculate the value of \\( \\frac{77}{59} \\times 68 \\), we first divide 77 by 59, and then multiply the result by 68.\n\n\\( \\frac{77}{59} \\approx 1.30508474576 \\)\n\nNow, we multiply this result by 68:\n\n\\( 1.30508474576 \\times 68 \\approx 88.745762711864 \\)\n\nRounded to two decimal places, the result is approximately 88.75.\n\nSo the value of \\( \\frac{77}{59} \\times 68 \\) is approximately [88.75]."
+            ],
+            [
+                "What is the value of 71 - 53 / 91? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                70.4,
+                70.4,
+                "To solve the expression 71 - 53 / 91, we first need to follow the order of operations, known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction). According to these rules, we must perform the division before the subtraction.\n\nSo, we first divide 53 by 91:\n\n53 / 91 = 0.5824175824175824 (approximately)\n\nNow, we subtract this result from 71:\n\n71 - 0.5824175824175824 = 70.41758241758242 (approximately)\n\nRounded to two decimal places, the result would be 70.42.\n\nSo, the value of the expression 71 - 53 / 91 is approximately [70.42]."
+            ],
+            [
+                "What is the value of 11 / 75 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.9,
+                -3.9,
+                "To calculate the value of \\( \\frac{11}{75} - 4 \\), first divide 11 by 75:\n\n\\( \\frac{11}{75} = 0.146666... \\)\n\nThen subtract 4 from this result:\n\n\\( 0.146666... - 4 = -3.853333... \\)\n\nRounded to two decimal places, the result is approximately -3.85.\n\nSo the final numeric result is approximately [-3.85]."
+            ],
+            [
+                "What is the value of 80 - 5 / 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                79.9,
+                80.0,
+                "To calculate the value of 80 - 5 / 97, we first need to perform the division before subtraction due to the order of operations (PEMDAS/BODMAS).\n\nSo we divide 5 by 97, which gives us approximately 0.051546392.\n\nNow we subtract this result from 80:\n\n80 - 0.051546392 ≈ 79.948453608\n\nRounded to two decimal places, this would be 79.95.\n\nTherefore, the value of 80 - 5 / 97 is approximately [79.95]."
+            ],
+            [
+                "What is the value of 28 / 51 - 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -60.5,
+                -60.5,
+                "To solve the expression 28 / 51 - 61, first, we need to divide 28 by 51, and then subtract 61 from the result.\n\n28 divided by 51 is:\n\n28 / 51 ≈ 0.5490196078\n\nNow, subtracting 61 from this result:\n\n0.5490196078 - 61 ≈ -60.4509803922\n\nSo, the value of the expression is approximately [-60.4509803922]."
+            ],
+            [
+                "What is the value of 33 / 45 - 80? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -79.3,
+                -79.3,
+                "To solve the expression \\(33 / 45 - 80\\), we first perform the division and then the subtraction.\n\n\\(33 / 45\\) is equal to \\(0.7333...\\) (repeating decimal).\n\nNow, we subtract 80 from that result:\n\n\\(0.7333... - 80 = -79.2666...\\) (repeating decimal).\n\nSo the final result as a decimal is approximately \\([-79.2667]\\) when rounded to four decimal places."
+            ],
+            [
+                "What is the value of 9 + 30 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                14.0,
+                14,
+                "To solve the expression 9 + 30 / 6, we must follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this order, we must perform the division before the addition.\n\nSo, we first divide 30 by 6:\n\n30 / 6 = 5\n\nThen, we add the result to 9:\n\n9 + 5 = 14\n\nTherefore, the value of the expression 9 + 30 / 6 is [14]."
+            ],
+            [
+                "What is the value of 64 - 80 / 15? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                58.7,
+                58.7,
+                "To calculate the value of 64 - 80 / 15, you should first perform the division and then the subtraction, according to the order of operations (PEMDAS/BODMAS):\n\n80 / 15 = 5.3333 (repeating)\n\nNow subtract this result from 64:\n\n64 - (80 / 15) = 64 - 5.3333 = 58.6667 (repeating)\n\nSo the final result as a decimal is [58.6667]."
+            ],
+            [
+                "What is the value of 35 - 73 / 33? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                32.8,
+                32.8,
+                "To solve the expression \\( 35 - \\frac{73}{33} \\), we first need to perform the division and then the subtraction.\n\nFirst, divide 73 by 33 to get the decimal form:\n\n\\( \\frac{73}{33} \\approx 2.2121 \\) (rounded to four decimal places)\n\nNow, subtract that result from 35:\n\n\\( 35 - 2.2121 \\approx 32.7879 \\) (rounded to four decimal places)\n\nSo the value of the expression is approximately [32.7879]."
+            ],
+            [
+                "What is the value of 74 / 54 * 55? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                75.4,
+                75.4,
+                "To calculate the value of \\( \\frac{74}{54} \\times 55 \\), you first divide 74 by 54 and then multiply the result by 55.\n\n\\( \\frac{74}{54} \\times 55 = \\frac{74}{1} \\times \\frac{1}{54} \\times 55 \\)\n\n\\( = \\frac{74 \\times 55}{54} \\)\n\n\\( = \\frac{4070}{54} \\)\n\nNow let's divide 4070 by 54 to get the decimal result:\n\n\\( 4070 ÷ 54 ≈ 75.37037037037 \\)\n\nRounded to two decimal places, the result is approximately 75.37.\n\nSo the value of \\( \\frac{74}{54} \\times 55 \\) is approximately [75.37]."
+            ],
+            [
+                "What is the value of 69 / 96 * 73? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                52.5,
+                52.5,
+                "To solve the expression 69 / 96 * 73, we first divide 69 by 96 and then multiply the result by 73.\n\n69 / 96 = 0.71875\n\nNow, we multiply this result by 73:\n\n0.71875 * 73 ≈ 52.46875\n\nTherefore, the value of the expression is approximately [52.46875]."
+            ],
+            [
+                "What is the value of 28 / 3 - 91? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -81.7,
+                -81.7,
+                "Let's solve the expression step by step:\n\n28 / 3 - 91\n\nFirst, we divide 28 by 3:\n\n28 / 3 = 9.3333...\n\nThen we subtract 91 from the result:\n\n9.3333... - 91 = -81.6666...\n\nSo the final result as a decimal is approximately:\n\n[-81.6666]"
+            ],
+            [
+                "What is the value of 77 / 38 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                12.2,
+                12.2,
+                "To calculate the value of \\( \\frac{77}{38} \\times 6 \\), you first divide 77 by 38, and then multiply the result by 6.\n\n\\( \\frac{77}{38} \\approx 2.02631578947 \\)\n\nNext, multiply this result by 6:\n\n\\( 2.02631578947 \\times 6 \\approx 12.15789473682 \\)\n\nRounded to two decimal places, the result is approximately 12.16.\n\nSo, the value of \\( \\frac{77}{38} \\times 6 \\) is approximately [12.16]."
+            ],
+            [
+                "What is the value of 33 / 45 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8.7,
+                8.7,
+                "To solve the expression 33 / 45 + 8, you first divide 33 by 45, and then add 8 to the result.\n\n33 divided by 45 is 0.733333... (repeating)\n\nNow, add 8 to this result:\n\n0.733333... + 8 = 8.733333...\n\nSo the final result, rounded to two decimal places, is approximately [8.73]."
+            ],
+            [
+                "What is the value of 65 / 22 - 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -58.0,
+                -58.0,
+                "To calculate the value of \\( \\frac{65}{22} - 61 \\), we first compute the division and then subtract 61 from the result.\n\n\\( \\frac{65}{22} \\approx 2.9545 \\) (rounded to four decimal places)\n\nNow we subtract 61 from this result:\n\n\\( 2.9545 - 61 \\approx -58.0455 \\)\n\nTherefore, the final result is approximately [-58.0455]."
+            ],
+            [
+                "What is the value of 35 / 97 * 72? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                26.0,
+                26.0,
+                "To calculate the value of \\( \\frac{35}{97} \\times 72 \\), you first divide 35 by 97 and then multiply the result by 72.\n\n\\( \\frac{35}{97} \\approx 0.360824742268 \\) (rounded to 12 decimal places)\n\nNow, multiply this by 72:\n\n\\( 0.360824742268 \\times 72 \\approx 25.9793814438 \\) (rounded to 10 decimal places)\n\nSo, the value of \\( \\frac{35}{97} \\times 72 \\) is approximately [25.9793814438]."
+            ],
+            [
+                "What is the value of 60 - 19 / 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                59.8,
+                59.8,
+                "To solve this expression, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Division comes before subtraction, so we first divide 19 by 92.\n\n19 / 92 = 0.20652173913 (rounded to 11 decimal places)\n\nNow, subtract that result from 60:\n\n60 - 0.20652173913 = 59.79347826087 (rounded to 11 decimal places)\n\nSo the final result, rounded to two decimal places, is [59.79]."
+            ],
+            [
+                "What is the value of 19 / 40 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -12.5,
+                -12.5,
+                "To find the value of \\( \\frac{19}{40} - 13 \\), let's first convert the fraction to a decimal and then subtract 13 from it.\n\n\\( \\frac{19}{40} = 0.475 \\)\n\nNow, subtracting 13 from 0.475:\n\n\\( 0.475 - 13 = -12.525 \\)\n\nSo the final result is [-12.525]."
+            ],
+            [
+                "What is the value of 38 / 83 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                11.4,
+                11.4,
+                "To calculate the value of \\( \\frac{38}{83} \\times 25 \\), you first divide 38 by 83 and then multiply the result by 25.\n\n\\( \\frac{38}{83} \\approx 0.4578313253 \\)\n\nNow, multiply this by 25:\n\n\\( 0.4578313253 \\times 25 \\approx 11.4457831325 \\)\n\nRounded to two decimal places, this would be approximately 11.45.\n\nSo the final result is approximately [11.45]."
+            ],
+            [
+                "What is the value of 31 / 97 * 42? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                13.4,
+                13.4,
+                "To calculate the value of \\( \\frac{31}{97} \\times 42 \\), we first divide 31 by 97 and then multiply the result by 42.\n\n\\( \\frac{31}{97} \\approx 0.31958762886598 \\) (rounded to 14 decimal places for the sake of this calculation)\n\nNow, we multiply this result by 42:\n\n\\( 0.31958762886598 \\times 42 \\approx 13.42267961237416 \\)\n\nRounded to two decimal places, this is approximately 13.42.\n\nSo, the value of \\( \\frac{31}{97} \\times 42 \\) is approximately [13.42]."
+            ],
+            [
+                "What is the value of 52 - 29 / 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                51.0,
+                51,
+                "To solve the expression 52 - 29 / 29, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, you perform the division:\n\n29 / 29 = 1\n\nThen, you subtract the result from 52:\n\n52 - 1 = 51\n\nSo the final result is [51]."
+            ],
+            [
+                "What is the value of 47 + 73 / 60? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                48.2,
+                48.2,
+                "To calculate the value of this expression, you need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, division comes before addition.\n\nFirst, divide 73 by 60:\n73 / 60 = 1.216666...\n\nThen, add this result to 47:\n47 + 1.216666... = 48.216666...\n\nRounded to two decimal places, the result would be 48.22. So, the value of the expression 47 + 73 / 60 is approximately [48.22]."
+            ],
+            [
+                "What is the value of 19 / 72 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9.3,
+                9.2,
+                "To calculate the value of \\( \\frac{19}{72} + 9 \\), you first convert the whole number 9 into a fraction with the same denominator as \\( \\frac{19}{72} \\). The equivalent fraction for 9 with a denominator of 72 is \\( \\frac{9 \\times 72}{72} = \\frac{648}{72} \\).\n\nNow you can add the two fractions:\n\n\\( \\frac{19}{72} + \\frac{648}{72} = \\frac{19 + 648}{72} = \\frac{667}{72} \\)\n\nTo convert this into a decimal, you divide the numerator by the denominator:\n\n\\( \\frac{667}{72} = 9.236111... \\)\n\nRounded to two decimal places, the result is approximately 9.24. So, the value of \\( \\frac{19}{72} + 9 \\) as a decimal is approximately [9.24]."
+            ],
+            [
+                "What is the value of 3 + 65 / 47? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.4,
+                4.4,
+                "To solve the expression 3 + 65 / 47, we must first perform the division and then add the result to 3.\n\n65 divided by 47 is approximately 1.3829787234042553.\n\nNow we add that result to 3:\n\n3 + 1.3829787234042553 ≈ 4.382978723404255\n\nRounded to two decimal places, the result is approximately 4.38.\n\nSo, the value of 3 + 65 / 47 is approximately [4.38]."
+            ],
+            [
+                "What is the value of 40 - 6 / 26? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                39.8,
+                39.8,
+                "To find the value of 40 - 6 / 26, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, division comes before subtraction.\n\nFirst, divide 6 by 26:\n6 / 26 = 0.23076923076923078 (approximately)\n\nThen subtract that result from 40:\n40 - 0.23076923076923078 = 39.76923076923077 (approximately)\n\nSo the final result, rounded to two decimal places, is [39.77]."
+            ],
+            [
+                "What is the value of 91 / 16 * 90? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                511.9,
+                511.9,
+                "To calculate the value of \\( \\frac{91}{16} \\times 90 \\), we first perform the division and then the multiplication:\n\n\\( \\frac{91}{16} \\times 90 = 5.6875 \\times 90 \\)\n\nNow, we multiply 5.6875 by 90:\n\n\\( 5.6875 \\times 90 = 511.875 \\)\n\nSo the result is [511.875]."
+            ],
+            [
+                "What is the value of 21 / 6 * 41? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                143.5,
+                143.5,
+                "To solve the expression 21 / 6 * 41, we follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we perform the division:\n\n21 / 6 = 3.5\n\nNext, we multiply the result by 41:\n\n3.5 * 41 = 143.5\n\nSo the final result is [143.5]."
+            ],
+            [
+                "What is the value of 43 + 12 / 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                43.1,
+                43.1,
+                "To solve the expression 43 + 12 / 96, we must first perform the division according to the order of operations (PEMDAS/BODMAS):\n\n12 / 96 = 0.125\n\nNow, we add this result to 43:\n\n43 + 0.125 = 43.125\n\nSo the final result is [43.125]."
+            ],
+            [
+                "What is the value of 12 / 55 * 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                21.6,
+                21.6,
+                "To calculate the value of \\( \\frac{12}{55} \\times 99 \\), you can simplify the calculation by first reducing the fraction or by performing the multiplication first and then dividing. I'll show you both methods:\n\nMethod 1: Simplify before multiplying\n\\( \\frac{12}{55} \\times 99 \\) can be simplified by dividing both 12 and 99 by 3:\n\n\\( \\frac{4}{55} \\times 33 \\)\n\nNow, multiply 4 by 33:\n\\( 4 \\times 33 = 132 \\)\n\nFinally, divide 132 by 55:\n\\( \\frac{132}{55} = 2.4 \\)\n\nSo, the value is [2.4].\n\nMethod 2: Multiply first, then divide\n\\( \\frac{12}{55} \\times 99 = \\frac{12 \\times 99}{55} \\)\n\nNow, multiply 12 by 99:\n\\( 12 \\times 99 = 1188 \\)\n\nThen, divide 1188 by 55:\n\\( \\frac{1188}{55} = 21.6 \\)\n\nSo, the value is [21.6].\n\nHowever, there's a mistake in my calculation. Let's correct that:\n\n\\( 12 \\times 99 = 1188 \\)\n\nThen, divide 1188 by 55:\n\\( \\frac{1188}{55} = 21.6 \\)\n\nThe correct value is [21.6]."
+            ],
+            [
+                "What is the value of 25 + 88 / 24? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                28.7,
+                28.7,
+                "To solve the expression 25 + 88 / 24, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nFirst, perform the division:\n\n88 / 24 = 3.66666666667 (rounded to 11 decimal places)\n\nThen, add the result to 25:\n\n25 + 3.66666666667 = 28.66666666667 (rounded to 11 decimal places)\n\nSo the final result is approximately [28.67] when rounded to two decimal places."
+            ],
+            [
+                "What is the value of 43 / 19 * 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                174.3,
+                174,
+                "To find the value of \\( \\frac{43}{19} \\times 77 \\), we first divide 43 by 19 and then multiply the result by 77. Let's do the calculation:\n\n\\( \\frac{43}{19} \\approx 2.263157894736842 \\) (rounded to 15 decimal places)\n\nNow we multiply this result by 77:\n\n\\( 2.263157894736842 \\times 77 \\approx 174.263157894736842 \\)\n\nRounding to the nearest whole number, we get:\n\n\\( 174.263157894736842 \\approx 174 \\)\n\nSo the final result is approximately [174]."
+            ],
+            [
+                "What is the value of 38 / 36 * 26? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                27.4,
+                27.4,
+                "To calculate the value of \\( \\frac{38}{36} \\times 26 \\), you can first simplify the fraction:\n\n\\( \\frac{38}{36} = \\frac{19}{18} \\)\n\nThen multiply the simplified fraction by 26:\n\n\\( \\frac{19}{18} \\times 26 = \\frac{19 \\times 26}{18} \\)\n\n\\( \\frac{19 \\times 26}{18} = \\frac{494}{18} \\)\n\nNow, divide 494 by 18 to get the decimal result:\n\n\\( \\frac{494}{18} \\approx 27.4444\\ldots \\)\n\nSo the final result is approximately [27.4444]."
+            ],
+            [
+                "What is the value of 11 - 73 / 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9.5,
+                9.5,
+                "To calculate the value of \\(11 - \\frac{73}{50}\\), you first need to perform the division and then the subtraction.\n\n\\(\\frac{73}{50}\\) as a decimal is \\(1.46\\).\n\nNow subtract this from \\(11\\):\n\n\\(11 - 1.46 = 9.54\\)\n\nSo the value of \\(11 - \\frac{73}{50}\\) is [9.54]."
+            ],
+            [
+                "What is the value of 27 / 13 + 28? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                30.1,
+                30.1,
+                "To solve the expression \\( \\frac{27}{13} + 28 \\), we first divide 27 by 13 and then add 28 to the result.\n\n\\( \\frac{27}{13} \\approx 2.07692307692 \\)\n\nNow, we add 28 to this result:\n\n\\( 2.07692307692 + 28 = 30.07692307692 \\)\n\nRounded to two decimal places, the result is approximately 30.08.\n\nSo, the value of \\( \\frac{27}{13} + 28 \\) is approximately [30.08]."
+            ],
+            [
+                "What is the value of 53 / 63 + 76? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                76.8,
+                76.8,
+                "To solve the expression \\( \\frac{53}{63} + 76 \\), we first divide 53 by 63 and then add 76 to the result.\n\n\\( \\frac{53}{63} \\approx 0.84127 \\) (rounded to five decimal places)\n\nNow, we add this result to 76:\n\n\\( 0.84127 + 76 = 76.84127 \\)\n\nSo, the final result is approximately [76.84127]."
+            ],
+            [
+                "What is the value of 67 - 91 / 38? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                64.6,
+                64.6,
+                "To solve the expression 67 - 91 / 38, we first need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the division before the subtraction.\n\nSo, we first divide 91 by 38:\n\n91 / 38 = 2.394736842105263 (rounded to 15 decimal places)\n\nNow, we subtract this result from 67:\n\n67 - 2.394736842105263 = 64.60526315789474 (rounded to 14 decimal places)\n\nTherefore, the final result is approximately [64.60526315789474]."
+            ],
+            [
+                "What is the value of 70 / 13 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10.8,
+                10.8,
+                "To calculate the value of \\( \\frac{70}{13} \\times 2 \\), you first divide 70 by 13 and then multiply the result by 2.\n\n\\( \\frac{70}{13} \\approx 5.3846153846 \\)\n\nNow, multiply this result by 2:\n\n\\( 5.3846153846 \\times 2 \\approx 10.7692307692 \\)\n\nSo, the value of \\( \\frac{70}{13} \\times 2 \\) as a decimal is approximately [10.7692307692]."
+            ],
+            [
+                "What is the value of 35 + 4 / 71? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                35.1,
+                35.1,
+                "To solve the expression 35 + 4 / 71, you need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Division comes before addition, so you first divide 4 by 71, and then add the result to 35.\n\n4 / 71 = 0.056338028 (rounded to 9 decimal places)\n\nNow, add this to 35:\n\n35 + 0.056338028 = 35.056338028\n\nRounded to two decimal places, this would be 35.06.\n\nSo, the value of 35 + 4 / 71 is approximately [35.06]."
+            ],
+            [
+                "What is the value of 93 / 64 * 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                90.1,
+                90.1,
+                "To find the value of \\( \\frac{93}{64} \\times 62 \\), we first divide 93 by 64 and then multiply the result by 62.\n\n\\( \\frac{93}{64} \\approx 1.453125 \\)\n\nNow, we multiply this result by 62:\n\n\\( 1.453125 \\times 62 \\approx 90.09375 \\)\n\nSo, the final result is approximately [90.09375]."
+            ],
+            [
+                "What is the value of 49 + 71 / 93? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                49.8,
+                49.8,
+                "To solve the expression 49 + 71 / 93, you should first perform the division and then the addition, according to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 71 by 93:\n71 / 93 ≈ 0.76344 (rounded to five decimal places)\n\nThen, add the result to 49:\n49 + 0.76344 ≈ 49.76344\n\nSo the final result, rounded to five decimal places, is [49.76344]."
+            ],
+            [
+                "What is the value of 24 - 68 / 81? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                23.2,
+                23.2,
+                "To solve the expression 24 - 68 / 81, you need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Division comes before subtraction, so you must divide 68 by 81 first.\n\n68 / 81 = 0.8395061728395062 (rounded to 16 decimal places)\n\nNow subtract that result from 24:\n\n24 - 0.8395061728395062 = 23.160493827160494 (rounded to 16 decimal places)\n\nSo the final result, rounded to two decimal places, is approximately:\n\n23.160493827160494 ≈ 23.16\n\nTherefore, the value of the expression 24 - 68 / 81 is approximately [23.16]."
+            ],
+            [
+                "What is the value of 5 / 55 * 64? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5.8,
+                5.8,
+                "To calculate the value of \\( \\frac{5}{55} \\times 64 \\), you can first simplify the fraction \\( \\frac{5}{55} \\) by dividing both the numerator and the denominator by 5:\n\n\\( \\frac{5 \\div 5}{55 \\div 5} = \\frac{1}{11} \\)\n\nNow multiply this simplified fraction by 64:\n\n\\( \\frac{1}{11} \\times 64 = \\frac{64}{11} \\)\n\nTo get the decimal result, divide 64 by 11:\n\n\\( \\frac{64}{11} = 5.\\overline{81} \\)\n\nSo the result as a decimal, rounded to two decimal places, would be approximately [5.82]."
+            ],
+            [
+                "What is the value of 1 - 30 / 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.4,
+                -0.4,
+                "To calculate the value of 1 - 30 / 22, you first need to perform the division:\n\n30 / 22 = 1.36363636... (This is a repeating decimal where 36 repeats indefinitely.)\n\nNow, subtract this result from 1:\n\n1 - 1.36363636... = -0.36363636...\n\nThe final result as a decimal is approximately -0.3636. \n\nSo, the value of 1 - 30 / 22 is approximately [-0.3636]."
+            ],
+            [
+                "What is the value of 10 / 40 * 16? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.0,
+                4,
+                "To calculate the value of \\( \\frac{10}{40} \\times 16 \\), you first simplify the fraction:\n\n\\( \\frac{10}{40} = \\frac{1}{4} \\)\n\nThen you multiply by 16:\n\n\\( \\frac{1}{4} \\times 16 = 4 \\)\n\nSo the value of \\( \\frac{10}{40} \\times 16 \\) is [4]."
+            ]
+        ]
+    }
+}

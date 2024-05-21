@@ -1,0 +1,1227 @@
+{
+    "+": {
+        "accuracy": "45/50=0.9",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "[Example Question]: 781 * 169 + 603\n[Answer]: 132592\n\nWhat is the value of 741 * 758 + 370? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                562048.0,
+                561928,
+                "To calculate the value of 741 * 758 + 370, we first perform the multiplication and then add 370 to the result.\n\n741 * 758 = 561,558\n\nNow, we add 370 to the product:\n\n561,558 + 370 = 561,928\n\nSo the final result is [561,928]."
+            ],
+            [
+                "[Example Question]: 114 - 556 + 524\n[Answer]: 82\n\nWhat is the value of 175 - 510 + 402? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                67.0,
+                67,
+                "To calculate the value of 175 - 510 + 402, we perform the operations in sequence:\n\n175 - 510 = -335\n-335 + 402 = 67\n\nSo the final result is [67]."
+            ],
+            [
+                "[Example Question]: 411 - 65 + 281\n[Answer]: 627\n\nWhat is the value of 415 - 311 + 171? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                275.0,
+                275,
+                "To calculate the value of 415 - 311 + 171, we perform the operations in the following order:\n\n1. Subtract 311 from 415:\n415 - 311 = 104\n\n2. Add 171 to the result:\n104 + 171 = 275\n\nTherefore, the final result is [275]."
+            ],
+            [
+                "[Example Question]: 505 / 886 + 118\n[Answer]: 118.56997742663657\n\nWhat is the value of 174 / 937 + 488? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                488.2,
+                488.2,
+                "To calculate the value of 174 / 937 + 488, we first divide 174 by 937 and then add 488 to the result.\n\n174 / 937 = 0.18569904126719457 (approximately)\n\nNow, we add 488 to this result:\n\n0.18569904126719457 + 488 = 488.18569904126719457\n\nSo, the final result is approximately [488.1857] when rounded to four decimal places."
+            ],
+            [
+                "[Example Question]: 570 + 586 * 172\n[Answer]: 101362\n\nWhat is the value of 316 + 741 * 345? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                255961.0,
+                255961,
+                "To calculate the value of 316 + 741 * 345, we first need to perform the multiplication and then add the result to 316.\n\n741 * 345 = 255645\n\nNow, we add 316 to the result of the multiplication:\n\n255645 + 316 = 255961\n\nSo the value of 316 + 741 * 345 is [255961]."
+            ],
+            [
+                "[Example Question]: 759 + 458 / 188\n[Answer]: 761.436170212766\n\nWhat is the value of 685 + 116 / 438? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                685.3,
+                685.3,
+                "To solve the expression 685 + 116 / 438, we first need to perform the division and then add the result to 685.\n\n116 / 438 = 0.2648401826484018 (rounded to 18 decimal places)\n\nNow, we add this result to 685:\n\n685 + 0.2648401826484018 = 685.2648401826484018\n\nRounded to three decimal places, the result is 685.265.\n\nSo the value of 685 + 116 / 438 is approximately [685.265]."
+            ],
+            [
+                "[Example Question]: 415 - 82 + 924\n[Answer]: 1257\n\nWhat is the value of 845 - 500 + 794? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1139.0,
+                1139,
+                "To calculate the value of 845 - 500 + 794, we perform the operations in the following order:\n\n1. Subtract 500 from 845:\n   845 - 500 = 345\n\n2. Add 794 to the result:\n   345 + 794 = 1139\n\nTherefore, the final result is [1139]."
+            ],
+            [
+                "[Example Question]: 355 + 280 / 217\n[Answer]: 356.2903225806452\n\nWhat is the value of 564 + 626 / 59? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                574.6,
+                574.6,
+                "To solve the expression 564 + 626 / 59, we first need to perform the division and then add the result to 564.\n\n626 / 59 = 10.610169491525424\n\nNow, we add this result to 564:\n\n564 + 10.610169491525424 = 574.6101694915254\n\nSo the value of the expression is [574.6101694915254]."
+            ],
+            [
+                "[Example Question]: 451 + 330 * 9\n[Answer]: 3421\n\nWhat is the value of 76 + 615 * 208? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                127996.0,
+                127996,
+                "To calculate the value of 76 + 615 * 208, we first perform the multiplication and then add the result to 76.\n\n615 * 208 = 127920\n\nNow we add 76 to the result of the multiplication:\n\n127920 + 76 = 127996\n\nSo the value of 76 + 615 * 208 is [127996]."
+            ],
+            [
+                "[Example Question]: 589 + 810 * 373\n[Answer]: 302719\n\nWhat is the value of 346 + 710 * 978? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                694726.0,
+                694726,
+                "To calculate the value of 346 + 710 * 978, we first perform the multiplication and then the addition:\n\n710 * 978 = 694380\n346 + 694380 = 694726\n\nSo the value of 346 + 710 * 978 is [694726]."
+            ],
+            [
+                "[Example Question]: 858 + 36 / 156\n[Answer]: 858.2307692307693\n\nWhat is the value of 90 + 313 / 407? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                90.8,
+                90.8,
+                "To calculate the value of 90 + 313 / 407, we first need to perform the division and then add the result to 90.\n\n313 divided by 407 is approximately 0.768798\n\nNow, we add this result to 90:\n\n90 + 0.768798 ≈ 90.768798\n\nSo the value of 90 + 313 / 407 as a decimal is approximately [90.768798]."
+            ],
+            [
+                "[Example Question]: 728 + 647 / 461\n[Answer]: 729.4034707158352\n\nWhat is the value of 318 + 524 / 689? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                318.8,
+                318.8,
+                "To solve the expression 318 + 524 / 689, we first need to perform the division before the addition due to the order of operations (PEMDAS/BODMAS).\n\n524 divided by 689 equals approximately 0.76052249637155.\n\nNow, we add this result to 318:\n\n318 + 0.76052249637155 ≈ 318.76052249637155\n\nSo, the value of the expression is approximately [318.76052249637155]."
+            ],
+            [
+                "[Example Question]: 570 + 791 / 757\n[Answer]: 571.0449141347424\n\nWhat is the value of 996 + 96 / 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                997.7,
+                997.7,
+                "To solve the expression 996 + 96 / 57, we first need to perform the division before the addition due to the order of operations (PEMDAS/BODMAS).\n\n96 / 57 = 1.6842105263157894\n\nNow, we add this result to 996:\n\n996 + 1.6842105263157894 = 997.6842105263157894\n\nRounded to a reasonable number of decimal places, the result is approximately 997.6842.\n\nSo the value of 996 + 96 / 57 is approximately [997.6842]."
+            ],
+            [
+                "[Example Question]: 749 - 820 + 449\n[Answer]: 378\n\nWhat is the value of 766 - 917 + 487? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                336.0,
+                336,
+                "To solve the expression 766 - 917 + 487, we perform the operations in sequence from left to right:\n\nFirst, subtract 917 from 766:\n766 - 917 = -151\n\nThen, add 487 to the result:\n-151 + 487 = 336\n\nSo the final result is [336]."
+            ],
+            [
+                "[Example Question]: 569 + 863 / 450\n[Answer]: 570.9177777777778\n\nWhat is the value of 647 + 505 / 102? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                652.0,
+                652.0,
+                "To solve the expression 647 + 505 / 102, we first need to perform the division before the addition due to the order of operations (PEMDAS/BODMAS).\n\n505 / 102 = 4.950980392156863\n\nNow, we add this result to 647:\n\n647 + 4.950980392156863 = 651.950980392156863\n\nRounded to a reasonable number of decimal places, the result is approximately 651.951.\n\nSo, the value of the expression is [651.951]."
+            ],
+            [
+                "[Example Question]: 548 + 63 * 951\n[Answer]: 60461\n\nWhat is the value of 78 + 428 * 588? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                251742.0,
+                251742,
+                "To find the value of 78 + 428 * 588, we first need to perform the multiplication and then add the result to 78.\n\n428 * 588 = 251664\n\nNow, we add 78 to the result of the multiplication:\n\n251664 + 78 = 251742\n\nSo the value of 78 + 428 * 588 is [251742]."
+            ],
+            [
+                "[Example Question]: 793 - 387 + 922\n[Answer]: 1328\n\nWhat is the value of 80 - 887 + 954? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                147.0,
+                147,
+                "To calculate the value of 80 - 887 + 954, we perform the operations in sequence:\n\n1. Subtract 887 from 80:\n80 - 887 = -807\n\n2. Add 954 to the result of the first operation:\n-807 + 954 = 147\n\nSo the final result is [147]."
+            ],
+            [
+                "[Example Question]: 685 + 260 * 673\n[Answer]: 175665\n\nWhat is the value of 238 + 150 * 684? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                102838.0,
+                102838,
+                "To calculate the value of 238 + 150 * 684, we first need to perform the multiplication and then add the result to 238.\n\n150 * 684 = 102600\n\nNow, we add 238 to the result of the multiplication:\n\n102600 + 238 = 102838\n\nSo the value of 238 + 150 * 684 is [102838]."
+            ],
+            [
+                "[Example Question]: 282 + 553 * 575\n[Answer]: 318257\n\nWhat is the value of 289 + 357 * 539? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                192712.0,
+                192712,
+                "To solve the expression 289 + 357 * 539, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nFirst, we multiply 357 by 539:\n357 * 539 = 192423\n\nNext, we add 289 to the result of the multiplication:\n192423 + 289 = 192712\n\nTherefore, the value of the expression is [192712]."
+            ],
+            [
+                "[Example Question]: 433 + 154 / 710\n[Answer]: 433.2169014084507\n\nWhat is the value of 627 + 207 / 404? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                627.5,
+                627.5,
+                "To calculate the value of 627 + 207 / 404, we first need to perform the division and then add the result to 627.\n\n207 divided by 404 equals 0.5123762376237624 (rounded to 16 decimal places).\n\nNow, we add this result to 627:\n\n627 + 0.5123762376237624 = 627.5123762376237624\n\nRounded to the nearest ten-thousandth (four decimal places), the result is 627.5124.\n\nSo the value of 627 + 207 / 404 is approximately [627.5124]."
+            ],
+            [
+                "[Example Question]: 7 + 78 / 834\n[Answer]: 7.093525179856115\n\nWhat is the value of 564 + 908 / 248? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                567.7,
+                567.7,
+                "To solve the expression 564 + 908 / 248, we first need to perform the division and then add the result to 564.\n\n908 / 248 = 3.66129032 (rounded to 8 decimal places)\n\nNow, we add this result to 564:\n\n564 + 3.66129032 = 567.66129032 (rounded to 8 decimal places)\n\nSo the value of the expression is approximately [567.66129032]."
+            ],
+            [
+                "[Example Question]: 206 / 194 + 490\n[Answer]: 491.0618556701031\n\nWhat is the value of 234 / 200 + 39? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                40.2,
+                40.2,
+                "To calculate the value of 234 / 200 + 39, we first divide 234 by 200 and then add 39 to the result.\n\n234 / 200 = 1.17\n\nNow, we add 39 to 1.17:\n\n1.17 + 39 = 40.17\n\nSo the final result is [40.17]."
+            ],
+            [
+                "[Example Question]: 469 + 237 / 956\n[Answer]: 469.2479079497908\n\nWhat is the value of 131 + 472 / 27? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                148.5,
+                148.5,
+                "To calculate the value of 131 + 472 / 27, we first need to perform the division and then add the result to 131.\n\n472 divided by 27 is approximately 17.48148148148148.\n\nNow, we add this result to 131:\n\n131 + 17.48148148148148 ≈ 148.48148148148148\n\nSo, the value of 131 + 472 / 27 as a decimal is approximately [148.48148148148148]."
+            ],
+            [
+                "[Example Question]: 403 - 169 + 69\n[Answer]: 303\n\nWhat is the value of 519 - 72 + 804? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1251.0,
+                1251,
+                "To calculate the value of 519 - 72 + 804, we perform the operations in the order they appear:\n\nFirst, subtract 72 from 519:\n519 - 72 = 447\n\nNext, add 804 to the result:\n447 + 804 = 1251\n\nTherefore, the final result is [1251]."
+            ],
+            [
+                "[Example Question]: 792 + 129 / 327\n[Answer]: 792.394495412844\n\nWhat is the value of 541 + 717 / 925? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                541.8,
+                541.8,
+                "To calculate the value of 541 + 717 / 925, we first need to perform the division and then add the result to 541.\n\n717 divided by 925 is:\n\n717 / 925 = 0.7751351351351351\n\nNow, we add this result to 541:\n\n541 + 0.7751351351351351 = 541.7751351351351\n\nSo the final result is [541.7751351351351]."
+            ],
+            [
+                "[Example Question]: 656 / 54 + 210\n[Answer]: 222.14814814814815\n\nWhat is the value of 633 / 966 + 297? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                297.7,
+                297.7,
+                "To find the value of 633 / 966 + 297, we first divide 633 by 966 and then add 297 to the result.\n\n633 / 966 = 0.65548780487805 (approximately)\n\nNow, we add 297 to this result:\n\n0.65548780487805 + 297 = 297.65548780487805\n\nSo the final result is approximately [297.65548780487805]."
+            ],
+            [
+                "[Example Question]: 8 + 162 * 33\n[Answer]: 5354\n\nWhat is the value of 887 + 889 * 708? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                630299.0,
+                630179,
+                "To calculate the value of 887 + 889 * 708, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nSo, we first calculate 889 * 708:\n889 * 708 = 629292\n\nThen we add 887 to the result:\n629292 + 887 = 630179\n\nTherefore, the value of 887 + 889 * 708 is [630179]."
+            ],
+            [
+                "[Example Question]: 741 - 295 + 31\n[Answer]: 477\n\nWhat is the value of 846 - 889 + 961? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                918.0,
+                918,
+                "To solve the expression 846 - 889 + 961, we perform the operations in sequence from left to right:\n\n846 - 889 = -43 (since 889 is greater than 846, the result is negative)\nNow, add 961 to the result:\n-43 + 961 = 918\n\nSo the final result is [918]."
+            ],
+            [
+                "[Example Question]: 247 + 708 * 562\n[Answer]: 398143\n\nWhat is the value of 125 + 640 * 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                36605.0,
+                36605,
+                "To calculate the value of 125 + 640 * 57, we first need to perform the multiplication and then add the result to 125.\n\n640 * 57 = 36480\n\nNow, we add 125 to the result of the multiplication:\n\n36480 + 125 = 36605\n\nSo the value of 125 + 640 * 57 is [36605]."
+            ],
+            [
+                "[Example Question]: 661 + 728 / 969\n[Answer]: 661.7512899896801\n\nWhat is the value of 760 + 547 / 415? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                761.3,
+                761.3,
+                "To calculate the value of 760 + 547 / 415, we first need to perform the division and then add the result to 760.\n\n547 / 415 = 1.3180722891566265 (rounded to 16 decimal places)\n\nNow, we add this result to 760:\n\n760 + 1.3180722891566265 = 761.3180722891566265\n\nRounded to the nearest decimal, the result is [761.3]."
+            ],
+            [
+                "[Example Question]: 473 / 931 + 146\n[Answer]: 146.50805585392052\n\nWhat is the value of 969 / 974 + 151? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                152.0,
+                152.0,
+                "To calculate the value of 969 / 974 + 151, we first perform the division and then add 151 to the result.\n\n969 / 974 = 0.994864\n\nNow, we add 151 to this result:\n\n0.994864 + 151 = 151.994864\n\nSo the final result is [151.994864]."
+            ],
+            [
+                "[Example Question]: 158 + 188 * 45\n[Answer]: 8618\n\nWhat is the value of 273 + 344 * 657? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                226281.0,
+                226281,
+                "To calculate the value of 273 + 344 * 657, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nFirst, we multiply 344 by 657:\n344 * 657 = 226008\n\nNext, we add 273 to the result of the multiplication:\n273 + 226008 = 226281\n\nTherefore, the value of 273 + 344 * 657 is [226281]."
+            ],
+            [
+                "[Example Question]: 378 - 258 + 677\n[Answer]: 797\n\nWhat is the value of 97 - 709 + 776? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                164.0,
+                164,
+                "To solve the expression 97 - 709 + 776, we perform the operations in sequence:\n\n1. Subtract 709 from 97:\n97 - 709 = -612\n\n2. Add 776 to the result:\n-612 + 776 = 164\n\nSo the value of the expression is [164]."
+            ],
+            [
+                "[Example Question]: 716 + 526 / 380\n[Answer]: 717.3842105263158\n\nWhat is the value of 404 + 784 / 823? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                405.0,
+                405.0,
+                "To solve the expression 404 + 784 / 823, we first need to perform the division and then add the result to 404.\n\n784 / 823 = 0.9526159921026653 (approximately)\n\nNow, we add this result to 404:\n\n404 + 0.9526159921026653 = 404.9526159921026653\n\nRounded to a reasonable number of decimal places, the result is approximately 404.953.\n\nSo the value of 404 + 784 / 823 is [404.953]."
+            ],
+            [
+                "[Example Question]: 228 - 943 + 705\n[Answer]: -10\n\nWhat is the value of 397 - 732 + 822? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                487.0,
+                487,
+                "To calculate the value of 397 - 732 + 822, we perform the operations in sequence:\n\n397 - 732 = -335\n-335 + 822 = 487\n\nSo the final result is [487]."
+            ],
+            [
+                "[Example Question]: 844 + 902 / 521\n[Answer]: 845.7312859884837\n\nWhat is the value of 562 + 626 / 444? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                563.4,
+                563.4,
+                "To solve the expression 562 + 626 / 444, we first need to perform the division and then add the result to 562.\n\n626 / 444 = 1.4101801801801801 (approximately)\n\nNow, we add this result to 562:\n\n562 + 1.4101801801801801 = 563.4101801801802 (approximately)\n\nSo the value of the expression is approximately [563.4101801801802]."
+            ],
+            [
+                "[Example Question]: 782 + 306 / 559\n[Answer]: 782.5474060822899\n\nWhat is the value of 74 + 67 / 148? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                74.5,
+                74.5,
+                "To calculate the value of 74 + 67 / 148, we first need to perform the division and then add the result to 74.\n\n67 divided by 148 is equal to 0.4527027027027027 (rounded to 16 decimal places).\n\nNow, we add this result to 74:\n\n74 + 0.4527027027027027 = 74.4527027027027\n\nSo the value of 74 + 67 / 148 as a decimal, rounded to the nearest thousandth for simplicity, is [74.453]."
+            ],
+            [
+                "[Example Question]: 433 + 129 * 206\n[Answer]: 27007\n\nWhat is the value of 768 + 215 * 862? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                186098.0,
+                186098,
+                "To calculate the value of 768 + 215 * 862, we first need to perform the multiplication and then add the result to 768.\n\n215 * 862 = 185,330\n\nNow, we add 768 to the result of the multiplication:\n\n185,330 + 768 = 186,098\n\nSo the value of 768 + 215 * 862 is [186,098]."
+            ],
+            [
+                "[Example Question]: 284 + 54 / 741\n[Answer]: 284.07287449392715\n\nWhat is the value of 942 + 986 / 366? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                944.7,
+                944.7,
+                "To solve the expression 942 + 986 / 366, we first need to perform the division before the addition due to the order of operations (PEMDAS/BODMAS).\n\nSo, we first divide 986 by 366:\n\n986 / 366 = 2.6939890710382514 (approximately)\n\nNow, we add this result to 942:\n\n942 + 2.6939890710382514 = 944.6939890710382514\n\nRounded to a reasonable number of decimal places, the result is approximately 944.694.\n\nTherefore, the value of the expression is [944.694]."
+            ],
+            [
+                "[Example Question]: 381 * 486 + 7\n[Answer]: 185173\n\nWhat is the value of 981 * 628 + 696? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                616764.0,
+                616884,
+                "To calculate the value of 981 * 628 + 696, we first perform the multiplication and then add the result to 696.\n\n981 * 628 = 616,188\n\nNow, we add 696 to the product:\n\n616,188 + 696 = 616,884\n\nSo the final result is [616,884]."
+            ],
+            [
+                "[Example Question]: 821 - 860 + 18\n[Answer]: -21\n\nWhat is the value of 413 - 368 + 370? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                415.0,
+                415,
+                "To calculate the value of 413 - 368 + 370, we perform the operations in sequence:\n\nFirst, subtract 368 from 413:\n413 - 368 = 45\n\nNext, add 370 to the result:\n45 + 370 = 415\n\nTherefore, the final result is [415]."
+            ],
+            [
+                "[Example Question]: 845 + 161 / 427\n[Answer]: 845.3770491803278\n\nWhat is the value of 625 + 866 / 494? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                626.8,
+                626.8,
+                "To calculate the value of 625 + 866 / 494, we first need to perform the division and then add the result to 625.\n\n866 / 494 = 1.752024291498\n\nNow, we add this result to 625:\n\n625 + 1.752024291498 = 626.752024291498\n\nRounded to a reasonable number of decimal places, the result is approximately 626.752. So, the value of 625 + 866 / 494 is [626.752]."
+            ],
+            [
+                "[Example Question]: 117 - 540 + 2\n[Answer]: -421\n\nWhat is the value of 138 - 240 + 155? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                53.0,
+                53,
+                "To calculate the value of 138 - 240 + 155, we perform the operations in sequence:\n\n138 - 240 = -102\n-102 + 155 = 53\n\nSo the result is [53]."
+            ],
+            [
+                "[Example Question]: 419 + 879 * 6\n[Answer]: 5693\n\nWhat is the value of 280 + 666 * 703? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                468478.0,
+                468478,
+                "To calculate the value of 280 + 666 * 703, we first need to perform the multiplication and then add the result to 280.\n\n666 * 703 = 468,198\n\nNow, we add 280 to the result of the multiplication:\n\n468,198 + 280 = 468,478\n\nSo the value of 280 + 666 * 703 is [468,478]."
+            ],
+            [
+                "[Example Question]: 39 * 195 + 626\n[Answer]: 8231\n\nWhat is the value of 471 * 981 + 119? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                462170.0,
+                462110,
+                "To calculate the value of 471 * 981 + 119, we first perform the multiplication and then add the result to 119.\n\n471 * 981 = 461991\n461991 + 119 = 462110\n\nSo the final result is [462110]."
+            ],
+            [
+                "[Example Question]: 747 - 733 + 768\n[Answer]: 782\n\nWhat is the value of 669 - 335 + 706? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1040.0,
+                1040,
+                "To calculate the value of 669 - 335 + 706, we perform the operations in the order they appear:\n\nFirst, we subtract 335 from 669:\n669 - 335 = 334\n\nNext, we add 706 to the result:\n334 + 706 = 1040\n\nTherefore, the final result is [1040]."
+            ],
+            [
+                "[Example Question]: 880 + 867 * 404\n[Answer]: 351148\n\nWhat is the value of 973 + 828 * 213? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                177337.0,
+                177337,
+                "To calculate the value of 973 + 828 * 213, we first need to perform the multiplication and then add the result to 973.\n\n828 * 213 = 176364\n973 + 176364 = 177337\n\nSo the value of 973 + 828 * 213 is [177337]."
+            ],
+            [
+                "[Example Question]: 560 + 70 * 546\n[Answer]: 38780\n\nWhat is the value of 921 + 168 * 990? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                167241.0,
+                167241,
+                "To calculate the value of 921 + 168 * 990, we first need to perform the multiplication and then add the result to 921.\n\n168 * 990 = 166,320\n\nNow, we add 921 to the result of the multiplication:\n\n166,320 + 921 = 167,241\n\nSo the value of 921 + 168 * 990 is [167,241]."
+            ],
+            [
+                "[Example Question]: 611 * 576 + 859\n[Answer]: 352795\n\nWhat is the value of 187 * 481 + 533? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                90480.0,
+                90480,
+                "To calculate the value of 187 * 481 + 533, we first perform the multiplication and then add the result to 533.\n\n187 * 481 = 89947\n89947 + 533 = 90480\n\nSo the value of 187 * 481 + 533 is [90480]."
+            ],
+            [
+                "[Example Question]: 75 * 451 + 921\n[Answer]: 34746\n\nWhat is the value of 504 * 827 + 105? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                416913.0,
+                417033,
+                "To calculate the value of 504 * 827 + 105, we first perform the multiplication and then add 105 to the result.\n\n504 * 827 = 416928\n\nNow, we add 105 to the result of the multiplication:\n\n416928 + 105 = 417033\n\nSo the final result is [417033]."
+            ]
+        ]
+    },
+    "overall_accuracy": "165/200=0.825",
+    "-": {
+        "accuracy": "47/50=0.94",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "[Example Question]: 403 / 260 - 20\n[Answer]: -18.45\n\nWhat is the value of 939 / 374 - 950? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -947.5,
+                -947.5,
+                "To solve the expression 939 / 374 - 950, we first divide 939 by 374, and then subtract 950 from the result.\n\n939 / 374 ≈ 2.511\n\nNow, subtract 950 from 2.511:\n\n2.511 - 950 ≈ -947.489\n\nSo the final result is approximately [-947.489]."
+            ],
+            [
+                "[Example Question]: 249 * 525 - 853\n[Answer]: 129872\n\nWhat is the value of 883 * 344 - 47? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                303705.0,
+                303705,
+                "To find the value of 883 * 344 - 47, we first multiply 883 by 344 and then subtract 47 from the result.\n\n883 * 344 = 303,752\n303,752 - 47 = 303,705\n\nSo the value of 883 * 344 - 47 is [303,705]."
+            ],
+            [
+                "[Example Question]: 152 - 454 / 406\n[Answer]: 150.88177339901478\n\nWhat is the value of 527 - 936 / 302? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                523.9,
+                523.9,
+                "To solve the expression 527 - 936 / 302, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n936 / 302 = 3.1 (rounded to one decimal place)\n\nNow, subtract that result from 527:\n\n527 - 3.1 = 523.9\n\nSo the value of the expression is [523.9]."
+            ],
+            [
+                "[Example Question]: 709 - 448 * 868\n[Answer]: -388155\n\nWhat is the value of 22 - 913 * 339? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -309485.0,
+                -309485,
+                "To calculate the value of 22 - 913 * 339, we first need to perform the multiplication and then the subtraction.\n\n913 * 339 = 309507\n\nNow we subtract this result from 22:\n\n22 - 309507 = -309485\n\nSo the value of 22 - 913 * 339 is [-309485]."
+            ],
+            [
+                "[Example Question]: 827 / 49 - 277\n[Answer]: -260.1224489795918\n\nWhat is the value of 126 / 639 - 780? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -779.8,
+                -779.8,
+                "To find the value of 126 / 639 - 780, we first divide 126 by 639, and then subtract 780 from the result.\n\n126 / 639 = 0.1971830985915493 (approximately)\n\nNow, subtract 780 from this result:\n\n0.1971830985915493 - 780 = -779.8028169014084507 (approximately)\n\nSo the final result is approximately [-779.8028]."
+            ],
+            [
+                "[Example Question]: 393 * 322 - 601\n[Answer]: 125945\n\nWhat is the value of 651 * 575 - 127? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                374198.0,
+                374198,
+                "To find the value of 651 * 575 - 127, we first multiply 651 by 575, and then subtract 127 from the result.\n\n651 * 575 = 374325\n\nNow, subtract 127 from 374325:\n\n374325 - 127 = 374198\n\nSo the final result is [374198]."
+            ],
+            [
+                "[Example Question]: 153 / 456 - 892\n[Answer]: -891.6644736842105\n\nWhat is the value of 580 / 796 - 112? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -111.3,
+                -111.3,
+                "To solve the expression 580 / 796 - 112, we first divide 580 by 796, and then subtract 112 from the result.\n\n580 / 796 = 0.728643216080402\n\nNow, subtract 112 from the result:\n\n0.728643216080402 - 112 = -111.2713567839196\n\nSo the final result is [-111.2713567839196]."
+            ],
+            [
+                "[Example Question]: 205 * 352 - 585\n[Answer]: 71575\n\nWhat is the value of 317 * 225 - 875? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                70450.0,
+                70450,
+                "To find the value of 317 * 225 - 875, we first multiply 317 by 225 and then subtract 875 from the result.\n\n317 * 225 = 71325\n\nNow, subtract 875 from 71325:\n\n71325 - 875 = 70450\n\nSo the final result is [70450]."
+            ],
+            [
+                "[Example Question]: 822 - 873 / 418\n[Answer]: 819.9114832535885\n\nWhat is the value of 741 - 715 / 978? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                740.3,
+                740.3,
+                "To solve the expression 741 - 715 / 978, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 715 by 978:\n715 / 978 = 0.7310840978593272 (rounded to 16 decimal places)\n\nThen, subtract the result from 741:\n741 - 0.7310840978593272 = 740.2689159021407 (rounded to 16 decimal places)\n\nSo the value of the expression is approximately [740.2689159021407]."
+            ],
+            [
+                "[Example Question]: 420 - 472 / 268\n[Answer]: 418.23880597014926\n\nWhat is the value of 44 - 380 / 908? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                43.6,
+                43.6,
+                "To solve the expression 44 - 380 / 908, we first need to perform the division and then subtract the result from 44.\n\n380 / 908 = 0.41850220264317 (approximately)\n\nNow, subtract this result from 44:\n\n44 - 0.41850220264317 = 43.58149779735683 (approximately)\n\nSo the value of the expression is approximately [43.5815] when rounded to four decimal places."
+            ],
+            [
+                "[Example Question]: 740 * 359 - 546\n[Answer]: 265114\n\nWhat is the value of 358 * 263 - 958? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                93196.0,
+                93196,
+                "To find the value of 358 * 263 - 958, we first multiply 358 by 263, and then subtract 958 from the result.\n\n358 * 263 = 94154\n94154 - 958 = 93196\n\nSo the value of 358 * 263 - 958 is [93196]."
+            ],
+            [
+                "[Example Question]: 75 - 795 + 57\n[Answer]: -663\n\nWhat is the value of 18 - 896 + 19? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -859.0,
+                -859,
+                "To calculate the value of 18 - 896 + 19, we perform the operations in the order they appear:\n\n18 - 896 = -878\n-878 + 19 = -859\n\nSo the final result is [-859]."
+            ],
+            [
+                "[Example Question]: 520 - 492 / 152\n[Answer]: 516.7631578947369\n\nWhat is the value of 307 - 604 / 441? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                305.6,
+                305.6,
+                "To solve the expression 307 - 604 / 441, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n604 / 441 = 1.36986301369863 (rounded to 14 decimal places)\n\nNow, subtract this result from 307:\n\n307 - 1.36986301369863 = 305.63013698630137 (rounded to 14 decimal places)\n\nSo the value of the expression is approximately [305.63013698630137]."
+            ],
+            [
+                "[Example Question]: 215 - 289 / 153\n[Answer]: 213.11111111111111\n\nWhat is the value of 537 - 505 / 973? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                536.5,
+                536.5,
+                "To solve the expression 537 - 505 / 973, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 505 by 973:\n505 / 973 ≈ 0.519010\n\nThen, subtract this result from 537:\n537 - 0.519010 ≈ 536.480990\n\nSo the value of the expression is approximately [536.480990]."
+            ],
+            [
+                "[Example Question]: 399 - 944 * 847\n[Answer]: -799169\n\nWhat is the value of 248 - 144 * 783? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -112504.0,
+                -112504,
+                "To solve the expression 248 - 144 * 783, we first need to perform the multiplication and then the subtraction.\n\nFirst, multiply 144 by 783:\n144 * 783 = 112752\n\nThen, subtract that result from 248:\n248 - 112752 = -112504\n\nSo the value of the expression is [-112504]."
+            ],
+            [
+                "[Example Question]: 146 * 309 - 476\n[Answer]: 44638\n\nWhat is the value of 654 * 424 - 701? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                276595.0,
+                276595,
+                "To find the value of 654 * 424 - 701, we first multiply 654 by 424 and then subtract 701 from the result.\n\n654 * 424 = 277,296\n277,296 - 701 = 276,595\n\nSo the value of 654 * 424 - 701 is [276,595]."
+            ],
+            [
+                "[Example Question]: 152 - 327 * 290\n[Answer]: -94678\n\nWhat is the value of 158 - 969 * 861? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -834151.0,
+                -834451,
+                "To calculate the value of 158 - 969 * 861, we first perform the multiplication and then the subtraction.\n\n969 * 861 = 834,609\n\nNow we subtract that result from 158:\n\n158 - 834,609 = -834,451\n\nSo the value of 158 - 969 * 861 is [-834,451]."
+            ],
+            [
+                "[Example Question]: 645 - 821 / 234\n[Answer]: 641.491452991453\n\nWhat is the value of 393 - 721 / 424? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                391.3,
+                391.3,
+                "To solve the expression 393 - 721 / 424, we first need to perform the division and then subtract the result from 393.\n\n721 / 424 = 1.7004716981132 (rounded to 13 decimal places)\n\nNow, subtract this result from 393:\n\n393 - 1.7004716981132 = 391.2995283018868 (rounded to 13 decimal places)\n\nSo the final result is approximately [391.30] when rounded to two decimal places."
+            ],
+            [
+                "[Example Question]: 761 - 589 + 273\n[Answer]: 445\n\nWhat is the value of 895 - 482 + 394? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                807.0,
+                807,
+                "To solve the expression 895 - 482 + 394, we perform the operations in the order they appear:\n\nFirst, we subtract 482 from 895:\n895 - 482 = 413\n\nNext, we add 394 to the result:\n413 + 394 = 807\n\nTherefore, the value of the expression is [807]."
+            ],
+            [
+                "[Example Question]: 823 - 575 / 111\n[Answer]: 817.8198198198198\n\nWhat is the value of 898 - 120 / 390? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                897.7,
+                897.7,
+                "To solve the expression 898 - 120 / 390, we first need to perform the division before the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\n120 / 390 = 0.3076923076923077 (approximately)\n\nNow, subtract this result from 898:\n\n898 - 0.3076923076923077 = 897.6923076923077 (approximately)\n\nSo the value of the expression is approximately [897.6923076923077]."
+            ],
+            [
+                "[Example Question]: 170 - 869 * 168\n[Answer]: -145822\n\nWhat is the value of 137 - 497 * 271? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -134550.0,
+                -134610,
+                "To calculate the value of 137 - 497 * 271, we first perform the multiplication and then the subtraction.\n\n497 * 271 = 134747\n\nNow we subtract that result from 137:\n\n137 - 134747 = -134610\n\nSo the final result is [-134610]."
+            ],
+            [
+                "[Example Question]: 818 - 801 / 822\n[Answer]: 817.0255474452555\n\nWhat is the value of 401 - 847 / 299? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                398.2,
+                398.2,
+                "To solve the expression 401 - 847 / 299, we first need to perform the division and then subtract the result from 401.\n\n847 / 299 = 2.83277591973244 (rounded to 14 decimal places)\n\nNow, subtract this result from 401:\n\n401 - 2.83277591973244 = 398.16722408026756 (rounded to 14 decimal places)\n\nSo the final result is [398.16722408026756]."
+            ],
+            [
+                "[Example Question]: 360 / 286 - 704\n[Answer]: -702.7412587412588\n\nWhat is the value of 610 / 358 - 833? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -831.3,
+                -831.3,
+                "To solve the expression 610 / 358 - 833, we first divide 610 by 358, and then subtract 833 from the result.\n\n610 / 358 ≈ 1.704748603\n1.704748603 - 833 ≈ -831.295251397\n\nSo the final result, rounded to a reasonable number of decimal places, is approximately [-831.30]."
+            ],
+            [
+                "[Example Question]: 235 - 691 + 936\n[Answer]: 480\n\nWhat is the value of 143 - 183 + 839? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                799.0,
+                799,
+                "To calculate the value of 143 - 183 + 839, we perform the operations in sequence:\n\n143 - 183 = -40 (since 143 is less than 183, the result is negative)\n-40 + 839 = 799 (adding a negative number is the same as subtracting its absolute value)\n\nTherefore, the final result is [799]."
+            ],
+            [
+                "[Example Question]: 951 - 50 * 939\n[Answer]: -45999\n\nWhat is the value of 284 - 136 * 155? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -20796.0,
+                -20796,
+                "To solve the expression 284 - 136 * 155, you should follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nIn this expression, there are no parentheses or exponents, so we start with the multiplication:\n\n136 * 155 = 21080\n\nNow, subtract that result from 284:\n\n284 - 21080 = -20796\n\nSo the value of the expression 284 - 136 * 155 is [-20796]."
+            ],
+            [
+                "[Example Question]: 422 - 200 * 727\n[Answer]: -144978\n\nWhat is the value of 892 - 676 * 615? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -414848.0,
+                -414848,
+                "To solve the expression 892 - 676 * 615, we first need to perform the multiplication and then the subtraction.\n\nFirst, multiply 676 by 615:\n676 * 615 = 415740\n\nThen, subtract that result from 892:\n892 - 415740 = -414848\n\nSo the value of the expression is [-414848]."
+            ],
+            [
+                "[Example Question]: 515 - 973 + 600\n[Answer]: 142\n\nWhat is the value of 526 - 600 + 834? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                760.0,
+                760,
+                "To solve the expression 526 - 600 + 834, we perform the operations in sequence:\n\n526 - 600 = -74\n-74 + 834 = 760\n\nSo the value of the expression is [760]."
+            ],
+            [
+                "[Example Question]: 137 - 421 * 184\n[Answer]: -77327\n\nWhat is the value of 853 - 590 * 286? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -167887.0,
+                -167887,
+                "To calculate the value of 853 - 590 * 286, we first need to perform the multiplication and then the subtraction.\n\n590 * 286 = 168740\n\nNow we subtract that result from 853:\n\n853 - 168740 = -167887\n\nSo the final result is [-167887]."
+            ],
+            [
+                "[Example Question]: 629 / 337 - 218\n[Answer]: -216.13353115727003\n\nWhat is the value of 431 / 896 - 191? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -190.5,
+                -190.5,
+                "To solve the expression 431 / 896 - 191, we first divide 431 by 896, and then subtract 191 from the result.\n\n431 / 896 = 0.4810267857142857 (approximately)\n\nNow, subtract 191 from the result:\n\n0.4810267857142857 - 191 = -190.5189732142857 (approximately)\n\nSo the value of the expression is approximately [-190.5189732142857]."
+            ],
+            [
+                "[Example Question]: 822 - 629 + 647\n[Answer]: 840\n\nWhat is the value of 17 - 45 + 965? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                937.0,
+                937,
+                "To calculate the value of 17 - 45 + 965, we perform the operations in sequence:\n\n17 - 45 = -28\n-28 + 965 = 937\n\nSo the final result is [937]."
+            ],
+            [
+                "[Example Question]: 153 - 631 * 631\n[Answer]: -398008\n\nWhat is the value of 526 - 775 * 423? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -327299.0,
+                -327299,
+                "To solve the expression 526 - 775 * 423, we first need to perform the multiplication and then the subtraction.\n\n775 * 423 = 327825\n\nNow, subtract that result from 526:\n\n526 - 327825 = -327299\n\nSo the value of the expression is [-327299]."
+            ],
+            [
+                "[Example Question]: 695 * 256 - 161\n[Answer]: 177759\n\nWhat is the value of 282 * 579 - 644? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                162634.0,
+                162694,
+                "To find the value of 282 * 579 - 644, we first perform the multiplication and then subtract 644 from the result.\n\n282 * 579 = 163338\n\nNow we subtract 644 from 163338:\n\n163338 - 644 = 162694\n\nSo the value of 282 * 579 - 644 is [162694]."
+            ],
+            [
+                "[Example Question]: 442 - 393 / 801\n[Answer]: 441.5093632958802\n\nWhat is the value of 856 - 639 / 173? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                852.3,
+                852.3,
+                "To solve the expression 856 - 639 / 173, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 639 by 173:\n639 / 173 = 3.69364161849711 (rounded to 14 decimal places)\n\nThen, subtract the result from 856:\n856 - 3.69364161849711 = 852.3063583815029 (rounded to 14 decimal places)\n\nSo the value of the expression is approximately [852.3063583815029]."
+            ],
+            [
+                "[Example Question]: 582 * 721 - 339\n[Answer]: 419283\n\nWhat is the value of 863 * 167 - 248? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                143873.0,
+                143873,
+                "To find the value of 863 * 167 - 248, we first perform the multiplication and then subtract 248 from the result.\n\n863 * 167 = 144121\n\nNow, subtract 248 from 144121:\n\n144121 - 248 = 143873\n\nTherefore, the final result is [143873]."
+            ],
+            [
+                "[Example Question]: 297 - 136 * 835\n[Answer]: -113263\n\nWhat is the value of 847 - 864 * 417? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -359441.0,
+                -359441,
+                "To calculate the value of 847 - 864 * 417, we first perform the multiplication and then the subtraction.\n\n864 * 417 = 360288\n847 - 360288 = -359441\n\nSo the value of 847 - 864 * 417 is [-359441]."
+            ],
+            [
+                "[Example Question]: 800 - 421 / 497\n[Answer]: 799.1529175050301\n\nWhat is the value of 497 - 272 / 999? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                496.7,
+                496.7,
+                "To solve the expression 497 - 272 / 999, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nSo, we first divide 272 by 999:\n\n272 / 999 = 0.272272272272...\n\nThen we subtract this result from 497:\n\n497 - 0.272272272272... ≈ 496.727727727728\n\nRounded to a reasonable number of decimal places, the result is approximately 496.728.\n\nTherefore, the value of the expression is approximately [496.728]."
+            ],
+            [
+                "[Example Question]: 527 - 199 * 598\n[Answer]: -118475\n\nWhat is the value of 128 - 260 * 611? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -158732.0,
+                -158732,
+                "To calculate the value of 128 - 260 * 611, we first need to perform the multiplication and then the subtraction.\n\n260 * 611 = 158860\n\nNow, we subtract that result from 128:\n\n128 - 158860 = -158732\n\nSo the value of 128 - 260 * 611 is [-158732]."
+            ],
+            [
+                "[Example Question]: 8 - 133 * 251\n[Answer]: -33375\n\nWhat is the value of 924 - 33 * 537? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -16797.0,
+                -16797,
+                "To calculate the value of 924 - 33 * 537, we first need to perform the multiplication and then the subtraction.\n\n33 * 537 = 17,721\n\nNow, we subtract that result from 924:\n\n924 - 17,721 = -16,797\n\nSo the value of 924 - 33 * 537 is [-16,797]."
+            ],
+            [
+                "[Example Question]: 966 - 498 / 532\n[Answer]: 965.0639097744361\n\nWhat is the value of 399 - 985 / 242? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                394.9,
+                394.9,
+                "To solve the expression 399 - 985 / 242, we first need to perform the division and then subtract the result from 399.\n\nFirst, divide 985 by 242:\n985 / 242 = 4.0702479338842975\n\nNow, subtract this result from 399:\n399 - 4.0702479338842975 = 394.9297520661157\n\nSo the value of the expression is approximately [394.93]."
+            ],
+            [
+                "[Example Question]: 692 - 636 / 368\n[Answer]: 690.2717391304348\n\nWhat is the value of 823 - 80 / 374? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                822.8,
+                822.8,
+                "To solve the expression 823 - 80 / 374, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n80 / 374 = 0.21390374331550802 (approximately)\n\nNow, subtract this result from 823:\n\n823 - 0.21390374331550802 = 822.7860962566845 (approximately)\n\nSo the value of the expression is approximately [822.7860962566845]."
+            ],
+            [
+                "[Example Question]: 385 - 821 + 901\n[Answer]: 465\n\nWhat is the value of 169 - 762 + 514? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -79.0,
+                -79,
+                "To calculate the value of 169 - 762 + 514, we perform the operations in sequence:\n\n169 - 762 = -593\n-593 + 514 = -79\n\nSo the final result is [-79]."
+            ],
+            [
+                "[Example Question]: 677 - 615 / 772\n[Answer]: 676.2033678756477\n\nWhat is the value of 73 - 298 / 174? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                71.3,
+                71.3,
+                "To solve the expression 73 - 298 / 174, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 298 by 174:\n298 / 174 ≈ 1.712643678\n\nThen, subtract the result from 73:\n73 - 1.712643678 ≈ 71.287356322\n\nSo the value of the expression is approximately [71.287356322]."
+            ],
+            [
+                "[Example Question]: 813 - 195 * 86\n[Answer]: -15957\n\nWhat is the value of 562 - 758 * 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -22936.0,
+                -22936,
+                "To calculate the value of 562 - 758 * 31, we first perform the multiplication and then the subtraction.\n\n758 * 31 = 23498\n\nNow we subtract that result from 562:\n\n562 - 23498 = -22936\n\nSo the value of 562 - 758 * 31 is [-22936]."
+            ],
+            [
+                "[Example Question]: 631 - 968 / 541\n[Answer]: 629.2107208872459\n\nWhat is the value of 835 - 180 / 484? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                834.6,
+                834.6,
+                "To solve the expression 835 - 180 / 484, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n180 / 484 = 0.371900826446281\n\nNow, subtract this result from 835:\n\n835 - 0.371900826446281 = 834.6280991735537\n\nSo the value of the expression is approximately [834.6280991735537]."
+            ],
+            [
+                "[Example Question]: 877 - 715 * 209\n[Answer]: -148558\n\nWhat is the value of 803 - 713 * 334? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -237339.0,
+                -237339,
+                "To calculate the value of 803 - 713 * 334, we first perform the multiplication and then the subtraction.\n\n713 * 334 = 238142\n\nNow we subtract that result from 803:\n\n803 - 238142 = -237339\n\nSo the final result is [-237339]."
+            ],
+            [
+                "[Example Question]: 565 - 45 * 840\n[Answer]: -37235\n\nWhat is the value of 513 - 665 * 895? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -594662.0,
+                -594662,
+                "To calculate the value of 513 - 665 * 895, we first need to perform the multiplication and then the subtraction.\n\nFirst, multiply 665 by 895:\n665 * 895 = 595175\n\nNext, subtract the result from 513:\n513 - 595175 = -594662\n\nSo the value of 513 - 665 * 895 is [-594662]."
+            ],
+            [
+                "[Example Question]: 867 - 228 + 125\n[Answer]: 764\n\nWhat is the value of 430 - 558 + 111? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -17.0,
+                -17,
+                "To calculate the value of 430 - 558 + 111, we perform the operations in sequence:\n\n430 - 558 = -128\n-128 + 111 = -17\n\nSo the final result is [-17]."
+            ],
+            [
+                "[Example Question]: 856 * 409 - 800\n[Answer]: 349304\n\nWhat is the value of 39 * 979 - 621? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                37560.0,
+                37560,
+                "To find the value of 39 * 979 - 621, we first multiply 39 by 979, and then subtract 621 from the result.\n\n39 * 979 = 38181\n38181 - 621 = 37560\n\nSo the value of 39 * 979 - 621 is [37560]."
+            ],
+            [
+                "[Example Question]: 908 - 105 * 703\n[Answer]: -72907\n\nWhat is the value of 118 - 627 * 264? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -165410.0,
+                -165410,
+                "To calculate the value of 118 - 627 * 264, we first need to perform the multiplication and then the subtraction.\n\nFirst, multiply 627 by 264:\n627 * 264 = 165,528\n\nNext, subtract the result from 118:\n118 - 165,528 = -165,410\n\nSo the value of 118 - 627 * 264 is [-165,410]."
+            ],
+            [
+                "[Example Question]: 502 - 482 * 390\n[Answer]: -187478\n\nWhat is the value of 750 - 452 * 528? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -237906.0,
+                -237906,
+                "To calculate the value of 750 - 452 * 528, we first need to perform the multiplication and then the subtraction.\n\n452 * 528 = 238656\n\nNow we subtract that result from 750:\n\n750 - 238656 = -237906\n\nSo the value of 750 - 452 * 528 is [-237906]."
+            ]
+        ]
+    },
+    "*": {
+        "accuracy": "34/50=0.68",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "[Example Question]: 575 + 193 * 725\n[Answer]: 140500\n\nWhat is the value of 291 + 149 * 245? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                36796.0,
+                36796,
+                "To solve the expression 291 + 149 * 245, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, multiplication is performed before addition.\n\nFirst, we multiply 149 by 245:\n149 * 245 = 36505\n\nNext, we add 291 to the result of the multiplication:\n291 + 36505 = 36796\n\nTherefore, the value of 291 + 149 * 245 is [36796]."
+            ],
+            [
+                "[Example Question]: 201 / 883 * 34\n[Answer]: 7.739524348810872\n\nWhat is the value of 516 / 316 * 448? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                731.5,
+                731.1,
+                "To find the value of 516 / 316 * 448, we first divide 516 by 316 and then multiply the result by 448.\n\n(516 / 316) * 448 = 1.6329113924050633 * 448\n\nNow, we multiply the decimal by 448:\n\n1.6329113924050633 * 448 ≈ 731.1443037974684\n\nSo the value of 516 / 316 * 448 is approximately [731.1443037974684]."
+            ],
+            [
+                "[Example Question]: 383 * 653 + 790\n[Answer]: 250889\n\nWhat is the value of 157 * 759 + 731? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                119894.0,
+                119834,
+                "To calculate the value of 157 * 759 + 731, we first perform the multiplication and then add the result to 731.\n\n157 * 759 = 119103\n\nNow we add 731 to the product:\n\n119103 + 731 = 119834\n\nSo the value of 157 * 759 + 731 is [119834]."
+            ],
+            [
+                "[Example Question]: 386 * 657 - 756\n[Answer]: 252846\n\nWhat is the value of 842 * 663 - 246? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                558000.0,
+                557880,
+                "To find the value of 842 * 663 - 246, we first perform the multiplication and then the subtraction.\n\n842 * 663 = 558,126\n\nThen we subtract 246 from the result:\n\n558,126 - 246 = 557,880\n\nSo the value of 842 * 663 - 246 is [557,880]."
+            ],
+            [
+                "[Example Question]: 23 * 640 + 469\n[Answer]: 15189\n\nWhat is the value of 265 * 769 + 763? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                204548.0,
+                204448,
+                "To calculate the value of 265 * 769 + 763, we first multiply 265 by 769 and then add 763 to the result.\n\n265 * 769 = 203,685\n203,685 + 763 = 204,448\n\nSo the value of 265 * 769 + 763 is [204,448]."
+            ],
+            [
+                "[Example Question]: 12 + 81 * 432\n[Answer]: 35004\n\nWhat is the value of 617 + 768 * 220? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                169577.0,
+                169577,
+                "To calculate the value of 617 + 768 * 220, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nFirst, we multiply 768 by 220:\n768 * 220 = 168960\n\nNext, we add 617 to the result of the multiplication:\n617 + 168960 = 169577\n\nTherefore, the value of 617 + 768 * 220 is [169577]."
+            ],
+            [
+                "[Example Question]: 415 / 977 * 331\n[Answer]: 140.59877175025588\n\nWhat is the value of 1 / 26 * 215? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8.3,
+                8.3,
+                "To calculate the value of \\( \\frac{1}{26} \\times 215 \\), you can first multiply 215 by 1, which is simply 215, and then divide that result by 26.\n\n\\( \\frac{215}{26} = 8.26923076923077 \\)\n\nSo, the value of \\( \\frac{1}{26} \\times 215 \\) as a decimal is approximately [8.26923076923077]."
+            ],
+            [
+                "[Example Question]: 215 * 584 - 687\n[Answer]: 124873\n\nWhat is the value of 40 * 223 - 958? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7962.0,
+                7962,
+                "To find the value of 40 * 223 - 958, we first perform the multiplication and then the subtraction.\n\n40 * 223 = 8920\n\nNow we subtract 958 from 8920:\n\n8920 - 958 = 7962\n\nSo the final result is [7962]."
+            ],
+            [
+                "[Example Question]: 736 / 117 * 200\n[Answer]: 1258.1196581196582\n\nWhat is the value of 309 / 75 * 561? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2311.3,
+                2311.3,
+                "To calculate the value of 309 / 75 * 561, follow these steps:\n\n1. Divide 309 by 75.\n2. Multiply the result by 561.\n\nLet's do the math:\n\n309 / 75 = 4.12 (rounded to two decimal places for simplicity)\n4.12 * 561 = 2311.32\n\nSo the value of 309 / 75 * 561 is approximately [2311.32]."
+            ],
+            [
+                "[Example Question]: 189 * 843 + 811\n[Answer]: 160138\n\nWhat is the value of 45 * 600 + 568? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                27568.0,
+                27568,
+                "To calculate the value of 45 * 600 + 568, we first multiply 45 by 600 and then add 568 to the result.\n\n45 * 600 = 27000\n27000 + 568 = 27568\n\nSo the value of 45 * 600 + 568 is [27568]."
+            ],
+            [
+                "[Example Question]: 162 / 542 * 917\n[Answer]: 274.0848708487085\n\nWhat is the value of 292 / 985 * 553? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                163.9,
+                163.9,
+                "To calculate the value of 292 / 985 * 553, we first perform the division and then the multiplication:\n\n292 / 985 = 0.29644785 (approximately)\n0.29644785 * 553 = 163.93843365 (approximately)\n\nSo the value of 292 / 985 * 553 is approximately [163.93843365]."
+            ],
+            [
+                "[Example Question]: 366 - 135 * 612\n[Answer]: -82254\n\nWhat is the value of 812 - 214 * 109? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -22514.0,
+                -22514,
+                "To calculate the value of 812 - 214 * 109, we first need to perform the multiplication and then the subtraction.\n\n214 * 109 = 23326\n\nNow, subtract that result from 812:\n\n812 - 23326 = -22514\n\nSo the value of 812 - 214 * 109 is [-22514]."
+            ],
+            [
+                "[Example Question]: 922 / 604 * 675\n[Answer]: 1030.3807947019866\n\nWhat is the value of 912 / 780 * 717? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                838.3,
+                838.2,
+                "To find the value of 912 / 780 * 717, we first divide 912 by 780 and then multiply the result by 717.\n\n912 / 780 = 1.1692307692307693\n1.1692307692307693 * 717 = 838.1538461538462\n\nSo the value of 912 / 780 * 717 is approximately [838.1538461538462]."
+            ],
+            [
+                "[Example Question]: 898 - 514 * 314\n[Answer]: -160498\n\nWhat is the value of 424 - 662 * 399? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -263714.0,
+                -263714,
+                "To calculate the value of 424 - 662 * 399, we first perform the multiplication and then the subtraction.\n\n662 * 399 = 264138\n\nNow we subtract that result from 424:\n\n424 - 264138 = -263714\n\nSo the value of 424 - 662 * 399 is [-263714]."
+            ],
+            [
+                "[Example Question]: 140 * 392 + 431\n[Answer]: 55311\n\nWhat is the value of 342 * 268 + 109? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                91765.0,
+                91765,
+                "To calculate the value of 342 * 268 + 109, we first perform the multiplication and then add the 109.\n\n342 * 268 = 91656\n91656 + 109 = 91765\n\nSo the value of 342 * 268 + 109 is [91765]."
+            ],
+            [
+                "[Example Question]: 726 + 253 * 99\n[Answer]: 25773\n\nWhat is the value of 821 + 627 * 730? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                458531.0,
+                458531,
+                "To solve the expression 821 + 627 * 730, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n627 * 730 = 457710\n\nThen, we add the result to 821:\n821 + 457710 = 458531\n\nSo the value of 821 + 627 * 730 is [458531]."
+            ],
+            [
+                "[Example Question]: 966 - 918 * 569\n[Answer]: -521376\n\nWhat is the value of 305 - 277 * 435? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -120190.0,
+                -120190,
+                "To solve the expression 305 - 277 * 435, we first need to perform the multiplication and then the subtraction.\n\n277 * 435 = 120495\n\nNow, we subtract that result from 305:\n\n305 - 120495 = -120190\n\nSo the value of the expression is [-120190]."
+            ],
+            [
+                "[Example Question]: 455 + 836 * 527\n[Answer]: 441027\n\nWhat is the value of 342 + 186 * 89? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                16896.0,
+                16896,
+                "To calculate the value of 342 + 186 * 89, we first need to perform the multiplication and then add the result to 342.\n\n186 * 89 = 16554\n342 + 16554 = 16896\n\nSo the value of 342 + 186 * 89 is [16896]."
+            ],
+            [
+                "[Example Question]: 504 * 387 - 273\n[Answer]: 194775\n\nWhat is the value of 934 * 862 - 380? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                804728.0,
+                804928,
+                "To find the value of 934 * 862 - 380, we first multiply 934 by 862, and then subtract 380 from the result.\n\n934 * 862 = 805,308\n\nNow, subtract 380 from 805,308:\n\n805,308 - 380 = 804,928\n\nSo the final result is [804,928]."
+            ],
+            [
+                "[Example Question]: 560 * 117 - 878\n[Answer]: 64642\n\nWhat is the value of 481 * 839 - 408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                403151.0,
+                402911,
+                "To find the value of 481 * 839 - 408, we first multiply 481 by 839 and then subtract 408 from the result.\n\n481 * 839 = 403319\n\nNow we subtract 408 from 403319:\n\n403319 - 408 = 402911\n\nSo the final result is [402911]."
+            ],
+            [
+                "[Example Question]: 961 * 277 - 275\n[Answer]: 265922\n\nWhat is the value of 826 * 549 - 344? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                453130.0,
+                452830,
+                "To find the value of 826 * 549 - 344, we first multiply 826 by 549, and then subtract 344 from the result.\n\n826 * 549 = 453174\n\nNow, subtract 344 from 453174:\n\n453174 - 344 = 452830\n\nSo the value of 826 * 549 - 344 is [452830]."
+            ],
+            [
+                "[Example Question]: 782 * 627 + 426\n[Answer]: 490740\n\nWhat is the value of 339 * 232 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                78652.0,
+                78652,
+                "To calculate the value of 339 * 232 + 4, we first multiply 339 by 232 and then add 4 to the result.\n\n339 * 232 = 78648\n78648 + 4 = 78652\n\nSo the value of 339 * 232 + 4 is [78652]."
+            ],
+            [
+                "[Example Question]: 271 / 331 * 231\n[Answer]: 189.12688821752266\n\nWhat is the value of 919 / 509 * 648? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1170.0,
+                1170.5,
+                "To find the value of 919 / 509 * 648, we first divide 919 by 509 and then multiply the result by 648.\n\n\\[ \\frac{919}{509} \\times 648 \\]\n\nNow, let's calculate the decimal value:\n\n\\[ \\frac{919}{509} \\approx 1.806287825 \\] (rounded to 9 decimal places for intermediate calculation)\n\nNow, multiply this by 648:\n\n\\[ 1.806287825 \\times 648 \\approx 1170.474 \\] (rounded to 3 decimal places)\n\nSo the value of 919 / 509 * 648 is approximately [1170.474]."
+            ],
+            [
+                "[Example Question]: 580 + 724 * 885\n[Answer]: 641320\n\nWhat is the value of 335 + 154 * 109? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                17121.0,
+                17121,
+                "To calculate the value of 335 + 154 * 109, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nSo, we first multiply 154 by 109:\n\n154 * 109 = 16786\n\nThen, we add 335 to the result of the multiplication:\n\n16786 + 335 = 17121\n\nTherefore, the value of 335 + 154 * 109 is [17121]."
+            ],
+            [
+                "[Example Question]: 205 * 978 - 764\n[Answer]: 199726\n\nWhat is the value of 389 * 724 - 249? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                281387.0,
+                281387,
+                "To find the value of 389 * 724 - 249, we first perform the multiplication and then the subtraction.\n\nMultiplication:\n389 * 724 = 281,636\n\nSubtraction:\n281,636 - 249 = 281,387\n\nSo the final result is [281,387]."
+            ],
+            [
+                "[Example Question]: 230 - 113 * 260\n[Answer]: -29150\n\nWhat is the value of 379 - 62 * 71? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4023.0,
+                -4023,
+                "To solve the expression 379 - 62 * 71, we first need to perform the multiplication and then the subtraction.\n\n62 * 71 = 4402\n\nNow, subtract that result from 379:\n\n379 - 4402 = -4023\n\nSo the value of the expression is [-4023]."
+            ],
+            [
+                "[Example Question]: 958 * 32 - 596\n[Answer]: 30060\n\nWhat is the value of 330 * 234 - 473? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                76747.0,
+                76747,
+                "To find the value of 330 * 234 - 473, we first multiply 330 by 234, and then subtract 473 from the result.\n\n330 * 234 = 77,220\n\nNow, subtract 473 from 77,220:\n\n77,220 - 473 = 76,747\n\nSo the final result is [76,747]."
+            ],
+            [
+                "[Example Question]: 661 - 607 * 617\n[Answer]: -373858\n\nWhat is the value of 104 - 346 * 865? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -299186.0,
+                -299086,
+                "To calculate the value of 104 - 346 * 865, we first need to perform the multiplication and then the subtraction.\n\nFirst, multiply 346 by 865:\n346 * 865 = 299190\n\nThen, subtract that result from 104:\n104 - 299190 = -299086\n\nSo the value of 104 - 346 * 865 is [-299086]."
+            ],
+            [
+                "[Example Question]: 959 * 250 - 188\n[Answer]: 239562\n\nWhat is the value of 701 * 982 - 924? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                687458.0,
+                687758,
+                "To find the value of 701 * 982 - 924, we first perform the multiplication and then the subtraction.\n\n701 * 982 = 688,682\n\nNext, we subtract 924 from the result:\n\n688,682 - 924 = 687,758\n\nSo the value of 701 * 982 - 924 is [687,758]."
+            ],
+            [
+                "[Example Question]: 335 + 782 * 49\n[Answer]: 38653\n\nWhat is the value of 978 + 688 * 834? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                574770.0,
+                574770,
+                "To calculate the value of 978 + 688 * 834, we first need to perform the multiplication and then add the result to 978.\n\nMultiplication:\n688 * 834 = 573792\n\nAddition:\n978 + 573792 = 574770\n\nSo the value of 978 + 688 * 834 is [574770]."
+            ],
+            [
+                "[Example Question]: 243 - 891 * 868\n[Answer]: -773145\n\nWhat is the value of 555 - 900 * 561? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -504345.0,
+                -504345,
+                "To calculate the value of 555 - 900 * 561, we first perform the multiplication and then the subtraction:\n\n900 * 561 = 504900\n\nNow we subtract that result from 555:\n\n555 - 504900 = -504345\n\nSo the final result is [-504345]."
+            ],
+            [
+                "[Example Question]: 34 * 8 + 32\n[Answer]: 304\n\nWhat is the value of 143 * 562 + 993? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                81359.0,
+                81359,
+                "To calculate the value of 143 * 562 + 993, we first perform the multiplication and then add the result to 993.\n\n143 * 562 = 80,366\n80,366 + 993 = 81,359\n\nSo the final result is [81,359]."
+            ],
+            [
+                "[Example Question]: 389 * 743 + 256\n[Answer]: 289283\n\nWhat is the value of 701 * 276 + 626? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                194102.0,
+                194102,
+                "To calculate the value of 701 * 276 + 626, we first perform the multiplication and then add the last number:\n\n701 * 276 = 193476\n193476 + 626 = 194102\n\nSo the final result is [194102]."
+            ],
+            [
+                "[Example Question]: 794 + 987 * 30\n[Answer]: 30404\n\nWhat is the value of 931 + 537 * 392? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                211435.0,
+                211435,
+                "To calculate the value of 931 + 537 * 392, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nFirst, we multiply 537 by 392:\n537 * 392 = 210504\n\nNext, we add 931 to the result of the multiplication:\n210504 + 931 = 211435\n\nTherefore, the value of 931 + 537 * 392 is [211435]."
+            ],
+            [
+                "[Example Question]: 121 + 266 * 57\n[Answer]: 15283\n\nWhat is the value of 970 + 143 * 860? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                123950.0,
+                123950,
+                "To calculate the value of 970 + 143 * 860, we first need to perform the multiplication and then add the result to 970.\n\n143 * 860 = 122980\n\nNow, we add 970 to the result of the multiplication:\n\n122980 + 970 = 123950\n\nSo the value of 970 + 143 * 860 is [123950]."
+            ],
+            [
+                "[Example Question]: 137 + 413 * 971\n[Answer]: 401160\n\nWhat is the value of 961 + 702 * 181? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                128023.0,
+                128023,
+                "To calculate the value of 961 + 702 * 181, we first need to perform the multiplication and then add the result to 961.\n\n702 * 181 = 127062\n\nNow, we add 961 to the result of the multiplication:\n\n127062 + 961 = 128023\n\nSo the value of 961 + 702 * 181 is [128023]."
+            ],
+            [
+                "[Example Question]: 495 - 666 * 424\n[Answer]: -281889\n\nWhat is the value of 372 - 175 * 682? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -118978.0,
+                -118978,
+                "To calculate the value of 372 - 175 * 682, we first need to perform the multiplication and then the subtraction.\n\n175 * 682 = 119350\n\nNow, we subtract that result from 372:\n\n372 - 119350 = -118978\n\nSo the value of 372 - 175 * 682 is [-118978]."
+            ],
+            [
+                "[Example Question]: 968 * 529 - 190\n[Answer]: 511882\n\nWhat is the value of 299 * 783 - 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                234088.0,
+                234088,
+                "To find the value of 299 * 783 - 29, we first multiply 299 by 783, and then subtract 29 from the result.\n\n299 * 783 = 234117\n\nNow, subtract 29 from 234117:\n\n234117 - 29 = 234088\n\nSo the final result is [234088]."
+            ],
+            [
+                "[Example Question]: 973 - 762 * 69\n[Answer]: -51605\n\nWhat is the value of 688 - 560 * 653? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -364992.0,
+                -364992,
+                "To calculate the value of 688 - 560 * 653, we first perform the multiplication and then the subtraction.\n\n560 * 653 = 365680\n\nNow we subtract that result from 688:\n\n688 - 365680 = -364992\n\nSo the value of 688 - 560 * 653 is [-364992]."
+            ],
+            [
+                "[Example Question]: 262 + 899 * 46\n[Answer]: 41616\n\nWhat is the value of 694 + 214 * 577? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                124172.0,
+                124232,
+                "To calculate the value of 694 + 214 * 577, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nFirst, we multiply 214 by 577:\n214 * 577 = 123538\n\nNext, we add 694 to the result of the multiplication:\n123538 + 694 = 124232\n\nTherefore, the value of 694 + 214 * 577 is [124232]."
+            ],
+            [
+                "[Example Question]: 271 - 116 * 661\n[Answer]: -76405\n\nWhat is the value of 618 - 630 * 472? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -296742.0,
+                -296742,
+                "To calculate the value of 618 - 630 * 472, we first need to perform the multiplication and then the subtraction.\n\n630 * 472 = 297360\n\nNow we subtract that result from 618:\n\n618 - 297360 = -296742\n\nSo the value of 618 - 630 * 472 is [-296742]."
+            ],
+            [
+                "[Example Question]: 489 + 829 * 150\n[Answer]: 124839\n\nWhat is the value of 448 + 548 * 641? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                351716.0,
+                351756,
+                "To calculate the value of 448 + 548 * 641, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nFirst, we multiply 548 by 641:\n548 * 641 = 351308\n\nNext, we add 448 to the result of the multiplication:\n351308 + 448 = 351756\n\nTherefore, the value of 448 + 548 * 641 is [351756]."
+            ],
+            [
+                "[Example Question]: 631 + 791 * 948\n[Answer]: 750499\n\nWhat is the value of 673 + 756 * 947? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                716605.0,
+                716965,
+                "To calculate the value of 673 + 756 * 947, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform the multiplication before the addition.\n\nFirst, we multiply 756 by 947:\n756 * 947 = 716292\n\nNext, we add 673 to the result of the multiplication:\n716292 + 673 = 716965\n\nTherefore, the value of 673 + 756 * 947 is [716965]."
+            ],
+            [
+                "[Example Question]: 534 - 930 * 27\n[Answer]: -24576\n\nWhat is the value of 793 - 828 * 993? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -821411.0,
+                -821291,
+                "To solve the expression 793 - 828 * 993, we first need to perform the multiplication and then the subtraction.\n\nFirst, multiply 828 by 993:\n828 * 993 = 822084\n\nThen, subtract that result from 793:\n793 - 822084 = -821291\n\nSo the value of the expression is [-821291]."
+            ],
+            [
+                "[Example Question]: 430 - 802 * 690\n[Answer]: -552950\n\nWhat is the value of 205 - 464 * 832? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -385843.0,
+                -385683,
+                "To calculate the value of 205 - 464 * 832, we first need to perform the multiplication and then the subtraction.\n\n464 * 832 = 385,888\n\nNow, we subtract that result from 205:\n\n205 - 385,888 = -385,683\n\nSo the final result is [-385,683]."
+            ],
+            [
+                "[Example Question]: 459 * 752 - 806\n[Answer]: 344362\n\nWhat is the value of 515 * 338 - 857? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                173213.0,
+                173213,
+                "To find the value of 515 * 338 - 857, we first multiply 515 by 338, and then subtract 857 from the result.\n\n515 * 338 = 174070\n174070 - 857 = 173213\n\nSo the value of 515 * 338 - 857 is [173213]."
+            ],
+            [
+                "[Example Question]: 834 - 576 * 779\n[Answer]: -447870\n\nWhat is the value of 881 - 889 * 230? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -203589.0,
+                -203589,
+                "To solve the expression 881 - 889 * 230, we first need to perform the multiplication and then the subtraction.\n\n889 * 230 = 204470\n\nNow, subtract that result from 881:\n\n881 - 204470 = -203589\n\nSo the value of the expression is [-203589]."
+            ],
+            [
+                "[Example Question]: 518 * 796 - 326\n[Answer]: 412002\n\nWhat is the value of 552 * 832 - 660? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                458604.0,
+                458604,
+                "To find the value of 552 * 832 - 660, we first perform the multiplication and then the subtraction.\n\n552 * 832 = 459,264\n\nNow we subtract 660 from the result:\n\n459,264 - 660 = 458,604\n\nSo the final result is [458,604]."
+            ],
+            [
+                "[Example Question]: 947 - 122 * 609\n[Answer]: -73351\n\nWhat is the value of 416 - 680 * 780? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -529984.0,
+                -529984,
+                "To calculate the value of 416 - 680 * 780, we first need to perform the multiplication and then the subtraction.\n\n680 * 780 = 530,400\n\nNow, we subtract that result from 416:\n\n416 - 530,400 = -529,984\n\nSo the value of 416 - 680 * 780 is [-529,984]."
+            ],
+            [
+                "[Example Question]: 622 - 772 * 709\n[Answer]: -546726\n\nWhat is the value of 848 - 251 * 618? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -154270.0,
+                -154270,
+                "To calculate the value of 848 - 251 * 618, we first need to perform the multiplication and then the subtraction.\n\nFirst, multiply 251 by 618:\n251 * 618 = 155118\n\nNext, subtract that result from 848:\n848 - 155118 = -154270\n\nSo the value of 848 - 251 * 618 is [-154270]."
+            ]
+        ]
+    },
+    "/": {
+        "accuracy": "39/50=0.78",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "[Example Question]: 492 / 901 + 797\n[Answer]: 797.5460599334074\n\nWhat is the value of 809 / 641 + 106? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                107.3,
+                107.3,
+                "To find the value of 809 / 641 + 106, we first divide 809 by 641 and then add 106 to the result.\n\n809 / 641 = 1.262090483119 (rounded to 12 decimal places)\n\nNow, we add 106 to this result:\n\n1.262090483119 + 106 = 107.262090483119\n\nSo the final result, rounded to the nearest decimal, is [107.3]."
+            ],
+            [
+                "[Example Question]: 828 / 328 * 955\n[Answer]: 2410.7926829268295\n\nWhat is the value of 802 / 848 * 389? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                367.9,
+                368.0,
+                "To find the value of 802 / 848 * 389, we first divide 802 by 848 and then multiply the result by 389.\n\n802 / 848 = 0.9460 (rounded to four decimal places)\n0.9460 * 389 = 367.9940 (rounded to four decimal places)\n\nSo the value of 802 / 848 * 389 is approximately [367.9940]."
+            ],
+            [
+                "[Example Question]: 122 / 365 * 766\n[Answer]: 256.0328767123288\n\nWhat is the value of 789 / 608 * 175? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                227.1,
+                227.2,
+                "To calculate the value of 789 / 608 * 175, we first divide 789 by 608 and then multiply the result by 175.\n\n789 / 608 = 1.2976973684210527\n1.2976973684210527 * 175 = 227.19999999999996\n\nRounded to a reasonable number of decimal places, the result is approximately 227.2. Therefore, the value of 789 / 608 * 175 is [227.2]."
+            ],
+            [
+                "[Example Question]: 491 / 924 * 723\n[Answer]: 384.19155844155847\n\nWhat is the value of 429 / 394 * 408? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                444.2,
+                444.5,
+                "To find the value of 429 / 394 * 408, we first divide 429 by 394, and then multiply the result by 408.\n\n429 / 394 = 1.088832487309645\n\nNow, we multiply this result by 408:\n\n1.088832487309645 * 408 = 444.4679487179487\n\nSo the value of 429 / 394 * 408 is approximately [444.4679487179487]."
+            ],
+            [
+                "[Example Question]: 970 + 747 / 452\n[Answer]: 971.6526548672566\n\nWhat is the value of 577 + 143 / 206? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                577.7,
+                577.7,
+                "To calculate the value of 577 + 143 / 206, we first need to perform the division and then add the result to 577.\n\n143 / 206 = 0.6941747572815534 (rounded to 16 decimal places)\n\nNow, we add this result to 577:\n\n577 + 0.6941747572815534 = 577.6941747572816 (rounded to 16 decimal places)\n\nSo the value of 577 + 143 / 206 is approximately [577.6941747572816]."
+            ],
+            [
+                "[Example Question]: 587 / 501 * 793\n[Answer]: 929.1237524950101\n\nWhat is the value of 477 / 962 * 549? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                272.2,
+                272.1,
+                "To find the value of 477 / 962 * 549, we first divide 477 by 962 and then multiply the result by 549.\n\n477 / 962 = 0.495841163310961 (approximately)\n\nNow we multiply this result by 549:\n\n0.495841163310961 * 549 = 272.146558678478 (approximately)\n\nSo the value of 477 / 962 * 549 is approximately [272.146558678478]."
+            ],
+            [
+                "[Example Question]: 27 + 689 / 987\n[Answer]: 27.698074974670718\n\nWhat is the value of 413 + 172 / 394? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                413.4,
+                413.4,
+                "To calculate the value of 413 + 172 / 394, we first need to perform the division and then add the result to 413.\n\n172 divided by 394 equals approximately 0.436548223350254\n\nNow, we add this result to 413:\n\n413 + 0.436548223350254 ≈ 413.436548223350254\n\nSo, the final result is approximately [413.436548223350254]."
+            ],
+            [
+                "[Example Question]: 620 - 862 / 861\n[Answer]: 618.9988385598142\n\nWhat is the value of 409 - 894 / 316? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                406.2,
+                406.2,
+                "To solve the expression 409 - 894 / 316, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nSo, we first divide 894 by 316:\n\n894 / 316 = 2.82911392405 (approximately)\n\nNow, we subtract this result from 409:\n\n409 - 2.82911392405 = 406.17088607595 (approximately)\n\nTherefore, the value of the expression is approximately [406.17088607595]."
+            ],
+            [
+                "[Example Question]: 5 - 886 / 71\n[Answer]: -7.47887323943662\n\nWhat is the value of 607 - 689 / 41? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                590.2,
+                590.2,
+                "To solve the expression 607 - 689 / 41, we first need to perform the division and then subtract the result from 607.\n\n689 / 41 = 16.804878048780487 (rounded to 15 decimal places)\n\nNow, subtract this result from 607:\n\n607 - 16.804878048780487 = 590.1951219512195 (rounded to 15 decimal places)\n\nSo the value of the expression is approximately [590.1951219512195]."
+            ],
+            [
+                "[Example Question]: 123 / 970 * 54\n[Answer]: 6.847422680412371\n\nWhat is the value of 300 / 588 * 15? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.7,
+                7.7,
+                "To calculate the value of \\( \\frac{300}{588} \\times 15 \\), you first divide 300 by 588 and then multiply the result by 15.\n\n\\( \\frac{300}{588} \\approx 0.5102040816326531 \\)\n\nNow, multiply this result by 15:\n\n\\( 0.5102040816326531 \\times 15 \\approx 7.653061224489796 \\)\n\nSo the final result is approximately [7.65] when rounded to two decimal places."
+            ],
+            [
+                "[Example Question]: 592 + 733 / 650\n[Answer]: 593.1276923076923\n\nWhat is the value of 981 + 588 / 855? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                981.7,
+                981.7,
+                "To solve the expression 981 + 588 / 855, we first need to perform the division before the addition due to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 588 by 855:\n\n588 / 855 = 0.687719298245614\n\nThen, add this result to 981:\n\n981 + 0.687719298245614 = 981.687719298245614\n\nRounded to a reasonable number of decimal places, the result is approximately 981.688.\n\nSo the value of 981 + 588 / 855 is approximately [981.688]."
+            ],
+            [
+                "[Example Question]: 743 / 744 * 152\n[Answer]: 151.79569892473117\n\nWhat is the value of 932 / 806 * 186? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                215.1,
+                215.2,
+                "To calculate the value of 932 / 806 * 186, we first divide 932 by 806, and then multiply the result by 186.\n\n(932 / 806) * 186 = 1.1563275434243176 * 186\n\nNow, we multiply the result by 186:\n\n1.1563275434243176 * 186 = 215.17716323972507\n\nSo the value of 932 / 806 * 186 is approximately [215.17716323972507]."
+            ],
+            [
+                "[Example Question]: 19 - 966 / 79\n[Answer]: 6.772151898734178\n\nWhat is the value of 619 - 606 / 806? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                618.2,
+                618.2,
+                "To solve the expression 619 - 606 / 806, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\nFirst, divide 606 by 806:\n606 / 806 = 0.7518575851393189 (approximately)\n\nNow, subtract this result from 619:\n619 - 0.7518575851393189 = 618.2481424148607 (approximately)\n\nSo the value of the expression is approximately [618.2481424148607]."
+            ],
+            [
+                "[Example Question]: 197 + 366 / 557\n[Answer]: 197.65709156193896\n\nWhat is the value of 705 + 337 / 975? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                705.3,
+                705.3,
+                "To solve the expression 705 + 337 / 975, we first need to perform the division and then add the result to 705.\n\nFirst, divide 337 by 975:\n337 / 975 = 0.34564102564 (rounded to 11 decimal places)\n\nNext, add this result to 705:\n705 + 0.34564102564 = 705.34564102564\n\nSo the value of the expression is approximately [705.34564102564]."
+            ],
+            [
+                "[Example Question]: 433 / 509 * 815\n[Answer]: 693.310412573674\n\nWhat is the value of 399 / 922 * 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                18.6,
+                18.6,
+                "To find the value of 399 / 922 * 43, we first divide 399 by 922 and then multiply the result by 43.\n\n399 / 922 = 0.432754880694143\n0.432754880694143 * 43 = 18.6084610694481\n\nSo the value of 399 / 922 * 43 is approximately [18.6084610694481]."
+            ],
+            [
+                "[Example Question]: 356 / 226 * 86\n[Answer]: 135.46902654867256\n\nWhat is the value of 133 / 690 * 275? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                53.0,
+                53.0,
+                "To calculate the value of 133 / 690 * 275, we first divide 133 by 690 and then multiply the result by 275.\n\n133 / 690 = 0.1927536231884058 (approximately)\n\nNow we multiply this result by 275:\n\n0.1927536231884058 * 275 = 52.957246376811594 (approximately)\n\nSo the value of 133 / 690 * 275 is approximately [52.957246376811594]."
+            ],
+            [
+                "[Example Question]: 657 / 819 * 247\n[Answer]: 198.14285714285714\n\nWhat is the value of 747 / 808 * 665? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                614.8,
+                614.9,
+                "To find the value of 747 / 808 * 665, we first perform the division and then multiply the result by 665.\n\n747 divided by 808 is approximately 0.9245049504950495.\n\nNow, we multiply this result by 665:\n\n0.9245049504950495 * 665 ≈ 614.8950495049505\n\nSo, the value of 747 / 808 * 665 is approximately [614.895]."
+            ],
+            [
+                "[Example Question]: 501 / 888 * 516\n[Answer]: 291.1216216216216\n\nWhat is the value of 202 / 710 * 263? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                74.8,
+                74.8,
+                "To find the value of 202 / 710 * 263, we first perform the division and then multiply the result by 263.\n\n202 / 710 = 0.2845070422535211 (approximately)\n\nNow, we multiply this result by 263:\n\n0.2845070422535211 * 263 = 74.82485915492958 (approximately)\n\nSo, the value of 202 / 710 * 263 is approximately [74.82485915492958]."
+            ],
+            [
+                "[Example Question]: 149 + 181 / 224\n[Answer]: 149.80803571428572\n\nWhat is the value of 141 + 541 / 591? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                141.9,
+                141.9,
+                "To calculate the value of 141 + 541 / 591, we first need to perform the division and then add the result to 141.\n\n541 / 591 = 0.915059957173447\n\nNow, we add this result to 141:\n\n141 + 0.915059957173447 = 141.915059957173447\n\nRounded to a reasonable number of decimal places, the result is approximately 141.915. Therefore, the value of 141 + 541 / 591 is [141.915]."
+            ],
+            [
+                "[Example Question]: 766 / 487 * 535\n[Answer]: 841.4989733059549\n\nWhat is the value of 786 / 458 * 418? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                717.4,
+                717.2,
+                "To calculate the value of 786 / 458 * 418, we first divide 786 by 458 and then multiply the result by 418.\n\nLet's do the calculation:\n\n786 / 458 = 1.7161572052401747\n1.7161572052401747 * 418 = 717.161738002473\n\nSo the value of 786 / 458 * 418 is approximately [717.161738002473]."
+            ],
+            [
+                "[Example Question]: 404 - 573 / 584\n[Answer]: 403.01883561643837\n\nWhat is the value of 691 - 533 / 637? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                690.2,
+                690.2,
+                "To solve the expression 691 - 533 / 637, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n533 / 637 = 0.836733\n\nNow, we subtract this result from 691:\n\n691 - 0.836733 = 690.163267\n\nSo the value of the expression is [690.163267]."
+            ],
+            [
+                "[Example Question]: 787 / 420 - 120\n[Answer]: -118.12619047619047\n\nWhat is the value of 770 / 849 - 919? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -918.1,
+                -918.1,
+                "To find the value of 770 / 849 - 919, we first divide 770 by 849, and then subtract 919 from the result.\n\n770 / 849 = 0.907538281\n\nNow, subtract 919 from this result:\n\n0.907538281 - 919 = -918.092461719\n\nSo the final result is approximately [-918.0925] when rounded to four decimal places."
+            ],
+            [
+                "[Example Question]: 290 - 151 / 580\n[Answer]: 289.7396551724138\n\nWhat is the value of 868 - 906 / 494? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                866.2,
+                866.2,
+                "To solve the expression 868 - 906 / 494, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n906 / 494 = 1.834008097166\n\nNow, subtract this result from 868:\n\n868 - 1.834008097166 = 866.165991902834\n\nSo the value of the expression is [866.165991902834]."
+            ],
+            [
+                "[Example Question]: 721 / 618 + 309\n[Answer]: 310.1666666666667\n\nWhat is the value of 525 / 111 + 456? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                460.7,
+                460.7,
+                "To solve the expression 525 / 111 + 456, we first divide 525 by 111 and then add 456 to the result.\n\n525 / 111 = 4.72972972972973 (rounded to 14 decimal places)\n\nNow, we add 456 to the result:\n\n4.72972972972973 + 456 = 460.72972972972973\n\nRounded to the nearest decimal, the result is 460.7.\n\nSo, the value of 525 / 111 + 456 is approximately [460.7]."
+            ],
+            [
+                "[Example Question]: 534 / 827 * 40\n[Answer]: 25.828295042321642\n\nWhat is the value of 123 / 720 * 196? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33.5,
+                33.5,
+                "To find the value of 123 / 720 * 196, we first perform the division and then multiply the result by 196.\n\n123 / 720 = 0.17083333333333334\n\nNow, we multiply this result by 196:\n\n0.17083333333333334 * 196 = 33.483333333333334\n\nSo the value of 123 / 720 * 196 is approximately [33.483333333333334]."
+            ],
+            [
+                "[Example Question]: 351 / 192 - 779\n[Answer]: -777.171875\n\nWhat is the value of 923 / 985 - 364? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -363.1,
+                -363.1,
+                "To find the value of 923 / 985 - 364, we first divide 923 by 985, and then subtract 364 from the result.\n\n923 / 985 = 0.9370558375634518 (approximately)\n\nNow, subtract 364 from this result:\n\n0.9370558375634518 - 364 = -363.06294416243655 (approximately)\n\nSo the final result is [-363.06294416243655]."
+            ],
+            [
+                "[Example Question]: 886 - 962 / 440\n[Answer]: 883.8136363636364\n\nWhat is the value of 654 - 988 / 368? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                651.3,
+                651.3,
+                "To solve the expression 654 - 988 / 368, we first need to perform the division and then the subtraction.\n\nFirst, divide 988 by 368:\n988 / 368 = 2.6847826086956523\n\nNow, subtract the result from 654:\n654 - 2.6847826086956523 = 651.3152173913044\n\nSo the value of the expression is approximately [651.3152173913044]."
+            ],
+            [
+                "[Example Question]: 999 / 604 - 887\n[Answer]: -885.3460264900663\n\nWhat is the value of 480 / 562 - 278? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -277.1,
+                -277.1,
+                "To find the value of 480 / 562 - 278, we first divide 480 by 562, and then subtract 278 from the result.\n\n480 / 562 = 0.854093\n0.854093 - 278 = -277.145907\n\nSo the final result is [-277.145907]."
+            ],
+            [
+                "[Example Question]: 585 / 29 + 905\n[Answer]: 925.1724137931035\n\nWhat is the value of 200 / 358 + 510? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                510.6,
+                510.6,
+                "To calculate the value of 200 / 358 + 510, we first divide 200 by 358, and then add 510 to the result.\n\n200 / 358 = 0.5586592178770949 (approximately)\n\nNow, we add 510 to this result:\n\n0.5586592178770949 + 510 = 510.5586592178770949\n\nSo, the final result is approximately [510.559]."
+            ],
+            [
+                "[Example Question]: 158 / 134 - 998\n[Answer]: -996.820895522388\n\nWhat is the value of 841 / 308 - 766? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -763.3,
+                -763.3,
+                "To solve the expression 841 / 308 - 766, we first divide 841 by 308, and then subtract 766 from the result.\n\n841 / 308 = 2.73116883117 (approximately)\n\nNow, subtract 766 from this result:\n\n2.73116883117 - 766 = -763.26883116883 (approximately)\n\nSo the value of the expression is approximately [-763.27] when rounded to two decimal places."
+            ],
+            [
+                "[Example Question]: 458 - 260 / 537\n[Answer]: 457.51582867783986\n\nWhat is the value of 129 - 488 / 987? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                128.5,
+                128.5,
+                "To solve the expression 129 - 488 / 987, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n488 / 987 = 0.494429\n\nNow, we subtract this result from 129:\n\n129 - 0.494429 = 128.505571\n\nSo the value of the expression is approximately [128.505571]."
+            ],
+            [
+                "[Example Question]: 385 / 331 * 573\n[Answer]: 666.4803625377643\n\nWhat is the value of 824 / 652 * 351? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                443.6,
+                443.7,
+                "To calculate the value of 824 / 652 * 351, we first divide 824 by 652 and then multiply the result by 351.\n\n824 / 652 = 1.263803680981595 (approximately)\n\nNow we multiply this result by 351:\n\n1.263803680981595 * 351 = 443.69429382430645 (approximately)\n\nSo the value of 824 / 652 * 351 is approximately [443.69429382430645]."
+            ],
+            [
+                "[Example Question]: 376 / 649 * 157\n[Answer]: 90.95839753466872\n\nWhat is the value of 319 / 853 * 994? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                371.7,
+                371.7,
+                "To find the value of 319 / 853 * 994, we first perform the division and then multiply the result by 994.\n\n319 / 853 = 0.374031 (rounded to six decimal places)\n\nNow we multiply this result by 994:\n\n0.374031 * 994 = 371.654814 (rounded to six decimal places)\n\nTherefore, the value of 319 / 853 * 994 is approximately [371.654814]."
+            ],
+            [
+                "[Example Question]: 660 / 236 + 679\n[Answer]: 681.7966101694915\n\nWhat is the value of 163 / 445 + 299? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                299.4,
+                299.4,
+                "To calculate the value of 163 / 445 + 299, we first divide 163 by 445 and then add 299 to the result.\n\n163 / 445 = 0.3662921348314607 (approximately)\n\nNow, we add 299 to this result:\n\n0.3662921348314607 + 299 = 299.3662921348314607\n\nSo, the final result as a decimal is approximately [299.3662921348314607]."
+            ],
+            [
+                "[Example Question]: 435 / 579 * 546\n[Answer]: 410.2072538860104\n\nWhat is the value of 149 / 918 * 953? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                154.7,
+                154.7,
+                "To calculate the value of 149 / 918 * 953, we first perform the division and then multiply the result by 953.\n\n149 / 918 = 0.16230936613031161473087818696884 (approximately)\n\nNow we multiply this result by 953:\n\n0.16230936613031161473087818696884 * 953 = 154.679073979087 (approximately)\n\nSo the value of 149 / 918 * 953 is approximately [154.679073979087]."
+            ],
+            [
+                "[Example Question]: 937 / 128 - 866\n[Answer]: -858.6796875\n\nWhat is the value of 910 / 160 - 221? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -215.3,
+                -215.3,
+                "To find the value of 910 / 160 - 221, we first divide 910 by 160 and then subtract 221 from the result.\n\n910 / 160 = 5.6875\n\nNow, subtract 221 from 5.6875:\n\n5.6875 - 221 = -215.3125\n\nSo the final result is [-215.3125]."
+            ],
+            [
+                "[Example Question]: 74 / 954 * 244\n[Answer]: 18.926624737945495\n\nWhat is the value of 447 / 3 * 899? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                133951.0,
+                134051,
+                "To calculate the value of 447 / 3 * 899, we first divide 447 by 3 and then multiply the result by 899.\n\n447 / 3 = 149\n\nNow we multiply 149 by 899:\n\n149 * 899 = 134,051\n\nSo the value of 447 / 3 * 899 is [134,051]."
+            ],
+            [
+                "[Example Question]: 382 / 592 * 666\n[Answer]: 429.75\n\nWhat is the value of 594 / 801 * 838? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                621.4,
+                621.5,
+                "To calculate the value of 594 / 801 * 838, we first perform the division and then the multiplication:\n\n594 / 801 = 0.7415730337 (approximately)\n\nNow we multiply this result by 838:\n\n0.7415730337 * 838 = 621.4775281466 (approximately)\n\nRounded to two decimal places, the result is 621.48.\n\nSo the value of 594 / 801 * 838 is approximately [621.48]."
+            ],
+            [
+                "[Example Question]: 718 - 902 / 933\n[Answer]: 717.0332261521972\n\nWhat is the value of 957 - 284 / 420? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                956.3,
+                956.3,
+                "To solve the expression 957 - 284 / 420, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n284 / 420 = 0.6761904761904762\n\nNow, subtract that result from 957:\n\n957 - 0.6761904761904762 = 956.3238095238095\n\nSo the value of the expression is approximately [956.32] when rounded to two decimal places."
+            ],
+            [
+                "[Example Question]: 646 - 957 / 804\n[Answer]: 644.8097014925373\n\nWhat is the value of 383 - 999 / 305? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                379.7,
+                379.7,
+                "To solve the expression 383 - 999 / 305, we first need to perform the division and then subtract the result from 383.\n\n999 / 305 = 3.2754098360655737 (approximately)\n\nNow, subtract this result from 383:\n\n383 - 3.2754098360655737 = 379.72459016393443 (approximately)\n\nSo the value of the expression is approximately [379.72459016393443]."
+            ],
+            [
+                "[Example Question]: 658 + 106 / 367\n[Answer]: 658.2888283378746\n\nWhat is the value of 922 + 938 / 297? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                925.2,
+                925.2,
+                "To calculate the value of 922 + 938 / 297, we first need to perform the division and then add the result to 922.\n\n938 / 297 = 3.1582491582491583 (rounded to 16 decimal places)\n\nNow, we add this result to 922:\n\n922 + 3.1582491582491583 = 925.1582491582492 (rounded to 16 decimal places)\n\nSo the value of 922 + 938 / 297 as a decimal is approximately [925.1582491582492]."
+            ],
+            [
+                "[Example Question]: 375 / 704 * 165\n[Answer]: 87.890625\n\nWhat is the value of 168 / 93 * 412? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                744.3,
+                744.3,
+                "To find the value of 168 / 93 * 412, we first divide 168 by 93 and then multiply the result by 412.\n\n168 / 93 = 1.8064516129 (approximately)\n\nNow we multiply this result by 412:\n\n1.8064516129 * 412 = 744.2580645168 (approximately)\n\nRounded to the nearest decimal, the result is [744.3]."
+            ],
+            [
+                "[Example Question]: 775 + 22 / 666\n[Answer]: 775.033033033033\n\nWhat is the value of 623 + 55 / 503? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                623.1,
+                623.1,
+                "To calculate the value of 623 + 55 / 503, we first need to perform the division and then add the result to 623.\n\n55 / 503 = 0.109344489\n\nNow, we add this result to 623:\n\n623 + 0.109344489 = 623.109344489\n\nRounded to a reasonable number of decimal places, the result is approximately 623.109. Therefore, the value of 623 + 55 / 503 is [623.109]."
+            ],
+            [
+                "[Example Question]: 258 / 499 + 796\n[Answer]: 796.5170340681362\n\nWhat is the value of 743 / 68 + 236? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                246.9,
+                246.9,
+                "To calculate the value of 743 / 68 + 236, we first divide 743 by 68 and then add 236 to the result.\n\n743 / 68 = 10.926470588235294 (rounded to 15 decimal places)\n\nNow, we add 236 to this result:\n\n10.926470588235294 + 236 = 246.9264705882353 (rounded to 15 decimal places)\n\nSo the final result is [246.9264705882353]."
+            ],
+            [
+                "[Example Question]: 835 - 12 / 627\n[Answer]: 834.9808612440191\n\nWhat is the value of 924 - 358 / 812? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                923.6,
+                923.6,
+                "To solve the expression 924 - 358 / 812, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n358 / 812 = 0.440887\n\nNow, we subtract this result from 924:\n\n924 - 0.440887 = 923.559113\n\nSo the value of the expression is [923.559113]."
+            ],
+            [
+                "[Example Question]: 891 - 519 / 443\n[Answer]: 889.8284424379233\n\nWhat is the value of 963 - 769 / 210? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                959.3,
+                959.3,
+                "To solve the expression 963 - 769 / 210, we first need to perform the division before the subtraction due to the order of operations (PEMDAS/BODMAS).\n\n769 / 210 = 3.661904761904762\n\nNow, subtract that result from 963:\n\n963 - 3.661904761904762 = 959.3380952380952\n\nSo the value of the expression is approximately [959.3380952380952]."
+            ],
+            [
+                "[Example Question]: 755 / 470 + 358\n[Answer]: 359.6063829787234\n\nWhat is the value of 458 / 358 + 144? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                145.3,
+                145.3,
+                "To calculate the value of 458 / 358 + 144, we first divide 458 by 358, and then add 144 to the result.\n\n458 / 358 = 1.2793296089385475 (approximately)\n\nNow, we add 144 to this result:\n\n1.2793296089385475 + 144 = 145.27932960893855 (approximately)\n\nSo, the final result is [145.27932960893855]."
+            ],
+            [
+                "[Example Question]: 943 / 238 + 390\n[Answer]: 393.9621848739496\n\nWhat is the value of 161 / 231 + 624? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                624.7,
+                624.7,
+                "To calculate the value of 161 / 231 + 624, we first perform the division and then add the result to 624.\n\n161 divided by 231 is approximately 0.696969696969697 (rounded to 15 decimal places).\n\nNow, we add this result to 624:\n\n624 + 0.696969696969697 ≈ 624.6969696969697\n\nRounded to the nearest decimal, the result is approximately [624.7]."
+            ],
+            [
+                "[Example Question]: 408 / 321 * 218\n[Answer]: 277.0841121495327\n\nWhat is the value of 238 / 417 * 912? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                520.5,
+                520.0,
+                "To calculate the value of 238 / 417 * 912, we first perform the division and then the multiplication:\n\n(238 / 417) * 912\n\nNow, let's calculate the division part:\n\n238 / 417 ≈ 0.570264765784114\n\nNext, we multiply this result by 912:\n\n0.570264765784114 * 912 ≈ 519.961461794019\n\nSo the final result is approximately [519.961461794019]."
+            ],
+            [
+                "[Example Question]: 722 + 273 / 983\n[Answer]: 722.2777212614445\n\nWhat is the value of 632 + 125 / 776? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                632.2,
+                632.2,
+                "To calculate the value of 632 + 125 / 776, we first need to perform the division and then add the result to 632.\n\n125 / 776 = 0.1610824742 (rounded to 10 decimal places)\n\nNow, we add this result to 632:\n\n632 + 0.1610824742 = 632.1610824742 (rounded to 10 decimal places)\n\nSo the final result is [632.1610824742]."
+            ]
+        ]
+    }
+}

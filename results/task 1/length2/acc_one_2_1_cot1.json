@@ -1,0 +1,1227 @@
+{
+    "+": {
+        "accuracy": "50/50=1.0",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 2 - 1 + 2? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 1 + 2 = 3, so the expression becomes 2 - 3.\nStep2: Next, 2 - 3 = -1, so the final answer is [-1].\n\nBased on the new priorities, what is the value of 9 - 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2.0,
+                -2,
+                "Based on the new rules, '+' has priority over '-'. So we calculate '+' before '-'.\n\nStep 1: Calculate the '+' operation first: 5 + 6 = 11, so the expression becomes 9 - 11.\nStep 2: Next, calculate the '-' operation: 9 - 11 = -2.\n\nSo the final answer is [-2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 3 - 5 + 4? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 5 + 4 = 9, so the expression becomes 3 - 9.\nStep2: Next, 3 - 9 = -6, so the final answer is [-6].\n\nBased on the new priorities, what is the value of 5 - 4 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.0,
+                -3,
+                "Based on the new rules where '+' has priority over '-', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 4 + 4 = 8, so the expression becomes 5 - 8.\n\nStep 2: Next, calculate the '-' operation: 5 - 8 = -3.\n\nSo the final answer is [-3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 3 + 5 * 5? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 3 + 5 = 8, so the expression becomes 8 * 5.\nStep2: Next, 8 * 5 = 40, so the final answer is [40].\n\nBased on the new priorities, what is the value of 2 + 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                77.0,
+                77,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 2 + 9 = 11, so the expression becomes 11 * 7.\n\nStep 2: Next, we calculate 11 * 7 = 77.\n\nSo the final answer is [77]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 9 * 9 + 4? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 9 + 4 = 13, so the expression becomes 9 * 13.\nStep2: Next, 9 * 13 = 117, so the final answer is [117].\n\nBased on the new priorities, what is the value of 3 * 3 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33.0,
+                33,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 3 + 8 = 11, so the expression becomes 3 * 11.\nStep 2: Next, calculate the '*' operation: 3 * 11 = 33.\n\nSo the final answer is [33]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 7 + 4 / 6? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 7 + 4 = 11, so the expression becomes 11 / 6.\nStep2: Next, 11 / 6 = 1.8333333333333333, so the final answer is [1.8333333333333333].\n\nBased on the new priorities, what is the value of 2 + 4 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.0,
+                3,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 2 + 4 = 6, so the expression becomes 6 / 2.\nStep 2: Next, calculate 6 / 2 = 3.\n\nTherefore, the final answer is [3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 3 + 5 * 5? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 3 + 5 = 8, so the expression becomes 8 * 5.\nStep2: Next, 8 * 5 = 40, so the final answer is [40].\n\nBased on the new priorities, what is the value of 8 + 7 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                105.0,
+                105,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 8 + 7 = 15, so the expression becomes 15 * 7.\n\nStep 2: Next, we calculate 15 * 7 = 105.\n\nSo the final answer is [105]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 4 + 5 * 6? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 4 + 5 = 9, so the expression becomes 9 * 6.\nStep2: Next, 9 * 6 = 54, so the final answer is [54].\n\nBased on the new priorities, what is the value of 4 + 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                24.0,
+                24,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 4 + 8 = 12, so the expression becomes 12 * 2.\nStep 2: Next, calculate 12 * 2 = 24.\n\nSo the final answer is [24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 5 + 8 / 9? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 5 + 8 = 13, so the expression becomes 13 / 9.\nStep2: Next, 13 / 9 = 1.4444444444444444, so the final answer is [1.4444444444444444].\n\nBased on the new priorities, what is the value of 5 + 3 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                1.3,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression: 5 + 3 = 8, so the expression becomes 8 / 6.\n\nStep 2: Next, we perform the division: 8 / 6 = 1.3333333333333333.\n\nTherefore, the final answer is [1.3333333333333333]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 9 * 2 + 5? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 5 = 7, so the expression becomes 9 * 7.\nStep2: Next, 9 * 7 = 63, so the final answer is [63].\n\nBased on the new priorities, what is the value of 6 * 1 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                42.0,
+                42,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression: 1 + 6 = 7.\n\nStep 2: Now, the expression becomes 6 * 7.\n\nStep 3: Finally, calculate the multiplication: 6 * 7 = 42.\n\nSo the final answer is [42]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 5 + 6 * 6? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 5 + 6 = 11, so the expression becomes 11 * 6.\nStep2: Next, 11 * 6 = 66, so the final answer is [66].\n\nBased on the new priorities, what is the value of 1 + 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                24.0,
+                24,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 1 + 7 = 8, so the expression becomes 8 * 3.\n\nStep 2: Next, we calculate 8 * 3 = 24.\n\nTherefore, the final answer is [24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 * 1 + 9? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 1 + 9 = 10, so the expression becomes 7 * 10.\nStep2: Next, 7 * 10 = 70, so the final answer is [70].\n\nBased on the new priorities, what is the value of 7 * 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                63.0,
+                63,
+                "Based on the new rules, '+' has priority over '*'.\n\nStep 1: Since '+' has priority over '*', we calculate '+' first: 6 + 3 = 9, so the expression becomes 7 * 9.\n\nStep 2: Next, 7 * 9 = 63, so the final answer is [63]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 8 + 6 * 2? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 8 + 6 = 14, so the expression becomes 14 * 2.\nStep2: Next, 14 * 2 = 28, so the final answer is [28].\n\nBased on the new priorities, what is the value of 7 + 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                120.0,
+                120,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 7 + 8 = 15, so the expression becomes 15 * 8.\n\nStep 2: Next, 15 * 8 = 120, so the final answer is [120]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 4 - 1 + 2? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 1 + 2 = 3, so the expression becomes 4 - 3.\nStep2: Next, 4 - 3 = 1, so the final answer is [1].\n\nBased on the new priorities, what is the value of 5 - 1 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2.0,
+                -2,
+                "Based on the new rules where '+' has priority over '-', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 1 + 6 = 7, so the expression becomes 5 - 7.\n\nStep 2: Next, calculate the '-' operation: 5 - 7 = -2.\n\nSo the final answer is [-2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 + 3 * 2? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 7 + 3 = 10, so the expression becomes 10 * 2.\nStep2: Next, 10 * 2 = 20, so the final answer is [20].\n\nBased on the new priorities, what is the value of 6 + 1 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                42.0,
+                42,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 6 + 1 = 7, so the expression becomes 7 * 6.\nStep 2: Next, calculate 7 * 6 = 42.\n\nSo the final answer is [42]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 5 * 2 + 3? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 3 = 5, so the expression becomes 5 * 5.\nStep2: Next, 5 * 5 = 25, so the final answer is [25].\n\nBased on the new priorities, what is the value of 9 * 6 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                72.0,
+                72,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 6 + 2 = 8, so the expression becomes 9 * 8.\n\nStep 2: Next, calculate the multiplication: 9 * 8 = 72.\n\nSo the final answer is [72]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 4 - 6 + 5? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 6 + 5 = 11, so the expression becomes 4 - 11.\nStep2: Next, 4 - 11 = -7, so the final answer is [-7].\n\nBased on the new priorities, what is the value of 7 - 6 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.0,
+                -1,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 6 + 2 = 8, so the expression becomes 7 - 8.\n\nStep 2: Next, 7 - 8 = -1, so the final answer is [-1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 8 - 5 + 8? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 5 + 8 = 13, so the expression becomes 8 - 13.\nStep2: Next, 8 - 13 = -5, so the final answer is [-5].\n\nBased on the new priorities, what is the value of 6 - 7 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -8.0,
+                -8,
+                "Based on the new rules where '+' has priority over '-', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 7 + 7 = 14, so the expression becomes 6 - 14.\n\nStep 2: Next, calculate the '-' operation: 6 - 14 = -8.\n\nSo the final answer is [-8]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 1 + 8 * 2? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 1 + 8 = 9, so the expression becomes 9 * 2.\nStep2: Next, 9 * 2 = 18, so the final answer is [18].\n\nBased on the new priorities, what is the value of 3 + 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                16.0,
+                16,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 3 + 1 = 4, so the expression becomes 4 * 4.\n\nStep 2: Next, 4 * 4 = 16, so the final answer is [16]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 1 - 4 + 5? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 4 + 5 = 9, so the expression becomes 1 - 9.\nStep2: Next, 1 - 9 = -8, so the final answer is [-8].\n\nBased on the new priorities, what is the value of 2 - 3 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -10.0,
+                -10,
+                "Based on the new rules where '+' has priority over '-', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 3 + 9 = 12, so the expression becomes 2 - 12.\n\nStep 2: Next, calculate the '-' operation: 2 - 12 = -10.\n\nSo the final answer is [-10]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 5 + 4 / 4? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 5 + 4 = 9, so the expression becomes 9 / 4.\nStep2: Next, 9 / 4 = 2.25, so the final answer is [2.25].\n\nBased on the new priorities, what is the value of 4 + 2 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.0,
+                1,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 4 + 2, which equals 6, so the expression becomes 6 / 6.\n\nStep 2: Next, calculate 6 / 6, which equals 1.\n\nTherefore, the final answer is [1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 6 * 2 + 5? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 5 = 7, so the expression becomes 6 * 7.\nStep2: Next, 6 * 7 = 42, so the final answer is [42].\n\nBased on the new priorities, what is the value of 3 * 5 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                42.0,
+                42,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 5 + 9 = 14, so the expression becomes 3 * 14.\n\nStep 2: Next, calculate the '*' operation: 3 * 14 = 42.\n\nTherefore, the final answer is [42]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 * 2 + 3? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 3 = 5, so the expression becomes 7 * 5.\nStep2: Next, 7 * 5 = 35, so the final answer is [35].\n\nBased on the new priorities, what is the value of 5 * 2 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                40.0,
+                40,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 2 + 6 = 8, so the expression becomes 5 * 8.\n\nStep 2: Next, calculate the multiplication: 5 * 8 = 40.\n\nTherefore, the final answer is [40]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 1 - 4 + 3? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 4 + 3 = 7, so the expression becomes 1 - 7.\nStep2: Next, 1 - 7 = -6, so the final answer is [-6].\n\nBased on the new priorities, what is the value of 6 - 2 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4.0,
+                -4,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 2 + 8 = 10, so the expression becomes 6 - 10.\n\nStep 2: Next, we calculate 6 - 10 = -4, so the final answer is [-4]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 2 - 4 + 1? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 4 + 1 = 5, so the expression becomes 2 - 5.\nStep2: Next, 2 - 5 = -3, so the final answer is [-3].\n\nBased on the new priorities, what is the value of 7 - 5 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.0,
+                -1,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 5 + 3 = 8, so the expression becomes 7 - 8.\n\nStep 2: Next, 7 - 8 = -1, so the final answer is [-1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 3 + 9 * 7? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 3 + 9 = 12, so the expression becomes 12 * 7.\nStep2: Next, 12 * 7 = 84, so the final answer is [84].\n\nBased on the new priorities, what is the value of 3 + 2 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                30.0,
+                30,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 3 + 2 = 5, so the expression becomes 5 * 6.\nStep 2: Next, calculate the multiplication: 5 * 6 = 30.\n\nSo the final answer is [30]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 2 + 7 / 3? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 2 + 7 = 9, so the expression becomes 9 / 3.\nStep2: Next, 9 / 3 = 3.0, so the final answer is [3.0].\n\nBased on the new priorities, what is the value of 5 + 4 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.0,
+                1.0,
+                "Based on the new rules, '+' has priority over '/'.\n\nStep 1: Since '+' has priority over '/', we calculate '+' first: 5 + 4 = 9, so the expression becomes 9 / 9.\n\nStep 2: Next, 9 / 9 = 1.0, so the final answer is [1.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 8 + 3 / 1? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 8 + 3 = 11, so the expression becomes 11 / 1.\nStep2: Next, 11 / 1 = 11.0, so the final answer is [11.0].\n\nBased on the new priorities, what is the value of 3 + 3 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.0,
+                3.0,
+                "Based on the new rules, '+' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 3 + 3 = 6, so the expression becomes 6 / 2.\n\nStep 2: Next, we calculate 6 / 2 = 3.0.\n\nTherefore, the final answer is [3.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 4 + 3 / 2? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 4 + 3 = 7, so the expression becomes 7 / 2.\nStep2: Next, 7 / 2 = 3.5, so the final answer is [3.5].\n\nBased on the new priorities, what is the value of 7 + 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.1,
+                2.1,
+                "Based on the new rules, '+' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 7 + 8 = 15, so the expression becomes 15 / 7.\n\nStep 2: Next, we calculate 15 / 7, which is approximately 2.142857.\n\nTherefore, the final answer is [2.142857]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 8 + 4 / 8? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 8 + 4 = 12, so the expression becomes 12 / 8.\nStep2: Next, 12 / 8 = 1.5, so the final answer is [1.5].\n\nBased on the new priorities, what is the value of 8 + 7 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5.0,
+                5,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 8 + 7 = 15, so the expression becomes 15 / 3.\nStep 2: Next, calculate 15 / 3 = 5.\n\nSo the final answer is [5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 3 / 7 + 2? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 7 + 2 = 9, so the expression becomes 3 / 9.\nStep2: Next, 3 / 9 = 0.3333333333333333, so the final answer is [0.3333333333333333].\n\nBased on the new priorities, what is the value of 7 / 4 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.0,
+                1,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression: 4 + 3 = 7, so the expression becomes 7 / 7.\n\nStep 2: Now, we perform the division: 7 / 7 = 1.\n\nTherefore, the final answer is [1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 6 + 1 / 7? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 6 + 1 = 7, so the expression becomes 7 / 7.\nStep2: Next, 7 / 7 = 1.0, so the final answer is [1.0].\n\nBased on the new priorities, what is the value of 4 + 5 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.0,
+                3.0,
+                "Based on the new rules, '+' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 4 + 5 = 9, so the expression becomes 9 / 3.\n\nStep 2: Next, we calculate 9 / 3 = 3.0.\n\nTherefore, the final answer is [3.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 1 - 5 + 8? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 5 + 8 = 13, so the expression becomes 1 - 13.\nStep2: Next, 1 - 13 = -12, so the final answer is [-12].\n\nBased on the new priorities, what is the value of 2 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -9.0,
+                -9,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 6 + 5 = 11, so the expression becomes 2 - 11.\n\nStep 2: Next, 2 - 11 = -9, so the final answer is [-9]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 9 * 9 + 7? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 9 + 7 = 16, so the expression becomes 9 * 16.\nStep2: Next, 9 * 16 = 144, so the final answer is [144].\n\nBased on the new priorities, what is the value of 2 * 7 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                30.0,
+                30,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 7 + 8 = 15, so the expression becomes 2 * 15.\n\nStep 2: Next, calculate the '*' operation: 2 * 15 = 30.\n\nTherefore, the final answer is [30]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 3 + 3 / 7? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 3 + 3 = 6, so the expression becomes 6 / 7.\nStep2: Next, 6 / 7 = 0.8571428571428571, so the final answer is [0.8571428571428571].\n\nBased on the new priorities, what is the value of 6 + 9 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.7,
+                1.7,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 6 + 9, which equals 15, so the expression becomes 15 / 9.\nStep 2: Next, calculate 15 / 9, which equals 1.6666666666666667.\n\nSo the final answer is [1.6666666666666667]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 2 + 4 * 8? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 2 + 4 = 6, so the expression becomes 6 * 8.\nStep2: Next, 6 * 8 = 48, so the final answer is [48].\n\nBased on the new priorities, what is the value of 8 + 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                36.0,
+                36,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 8 + 1 = 9, so the expression becomes 9 * 4.\nStep 2: Next, 9 * 4 = 36, so the final answer is [36]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 7 - 5 + 7? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 5 + 7 = 12, so the expression becomes 7 - 12.\nStep2: Next, 7 - 12 = -5, so the final answer is [-5].\n\nBased on the new priorities, what is the value of 1 - 1 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.0,
+                -3,
+                "Based on the new rules where '+' has priority over '-', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 1 + 3 = 4, so the expression becomes 1 - 4.\n\nStep 2: Next, calculate the '-' operation: 1 - 4 = -3.\n\nSo the final answer is [-3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 4 * 5 + 7? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 5 + 7 = 12, so the expression becomes 4 * 12.\nStep2: Next, 4 * 12 = 48, so the final answer is [48].\n\nBased on the new priorities, what is the value of 5 * 4 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                50.0,
+                50,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 4 + 6 = 10, so the expression becomes 5 * 10.\n\nStep 2: Next, calculate the multiplication: 5 * 10 = 50.\n\nTherefore, the final answer is [50]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 5 / 7 + 8? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 7 + 8 = 15, so the expression becomes 5 / 15.\nStep2: Next, 5 / 15 = 0.3333333333333333, so the final answer is [0.3333333333333333].\n\nBased on the new priorities, what is the value of 7 / 9 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the sum: 9 + 5 = 14, so the expression becomes 7 / 14.\n\nStep 2: Next, calculate the division: 7 / 14 = 0.5.\n\nTherefore, the final answer is [0.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 3 + 6 * 1? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 3 + 6 = 9, so the expression becomes 9 * 1.\nStep2: Next, 9 * 1 = 9, so the final answer is [9].\n\nBased on the new priorities, what is the value of 2 + 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                88.0,
+                88,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 2 + 9 = 11, so the expression becomes 11 * 8.\n\nStep 2: Next, we calculate 11 * 8 = 88.\n\nTherefore, the final answer is [88]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 8 / 3 + 3? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 3 + 3 = 6, so the expression becomes 8 / 6.\nStep2: Next, 8 / 6 = 1.3333333333333333, so the final answer is [1.3333333333333333].\n\nBased on the new priorities, what is the value of 4 / 9 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                0.3,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the sum: 9 + 6 = 15, so the expression becomes 4 / 15.\n\nStep 2: Next, calculate the division: 4 / 15 = 0.26666666666666666\n\nSo the final answer is [0.26666666666666666]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: What is the value of 4 + 4 / 8? \n[Answer]: Based on the new rules, + and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 4 + 4 = 8, so the expression becomes 8 / 8.\nStep2: Next, 8 / 8 = 1.0, so the final answer is [1.0].\n\nBased on the new priorities, what is the value of 2 + 1 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Based on the new rules, '+' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 2 + 1 = 3, so the expression becomes 3 / 6.\n\nStep 2: Next, we calculate 3 / 6, which equals 0.5.\n\nTherefore, the final answer is [0.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 5 / 5 + 6? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 5 + 6 = 11, so the expression becomes 5 / 11.\nStep2: Next, 5 / 11 = 0.45454545454545453, so the final answer is [0.45454545454545453].\n\nBased on the new priorities, what is the value of 1 / 3 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 3 + 7 = 10, so the expression becomes 1 / 10.\n\nStep 2: Next, calculate the division: 1 / 10 = 0.1\n\nSo the final answer is [0.1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 5 * 7 + 6? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 7 + 6 = 13, so the expression becomes 5 * 13.\nStep2: Next, 5 * 13 = 65, so the final answer is [65].\n\nBased on the new priorities, what is the value of 5 * 2 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25.0,
+                25,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression: 2 + 3 = 5, so the expression becomes 5 * 5.\n\nStep 2: Next, calculate the multiplication: 5 * 5 = 25.\n\nTherefore, the final answer is [25]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 3 + 8 * 1? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 3 + 8 = 11, so the expression becomes 11 * 1.\nStep2: Next, 11 * 1 = 11, so the final answer is [11].\n\nBased on the new priorities, what is the value of 9 + 9 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                72.0,
+                72,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 9 + 9 = 18, so the expression becomes 18 * 4.\n\nStep 2: Now, calculate the multiplication: 18 * 4 = 72.\n\nTherefore, the final answer is [72]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 8 * 9 + 5? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 9 + 5 = 14, so the expression becomes 8 * 14.\nStep2: Next, 8 * 14 = 112, so the final answer is [112].\n\nBased on the new priorities, what is the value of 3 * 7 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                42.0,
+                42,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the '+' part of the expression first: 7 + 7 = 14, so the expression becomes 3 * 14.\n\nStep 2: Next, calculate the '*' part: 3 * 14 = 42.\n\nSo the final answer is [42]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: What is the value of 5 + 1 * 6? \n[Answer]: Based on the new rules, + and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 5 + 1 = 6, so the expression becomes 6 * 6.\nStep2: Next, 6 * 6 = 36, so the final answer is [36].\n\nBased on the new priorities, what is the value of 8 + 6 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                98.0,
+                98,
+                "Based on the new rules where '+' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 8 + 6 = 14, so the expression becomes 14 * 7.\n\nStep 2: Next, we calculate 14 * 7 = 98.\n\nTherefore, the final answer is [98]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 6 * 7 + 6? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 7 + 6 = 13, so the expression becomes 6 * 13.\nStep2: Next, 6 * 13 = 78, so the final answer is [78].\n\nBased on the new priorities, what is the value of 5 * 1 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                20.0,
+                20,
+                "Based on the new rules, '+' has priority over '*'.\n\nStep 1: Since '+' has priority over '*', we calculate '+' first: 1 + 3 = 4, so the expression becomes 5 * 4.\n\nStep 2: Next, 5 * 4 = 20, so the final answer is [20]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 2 - 5 + 5? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 5 + 5 = 10, so the expression becomes 2 - 10.\nStep2: Next, 2 - 10 = -8, so the final answer is [-8].\n\nBased on the new priorities, what is the value of 4 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -7.0,
+                -7,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 6 + 5 = 11, so the expression becomes 4 - 11.\n\nStep 2: Next, we calculate 4 - 11 = -7, so the final answer is [-7]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 8 - 9 + 1? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 9 + 1 = 10, so the expression becomes 8 - 10.\nStep2: Next, 8 - 10 = -2, so the final answer is [-2].\n\nBased on the new priorities, what is the value of 7 - 4 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5.0,
+                -5,
+                "Based on the new rules, '+' has priority over '-'. So we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 4 + 8 = 12, so the expression becomes 7 - 12.\n\nStep 2: Next, calculate the '-' operation: 7 - 12 = -5.\n\nSo the final answer is [-5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 9 - 2 + 4? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 2 + 4 = 6, so the expression becomes 9 - 6.\nStep2: Next, 9 - 6 = 3, so the final answer is [3].\n\nBased on the new priorities, what is the value of 9 - 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.0,
+                -3,
+                "Based on the new rules where '+' has priority over '-', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 9 + 3 = 12, so the expression becomes 9 - 12.\nStep 2: Next, calculate the '-' operation: 9 - 12 = -3.\n\nSo the final answer is [-3]."
+            ]
+        ]
+    },
+    "overall_accuracy": "200/200=1.0",
+    "-": {
+        "accuracy": "50/50=1.0",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 8 - 6 / 5? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 8 - 6 = 2, so the expression becomes 2 / 5.\nStep2: Next, 2 / 5 = 0.4, so the final answer is [0.4].\n\nBased on the new priorities, what is the value of 3 - 2 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules, '-' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '/', so we calculate '-' first: 3 - 2 = 1, so the expression becomes 1 / 8.\n\nStep 2: Next, 1 / 8 = 0.125, so the final answer is [0.125]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 7 * 6 - 6? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 6 - 6 = 0, so the expression becomes 7 * 0.\nStep2: Next, 7 * 0 = 0, so the final answer is [0].\n\nBased on the new priorities, what is the value of 4 * 8 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                16.0,
+                16,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 8 - 4 = 4, so the expression becomes 4 * 4.\n\nStep 2: Next, 4 * 4 = 16, so the final answer is [16]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 7 - 6 * 9? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 7 - 6 = 1, so the expression becomes 1 * 9.\nStep2: Next, 1 * 9 = 9, so the final answer is [9].\n\nBased on the new priorities, what is the value of 9 - 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                32.0,
+                32,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 9 - 5 = 4, so the expression becomes 4 * 8.\n\nStep 2: Next, we calculate 4 * 8 = 32.\n\nTherefore, the final answer is [32]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 9 * 5 - 6? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 5 - 6 = -1, so the expression becomes 9 * -1.\nStep2: Next, 9 * -1 = -9, so the final answer is [-9].\n\nBased on the new priorities, what is the value of 2 * 8 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.0,
+                4,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 8 - 6 = 2, so the expression becomes 2 * 2.\n\nStep 2: Next, we calculate 2 * 2 = 4.\n\nSo the final answer is [4]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 1 / 9 - 2? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 9 - 2 = 7, so the expression becomes 1 / 7.\nStep2: Next, 1 / 7 = 0.14285714285714285, so the final answer is [0.14285714285714285].\n\nBased on the new priorities, what is the value of 3 / 2 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.0,
+                -3,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate the subtraction: 2 - 3 = -1, so the expression becomes 3 / -1.\nStep 2: Next, we calculate the division: 3 / -1 = -3.\n\nTherefore, the final answer is [-3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 4 - 6 / 3? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 4 - 6 = -2, so the expression becomes -2 / 3.\nStep2: Next, -2 / 3 = -0.6666666666666666, so the final answer is [-0.6666666666666666].\n\nBased on the new priorities, what is the value of 8 - 8 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate 8 - 8, which equals 0, so the expression becomes 0 / 9.\n\nStep 2: Next, calculate 0 / 9, which equals 0.\n\nTherefore, the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 8 - 1 / 5? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 8 - 1 = 7, so the expression becomes 7 / 5.\nStep2: Next, 7 / 5 = 1.4, so the final answer is [1.4].\n\nBased on the new priorities, what is the value of 4 - 8 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.7,
+                -0.7,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate 4 - 8, which equals -4, so the expression becomes -4 / 6.\n\nStep 2: Next, we calculate -4 / 6, which equals -0.66666666667 (rounded to 11 decimal places), or simply -2/3 in fraction form.\n\nSo the final answer is [-0.66666666667]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 6 - 9 * 7? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 6 - 9 = -3, so the expression becomes -3 * 7.\nStep2: Next, -3 * 7 = -21, so the final answer is [-21].\n\nBased on the new priorities, what is the value of 7 - 1 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                18.0,
+                18,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: In this case, '-' comes before '*', so we calculate '-' first: 7 - 1 = 6, so the expression becomes 6 * 3.\n\nStep 2: Next, 6 * 3 = 18, so the final answer is [18]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 7 - 2 * 7? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 7 - 2 = 5, so the expression becomes 5 * 7.\nStep2: Next, 5 * 7 = 35, so the final answer is [35].\n\nBased on the new priorities, what is the value of 5 - 6 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5.0,
+                -5,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: In this case, '-' comes before '*', so we calculate '-' first: 5 - 6 = -1, so the expression becomes -1 * 5.\n\nStep 2: Next, -1 * 5 = -5, so the final answer is [-5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 7 - 2 * 2? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 7 - 2 = 5, so the expression becomes 5 * 2.\nStep2: Next, 5 * 2 = 10, so the final answer is [10].\n\nBased on the new priorities, what is the value of 8 - 7 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8.0,
+                8,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' first:\n\nStep 1: Calculate 8 - 7 = 1, so the expression becomes 1 * 8.\n\nStep 2: Next, calculate 1 * 8 = 8.\n\nTherefore, the final answer is [8]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 1 - 7 + 6? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 7 + 6 = 13, so the expression becomes 1 - 13.\nStep2: Next, 1 - 13 = -12, so the final answer is [-12].\n\nBased on the new priorities, what is the value of 6 - 3 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.0,
+                -3,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 3 + 6 = 9, so the expression becomes 6 - 9.\n\nStep 2: Next, we calculate 6 - 9 = -3, so the final answer is [-3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 7 - 9 * 6? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 7 - 9 = -2, so the expression becomes -2 * 6.\nStep2: Next, -2 * 6 = -12, so the final answer is [-12].\n\nBased on the new priorities, what is the value of 1 - 8 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -42.0,
+                -42,
+                "Based on the new rules where '-' and '*' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 1 - 8 = -7, so the expression becomes -7 * 6.\n\nStep 2: Next, -7 * 6 = -42, so the final answer is [-42]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 2 - 2 / 8? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 2 - 2 = 0, so the expression becomes 0 / 8.\nStep2: Next, 0 / 8 = 0.0, so the final answer is [0.0].\n\nBased on the new priorities, what is the value of 5 - 1 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Based on the new rules, '-' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: In this case, '-' comes before '/', so we calculate '-' first: 5 - 1 = 4, so the expression becomes 4 / 8.\n\nStep 2: Next, 4 / 8 = 0.5, so the final answer is [0.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 6 - 8 * 8? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 6 - 8 = -2, so the expression becomes -2 * 8.\nStep2: Next, -2 * 8 = -16, so the final answer is [-16].\n\nBased on the new priorities, what is the value of 3 - 6 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -24.0,
+                -24,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 3 - 6 = -3, so the expression becomes -3 * 8.\n\nStep 2: Next, -3 * 8 = -24, so the final answer is [-24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 4 - 6 / 7? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 4 - 6 = -2, so the expression becomes -2 / 7.\nStep2: Next, -2 / 7 = -0.2857142857142857, so the final answer is [-0.2857142857142857].\n\nBased on the new priorities, what is the value of 9 - 2 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.0,
+                1,
+                "Based on the new rules, '-' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '/', so we calculate '-' first: 9 - 2 = 7, so the expression becomes 7 / 7.\n\nStep 2: Next, 7 / 7 = 1, so the final answer is [1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 * 5 - 6? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 5 - 6 = -1, so the expression becomes 1 * -1.\nStep2: Next, 1 * -1 = -1, so the final answer is [-1].\n\nBased on the new priorities, what is the value of 5 * 4 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Calculate the '-' operation first: 4 - 4 = 0, so the expression becomes 5 * 0.\n\nStep 2: Now, calculate the '*' operation: 5 * 0 = 0.\n\nThe final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 4 / 2 - 1? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 2 - 1 = 1, so the expression becomes 4 / 1.\nStep2: Next, 4 / 1 = 4.0, so the final answer is [4.0].\n\nBased on the new priorities, what is the value of 2 / 9 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                0.3,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate 9 - 2 = 7, so the expression becomes 2 / 7.\n\nStep 2: Next, calculate 2 / 7 as a decimal, which is approximately 0.2857142857142857.\n\nSo the final answer is approximately [0.2857142857142857]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 5 - 3 / 5? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 5 - 3 = 2, so the expression becomes 2 / 5.\nStep2: Next, 2 / 5 = 0.4, so the final answer is [0.4].\n\nBased on the new priorities, what is the value of 1 - 4 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.6,
+                -0.6,
+                "Based on the new rules, '-' has priority over '/'. So we calculate '-' first:\n\nStep 1: Calculate 1 - 4, which equals -3, so the expression becomes -3 / 5.\n\nStep 2: Next, calculate -3 / 5, which equals -0.6.\n\nTherefore, the final answer is [-0.6]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 6 * 2 - 9? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 2 - 9 = -7, so the expression becomes 6 * -7.\nStep2: Next, 6 * -7 = -42, so the final answer is [-42].\n\nBased on the new priorities, what is the value of 3 * 3 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -12.0,
+                -12,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 3 - 7 = -4, so the expression becomes 3 * -4.\n\nStep 2: Next, 3 * -4 = -12, so the final answer is [-12]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 7 - 3 * 5? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 7 - 3 = 4, so the expression becomes 4 * 5.\nStep2: Next, 4 * 5 = 20, so the final answer is [20].\n\nBased on the new priorities, what is the value of 8 - 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 8 - 8, which equals 0, so the expression becomes 0 * 2.\nStep 2: Next, calculate 0 * 2, which equals 0.\n\nSo the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 8 - 4 / 3? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 8 - 4 = 4, so the expression becomes 4 / 3.\nStep2: Next, 4 / 3 = 1.3333333333333333, so the final answer is [1.3333333333333333].\n\nBased on the new priorities, what is the value of 9 - 2 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.5,
+                3.5,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate 9 - 2, which equals 7, so the expression becomes 7 / 2.\n\nStep 2: Next, calculate 7 / 2, which equals 3.5.\n\nTherefore, the final answer is [3.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 2 - 9 * 4? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 2 - 9 = -7, so the expression becomes -7 * 4.\nStep2: Next, -7 * 4 = -28, so the final answer is [-28].\n\nBased on the new priorities, what is the value of 2 - 8 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -18.0,
+                -18,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 2 - 8, which equals -6, so the expression becomes -6 * 3.\n\nStep 2: Next, calculate -6 * 3, which equals -18.\n\nTherefore, the final answer is [-18]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 2 - 8 / 5? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 2 - 8 = -6, so the expression becomes -6 / 5.\nStep2: Next, -6 / 5 = -1.2, so the final answer is [-1.2].\n\nBased on the new priorities, what is the value of 9 - 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules, '-' has priority over '/'.\n\nStep 1: Since '-' has priority over '/', we calculate '-' first: 9 - 9 = 0, so the expression becomes 0 / 2.\n\nStep 2: Next, 0 / 2 = 0, so the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 1 - 8 + 7? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 8 + 7 = 15, so the expression becomes 1 - 15.\nStep2: Next, 1 - 15 = -14, so the final answer is [-14].\n\nBased on the new priorities, what is the value of 9 - 1 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 1 + 8 = 9, so the expression becomes 9 - 9.\n\nStep 2: Next, 9 - 9 = 0, so the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 3 - 8 / 8? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 3 - 8 = -5, so the expression becomes -5 / 8.\nStep2: Next, -5 / 8 = -0.625, so the final answer is [-0.625].\n\nBased on the new priorities, what is the value of 7 - 5 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new rules, '-' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '/', so we calculate '-' first: 7 - 5 = 2, so the expression becomes 2 / 9.\n\nStep 2: Next, we calculate 2 / 9, which equals approximately 0.2222222222.\n\nTherefore, the final answer is [0.2222222222]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 8 * 3 - 4? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 3 - 4 = -1, so the expression becomes 8 * -1.\nStep2: Next, 8 * -1 = -8, so the final answer is [-8].\n\nBased on the new priorities, what is the value of 7 * 4 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -7.0,
+                -7,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Calculate the subtraction first: 4 - 5 = -1, so the expression becomes 7 * -1.\nStep 2: Next, calculate the multiplication: 7 * -1 = -7.\n\nTherefore, the final answer is [-7]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 5 / 3 - 8? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 3 - 8 = -5, so the expression becomes 5 / -5.\nStep2: Next, 5 / -5 = -1.0, so the final answer is [-1.0].\n\nBased on the new priorities, what is the value of 3 / 2 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.0,
+                -3.0,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first.\n\nStep 1: Calculate the subtraction: 2 - 3 = -1, so the expression becomes 3 / -1.\n\nStep 2: Next, calculate the division: 3 / -1 = -3.0.\n\nTherefore, the final answer is [-3.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 4 - 8 * 6? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 4 - 8 = -4, so the expression becomes -4 * 6.\nStep2: Next, -4 * 6 = -24, so the final answer is [-24].\n\nBased on the new priorities, what is the value of 1 - 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -12.0,
+                -12,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 1 - 4, which equals -3, so the expression becomes -3 * 4.\n\nStep 2: Next, calculate -3 * 4, which equals -12.\n\nTherefore, the final answer is [-12]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 5 - 6 * 1? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 5 - 6 = -1, so the expression becomes -1 * 1.\nStep2: Next, -1 * 1 = -1, so the final answer is [-1].\n\nBased on the new priorities, what is the value of 7 - 7 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new priorities where '-' has priority over '*', we will calculate the subtraction before the multiplication.\n\nStep 1: Calculate the subtraction first: 7 - 7 = 0, so the expression becomes 0 * 4.\nStep 2: Now, calculate the multiplication: 0 * 4 = 0.\n\nThe final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 3 / 3 - 4? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 3 - 4 = -1, so the expression becomes 3 / -1.\nStep2: Next, 3 / -1 = -3.0, so the final answer is [-3.0].\n\nBased on the new priorities, what is the value of 2 / 1 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.7,
+                -0.7,
+                "Based on the new rules, '-' has priority over '/'. Let's calculate the expression 2 / 1 - 4 step by step:\n\nStep 1: Since '-' has priority over '/', we calculate '-' first: 1 - 4 = -3, so the expression becomes 2 / -3.\n\nStep 2: Next, we calculate 2 / -3, which equals approximately -0.666666667.\n\nSo the final answer is [-0.666666667]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 5 - 8 * 9? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 5 - 8 = -3, so the expression becomes -3 * 9.\nStep2: Next, -3 * 9 = -27, so the final answer is [-27].\n\nBased on the new priorities, what is the value of 9 - 2 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                21.0,
+                21,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 9 - 2, which equals 7, so the expression becomes 7 * 3.\n\nStep 2: Next, calculate 7 * 3, which equals 21.\n\nTherefore, the final answer is [21]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 7 - 8 + 2? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 8 + 2 = 10, so the expression becomes 7 - 10.\nStep2: Next, 7 - 10 = -3, so the final answer is [-3].\n\nBased on the new priorities, what is the value of 1 - 8 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -9.0,
+                -9,
+                "Based on the new rules where '+' has priority over '-', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 8 + 2 = 10, so the expression becomes 1 - 10.\nStep 2: Next, calculate the '-' operation: 1 - 10 = -9.\n\nSo the final answer is [-9]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 2 / 8 - 5? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 8 - 5 = 3, so the expression becomes 2 / 3.\nStep2: Next, 2 / 3 = 0.6666666666666666, so the final answer is [0.6666666666666666].\n\nBased on the new priorities, what is the value of 7 / 5 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -7.0,
+                -7,
+                "Based on the new rules where '-' has priority over '/', we will calculate the '-' operation first.\n\nStep 1: Calculate the subtraction: 5 - 6 = -1, so the expression becomes 7 / -1.\nStep 2: Next, calculate the division: 7 / -1 = -7.\n\nTherefore, the final answer is [-7]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 * 6 - 3? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 6 - 3 = 3, so the expression becomes 1 * 3.\nStep2: Next, 1 * 3 = 3, so the final answer is [3].\n\nBased on the new priorities, what is the value of 4 * 5 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -16.0,
+                -16,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Calculate the subtraction first: 5 - 9 = -4, so the expression becomes 4 * (-4).\n\nStep 2: Now, calculate the multiplication: 4 * (-4) = -16.\n\nTherefore, the final answer is [-16]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 7 - 4 * 3? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 7 - 4 = 3, so the expression becomes 3 * 3.\nStep2: Next, 3 * 3 = 9, so the final answer is [9].\n\nBased on the new priorities, what is the value of 2 - 7 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -20.0,
+                -20,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: First, we calculate '-' because it comes before '*': 2 - 7 = -5, so the expression becomes -5 * 4.\n\nStep 2: Next, we calculate -5 * 4 = -20.\n\nSo the final answer is [-20]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 4 - 9 + 9? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 9 + 9 = 18, so the expression becomes 4 - 18.\nStep2: Next, 4 - 18 = -14, so the final answer is [-14].\n\nBased on the new priorities, what is the value of 4 - 2 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2.0,
+                -2,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 2 + 4 = 6, so the expression becomes 4 - 6.\n\nStep 2: Next, 4 - 6 = -2, so the final answer is [-2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 9 - 4 / 7? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 9 - 4 = 5, so the expression becomes 5 / 7.\nStep2: Next, 5 / 7 = 0.7142857142857143, so the final answer is [0.7142857142857143].\n\nBased on the new priorities, what is the value of 8 - 5 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate 8 - 5, which equals 3, so the expression becomes 3 / 7.\n\nStep 2: Next, calculate 3 / 7, which equals approximately 0.42857142857142855.\n\nTherefore, the final answer is [0.42857142857142855]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 6 - 1 / 1? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 6 - 1 = 5, so the expression becomes 5 / 1.\nStep2: Next, 5 / 1 = 5.0, so the final answer is [5.0].\n\nBased on the new priorities, what is the value of 8 - 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.7,
+                0.7,
+                "Based on the new rules, '-' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '/', so we calculate '-' first: 8 - 2 = 6, so the expression becomes 6 / 9.\n\nStep 2: Next, we calculate 6 / 9, which is 0.666... (repeating).\n\nThe final answer, rounded to a reasonable number of decimal places, is [0.667]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 9 - 1 * 1? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 9 - 1 = 8, so the expression becomes 8 * 1.\nStep2: Next, 8 * 1 = 8, so the final answer is [8].\n\nBased on the new priorities, what is the value of 2 - 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.0,
+                7,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 2 - 1 = 1, so the expression becomes 1 * 7.\n\nStep 2: Next, 1 * 7 = 7, so the final answer is [7]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 3 / 6 - 1? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 6 - 1 = 5, so the expression becomes 3 / 5.\nStep2: Next, 3 / 5 = 0.6, so the final answer is [0.6].\n\nBased on the new priorities, what is the value of 3 / 1 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.8,
+                -0.8,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate the subtraction: 1 - 5 = -4, so the expression becomes 3 / -4.\n\nStep 2: Next, we perform the division: 3 / -4 = -0.75.\n\nTherefore, the final answer is [-0.75]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 * 8 - 2? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 8 - 2 = 6, so the expression becomes 1 * 6.\nStep2: Next, 1 * 6 = 6, so the final answer is [6].\n\nBased on the new priorities, what is the value of 6 * 6 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Since '-' has priority, we calculate 6 - 6 first, which equals 0. So the expression becomes 6 * 0.\n\nStep 2: Next, we calculate 6 * 0, which equals 0.\n\nTherefore, the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: What is the value of 7 - 3 / 8? \n[Answer]: Based on the new rules, - and / have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 7 - 3 = 4, so the expression becomes 4 / 8.\nStep2: Next, 4 / 8 = 0.5, so the final answer is [0.5].\n\nBased on the new priorities, what is the value of 1 - 3 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.2,
+                -0.2,
+                "Based on the new rules, '-' and '/' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '/', so we calculate '-' first: 1 - 3 = -2, so the expression becomes -2 / 9.\n\nStep 2: Next, we calculate -2 / 9, which equals approximately -0.22222222222.\n\nSo the final answer is [-0.22222222222]. However, if you want a rounded answer, it would be [-0.22]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 * 9 - 9? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 9 - 9 = 0, so the expression becomes 1 * 0.\nStep2: Next, 1 * 0 = 0, so the final answer is [0].\n\nBased on the new priorities, what is the value of 5 * 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -10.0,
+                -10,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Calculate the subtraction first: 2 - 4 = -2, so the expression becomes 5 * (-2).\n\nStep 2: Now, multiply 5 by -2: 5 * (-2) = -10.\n\nTherefore, the final answer is [-10]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 2 / 8 - 1? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 8 - 1 = 7, so the expression becomes 2 / 7.\nStep2: Next, 2 / 7 = 0.2857142857142857, so the final answer is [0.2857142857142857].\n\nBased on the new priorities, what is the value of 3 / 7 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.0,
+                3,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first.\n\nStep 1: Calculate the subtraction part of the expression first: 7 - 6 = 1, so the expression becomes 3 / 1.\n\nStep 2: Now, we perform the division: 3 / 1 = 3.\n\nTherefore, the final answer is [3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 9 * 1 - 5? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 1 - 5 = -4, so the expression becomes 9 * -4.\nStep2: Next, 9 * -4 = -36, so the final answer is [-36].\n\nBased on the new priorities, what is the value of 4 * 2 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.0,
+                4,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Calculate the subtraction part of the expression first: 2 - 1 = 1, so the expression becomes 4 * 1.\n\nStep 2: Now, calculate the multiplication: 4 * 1 = 4.\n\nThe final answer is [4]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 6 - 2 * 9? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 6 - 2 = 4, so the expression becomes 4 * 9.\nStep2: Next, 4 * 9 = 36, so the final answer is [36].\n\nBased on the new priorities, what is the value of 8 - 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -8.0,
+                -8,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 8 - 9 = -1, so the expression becomes -1 * 8.\n\nStep 2: Next, -1 * 8 = -8, so the final answer is [-8]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 4 / 1 - 2? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 1 - 2 = -1, so the expression becomes 4 / -1.\nStep2: Next, 4 / -1 = -4.0, so the final answer is [-4.0].\n\nBased on the new priorities, what is the value of 8 / 3 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8.0,
+                8.0,
+                "Based on the new rules, '-' has priority over '/'. Let's calculate the expression 8 / 3 - 2 step by step:\n\nStep 1: Since '-' has priority over '/', we calculate '-' first: 3 - 2 = 1, so the expression becomes 8 / 1.\n\nStep 2: Next, 8 / 1 = 8.0, so the final answer is [8.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: What is the value of 4 - 9 + 4? \n[Answer]: Based on the new rules, '+' has priority over '-'.\nStep1: Since '+' has priority over '-', we calculate '+' first: 9 + 4 = 13, so the expression becomes 4 - 13.\nStep2: Next, 4 - 13 = -9, so the final answer is [-9].\n\nBased on the new priorities, what is the value of 8 - 3 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.0,
+                -3,
+                "Based on the new rules, '+' has priority over '-'.\n\nStep 1: Since '+' has priority over '-', we calculate '+' first: 3 + 8 = 11, so the expression becomes 8 - 11.\n\nStep 2: Next, we calculate 8 - 11 = -3, so the final answer is [-3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 8 * 7 - 2? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 7 - 2 = 5, so the expression becomes 8 * 5.\nStep2: Next, 8 * 5 = 40, so the final answer is [40].\n\nBased on the new priorities, what is the value of 6 * 9 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                12.0,
+                12,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 9 - 7 = 2, so the expression becomes 6 * 2.\n\nStep 2: Next, 6 * 2 = 12, so the final answer is [12]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: What is the value of 6 - 1 * 8? \n[Answer]: Based on the new rules, - and * have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 6 - 1 = 5, so the expression becomes 5 * 8.\nStep2: Next, 5 * 8 = 40, so the final answer is [40].\n\nBased on the new priorities, what is the value of 4 - 5 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4.0,
+                -4,
+                "Based on the new rules, '-' and '*' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 4 - 5 = -1, so the expression becomes -1 * 4.\n\nStep 2: Next, -1 * 4 = -4, so the final answer is [-4]."
+            ]
+        ]
+    },
+    "*": {
+        "accuracy": "50/50=1.0",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 9 + 2 * 6? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 9 + 2 = 11, so the expression becomes 11 * 6.\nStep2: Next, 11 * 6 = 66, so the final answer is [66].\n\nBased on the new priorities, what is the value of 6 + 1 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                63.0,
+                63,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 6 + 1 = 7, so the expression becomes 7 * 9.\n\nStep 2: Next, calculate the multiplication: 7 * 9 = 63.\n\nSo the final answer is [63]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 3 + 6 * 9? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 3 + 6 = 9, so the expression becomes 9 * 9.\nStep2: Next, 9 * 9 = 81, so the final answer is [81].\n\nBased on the new priorities, what is the value of 3 + 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                14.0,
+                14,
+                "Based on the new rules where '*' and '+' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 3 + 4 = 7, so the expression becomes 7 * 2.\n\nStep 2: Next, we calculate 7 * 2 = 14.\n\nTherefore, the final answer is [14]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 7 + 5 * 8? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 7 + 5 = 12, so the expression becomes 12 * 8.\nStep2: Next, 12 * 8 = 96, so the final answer is [96].\n\nBased on the new priorities, what is the value of 1 + 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                28.0,
+                28,
+                "Based on the new rules where '*' and '+' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 1 + 3 = 4, so the expression becomes 4 * 7.\n\nStep 2: Next, we calculate 4 * 7 = 28.\n\nTherefore, the final answer is [28]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 6 * 5 + 6? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 5 + 6 = 11, so the expression becomes 6 * 11.\nStep2: Next, 6 * 11 = 66, so the final answer is [66].\n\nBased on the new priorities, what is the value of 8 * 4 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                104.0,
+                104,
+                "Based on the new rules, '+' has priority over '*'.\n\nStep 1: Since '+' has priority over '*', we calculate '+' first: 4 + 9 = 13, so the expression becomes 8 * 13.\n\nStep 2: Next, we calculate 8 * 13 = 104, so the final answer is [104]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: What is the value of 6 + 1 * 8? \n[Answer]: Based on the new rules, * and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '*', so we calculate '+' first: 6 + 1 = 7, so the expression becomes 7 * 8.\nStep2: Next, 7 * 8 = 56, so the final answer is [56].\n\nBased on the new priorities, what is the value of 6 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                117.0,
+                117,
+                "Based on the new rules where '*' and '+' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '+' comes before '*', so we calculate '+' first: 6 + 7 = 13, so the expression becomes 13 * 9.\n\nStep 2: Next, 13 * 9 = 117, so the final answer is [117]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 5 / 2 * 8? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 2 * 8 = 16, so the expression becomes 5 / 16.\nStep2: Next, 5 / 16 = 0.3125, so the final answer is [0.3125].\n\nBased on the new priorities, what is the value of 9 / 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the multiplication part of the expression first: 3 * 7 = 21, so the expression becomes 9 / 21.\n\nStep 2: Next, we calculate the division: 9 / 21 = 0.42857142857142855 (rounded to 0.4286 for simplicity), so the final answer is [0.4286]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 3 - 8 * 5? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 3 - 8 = -5, so the expression becomes -5 * 5.\nStep2: Next, -5 * 5 = -25, so the final answer is [-25].\n\nBased on the new priorities, what is the value of 2 - 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -24.0,
+                -24,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 2 - 5, which equals -3, so the expression becomes -3 * 8.\n\nStep 2: Next, calculate -3 * 8, which equals -24.\n\nTherefore, the final answer is [-24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 * 3 + 7? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 3 + 7 = 10, so the expression becomes 7 * 10.\nStep2: Next, 7 * 10 = 70, so the final answer is [70].\n\nBased on the new priorities, what is the value of 9 * 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                99.0,
+                99,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 5 + 6 = 11, so the expression becomes 9 * 11.\n\nStep 2: Next, calculate the multiplication: 9 * 11 = 99.\n\nTherefore, the final answer is [99]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 6 * 4 - 6? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 4 - 6 = -2, so the expression becomes 6 * -2.\nStep2: Next, 6 * -2 = -12, so the final answer is [-12].\n\nBased on the new priorities, what is the value of 2 * 7 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                12.0,
+                12,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 7 - 1 = 6, so the expression becomes 2 * 6.\n\nStep 2: Next, 2 * 6 = 12, so the final answer is [12]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 4 - 3 * 1? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 4 - 3 = 1, so the expression becomes 1 * 1.\nStep2: Next, 1 * 1 = 1, so the final answer is [1].\n\nBased on the new priorities, what is the value of 1 - 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -56.0,
+                -56,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 1 - 9, which equals -8, so the expression becomes -8 * 7.\n\nStep 2: Next, calculate -8 * 7, which equals -56.\n\nTherefore, the final answer is [-56]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 * 3 + 8? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 3 + 8 = 11, so the expression becomes 7 * 11.\nStep2: Next, 7 * 11 = 77, so the final answer is [77].\n\nBased on the new priorities, what is the value of 3 * 5 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                42.0,
+                42,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 5 + 9 = 14, so the expression becomes 3 * 14.\n\nStep 2: Next, calculate the multiplication: 3 * 14 = 42.\n\nTherefore, the final answer is [42]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 9 * 5 + 9? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 5 + 9 = 14, so the expression becomes 9 * 14.\nStep2: Next, 9 * 14 = 126, so the final answer is [126].\n\nBased on the new priorities, what is the value of 6 * 9 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                66.0,
+                66,
+                "Based on the new rules, '+' has priority over '*'.\n\nStep 1: Since '+' has priority over '*', we calculate '+' first: 9 + 2 = 11, so the expression becomes 6 * 11.\n\nStep 2: Next, we calculate 6 * 11 = 66, so the final answer is [66]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 6 / 9 * 1? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 9 * 1 = 9, so the expression becomes 6 / 9.\nStep2: Next, 6 / 9 = 0.6666666666666666, so the final answer is [0.6666666666666666].\n\nBased on the new priorities, what is the value of 1 / 7 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' before '/'.\n\nStep 1: Calculate the '*' part first: 7 * 6 = 42, so the expression becomes 1 / 42.\n\nStep 2: Next, calculate the '/' part: 1 / 42 = 0.023809523809523808.\n\nTherefore, the final answer is [0.023809523809523808]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 1 * 9 + 3? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 9 + 3 = 12, so the expression becomes 1 * 12.\nStep2: Next, 1 * 12 = 12, so the final answer is [12].\n\nBased on the new priorities, what is the value of 8 * 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                96.0,
+                96,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression: 9 + 3 = 12, so the expression becomes 8 * 12.\n\nStep 2: Now, calculate the multiplication part: 8 * 12 = 96.\n\nTherefore, the final answer is [96]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 3 / 4 * 9? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 4 * 9 = 36, so the expression becomes 3 / 36.\nStep2: Next, 3 / 36 = 0.08333333333333333, so the final answer is [0.08333333333333333].\n\nBased on the new priorities, what is the value of 7 / 4 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new rules where '*' has priority over '/', we will calculate the multiplication part of the expression first.\n\nStep 1: Calculate the multiplication part: 4 * 9 = 36, so the expression becomes 7 / 36.\n\nStep 2: Next, calculate the division part: 7 / 36 = 0.19444444444444445.\n\nTherefore, the final answer is [0.19444444444444445]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 4 - 5 * 2? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 4 - 5 = -1, so the expression becomes -1 * 2.\nStep2: Next, -1 * 2 = -2, so the final answer is [-2].\n\nBased on the new priorities, what is the value of 2 - 9 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -28.0,
+                -28,
+                "Following the new rules where '*' and '-' have the same priority and we evaluate the expression from left to right:\n\nStep 1: Calculate '-' first since it comes before '*': 2 - 9 = -7, so the expression becomes -7 * 4.\n\nStep 2: Now calculate -7 * 4: -7 * 4 = -28.\n\nSo the final answer is [-28]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 + 5 * 3? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 7 + 5 = 12, so the expression becomes 12 * 3.\nStep2: Next, 12 * 3 = 36, so the final answer is [36].\n\nBased on the new priorities, what is the value of 4 + 5 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                54.0,
+                54,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 4 + 5 = 9, so the expression becomes 9 * 6.\n\nStep 2: Next, calculate 9 * 6 = 54.\n\nTherefore, the final answer is [54]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 6 - 5 * 8? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 6 - 5 = 1, so the expression becomes 1 * 8.\nStep2: Next, 1 * 8 = 8, so the final answer is [8].\n\nBased on the new priorities, what is the value of 2 - 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -15.0,
+                -15,
+                "Based on the new rules where '*' and '-' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 2 - 7 = -5, so the expression becomes -5 * 3.\n\nStep 2: Next, -5 * 3 = -15, so the final answer is [-15]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 8 - 9 * 1? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 8 - 9 = -1, so the expression becomes -1 * 1.\nStep2: Next, -1 * 1 = -1, so the final answer is [-1].\n\nBased on the new priorities, what is the value of 4 - 2 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                16.0,
+                16,
+                "Based on the new rules where '*' and '-' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 4 - 2 = 2, so the expression becomes 2 * 8.\n\nStep 2: Next, we calculate 2 * 8 = 16.\n\nTherefore, the final answer is [16]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 2 + 2 * 7? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 2 = 4, so the expression becomes 4 * 7.\nStep2: Next, 4 * 7 = 28, so the final answer is [28].\n\nBased on the new priorities, what is the value of 8 + 4 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                60.0,
+                60,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 8 + 4 = 12, so the expression becomes 12 * 5.\n\nStep 2: Next, calculate 12 * 5 = 60.\n\nTherefore, the final answer is [60]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 4 - 4 * 9? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 4 - 4 = 0, so the expression becomes 0 * 9.\nStep2: Next, 0 * 9 = 0, so the final answer is [0].\n\nBased on the new priorities, what is the value of 6 - 2 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                36.0,
+                36,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 6 - 2 = 4, so the expression becomes 4 * 9.\n\nStep 2: Next, calculate 4 * 9 = 36.\n\nTherefore, the final answer is [36]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 5 - 3 * 8? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 5 - 3 = 2, so the expression becomes 2 * 8.\nStep2: Next, 2 * 8 = 16, so the final answer is [16].\n\nBased on the new priorities, what is the value of 7 - 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 7 - 7, which equals 0, so the expression becomes 0 * 3.\nStep 2: Next, calculate 0 * 3, which equals 0.\n\nSo the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 6 + 8 * 9? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 6 + 8 = 14, so the expression becomes 14 * 9.\nStep2: Next, 14 * 9 = 126, so the final answer is [126].\n\nBased on the new priorities, what is the value of 5 + 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                32.0,
+                32,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 5 + 3 = 8.\nStep 2: Now, multiply the result by 4: 8 * 4 = 32.\n\nSo, the final answer is [32]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 2 - 3 * 2? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 2 - 3 = -1, so the expression becomes -1 * 2.\nStep2: Next, -1 * 2 = -2, so the final answer is [-2].\n\nBased on the new priorities, what is the value of 5 - 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -24.0,
+                -24,
+                "Following the new rules where '*' and '-' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 5 - 8 = -3, so the expression becomes -3 * 8.\n\nStep 2: Next, -3 * 8 = -24, so the final answer is [-24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 3 + 1 * 3? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 3 + 1 = 4, so the expression becomes 4 * 3.\nStep2: Next, 4 * 3 = 12, so the final answer is [12].\n\nBased on the new priorities, what is the value of 6 + 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                49.0,
+                49,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 6 + 1 = 7, so the expression becomes 7 * 7.\n\nStep 2: Next, calculate the multiplication: 7 * 7 = 49.\n\nSo the final answer is [49]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 1 + 3 * 9? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 1 + 3 = 4, so the expression becomes 4 * 9.\nStep2: Next, 4 * 9 = 36, so the final answer is [36].\n\nBased on the new priorities, what is the value of 9 + 8 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                85.0,
+                85,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 9 + 8 = 17, so the expression becomes 17 * 5.\nStep 2: Next, calculate 17 * 5 = 85.\n\nSo the final answer is [85]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 + 5 * 4? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 7 + 5 = 12, so the expression becomes 12 * 4.\nStep2: Next, 12 * 4 = 48, so the final answer is [48].\n\nBased on the new priorities, what is the value of 4 + 7 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                88.0,
+                88,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 4 + 7 = 11, so the expression becomes 11 * 8.\n\nStep 2: Next, calculate the multiplication: 11 * 8 = 88.\n\nTherefore, the final answer is [88]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 - 4 * 4? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 1 - 4 = -3, so the expression becomes -3 * 4.\nStep2: Next, -3 * 4 = -12, so the final answer is [-12].\n\nBased on the new priorities, what is the value of 6 - 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -24.0,
+                -24,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 6 - 9 = -3, so the expression becomes -3 * 8.\n\nStep 2: Next, -3 * 8 = -24, so the final answer is [-24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 7 + 2 * 7? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 7 + 2 = 9, so the expression becomes 9 * 7.\nStep2: Next, 9 * 7 = 63, so the final answer is [63].\n\nBased on the new priorities, what is the value of 9 + 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                112.0,
+                112,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 9 + 5 = 14, so the expression becomes 14 * 8.\n\nStep 2: Next, calculate 14 * 8 = 112.\n\nSo the final answer is [112]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 7 - 8 * 5? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 7 - 8 = -1, so the expression becomes -1 * 5.\nStep2: Next, -1 * 5 = -5, so the final answer is [-5].\n\nBased on the new priorities, what is the value of 3 - 3 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 3 - 3, which equals 0, so the expression becomes 0 * 5.\nStep 2: Next, calculate 0 * 5, which equals 0.\n\nSo the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 2 + 8 * 5? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 8 = 10, so the expression becomes 10 * 5.\nStep2: Next, 10 * 5 = 50, so the final answer is [50].\n\nBased on the new priorities, what is the value of 3 + 2 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10.0,
+                10,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression: 3 + 2 = 5, so the expression becomes 5 * 2.\n\nStep 2: Now, calculate the multiplication: 5 * 2 = 10.\n\nTherefore, the final answer is [10]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 9 * 2 - 4? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 2 - 4 = -2, so the expression becomes 9 * -2.\nStep2: Next, 9 * -2 = -18, so the final answer is [-18].\n\nBased on the new priorities, what is the value of 8 * 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                32.0,
+                32,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 5 - 1 = 4, so the expression becomes 8 * 4.\n\nStep 2: Next, we calculate 8 * 4 = 32.\n\nSo the final answer is [32]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 9 * 3 + 8? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 3 + 8 = 11, so the expression becomes 9 * 11.\nStep2: Next, 9 * 11 = 99, so the final answer is [99].\n\nBased on the new priorities, what is the value of 2 * 6 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                24.0,
+                24,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 6 + 6 = 12, so the expression becomes 2 * 12.\n\nStep 2: Next, calculate the '*' operation: 2 * 12 = 24.\n\nTherefore, the final answer is [24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 - 8 * 5? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 1 - 8 = -7, so the expression becomes -7 * 5.\nStep2: Next, -7 * 5 = -35, so the final answer is [-35].\n\nBased on the new priorities, what is the value of 7 - 8 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5.0,
+                -5,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 7 - 8, which equals -1, so the expression becomes -1 * 5.\n\nStep 2: Next, calculate -1 * 5, which equals -5.\n\nTherefore, the final answer is [-5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 7 * 7 - 3? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 7 - 3 = 4, so the expression becomes 7 * 4.\nStep2: Next, 7 * 4 = 28, so the final answer is [28].\n\nBased on the new priorities, what is the value of 8 * 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -16.0,
+                -16,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 2 - 4 = -2, so the expression becomes 8 * -2.\n\nStep 2: Next, 8 * -2 = -16, so the final answer is [-16]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 * 4 - 7? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 4 - 7 = -3, so the expression becomes 1 * -3.\nStep2: Next, 1 * -3 = -3, so the final answer is [-3].\n\nBased on the new priorities, what is the value of 4 * 1 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -20.0,
+                -20,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 1 - 6 = -5, so the expression becomes 4 * -5.\n\nStep 2: Next, 4 * -5 = -20, so the final answer is [-20]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 5 - 7 * 5? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 5 - 7 = -2, so the expression becomes -2 * 5.\nStep2: Next, -2 * 5 = -10, so the final answer is [-10].\n\nBased on the new priorities, what is the value of 9 - 5 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                20.0,
+                20,
+                "Based on the new rules where '*' and '-' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 9 - 5 = 4, so the expression becomes 4 * 5.\n\nStep 2: Next, we calculate 4 * 5 = 20.\n\nTherefore, the final answer is [20]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 3 * 3 + 7? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 3 + 7 = 10, so the expression becomes 3 * 10.\nStep2: Next, 3 * 10 = 30, so the final answer is [30].\n\nBased on the new priorities, what is the value of 4 * 5 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                44.0,
+                44,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 5 + 6 = 11, so the expression becomes 4 * 11.\n\nStep 2: Next, calculate the '*' operation: 4 * 11 = 44.\n\nTherefore, the final answer is [44]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 1 / 4 * 2? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 4 * 2 = 8, so the expression becomes 1 / 8.\nStep2: Next, 1 / 8 = 0.125, so the final answer is [0.125].\n\nBased on the new priorities, what is the value of 6 / 5 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the multiplication part of the expression first: 5 * 8 = 40, so the expression becomes 6 / 40.\n\nStep 2: Now, divide 6 by 40: 6 / 40 = 0.15.\n\nTherefore, the final answer is [0.15]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 9 - 5 * 6? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 9 - 5 = 4, so the expression becomes 4 * 6.\nStep2: Next, 4 * 6 = 24, so the final answer is [24].\n\nBased on the new priorities, what is the value of 5 - 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.0,
+                2,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' first:\n\nStep 1: Calculate 5 - 4 = 1, so the expression becomes 1 * 2.\nStep 2: Next, calculate 1 * 2 = 2.\n\nThe final answer is [2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 2 + 1 * 4? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 1 = 3, so the expression becomes 3 * 4.\nStep2: Next, 3 * 4 = 12, so the final answer is [12].\n\nBased on the new priorities, what is the value of 8 + 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                44.0,
+                44,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 8 + 3 = 11, so the expression becomes 11 * 4.\nStep 2: Next, calculate 11 * 4 = 44.\n\nSo the final answer is [44]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 3 * 4 - 3? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 4 - 3 = 1, so the expression becomes 3 * 1.\nStep2: Next, 3 * 1 = 3, so the final answer is [3].\n\nBased on the new priorities, what is the value of 9 * 2 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -45.0,
+                -45,
+                "Based on the new rules, '-' has priority over '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 2 - 7 = -5, so the expression becomes 9 * -5.\n\nStep 2: Next, we calculate 9 * -5 = -45.\n\nSo the final answer is [-45]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: What is the value of 2 - 6 * 3? \n[Answer]: Based on the new rules, * and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '*', so we calculate '-' first: 2 - 6 = -4, so the expression becomes -4 * 3.\nStep2: Next, -4 * 3 = -12, so the final answer is [-12].\n\nBased on the new priorities, what is the value of 9 - 7 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                14.0,
+                14,
+                "Based on the new rules where '*' and '-' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '*', so we calculate '-' first: 9 - 7 = 2, so the expression becomes 2 * 7.\n\nStep 2: Next, 2 * 7 = 14, so the final answer is [14]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 6 * 2 + 4? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 4 = 6, so the expression becomes 6 * 6.\nStep2: Next, 6 * 6 = 36, so the final answer is [36].\n\nBased on the new priorities, what is the value of 3 * 1 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                24.0,
+                24,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 1 + 7 = 8, so the expression becomes 3 * 8.\n\nStep 2: Now, calculate the '*' operation: 3 * 8 = 24.\n\nTherefore, the final answer is [24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 9 - 8 * 5? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 9 - 8 = 1, so the expression becomes 1 * 5.\nStep2: Next, 1 * 5 = 5, so the final answer is [5].\n\nBased on the new priorities, what is the value of 8 - 2 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                54.0,
+                54,
+                "Based on the new rules where '-' has priority over '*', we calculate '-' first:\n\nStep 1: Calculate 8 - 2 = 6, so the expression becomes 6 * 9.\nStep 2: Next, calculate 6 * 9 = 54.\n\nSo the final answer is [54]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 2 * 6 - 7? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 6 - 7 = -1, so the expression becomes 2 * -1.\nStep2: Next, 2 * -1 = -2, so the final answer is [-2].\n\nBased on the new priorities, what is the value of 3 * 9 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Since '-' has priority, we calculate 9 - 9 first, which equals 0. So the expression becomes 3 * 0.\n\nStep 2: Next, we calculate 3 * 0, which equals 0.\n\nTherefore, the final answer is [0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 4 + 7 * 9? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 4 + 7 = 11, so the expression becomes 11 * 9.\nStep2: Next, 11 * 9 = 99, so the final answer is [99].\n\nBased on the new priorities, what is the value of 3 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                90.0,
+                90,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 3 + 7 = 10, so the expression becomes 10 * 9.\n\nStep 2: Next, calculate the multiplication: 10 * 9 = 90.\n\nTherefore, the final answer is [90]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: What is the value of 1 - 6 * 2? \n[Answer]: Based on the new rules, '-' has priority over '*'.\nStep1: Since '-' has priority over '*', we calculate '-' first: 1 - 6 = -5, so the expression becomes -5 * 2.\nStep2: Next, -5 * 2 = -10, so the final answer is [-10].\n\nBased on the new priorities, what is the value of 3 - 5 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -8.0,
+                -8,
+                "Based on the new rules, '-' has priority over '*'. So we calculate '-' before '*'.\n\nStep 1: Since '-' has priority over '*', we calculate '-' first: 3 - 5 = -2, so the expression becomes -2 * 4.\n\nStep 2: Next, -2 * 4 = -8, so the final answer is [-8]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: What is the value of 2 + 1 * 3? \n[Answer]: Based on the new rules, '+' has priority over '*'.\nStep1: Since '+' has priority over '*', we calculate '+' first: 2 + 1 = 3, so the expression becomes 3 * 3.\nStep2: Next, 3 * 3 = 9, so the final answer is [9].\n\nBased on the new priorities, what is the value of 8 + 4 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                96.0,
+                96,
+                "Based on the new rules where '+' has priority over '*', we calculate '+' first:\n\nStep 1: Calculate 8 + 4 = 12, so the expression becomes 12 * 8.\n\nStep 2: Next, calculate 12 * 8 = 96.\n\nSo the final answer is [96]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 8 / 7 * 8? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 7 * 8 = 56, so the expression becomes 8 / 56.\nStep2: Next, 8 / 56 = 0.14285714285714285, so the final answer is [0.14285714285714285].\n\nBased on the new priorities, what is the value of 1 / 3 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the '*' part of the expression first: 3 * 8 = 24, so the expression becomes 1 / 24.\n\nStep 2: Next, calculate the '/' part of the expression: 1 / 24 = 0.041666666666666664.\n\nTherefore, the final answer is [0.041666666666666664]."
+            ]
+        ]
+    },
+    "/": {
+        "accuracy": "50/50=1.0",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 9 / 1 + 6? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 1 + 6 = 7, so the expression becomes 9 / 7.\nStep2: Next, 9 / 7 = 1.2857142857142858, so the final answer is [1.2857142857142858].\n\nBased on the new priorities, what is the value of 3 / 3 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Based on the new rules where '+' has priority over '/', we calculate the '+' operation first.\n\nStep 1: Calculate the '+' operation: 3 + 1 = 4.\n\nStep 2: Now, the expression becomes 3 / 4.\n\nStep 3: Finally, calculate the '/' operation: 3 / 4 = 0.75.\n\nSo, the final answer is [0.75]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 1 / 8 + 9? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 8 + 9 = 17, so the expression becomes 1 / 17.\nStep2: Next, 1 / 17 = 0.058823529411764705, so the final answer is [0.058823529411764705].\n\nBased on the new priorities, what is the value of 3 / 1 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.6,
+                0.6,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the sum of 1 and 4: 1 + 4 = 5, so the expression becomes 3 / 5.\n\nStep 2: Now, divide 3 by 5: 3 / 5 = 0.6.\n\nTherefore, the final answer is [0.6]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 6 / 4 * 3? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 4 * 3 = 12, so the expression becomes 6 / 12.\nStep2: Next, 6 / 12 = 0.5, so the final answer is [0.5].\n\nBased on the new priorities, what is the value of 5 / 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                0.3,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate 4 * 4 = 16, so the expression becomes 5 / 16.\n\nStep 2: Next, calculate 5 / 16 = 0.3125.\n\nSo the final answer is [0.3125]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 9 / 3 * 9? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 3 * 9 = 27, so the expression becomes 9 / 27.\nStep2: Next, 9 / 27 = 0.3333333333333333, so the final answer is [0.3333333333333333].\n\nBased on the new priorities, what is the value of 1 / 1 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new rules where '*' has priority over '/', we calculate the expression 1 / 1 * 5 as follows:\n\nStep 1: Since '*' has priority over '/', we calculate '*' first: 1 * 5 = 5, so the expression becomes 1 / 5.\n\nStep 2: Next, we calculate 1 / 5 = 0.2.\n\nTherefore, the final answer is [0.2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 4 / 3 - 2? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 3 - 2 = 1, so the expression becomes 4 / 1.\nStep2: Next, 4 / 1 = 4.0, so the final answer is [4.0].\n\nBased on the new priorities, what is the value of 4 / 6 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.0,
+                1.0,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first:\n\nStep 1: Calculate 6 - 2 = 4, so the expression becomes 4 / 4.\n\nStep 2: Next, calculate 4 / 4 = 1.0.\n\nTherefore, the final answer is [1.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 4 / 6 - 8? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 6 - 8 = -2, so the expression becomes 4 / -2.\nStep2: Next, 4 / -2 = -2.0, so the final answer is [-2.0].\n\nBased on the new priorities, what is the value of 3 / 5 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.0,
+                3.0,
+                "Based on the new rules where '-' has priority over '/', we calculate '-' first.\n\nStep 1: Calculate the subtraction: 5 - 4 = 1, so the expression becomes 3 / 1.\n\nStep 2: Next, calculate the division: 3 / 1 = 3.0.\n\nSo the final answer is [3.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 7 + 4 / 5? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 7 + 4 = 11, so the expression becomes 11 / 5.\nStep2: Next, 11 / 5 = 2.2, so the final answer is [2.2].\n\nBased on the new priorities, what is the value of 6 + 1 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 6 + 1 = 7, so the expression becomes 7 / 9.\n\nStep 2: Next, we perform the division: 7 / 9 = 0.777...\n\nThe final answer, rounded to three decimal places, is [0.778]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 8 / 3 * 3? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 3 * 3 = 9, so the expression becomes 8 / 9.\nStep2: Next, 8 / 9 = 0.8888888888888888, so the final answer is [0.8888888888888888].\n\nBased on the new priorities, what is the value of 5 / 2 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.6,
+                0.6,
+                "Based on the new rules where '*' has priority over '/', we will calculate the '*' operation first.\n\nStep 1: Calculate the '*' operation: 2 * 4 = 8, so the expression becomes 5 / 8.\n\nStep 2: Next, calculate the '/' operation: 5 / 8 = 0.625.\n\nTherefore, the final answer is [0.625]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 4 + 5 / 5? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 4 + 5 = 9, so the expression becomes 9 / 5.\nStep2: Next, 9 / 5 = 1.8, so the final answer is [1.8].\n\nBased on the new priorities, what is the value of 9 + 8 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.2,
+                4.2,
+                "Based on the new rules, '/' and '+' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 9 + 8 = 17, so the expression becomes 17 / 4.\n\nStep 2: Next, we calculate 17 / 4 = 4.25.\n\nTherefore, the final answer is [4.25]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 9 / 8 * 8? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 8 * 8 = 64, so the expression becomes 9 / 64.\nStep2: Next, 9 / 64 = 0.140625, so the final answer is [0.140625].\n\nBased on the new priorities, what is the value of 2 / 7 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate 7 * 5 = 35, so the expression becomes 2 / 35.\n\nStep 2: Next, calculate 2 / 35 = 0.0571428571 (rounded to 10 decimal places).\n\nSo the final answer is approximately [0.0571428571]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 4 / 1 + 1? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 1 + 1 = 2, so the expression becomes 4 / 2.\nStep2: Next, 4 / 2 = 2.0, so the final answer is [2.0].\n\nBased on the new priorities, what is the value of 8 / 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.9,
+                0.9,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 6 + 3 = 9, so the expression becomes 8 / 9.\n\nStep 2: Now, perform the '/' operation: 8 / 9 = 0.8888888888888889 (rounded to 8 decimal places).\n\nSo the final answer is approximately [0.88888889]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 5 / 5 * 5? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 5 * 5 = 25, so the expression becomes 5 / 25.\nStep2: Next, 5 / 25 = 0.2, so the final answer is [0.2].\n\nBased on the new priorities, what is the value of 7 / 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the '*' operation first: 4 * 4 = 16, so the expression becomes 7 / 16.\n\nStep 2: Next, we calculate the '/' operation: 7 / 16 = 0.4375.\n\nTherefore, the final answer is [0.4375]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 3 / 1 * 9? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 1 * 9 = 9, so the expression becomes 3 / 9.\nStep2: Next, 3 / 9 = 0.3333333333333333, so the final answer is [0.3333333333333333].\n\nBased on the new priorities, what is the value of 4 / 3 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new rules where '*' has priority over '/', we will calculate the multiplication part of the expression first.\n\nStep 1: Calculate the multiplication '*' first: 3 * 8 = 24, so the expression becomes 4 / 24.\n\nStep 2: Next, calculate the division '/': 4 / 24 = 0.16666666666666666.\n\nTherefore, the final answer is [0.16666666666666666]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 1 + 9 / 4? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 1 + 9 = 10, so the expression becomes 10 / 4.\nStep2: Next, 10 / 4 = 2.5, so the final answer is [2.5].\n\nBased on the new priorities, what is the value of 9 + 5 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.0,
+                2,
+                "Based on the new rules, '/' and '+' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 9 + 5 = 14, so the expression becomes 14 / 7.\n\nStep 2: Next, 14 / 7 = 2, so the final answer is [2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 7 + 4 / 5? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 7 + 4 = 11, so the expression becomes 11 / 5.\nStep2: Next, 11 / 5 = 2.2, so the final answer is [2.2].\n\nBased on the new priorities, what is the value of 5 + 8 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.6,
+                1.6,
+                "Based on the new rules, '/' and '+' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 5 + 8 = 13, so the expression becomes 13 / 8.\n\nStep 2: Next, we calculate 13 / 8, which equals 1.625.\n\nSo the final answer is [1.625]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 4 + 5 / 8? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 4 + 5 = 9, so the expression becomes 9 / 8.\nStep2: Next, 9 / 8 = 1.125, so the final answer is [1.125].\n\nBased on the new priorities, what is the value of 7 + 8 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.5,
+                2.5,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 7 + 8 = 15, so the expression becomes 15 / 6.\n\nStep 2: Next, calculate 15 / 6 = 2.5.\n\nTherefore, the final answer is [2.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 6 / 3 + 7? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 3 + 7 = 10, so the expression becomes 6 / 10.\nStep2: Next, 6 / 10 = 0.6, so the final answer is [0.6].\n\nBased on the new priorities, what is the value of 1 / 6 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the '+' operation first: 6 + 4 = 10, so the expression becomes 1 / 10.\n\nStep 2: Next, calculate the '/' operation: 1 / 10 = 0.1, so the final answer is [0.1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 1 / 4 * 1? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 4 * 1 = 4, so the expression becomes 1 / 4.\nStep2: Next, 1 / 4 = 0.25, so the final answer is [0.25].\n\nBased on the new priorities, what is the value of 9 / 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Based on the new rules, '*' has priority over '/'.\n\nStep 1: Since '*' has priority over '/', we calculate '*' first: 3 * 4 = 12, so the expression becomes 9 / 12.\n\nStep 2: Next, we calculate the division: 9 / 12 = 0.75.\n\nSo the final answer is [0.75]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 3 / 8 * 5? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 8 * 5 = 40, so the expression becomes 3 / 40.\nStep2: Next, 3 / 40 = 0.075, so the final answer is [0.075].\n\nBased on the new priorities, what is the value of 2 / 5 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the multiplication part of the expression first: 5 * 6 = 30, so the expression becomes 2 / 30.\n\nStep 2: Next, we calculate the division: 2 / 30 = 0.0666666667 (rounded to 10 decimal places).\n\nSo the final answer is approximately [0.0666666667]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 7 / 9 + 4? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 9 + 4 = 13, so the expression becomes 7 / 13.\nStep2: Next, 7 / 13 = 0.5384615384615384, so the final answer is [0.5384615384615384].\n\nBased on the new priorities, what is the value of 1 / 8 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression: 8 + 5 = 13, so the expression becomes 1 / 13.\n\nStep 2: Next, calculate the division part of the expression: 1 / 13 = 0.07692307692307693.\n\nTherefore, the final answer is [0.07692307692307693]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 3 / 5 - 9? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 5 - 9 = -4, so the expression becomes 3 / -4.\nStep2: Next, 3 / -4 = -0.75, so the final answer is [-0.75].\n\nBased on the new priorities, what is the value of 7 / 8 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.8,
+                1.8,
+                "Based on the new rules, '-' has priority over '/'. Let's calculate the expression 7 / 8 - 4 step by step:\n\nStep 1: Since '-' has priority over '/', we calculate '-' first: 8 - 4 = 4, so the expression becomes 7 / 4.\n\nStep 2: Next, we calculate the division: 7 / 4 = 1.75.\n\nTherefore, the final answer is [1.75]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 9 - 6 / 5? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 9 - 6 = 3, so the expression becomes 3 / 5.\nStep2: Next, 3 / 5 = 0.6, so the final answer is [0.6].\n\nBased on the new priorities, what is the value of 1 - 7 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.0,
+                -1,
+                "Based on the new rules where '/' and '-' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '/', so we calculate '-' first: 1 - 7 = -6, so the expression becomes -6 / 6.\n\nStep 2: Next, -6 / 6 = -1, so the final answer is [-1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 1 / 7 * 8? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 7 * 8 = 56, so the expression becomes 1 / 56.\nStep2: Next, 1 / 56 = 0.017857142857142856, so the final answer is [0.017857142857142856].\n\nBased on the new priorities, what is the value of 1 / 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the multiplication part of the expression first: 6 * 3 = 18, so the expression becomes 1 / 18.\n\nStep 2: Next, calculate the division: 1 / 18 = 0.05555555555555555\n\nSo the final answer is [0.05555555555555555]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 8 + 9 / 2? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 8 + 9 = 17, so the expression becomes 17 / 2.\nStep2: Next, 17 / 2 = 8.5, so the final answer is [8.5].\n\nBased on the new priorities, what is the value of 5 + 8 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.5,
+                6.5,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 5 + 8 = 13, so the expression becomes 13 / 2.\nStep 2: Next, 13 / 2 = 6.5, so the final answer is [6.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 8 / 5 * 2? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 5 * 2 = 10, so the expression becomes 8 / 10.\nStep2: Next, 8 / 10 = 0.8, so the final answer is [0.8].\n\nBased on the new priorities, what is the value of 2 / 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the multiplication part of the expression first: 6 * 3 = 18, so the expression becomes 2 / 18.\n\nStep 2: Next, we calculate the division: 2 / 18 = 0.111...\n\nThe final answer, rounded to three decimal places, is [0.111]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 7 / 5 * 6? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 5 * 6 = 30, so the expression becomes 7 / 30.\nStep2: Next, 7 / 30 = 0.23333333333333334, so the final answer is [0.23333333333333334].\n\nBased on the new priorities, what is the value of 4 / 4 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' before '/'.\n\nStep 1: Calculate the '*' part first: 4 * 8 = 32, so the expression becomes 4 / 32.\n\nStep 2: Next, calculate the '/' part: 4 / 32 = 0.125.\n\nTherefore, the final answer is [0.125]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 4 + 7 / 4? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 4 + 7 = 11, so the expression becomes 11 / 4.\nStep2: Next, 11 / 4 = 2.75, so the final answer is [2.75].\n\nBased on the new priorities, what is the value of 6 + 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.9,
+                0.9,
+                "Based on the new rules, '/' and '+' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 6 + 2 = 8, so the expression becomes 8 / 9.\n\nStep 2: Next, we calculate 8 / 9, which is approximately 0.8888888889.\n\nSo the final answer is approximately [0.89]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 2 + 2 / 2? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 2 + 2 = 4, so the expression becomes 4 / 2.\nStep2: Next, 4 / 2 = 2.0, so the final answer is [2.0].\n\nBased on the new priorities, what is the value of 5 + 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.0,
+                7.0,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 5 + 9 = 14, so the expression becomes 14 / 2.\n\nStep 2: Next, calculate 14 / 2 = 7.0.\n\nTherefore, the final answer is [7.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 5 + 9 / 6? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 5 + 9 = 14, so the expression becomes 14 / 6.\nStep2: Next, 14 / 6 = 2.3333333333333335, so the final answer is [2.3333333333333335].\n\nBased on the new priorities, what is the value of 5 + 9 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.5,
+                3.5,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 5 + 9 = 14, so the expression becomes 14 / 4.\n\nStep 2: Next, divide 14 by 4: 14 / 4 = 3.5.\n\nTherefore, the final answer is [3.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 8 + 1 / 1? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 8 + 1 = 9, so the expression becomes 9 / 1.\nStep2: Next, 9 / 1 = 9.0, so the final answer is [9.0].\n\nBased on the new priorities, what is the value of 4 + 5 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.0,
+                3.0,
+                "Based on the new rules, '/' and '+' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 4 + 5 = 9, so the expression becomes 9 / 3.\n\nStep 2: Next, 9 / 3 = 3.0, so the final answer is [3.0]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 6 - 7 / 7? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 6 - 7 = -1, so the expression becomes -1 / 7.\nStep2: Next, -1 / 7 = -0.14285714285714285, so the final answer is [-0.14285714285714285].\n\nBased on the new priorities, what is the value of 7 - 6 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Based on the new rules, '/' and '-' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: In this case, '-' comes before '/', so we calculate '-' first: 7 - 6 = 1, so the expression becomes 1 / 2.\n\nStep 2: Next, 1 / 2 = 0.5, so the final answer is [0.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 6 + 2 / 6? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 6 + 2 = 8, so the expression becomes 8 / 6.\nStep2: Next, 8 / 6 = 1.3333333333333333, so the final answer is [1.3333333333333333].\n\nBased on the new priorities, what is the value of 8 + 7 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.0,
+                3,
+                "Based on the new rules, '/' and '+' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 8 + 7 = 15, so the expression becomes 15 / 5.\n\nStep 2: Next, we calculate 15 / 5 = 3.\n\nTherefore, the final answer is [3]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 6 / 6 * 7? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 6 * 7 = 42, so the expression becomes 6 / 42.\nStep2: Next, 6 / 42 = 0.14285714285714285, so the final answer is [0.14285714285714285].\n\nBased on the new priorities, what is the value of 6 / 8 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate the multiplication part of the expression first: 8 * 8 = 64, so the expression becomes 6 / 64.\n\nStep 2: Next, we calculate the division: 6 / 64 = 0.09375.\n\nTherefore, the final answer is [0.09375]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 5 / 9 * 6? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 9 * 6 = 54, so the expression becomes 5 / 54.\nStep2: Next, 5 / 54 = 0.09259259259259259, so the final answer is [0.09259259259259259].\n\nBased on the new priorities, what is the value of 5 / 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                0.3,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate 8 * 2 = 16, so the expression becomes 5 / 16.\nStep 2: Next, calculate 5 / 16 = 0.3125.\n\nTherefore, the final answer is [0.3125]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 7 + 1 / 9? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 7 + 1 = 8, so the expression becomes 8 / 9.\nStep2: Next, 8 / 9 = 0.8888888888888888, so the final answer is [0.8888888888888888].\n\nBased on the new priorities, what is the value of 7 + 2 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.0,
+                1,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 7 + 2 = 9, so the expression becomes 9 / 9.\n\nStep 2: Now, divide 9 by 9: 9 / 9 = 1.\n\nTherefore, the final answer is [1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: What is the value of 8 - 1 / 6? \n[Answer]: Based on the new rules, / and - have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '-' comes before '/', so we calculate '-' first: 8 - 1 = 7, so the expression becomes 7 / 6.\nStep2: Next, 7 / 6 = 1.1666666666666667, so the final answer is [1.1666666666666667].\n\nBased on the new priorities, what is the value of 5 - 6 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.2,
+                -0.2,
+                "Based on the new rules, where '/' and '-' have the same priority, we evaluate the expression from left to right.\n\nStep 1: '-' comes before '/', so we calculate '-' first: 5 - 6 = -1, so the expression becomes -1 / 5.\n\nStep 2: Next, we calculate -1 / 5 = -0.2.\n\nTherefore, the final answer is [-0.2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 5 - 7 / 8? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 5 - 7 = -2, so the expression becomes -2 / 8.\nStep2: Next, -2 / 8 = -0.25, so the final answer is [-0.25].\n\nBased on the new priorities, what is the value of 7 - 8 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.2,
+                -0.2,
+                "Based on the new rules, '-' has priority over '/'.\n\nStep 1: Since '-' has priority over '/', we calculate '-' first: 7 - 8 = -1, so the expression becomes -1 / 4.\n\nStep 2: Next, -1 / 4 = -0.25, so the final answer is [-0.25]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 2 + 7 / 6? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 2 + 7 = 9, so the expression becomes 9 / 6.\nStep2: Next, 9 / 6 = 1.5, so the final answer is [1.5].\n\nBased on the new priorities, what is the value of 9 + 2 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.4,
+                1.4,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 9 + 2 = 11, so the expression becomes 11 / 8.\n\nStep 2: Next, calculate 11 / 8 = 1.375.\n\nSo the final answer is [1.375]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 3 + 7 / 1? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 3 + 7 = 10, so the expression becomes 10 / 1.\nStep2: Next, 10 / 1 = 10.0, so the final answer is [10.0].\n\nBased on the new priorities, what is the value of 6 + 8 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.6,
+                1.6,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 6 + 8 = 14, so the expression becomes 14 / 9.\n\nStep 2: Next, we perform the division: 14 / 9 = 1.5555555555555556 (rounded to 16 decimal places).\n\nSo the final answer is approximately [1.5555555555555556]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 4 + 3 / 8? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 4 + 3 = 7, so the expression becomes 7 / 8.\nStep2: Next, 7 / 8 = 0.875, so the final answer is [0.875].\n\nBased on the new priorities, what is the value of 5 + 3 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.1,
+                1.1,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 5 + 3 = 8, so the expression becomes 8 / 7.\n\nStep 2: Next, we perform the division: 8 / 7 = 1.142857...\n\nSo the final answer is approximately [1.142857]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 6 / 8 * 5? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 8 * 5 = 40, so the expression becomes 6 / 40.\nStep2: Next, 6 / 40 = 0.15, so the final answer is [0.15].\n\nBased on the new priorities, what is the value of 8 / 9 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we calculate '*' first:\n\nStep 1: Calculate 9 * 6 = 54, so the expression becomes 8 / 54.\n\nStep 2: Next, calculate 8 / 54, which equals approximately 0.148148148148148.\n\nTherefore, the final answer is approximately [0.148]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 2 / 9 * 5? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 9 * 5 = 45, so the expression becomes 2 / 45.\nStep2: Next, 2 / 45 = 0.044444444444444446, so the final answer is [0.044444444444444446].\n\nBased on the new priorities, what is the value of 3 / 6 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new rules where '*' has priority over '/', we will calculate the '*' operation first.\n\nStep 1: Calculate 6 * 7 = 42, so the expression becomes 3 / 42.\n\nStep 2: Next, calculate 3 / 42 = 0.07142857142857142.\n\nTherefore, the final answer is [0.07142857142857142]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 5 - 1 / 5? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 5 - 1 = 4, so the expression becomes 4 / 5.\nStep2: Next, 4 / 5 = 0.8, so the final answer is [0.8].\n\nBased on the new priorities, what is the value of 7 - 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.1,
+                -0.1,
+                "Based on the new rules, '-' has priority over '/'. So we calculate '-' first:\n\nStep 1: Calculate 7 - 8, which equals -1, so the expression becomes -1 / 7.\n\nStep 2: Next, calculate -1 / 7, which equals approximately -0.142857.\n\nTherefore, the final answer is [-0.142857]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 7 + 9 / 1? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 7 + 9 = 16, so the expression becomes 16 / 1.\nStep2: Next, 16 / 1 = 16.0, so the final answer is [16.0].\n\nBased on the new priorities, what is the value of 1 + 1 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                0.3,
+                "Based on the new rules, '+' has priority over '/'.\n\nStep 1: Since '+' has priority over '/', we calculate '+' first: 1 + 1 = 2, so the expression becomes 2 / 7.\n\nStep 2: Next, we calculate 2 / 7, which as a decimal is approximately 0.28571428571.\n\nSo the final answer is approximately [0.28571428571]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 5 + 5 / 9? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 5 + 5 = 10, so the expression becomes 10 / 9.\nStep2: Next, 10 / 9 = 1.1111111111111112, so the final answer is [1.1111111111111112].\n\nBased on the new priorities, what is the value of 4 + 2 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.0,
+                2,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate 4 + 2, which equals 6.\n\nStep 2: Now we have 6 / 3.\n\nStep 3: Finally, calculate 6 / 3, which equals 2.\n\nSo the final answer is [2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 2 / 6 + 8? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 6 + 8 = 14, so the expression becomes 2 / 14.\nStep2: Next, 2 / 14 = 0.14285714285714285, so the final answer is [0.14285714285714285].\n\nBased on the new priorities, what is the value of 6 / 7 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the sum: 7 + 8 = 15, so the expression becomes 6 / 15.\n\nStep 2: Next, calculate the division: 6 / 15 = 0.4\n\nTherefore, the final answer is [0.4]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: What is the value of 3 + 4 / 6? \n[Answer]: Based on the new rules, / and + have the same priority, so we can evaluate the expression from left to right.\nStep1: In this case, '+' comes before '/', so we calculate '+' first: 3 + 4 = 7, so the expression becomes 7 / 6.\nStep2: Next, 7 / 6 = 1.1666666666666667, so the final answer is [1.1666666666666667].\n\nBased on the new priorities, what is the value of 3 + 7 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.4,
+                1.4,
+                "Based on the new rules, '/' and '+' have the same priority, so we evaluate the expression from left to right.\n\nStep 1: '+' comes before '/', so we calculate '+' first: 3 + 7 = 10, so the expression becomes 10 / 7.\n\nStep 2: Next, we calculate 10 / 7 = 1.4285714285714286.\n\nTherefore, the final answer is [1.4285714285714286]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: What is the value of 6 / 1 * 7? \n[Answer]: Based on the new rules, '*' has priority over '/'.\nStep1: Since '*' has priority over '/', we calculate '*' first: 1 * 7 = 7, so the expression becomes 6 / 7.\nStep2: Next, 6 / 7 = 0.8571428571428571, so the final answer is [0.8571428571428571].\n\nBased on the new priorities, what is the value of 7 / 7 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Based on the new rules where '*' has priority over '/', we will calculate the '*' operation first.\n\nStep 1: Calculate the '*' operation: 7 * 2 = 14.\n\nStep 2: Now the expression becomes 7 / 14.\n\nStep 3: Finally, calculate the '/' operation: 7 / 14 = 0.5.\n\nSo the final answer is [0.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: What is the value of 5 / 8 - 5? \n[Answer]: Based on the new rules, '-' has priority over '/'.\nStep1: Since '-' has priority over '/', we calculate '-' first: 8 - 5 = 3, so the expression becomes 5 / 3.\nStep2: Next, 5 / 3 = 1.6666666666666667, so the final answer is [1.6666666666666667].\n\nBased on the new priorities, what is the value of 3 / 6 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.0,
+                -1,
+                "Based on the new rules where '-' has priority over '/', we will calculate the '-' operation first.\n\nStep 1: Calculate the subtraction: 6 - 9 = -3, so the expression becomes 3 / -3.\n\nStep 2: Now, divide 3 by -3: 3 / -3 = -1.\n\nTherefore, the final answer is [-1]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: What is the value of 7 / 3 + 8? \n[Answer]: Based on the new rules, '+' has priority over '/'.\nStep1: Since '+' has priority over '/', we calculate '+' first: 3 + 8 = 11, so the expression becomes 7 / 11.\nStep2: Next, 7 / 11 = 0.6363636363636364, so the final answer is [0.6363636363636364].\n\nBased on the new priorities, what is the value of 5 / 8 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Based on the new rules where '+' has priority over '/', we calculate '+' first:\n\nStep 1: Calculate the addition part of the expression first: 8 + 4 = 12, so the expression becomes 5 / 12.\n\nStep 2: Now, divide 5 by 12: 5 / 12 = 0.4166666666666667\n\nSo, the final answer is [0.4166666666666667]."
+            ]
+        ]
+    }
+}

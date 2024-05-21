@@ -1,0 +1,826 @@
+{
+    "+": {
+        "*": [
+            [
+                "For the expression 39 + 134 * 388 - 841, the precedence of the operators is redefined. If 39 + 134 * 388 - 841 = -78369, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '*' > '-' = '+'\nC. '+' > '-' > '*'\nD. '-' = '*' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 922 + 710 * 660 - 478, the precedence of the operators is redefined. If 922 + 710 * 660 - 478 = 297024, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '+'\nB. '*' > '+' = '-'\nC. '*' = '-' = '+'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 770 / 786 + 814 * 64, the precedence of the operators is redefined. If 770 / 786 + 814 * 64 = 0.00751953125, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '*'\nB. '+' > '/' > '*'\nC. '/' = '*' > '+'\nD. '+' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 660 - 186 + 177 * 520, the precedence of the operators is redefined. If 660 - 186 + 177 * 520 = 154440, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '-'\nB. '+' = '*' > '-'\nC. '*' > '+' = '-'\nD. '*' > '-' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 145 * 132 - 630 + 413, the precedence of the operators is redefined. If 145 * 132 - 630 + 413 = -132095, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '*'\nB. '-' > '+' = '*'\nC. '+' = '-' = '*'\nD. '-' > '*' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 370 * 380 + 79 / 406, the precedence of the operators is redefined. If 370 * 380 + 79 / 406 = 346.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '*'\nB. '+' = '*' > '/'\nC. '+' > '*' > '/'\nD. '/' = '+' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 896 - 565 + 81 * 750, the precedence of the operators is redefined. If 896 - 565 + 81 * 750 = 187500, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '*' > '+' > '-'\nC. '+' > '*' = '-'\nD. '-' > '+' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 266 - 404 * 106 + 35, the precedence of the operators is redefined. If 266 - 404 * 106 + 35 = -42593, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '*' = '-' = '+'\nC. '+' = '*' > '-'\nD. '*' = '+' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 834 + 495 * 393 / 646, the precedence of the operators is redefined. If 834 + 495 * 393 / 646 = 302.42879256965944, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '*'\nB. '+' > '/' > '*'\nC. '*' > '+' = '/'\nD. '+' > '*' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 486 + 422 * 93 - 482, the precedence of the operators is redefined. If 486 + 422 * 93 - 482 = -353212, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '+' = '-' = '*'\nC. '+' > '-' > '*'\nD. '+' > '*' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 422 * 80 + 69 / 825, the precedence of the operators is redefined. If 422 * 80 + 69 / 825 = 41.00484848484849, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '*'\nB. '/' = '+' > '*'\nC. '+' > '/' > '*'\nD. '+' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 374 - 705 + 684 * 725, the precedence of the operators is redefined. If 374 - 705 + 684 * 725 = -735875, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' = '-'\nB. '+' = '*' = '-'\nC. '*' > '-' = '+'\nD. '+' > '*' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 512 + 418 * 794 / 428, the precedence of the operators is redefined. If 512 + 418 * 794 / 428 = 776.6448598130842, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '/'\nB. '*' > '/' > '+'\nC. '/' > '*' = '+'\nD. '*' > '+' = '/'",
+                "D"
+            ],
+            [
+                "For the expression 700 + 132 / 207 * 599, the precedence of the operators is redefined. If 700 + 132 / 207 * 599 = 0.006710056212850726, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' = '/'\nB. '*' = '/' > '+'\nC. '/' = '*' > '+'\nD. '+' > '*' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 808 - 631 + 40 * 200, the precedence of the operators is redefined. If 808 - 631 + 40 * 200 = 27400, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '-' = '*' > '+'\nC. '-' = '+' = '*'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 429 * 950 + 622 / 88, the precedence of the operators is redefined. If 429 * 950 + 622 / 88 = 7663.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '*'\nB. '+' = '/' = '*'\nC. '/' = '*' > '+'\nD. '/' > '+' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 247 - 716 + 685 * 707, the precedence of the operators is redefined. If 247 - 716 + 685 * 707 = -484764, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '+' > '*' > '-'\nC. '+' > '*' = '-'\nD. '-' > '+' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 389 / 226 * 306 + 130, the precedence of the operators is redefined. If 389 / 226 * 306 + 130 = 0.005614409837485206, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '*'\nB. '/' > '+' = '*'\nC. '*' > '/' = '+'\nD. '+' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 454 - 666 * 523 + 79, the precedence of the operators is redefined. If 454 - 666 * 523 + 79 = -127624, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '+'\nB. '*' = '-' = '+'\nC. '-' > '*' = '+'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 291 * 808 + 4 - 994, the precedence of the operators is redefined. If 291 * 808 + 4 - 994 = -52962, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' = '*'\nB. '+' > '-' > '*'\nC. '-' = '*' > '+'\nD. '*' > '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 994 * 733 - 956 + 991, the precedence of the operators is redefined. If 994 * 733 - 956 + 991 = -1206716, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '+' > '*' = '-'\nC. '+' > '-' > '*'\nD. '+' = '*' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 879 - 530 + 122 * 234, the precedence of the operators is redefined. If 879 - 530 + 122 * 234 = 53118, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '-' = '+' = '*'\nC. '+' > '*' = '-'\nD. '*' > '-' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 888 - 115 * 80 + 57, the precedence of the operators is redefined. If 888 - 115 * 80 + 57 = 105901, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '-'\nB. '-' = '*' > '+'\nC. '-' = '*' = '+'\nD. '+' > '*' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 347 * 494 - 543 + 135, the precedence of the operators is redefined. If 347 * 494 - 543 + 135 = -63848, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '+' = '-' = '*'\nC. '+' > '-' > '*'\nD. '-' > '+' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 880 - 168 + 233 * 657, the precedence of the operators is redefined. If 880 - 168 + 233 * 657 = 314703, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' = '-'\nB. '+' = '-' = '*'\nC. '-' = '*' = '+'\nD. '+' > '-' > '*'",
+                "D"
+            ]
+        ],
+        "/": [
+            [
+                "For the expression 227 - 954 / 756 + 37, the precedence of the operators is redefined. If 227 - 954 / 756 + 37 = 188.73809523809524, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' = '-'\nB. '-' > '/' > '+'\nC. '-' = '+' = '/'\nD. '+' = '/' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 634 / 950 + 924 * 209, the precedence of the operators is redefined. If 634 / 950 + 924 * 209 = 0.0016187261595338885, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '/'\nB. '+' > '*' > '/'\nC. '/' = '+' > '*'\nD. '*' > '/' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 502 - 906 / 446 + 395, the precedence of the operators is redefined. If 502 - 906 / 446 + 395 = -0.4803804994054697, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '/'\nB. '+' > '-' > '/'\nC. '+' = '-' = '/'\nD. '/' = '+' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 697 / 451 * 31 + 696, the precedence of the operators is redefined. If 697 / 451 * 31 + 696 = 0.0021257971739402277, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' = '*'\nB. '*' = '+' > '/'\nC. '/' > '+' > '*'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 35 - 436 + 623 / 815, the precedence of the operators is redefined. If 35 - 436 + 623 / 815 = -1.2564417177914111, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '/'\nB. '-' = '+' = '/'\nC. '+' > '/' > '-'\nD. '-' > '/' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 257 + 575 / 470 * 975, the precedence of the operators is redefined. If 257 + 575 / 470 * 975 = 0.0018156028368794327, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '+'\nB. '*' > '/' > '+'\nC. '+' = '*' > '/'\nD. '/' = '*' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 197 - 243 + 994 / 667, the precedence of the operators is redefined. If 197 - 243 + 994 / 667 = -1.5592203898050974, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' = '-'\nB. '+' > '/' = '-'\nC. '-' > '/' = '+'\nD. '-' = '/' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 269 / 391 - 868 + 162, the precedence of the operators is redefined. If 269 / 391 - 868 + 162 = -0.4209702660406886, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '-'\nB. '/' > '+' > '-'\nC. '+' > '-' > '/'\nD. '+' = '-' = '/'",
+                "C"
+            ],
+            [
+                "For the expression 593 - 948 + 832 / 834, the precedence of the operators is redefined. If 593 - 948 + 832 / 834 = -355.9976019184652, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' > '/'\nB. '/' > '+' > '-'\nC. '-' > '/' > '+'\nD. '+' > '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 598 - 28 + 725 / 251, the precedence of the operators is redefined. If 598 - 28 + 725 / 251 = -0.6175298804780877, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '/'\nB. '-' = '+' > '/'\nC. '-' = '/' = '+'\nD. '-' > '/' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 651 - 668 + 985 / 588, the precedence of the operators is redefined. If 651 - 668 + 985 / 588 = -1.7040816326530612, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' > '+'\nB. '-' = '+' = '/'\nC. '-' = '+' > '/'\nD. '+' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 318 / 968 + 865 * 714, the precedence of the operators is redefined. If 318 / 968 + 865 * 714 = 0.00024297771481751458, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' = '+'\nB. '*' > '+' > '/'\nC. '*' = '+' = '/'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 788 - 936 / 972 + 606, the precedence of the operators is redefined. If 788 - 936 / 972 + 606 = -0.09378960709759189, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' = '+'\nB. '/' = '-' > '+'\nC. '+' = '/' > '-'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 327 - 105 / 761 + 35, the precedence of the operators is redefined. If 327 - 105 / 761 + 35 = 0.27889447236180903, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '-'\nB. '/' > '-' = '+'\nC. '-' = '+' = '/'\nD. '+' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 677 / 480 + 612 * 886, the precedence of the operators is redefined. If 677 / 480 + 612 * 886 = 0.0006997329232092212, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '*' = '/' > '+'\nC. '+' = '*' = '/'\nD. '*' > '/' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 165 + 263 / 789 * 85, the precedence of the operators is redefined. If 165 + 263 / 789 * 85 = 0.006381868336688287, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '*'\nB. '/' = '+' > '*'\nC. '/' = '*' = '+'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 983 + 717 / 662 * 578, the precedence of the operators is redefined. If 983 + 717 / 662 * 578 = 568800.0211480362, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' = '*'\nB. '+' > '/' = '*'\nC. '/' = '+' > '*'\nD. '/' > '+' = '*'",
+                "D"
+            ],
+            [
+                "For the expression 170 + 145 / 545 - 717, the precedence of the operators is redefined. If 170 + 145 / 545 - 717 = -1.8313953488372092, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' > '+'\nB. '+' > '-' > '/'\nC. '+' = '/' = '-'\nD. '/' > '+' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 897 + 618 / 284 * 635, the precedence of the operators is redefined. If 897 + 618 / 284 * 635 = 0.008400798491737829, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '/' > '+' = '*'\nC. '+' > '/' = '*'\nD. '/' = '+' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 823 / 452 + 18 * 635, the precedence of the operators is redefined. If 823 / 452 + 18 * 635 = 0.002757580834310605, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '+'\nB. '+' > '*' > '/'\nC. '/' > '*' > '+'\nD. '+' > '/' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 726 - 762 + 849 / 471, the precedence of the operators is redefined. If 726 - 762 + 849 / 471 = -1.8789808917197452, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '-'\nB. '/' > '+' = '-'\nC. '-' > '/' > '+'\nD. '+' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 413 / 939 + 229 * 398, the precedence of the operators is redefined. If 413 / 939 + 229 * 398 = 0.0008884318854546706, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '+'\nB. '/' = '+' = '*'\nC. '+' > '/' = '*'\nD. '+' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 562 + 192 / 113 * 726, the precedence of the operators is redefined. If 562 + 192 / 113 * 726 = 0.009190862770911041, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' = '*'\nB. '/' > '+' = '*'\nC. '+' = '*' > '/'\nD. '/' = '+' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 786 - 547 + 860 / 315, the precedence of the operators is redefined. If 786 - 547 + 860 / 315 = -1.9714285714285715, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '/'\nB. '/' > '+' > '-'\nC. '/' > '-' > '+'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 50 - 809 + 745 / 442, the precedence of the operators is redefined. If 50 - 809 + 745 / 442 = -3.4027149321266967, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' = '+'\nB. '+' > '/' = '-'\nC. '+' = '/' > '-'\nD. '/' = '-' = '+'",
+                "B"
+            ]
+        ]
+    },
+    "-": {
+        "*": [
+            [
+                "For the expression 537 / 356 - 213 * 745, the precedence of the operators is redefined. If 537 / 356 - 213 * 745 = 0.005040596986905712, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '-' = '/' > '*'\nC. '/' = '*' = '-'\nD. '*' = '/' = '-'",
+                "A"
+            ],
+            [
+                "For the expression 2 * 534 - 862 + 982, the precedence of the operators is redefined. If 2 * 534 - 862 + 982 = 1308, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '*' > '-' = '+'\nC. '+' > '-' > '*'\nD. '-' > '+' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 929 - 25 * 786 + 868, the precedence of the operators is redefined. If 929 - 25 * 786 + 868 = 1495216, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '-'\nB. '+' = '*' = '-'\nC. '+' > '-' = '*'\nD. '-' > '*' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 242 + 929 * 697 - 176, the precedence of the operators is redefined. If 242 + 929 * 697 - 176 = 610091, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '*' > '+' = '-'\nC. '-' > '+' > '*'\nD. '-' = '+' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 63 - 252 * 652 + 710, the precedence of the operators is redefined. If 63 - 252 * 652 + 710 = -257418, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' = '-'\nB. '+' = '*' = '-'\nC. '-' = '*' = '+'\nD. '-' > '+' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 628 * 88 - 322 / 111, the precedence of the operators is redefined. If 628 * 88 - 322 / 111 = 494.97297297297297, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '-'\nB. '-' = '*' > '/'\nC. '*' > '/' > '-'\nD. '/' = '-' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 911 - 441 * 959 + 472, the precedence of the operators is redefined. If 911 - 441 * 959 + 472 = 672570, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '-' > '+' > '*'\nC. '*' = '-' > '+'\nD. '*' > '-' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 794 - 711 * 26 / 322, the precedence of the operators is redefined. If 794 - 711 * 26 / 322 = -54.94409937888199, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' = '*'\nB. '*' > '-' = '/'\nC. '*' = '-' > '/'\nD. '/' = '-' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 324 - 376 + 706 * 449, the precedence of the operators is redefined. If 324 - 376 + 706 * 449 = -485494, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '*' = '+' > '-'\nC. '-' = '+' = '*'\nD. '*' = '-' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 352 * 325 - 387 / 836, the precedence of the operators is redefined. If 352 * 325 - 387 / 836 = -26.105263157894736, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' = '-'\nB. '-' = '/' > '*'\nC. '/' > '-' = '*'\nD. '/' = '-' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 936 - 14 / 608 * 610, the precedence of the operators is redefined. If 936 - 14 / 608 * 610 = 0.002485979292493529, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '-' > '/' = '*'\nC. '/' = '-' = '*'\nD. '-' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 747 - 688 + 429 * 54, the precedence of the operators is redefined. If 747 - 688 + 429 * 54 = -59571, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '-' = '*' > '+'\nC. '*' = '+' > '-'\nD. '*' > '+' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 378 + 281 - 611 * 673, the precedence of the operators is redefined. If 378 + 281 - 611 * 673 = 32304, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' = '+'\nB. '-' > '+' > '*'\nC. '*' > '+' > '-'\nD. '*' = '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 226 + 121 - 253 * 315, the precedence of the operators is redefined. If 226 + 121 - 253 * 315 = 29610, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' = '+'\nB. '+' > '*' > '-'\nC. '-' = '*' > '+'\nD. '-' > '*' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 465 * 594 - 90 / 450, the precedence of the operators is redefined. If 465 * 594 - 90 / 450 = 613.6, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '/' > '-' > '*'\nC. '-' > '*' > '/'\nD. '-' = '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 969 - 538 * 769 + 943, the precedence of the operators is redefined. If 969 - 538 * 769 + 943 = 737872, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '*'\nB. '-' = '*' = '+'\nC. '*' > '+' > '-'\nD. '-' = '*' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 444 - 555 * 686 + 78, the precedence of the operators is redefined. If 444 - 555 * 686 + 78 = -84804, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '+' = '*' > '-'\nC. '*' = '+' = '-'\nD. '-' > '+' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 157 - 351 + 364 * 691, the precedence of the operators is redefined. If 157 - 351 + 364 * 691 = -493908, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '+' = '-' = '*'\nC. '-' > '+' = '*'\nD. '-' > '+' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 878 - 193 / 139 * 212, the precedence of the operators is redefined. If 878 - 193 / 139 * 212 = 0.02324555449979639, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' = '/'\nB. '-' = '/' = '*'\nC. '*' = '/' > '-'\nD. '-' > '/' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 702 + 633 - 311 * 430, the precedence of the operators is redefined. If 702 + 633 - 311 * 430 = 440320, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '+'\nB. '+' > '*' > '-'\nC. '-' > '*' = '+'\nD. '*' > '+' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 251 + 281 - 804 * 218, the precedence of the operators is redefined. If 251 + 281 - 804 * 218 = -59296, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '*'\nB. '*' > '-' > '+'\nC. '*' = '+' > '-'\nD. '+' > '*' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 186 + 244 - 540 * 565, the precedence of the operators is redefined. If 186 + 244 - 540 * 565 = -62150, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '+'\nB. '-' > '+' > '*'\nC. '*' > '+' > '-'\nD. '*' = '+' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 25 - 175 * 36 + 495, the precedence of the operators is redefined. If 25 - 175 * 36 + 495 = -79650, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '*'\nB. '*' > '-' > '+'\nC. '*' = '-' > '+'\nD. '-' > '+' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 549 - 25 / 219 * 114, the precedence of the operators is redefined. If 549 - 25 / 219 * 114 = 0.02098854442041176, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '/' > '*' = '-'\nC. '*' = '-' = '/'\nD. '-' > '/' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 319 + 672 - 501 * 999, the precedence of the operators is redefined. If 319 + 672 - 501 * 999 = 489510, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '*'\nB. '+' > '*' > '-'\nC. '*' > '+' = '-'\nD. '*' = '+' > '-'",
+                "A"
+            ]
+        ],
+        "/": [
+            [
+                "For the expression 567 - 225 / 774 * 493, the precedence of the operators is redefined. If 567 - 225 / 774 * 493 = 279387.68604651163, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '*'\nB. '-' > '/' > '*'\nC. '/' > '-' = '*'\nD. '/' > '*' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 22 / 402 * 682 - 389, the precedence of the operators is redefined. If 22 / 402 * 682 - 389 = 0.00018677941351264156, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '/' = '-' = '*'\nC. '/' > '-' = '*'\nD. '*' > '-' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 86 / 496 * 37 - 805, the precedence of the operators is redefined. If 86 / 496 * 37 - 805 = -0.00022576444892473117, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '/'\nB. '/' > '*' > '-'\nC. '-' > '*' > '/'\nD. '/' = '*' = '-'",
+                "C"
+            ],
+            [
+                "For the expression 533 / 251 * 274 - 141, the precedence of the operators is redefined. If 533 / 251 * 274 - 141 = 0.01596621034658359, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '*' > '-' = '/'\nC. '*' > '/' = '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 138 - 589 + 319 / 856, the precedence of the operators is redefined. If 138 - 589 + 319 / 856 = 136.9392523364486, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '/'\nB. '/' = '+' = '-'\nC. '-' > '+' = '/'\nD. '/' = '+' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 797 / 965 - 177 + 29, the precedence of the operators is redefined. If 797 / 965 - 177 + 29 = 0.9755201958384333, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '+'\nB. '-' > '+' > '/'\nC. '/' = '+' > '-'\nD. '-' > '+' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 935 / 996 * 326 - 603, the precedence of the operators is redefined. If 935 / 996 * 326 - 603 = -0.0033890072927087412, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' = '-'\nB. '*' > '-' = '/'\nC. '*' = '/' = '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 2 + 131 - 923 / 151, the precedence of the operators is redefined. If 2 + 131 - 923 / 151 = -5.231788079470198, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' > '-'\nB. '-' > '/' = '+'\nC. '/' > '+' = '-'\nD. '+' > '/' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 74 + 355 / 338 - 704, the precedence of the operators is redefined. If 74 + 355 / 338 - 704 = -1.1721311475409837, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '-'\nB. '+' > '/' > '-'\nC. '/' > '-' = '+'\nD. '-' > '+' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 795 - 524 / 574 * 837, the precedence of the operators is redefined. If 795 - 524 / 574 * 837 = 0.0005640686207169292, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '/' > '*' = '-'\nC. '-' > '*' > '/'\nD. '*' > '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 921 / 488 - 275 * 630, the precedence of the operators is redefined. If 921 / 488 - 275 * 630 = 0.006863402638050525, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' = '-'\nB. '*' > '/' > '-'\nC. '*' = '/' = '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 715 - 243 + 127 / 160, the precedence of the operators is redefined. If 715 - 243 + 127 / 160 = 2.15625, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' > '-'\nB. '/' > '-' > '+'\nC. '-' = '/' = '+'\nD. '+' > '-' = '/'",
+                "D"
+            ],
+            [
+                "For the expression 240 / 850 - 599 * 938, the precedence of the operators is redefined. If 240 / 850 - 599 * 938 = 0.0010193766511778048, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '-' = '*' > '/'\nC. '-' = '/' = '*'\nD. '/' = '-' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 890 / 575 - 447 * 927, the precedence of the operators is redefined. If 890 / 575 - 447 * 927 = 0.0075006742179072276, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' > '/'\nB. '/' = '-' = '*'\nC. '-' = '*' > '/'\nD. '/' = '*' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 360 / 677 * 631 - 172, the precedence of the operators is redefined. If 360 / 677 * 631 - 172 = 0.0011585136270165378, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '*'\nB. '-' = '*' > '/'\nC. '-' > '*' > '/'\nD. '*' > '/' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 740 / 930 * 70 - 867, the precedence of the operators is redefined. If 740 / 930 * 70 - 867 = -0.000998367534167105, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' > '*'\nB. '/' = '-' > '*'\nC. '/' > '*' > '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 403 - 144 / 930 * 8, the precedence of the operators is redefined. If 403 - 144 / 930 * 8 = 0.03481182795698925, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '/' = '-' = '*'\nC. '/' = '*' > '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 543 / 238 - 542 * 5, the precedence of the operators is redefined. If 543 / 238 - 542 * 5 = -0.35723684210526313, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' > '/'\nB. '-' > '/' = '*'\nC. '-' > '*' > '/'\nD. '/' = '*' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 405 - 754 / 184 * 405, the precedence of the operators is redefined. If 405 - 754 / 184 * 405 = -0.004683306494900698, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '/' = '-' > '*'\nC. '/' = '*' = '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 269 * 58 / 759 - 284, the precedence of the operators is redefined. If 269 * 58 / 759 - 284 = -76375.4440052701, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '-'\nB. '-' = '*' > '/'\nC. '-' > '/' = '*'\nD. '-' = '/' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 796 / 127 * 142 - 993, the precedence of the operators is redefined. If 796 / 127 * 142 - 993 = -0.007365119313082339, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' = '-'\nB. '-' > '/' = '*'\nC. '*' > '/' > '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 724 + 859 / 277 - 679, the precedence of the operators is redefined. If 724 + 859 / 277 - 679 = -3.9378109452736316, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '-'\nB. '-' > '+' > '/'\nC. '+' = '/' = '-'\nD. '/' > '-' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 697 - 41 / 472 * 411, the precedence of the operators is redefined. If 697 - 41 / 472 * 411 = 0.0033815827456802343, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '-' = '*' > '/'\nC. '/' > '-' > '*'\nD. '/' > '*' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 951 / 507 - 686 + 904, the precedence of the operators is redefined. If 951 / 507 - 686 + 904 = 1.3117241379310345, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' > '/'\nB. '+' > '/' = '-'\nC. '+' > '-' = '/'\nD. '/' = '-' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 955 - 577 / 764 + 502, the precedence of the operators is redefined. If 955 - 577 / 764 + 502 = 0.2985781990521327, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '+'\nB. '+' > '-' = '/'\nC. '-' > '+' = '/'\nD. '/' = '-' = '+'",
+                "B"
+            ]
+        ]
+    },
+    "*": {
+        "+": [
+            [
+                "For the expression 189 + 290 / 435 * 424, the precedence of the operators is redefined. If 189 + 290 / 435 * 424 = 466.8873563218391, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' = '+'\nB. '+' > '/' > '*'\nC. '*' > '+' > '/'\nD. '/' > '+' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 505 + 228 / 351 * 987, the precedence of the operators is redefined. If 505 + 228 / 351 * 987 = 2061.17094017094, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '*'\nB. '/' > '+' > '*'\nC. '*' = '+' > '/'\nD. '/' > '+' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 101 - 708 * 816 + 54, the precedence of the operators is redefined. If 101 - 708 * 816 + 54 = -528090, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '-'\nB. '+' = '-' = '*'\nC. '*' > '+' = '-'\nD. '*' = '-' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 729 + 219 / 900 * 285, the precedence of the operators is redefined. If 729 + 219 / 900 * 285 = 0.003695906432748538, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '+'\nB. '/' > '*' > '+'\nC. '*' > '+' = '/'\nD. '/' > '*' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 641 / 763 + 896 * 484, the precedence of the operators is redefined. If 641 / 763 + 896 * 484 = 187.00663050030138, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' = '+'\nB. '/' = '*' > '+'\nC. '+' > '/' > '*'\nD. '+' = '*' > '/'",
+                "C"
+            ],
+            [
+                "For the expression 479 + 404 / 397 * 383, the precedence of the operators is redefined. If 479 + 404 / 397 * 383 = 0.005807262037079664, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '+'\nB. '/' > '*' > '+'\nC. '*' = '+' > '/'\nD. '+' > '/' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 28 - 536 + 238 * 909, the precedence of the operators is redefined. If 28 - 536 + 238 * 909 = -678114, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '-'\nB. '-' = '+' > '*'\nC. '+' > '-' > '*'\nD. '*' > '-' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 791 - 76 * 744 + 584, the precedence of the operators is redefined. If 791 - 76 * 744 + 584 = 532544, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '-'\nB. '*' > '-' = '+'\nC. '+' > '-' > '*'\nD. '-' > '*' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 721 / 841 * 276 + 218, the precedence of the operators is redefined. If 721 / 841 * 276 + 218 = 0.0031032909518193636, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '/'\nB. '+' > '/' = '*'\nC. '*' = '+' > '/'\nD. '/' = '*' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 331 / 67 + 508 * 170, the precedence of the operators is redefined. If 331 / 67 + 508 * 170 = 97.86086956521739, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '+' > '/' > '*'\nC. '/' > '*' = '+'\nD. '/' > '+' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 829 / 1 * 835 + 641, the precedence of the operators is redefined. If 829 / 1 * 835 + 641 = 0.5616531165311653, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' = '/'\nB. '*' = '+' > '/'\nC. '*' > '/' = '+'\nD. '+' > '/' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 346 + 298 / 38 * 485, the precedence of the operators is redefined. If 346 + 298 / 38 * 485 = 8219.473684210525, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '+' = '*'\nB. '+' > '/' > '*'\nC. '*' > '+' = '/'\nD. '+' > '*' > '/'",
+                "B"
+            ],
+            [
+                "For the expression 718 - 49 * 261 + 756, the precedence of the operators is redefined. If 718 - 49 * 261 + 756 = 680373, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '+' = '*' = '-'\nC. '*' = '+' = '-'\nD. '+' > '*' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 692 * 238 - 748 + 941, the precedence of the operators is redefined. If 692 * 238 - 748 + 941 = -1004092, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' = '-'\nB. '-' = '+' = '*'\nC. '-' = '+' > '*'\nD. '+' > '-' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 535 + 138 - 140 * 649, the precedence of the operators is redefined. If 535 + 138 - 140 * 649 = -763, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' = '-'\nB. '+' = '*' = '-'\nC. '-' = '+' = '*'\nD. '*' = '-' > '+'",
+                "D"
+            ],
+            [
+                "For the expression 283 + 848 / 323 * 330, the precedence of the operators is redefined. If 283 + 848 / 323 * 330 = 1155.5108359133128, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '*'\nB. '*' = '/' > '+'\nC. '/' > '+' > '*'\nD. '*' > '/' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 524 - 24 + 819 * 768, the precedence of the operators is redefined. If 524 - 24 + 819 * 768 = -244992, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '-'\nB. '-' = '+' = '*'\nC. '+' > '*' = '-'\nD. '+' = '*' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 14 + 158 / 6 * 153, the precedence of the operators is redefined. If 14 + 158 / 6 * 153 = 4386.0, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' > '+'\nB. '+' = '/' > '*'\nC. '+' = '*' > '/'\nD. '*' > '+' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 865 - 582 + 979 * 773, the precedence of the operators is redefined. If 865 - 582 + 979 * 773 = -538008, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '-' > '+' = '*'\nC. '+' = '*' > '-'\nD. '+' > '*' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 587 * 716 / 169 + 313, the precedence of the operators is redefined. If 587 * 716 / 169 + 313 = 871.9751037344398, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' = '+'\nB. '+' > '/' > '*'\nC. '*' > '+' = '/'\nD. '/' = '*' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 281 - 758 + 532 * 750, the precedence of the operators is redefined. If 281 - 758 + 532 * 750 = -756750, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '-' > '*'\nB. '-' > '*' = '+'\nC. '+' = '*' > '-'\nD. '+' = '-' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 330 * 150 / 536 + 772, the precedence of the operators is redefined. If 330 * 150 / 536 + 772 = 37.84403669724771, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '*'\nB. '+' = '/' = '*'\nC. '/' > '*' > '+'\nD. '/' = '+' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 388 * 126 - 94 + 117, the precedence of the operators is redefined. If 388 * 126 - 94 + 117 = -32980, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '+'\nB. '+' > '-' > '*'\nC. '-' > '+' = '*'\nD. '-' > '+' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 742 - 841 * 703 + 977, the precedence of the operators is redefined. If 742 - 841 * 703 + 977 = -166320, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '*' > '+' = '-'\nC. '*' = '+' = '-'\nD. '+' > '*' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 887 - 419 + 589 * 658, the precedence of the operators is redefined. If 887 - 419 + 589 * 658 = -79618, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '+' = '*'\nB. '-' = '+' = '*'\nC. '+' > '*' = '-'\nD. '-' = '*' > '+'",
+                "C"
+            ]
+        ],
+        "-": [
+            [
+                "For the expression 795 - 693 + 999 * 951, the precedence of the operators is redefined. If 795 - 693 + 999 * 951 = -1608297, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '+'\nB. '*' = '+' > '-'\nC. '+' = '-' > '*'\nD. '-' > '*' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 945 / 232 - 101 * 615, the precedence of the operators is redefined. If 945 / 232 - 101 * 615 = 4436.4503816793895, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '/' = '-' > '*'\nC. '*' > '-' > '/'\nD. '-' = '*' > '/'",
+                "A"
+            ],
+            [
+                "For the expression 669 * 453 - 11 + 855, the precedence of the operators is redefined. If 669 * 453 - 11 + 855 = 302191, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' = '-'\nB. '-' = '*' > '+'\nC. '+' > '*' = '-'\nD. '+' = '-' > '*'",
+                "C"
+            ],
+            [
+                "For the expression 542 + 994 * 990 - 528, the precedence of the operators is redefined. If 542 + 994 * 990 - 528 = 709632, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '+' > '-' = '*'\nC. '*' > '-' > '+'\nD. '*' > '+' = '-'",
+                "A"
+            ],
+            [
+                "For the expression 626 + 766 * 361 - 87, the precedence of the operators is redefined. If 626 + 766 * 361 - 87 = 381408, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '*' > '-' = '+'\nC. '-' = '*' > '+'\nD. '*' > '-' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 588 / 719 * 933 - 505, the precedence of the operators is redefined. If 588 / 719 * 933 - 505 = 0.0008771903652274579, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '*' = '-' > '/'\nC. '/' = '-' > '*'\nD. '*' = '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 450 - 562 / 164 * 958, the precedence of the operators is redefined. If 450 - 562 / 164 * 958 = -0.0007128672539334997, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' = '/'\nB. '/' > '*' > '-'\nC. '/' = '-' > '*'\nD. '-' > '/' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 11 + 293 * 777 - 464, the precedence of the operators is redefined. If 11 + 293 * 777 - 464 = 95152, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '+' = '*' > '-'\nC. '+' > '*' > '-'\nD. '*' = '-' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 627 - 362 * 159 + 909, the precedence of the operators is redefined. If 627 - 362 * 159 + 909 = -57840, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' = '+'\nB. '*' = '-' > '+'\nC. '*' = '+' > '-'\nD. '+' = '-' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 599 - 789 / 666 * 386, the precedence of the operators is redefined. If 599 - 789 / 666 * 386 = -110.12012012012012, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '*'\nB. '*' > '/' > '-'\nC. '/' > '*' > '-'\nD. '*' = '/' > '-'",
+                "A"
+            ],
+            [
+                "For the expression 356 + 204 * 284 - 871, the precedence of the operators is redefined. If 356 + 204 * 284 - 871 = -328720, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '+'\nB. '-' > '*' = '+'\nC. '+' > '*' = '-'\nD. '+' > '-' = '*'",
+                "B"
+            ],
+            [
+                "For the expression 906 - 987 + 157 * 266, the precedence of the operators is redefined. If 906 - 987 + 157 * 266 = -303398, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '-'\nB. '*' = '+' > '-'\nC. '+' > '-' > '*'\nD. '-' = '+' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 486 - 903 / 277 * 779, the precedence of the operators is redefined. If 486 - 903 / 277 * 779 = -1172.7184115523467, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' > '*'\nB. '*' > '/' = '-'\nC. '/' > '*' = '-'\nD. '/' > '-' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 983 - 409 / 592 * 673, the precedence of the operators is redefined. If 983 - 409 / 592 * 673 = 652.5371621621622, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' > '/'\nB. '-' = '*' > '/'\nC. '/' = '*' > '-'\nD. '-' = '/' > '*'",
+                "D"
+            ],
+            [
+                "For the expression 278 / 752 * 304 - 323, the precedence of the operators is redefined. If 278 / 752 * 304 - 323 = 0.0012177760255820576, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '*'\nB. '*' = '-' > '/'\nC. '-' > '*' = '/'\nD. '-' = '/' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 737 - 468 / 915 * 737, the precedence of the operators is redefined. If 737 - 468 / 915 * 737 = 216.6699453551913, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' > '-'\nB. '-' > '/' > '*'\nC. '/' > '-' > '*'\nD. '*' = '-' > '/'",
+                "B"
+            ],
+            [
+                "For the expression 860 * 870 - 853 / 265, the precedence of the operators is redefined. If 860 * 870 - 853 / 265 = 55.16981132075472, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '*'\nB. '-' = '/' > '*'\nC. '/' > '*' = '-'\nD. '*' > '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 297 * 709 - 530 / 54, the precedence of the operators is redefined. If 297 * 709 - 530 / 54 = 984.5, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' = '/'\nB. '-' > '/' > '*'\nC. '/' > '*' = '-'\nD. '-' = '*' > '/'",
+                "B"
+            ],
+            [
+                "For the expression 665 + 742 * 895 - 595, the precedence of the operators is redefined. If 665 + 742 * 895 - 595 = 1258670, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' = '-'\nB. '-' > '*' = '+'\nC. '+' > '*' = '-'\nD. '-' > '+' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 574 * 450 + 416 - 586, the precedence of the operators is redefined. If 574 * 450 + 416 - 586 = 496498, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' > '*'\nB. '+' = '*' = '-'\nC. '+' > '*' = '-'\nD. '+' = '*' > '-'",
+                "C"
+            ],
+            [
+                "For the expression 770 - 64 / 491 * 612, the precedence of the operators is redefined. If 770 - 64 / 491 * 612 = 879.9837067209776, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '/'\nB. '-' = '/' > '*'\nC. '-' = '*' > '/'\nD. '*' > '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 70 - 82 / 933 * 335, the precedence of the operators is redefined. If 70 - 82 / 933 * 335 = -3.839324278926909e-05, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '-'\nB. '*' = '-' = '/'\nC. '*' = '/' = '-'\nD. '*' = '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 208 + 938 * 286 - 217, the precedence of the operators is redefined. If 208 + 938 * 286 - 217 = 79074, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '+' = '*'\nB. '+' = '*' > '-'\nC. '+' = '-' = '*'\nD. '-' > '*' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 22 - 807 / 473 * 946, the precedence of the operators is redefined. If 22 - 807 / 473 * 946 = -0.0017543545986438952, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' > '-'\nB. '/' = '-' = '*'\nC. '-' > '*' = '/'\nD. '*' > '-' = '/'",
+                "D"
+            ],
+            [
+                "For the expression 906 / 545 * 856 - 575, the precedence of the operators is redefined. If 906 / 545 * 856 - 575 = 0.0019444355020442328, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' > '/'\nB. '/' > '-' = '*'\nC. '-' = '/' > '*'\nD. '*' > '-' = '/'",
+                "A"
+            ]
+        ]
+    },
+    "/": {
+        "+": [
+            [
+                "For the expression 989 / 36 * 192 + 849, the precedence of the operators is redefined. If 989 / 36 * 192 + 849 = 0.12743203195464503, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' = '+'\nB. '+' > '/' > '*'\nC. '+' = '*' > '/'\nD. '+' = '/' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 340 / 104 - 982 + 921, the precedence of the operators is redefined. If 340 / 104 - 982 + 921 = -0.18899388549193996, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' > '-'\nB. '/' > '+' > '-'\nC. '+' = '-' = '/'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 897 - 241 + 164 / 560, the precedence of the operators is redefined. If 897 - 241 + 164 / 560 = 0.8785714285714286, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' > '-'\nB. '+' = '/' = '-'\nC. '+' = '/' > '-'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 643 / 737 * 865 + 861, the precedence of the operators is redefined. If 643 / 737 * 865 + 861 = 0.0010072591585391453, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' = '+'\nB. '*' = '/' = '+'\nC. '*' > '+' > '/'\nD. '/' > '*' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 234 - 982 / 890 + 556, the precedence of the operators is redefined. If 234 - 982 / 890 + 556 = -0.5172890733056709, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '-'\nB. '-' > '/' = '+'\nC. '/' > '+' = '-'\nD. '-' > '/' > '+'",
+                "A"
+            ],
+            [
+                "For the expression 192 - 290 / 472 + 717, the precedence of the operators is redefined. If 192 - 290 / 472 + 717 = -0.08242220353238015, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '+'\nB. '/' > '+' = '-'\nC. '+' > '/' = '-'\nD. '/' = '-' = '+'",
+                "C"
+            ],
+            [
+                "For the expression 339 + 737 / 285 * 145, the precedence of the operators is redefined. If 339 + 737 / 285 * 145 = 339.01783424077433, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' > '+'\nB. '/' = '+' = '*'\nC. '+' = '*' = '/'\nD. '*' > '+' > '/'",
+                "A"
+            ],
+            [
+                "For the expression 898 + 809 * 331 / 647, the precedence of the operators is redefined. If 898 + 809 * 331 / 647 = 873.2874806800618, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '*'\nB. '/' = '+' > '*'\nC. '*' > '+' = '/'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 259 - 663 + 287 / 325, the precedence of the operators is redefined. If 259 - 663 + 287 / 325 = -2.126153846153846, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' = '-'\nB. '+' > '-' > '/'\nC. '-' = '+' > '/'\nD. '/' = '-' = '+'",
+                "B"
+            ],
+            [
+                "For the expression 848 - 267 + 533 / 219, the precedence of the operators is redefined. If 848 - 267 + 533 / 219 = 0.2191780821917808, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '/' > '-'\nB. '+' > '-' > '/'\nC. '/' = '-' = '+'\nD. '+' = '-' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 594 / 87 * 839 + 654, the precedence of the operators is redefined. If 594 / 87 * 839 + 654 = 0.004573065108437074, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '+' > '/'\nB. '+' = '*' = '/'\nC. '+' > '/' > '*'\nD. '+' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 598 + 740 / 70 * 818, the precedence of the operators is redefined. If 598 + 740 / 70 * 818 = 598.012923506811, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '+'\nB. '*' > '/' = '+'\nC. '*' > '/' > '+'\nD. '/' = '*' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 749 / 442 * 277 + 63, the precedence of the operators is redefined. If 749 / 442 * 277 + 63 = 0.006114435455562177, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '/' = '*' = '+'\nC. '/' = '+' > '*'\nD. '+' = '/' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 202 + 88 * 173 / 119, the precedence of the operators is redefined. If 202 + 88 * 173 / 119 = 421.5966386554622, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '+' > '/'\nB. '+' > '*' > '/'\nC. '*' > '+' = '/'\nD. '*' = '/' > '+'",
+                "B"
+            ],
+            [
+                "For the expression 823 - 509 / 577 + 762, the precedence of the operators is redefined. If 823 - 509 / 577 + 762 = 0.23450336071695296, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' = '+'\nB. '-' > '+' = '/'\nC. '+' = '/' = '-'\nD. '+' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 974 + 384 / 697 * 332, the precedence of the operators is redefined. If 974 + 384 / 697 * 332 = 974.0016594354462, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '*' = '+'\nB. '*' > '/' > '+'\nC. '+' = '/' > '*'\nD. '+' = '*' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 125 / 700 - 36 + 622, the precedence of the operators is redefined. If 125 / 700 - 36 + 622 = 2.9761904761904763, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '-' = '/'\nB. '+' > '/' > '-'\nC. '-' > '+' > '/'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 733 / 196 + 293 * 390, the precedence of the operators is redefined. If 733 / 196 + 293 * 390 = 0.00384353206439096, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' > '/'\nB. '*' > '+' = '/'\nC. '+' = '/' > '*'\nD. '/' = '+' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 913 / 997 - 327 + 206, the precedence of the operators is redefined. If 913 / 997 - 327 + 206 = 1.9676724137931034, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '+'\nB. '+' > '/' > '-'\nC. '-' = '+' = '/'\nD. '+' > '-' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 534 + 117 / 290 * 321, the precedence of the operators is redefined. If 534 + 117 / 290 * 321 = 534.0012568482114, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '+'\nB. '+' = '*' > '/'\nC. '*' = '/' = '+'\nD. '*' > '/' > '+'",
+                "D"
+            ],
+            [
+                "For the expression 438 + 808 / 526 * 386, the precedence of the operators is redefined. If 438 + 808 / 526 * 386 = 0.006136842727398097, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '*' > '/'\nB. '/' > '+' > '*'\nC. '*' > '/' > '+'\nD. '/' = '*' = '+'",
+                "A"
+            ],
+            [
+                "For the expression 302 + 907 / 439 * 361, the precedence of the operators is redefined. If 302 + 907 / 439 * 361 = 302.00572315574937, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '+' = '*'\nB. '+' > '/' > '*'\nC. '*' > '/' > '+'\nD. '/' = '*' > '+'",
+                "C"
+            ],
+            [
+                "For the expression 138 - 78 + 438 / 474, the precedence of the operators is redefined. If 138 - 78 + 438 / 474 = -0.7974683544303798, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '-'\nB. '+' > '/' > '-'\nC. '-' > '+' > '/'\nD. '-' = '+' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 895 - 914 / 407 + 183, the precedence of the operators is redefined. If 895 - 914 / 407 + 183 = 182.95331695331694, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '-'\nB. '/' > '+' = '-'\nC. '/' = '+' > '-'\nD. '-' > '/' = '+'",
+                "D"
+            ],
+            [
+                "For the expression 282 + 947 * 401 / 691, the precedence of the operators is redefined. If 282 + 947 * 401 / 691 = 713.2112879884226, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' = '*' > '/'\nB. '*' = '/' > '+'\nC. '/' > '*' > '+'\nD. '*' > '+' > '/'",
+                "A"
+            ]
+        ],
+        "-": [
+            [
+                "For the expression 200 / 931 * 546 - 40, the precedence of the operators is redefined. If 200 / 931 * 546 - 40 = -39.99960655170107, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '*'\nB. '*' = '-' > '/'\nC. '/' = '*' > '-'\nD. '*' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 917 / 520 - 160 * 941, the precedence of the operators is redefined. If 917 / 520 - 160 * 941 = 0.002706931160703743, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '/' > '-' > '*'\nC. '*' = '/' > '-'\nD. '*' = '-' = '/'",
+                "A"
+            ],
+            [
+                "For the expression 25 - 363 / 299 + 158, the precedence of the operators is redefined. If 25 - 363 / 299 + 158 = -134.2140468227425, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '+'\nB. '+' > '/' = '-'\nC. '+' > '-' > '/'\nD. '/' = '+' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 709 - 950 / 62 * 175, the precedence of the operators is redefined. If 709 - 950 / 62 * 175 = -0.022211981566820277, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '-'\nB. '*' > '/' = '-'\nC. '/' = '-' = '*'\nD. '*' = '/' = '-'",
+                "B"
+            ],
+            [
+                "For the expression 675 / 781 * 810 - 764, the precedence of the operators is redefined. If 675 / 781 * 810 - 764 = -763.9989329918907, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '-' = '*'\nB. '-' = '*' = '/'\nC. '/' > '-' = '*'\nD. '*' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 241 - 507 / 923 * 995, the precedence of the operators is redefined. If 241 - 507 / 923 * 995 = -0.0002896388769415877, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '*'\nB. '*' > '/' = '-'\nC. '*' = '/' = '-'\nD. '/' > '-' > '*'",
+                "B"
+            ],
+            [
+                "For the expression 689 / 808 + 638 - 632, the precedence of the operators is redefined. If 689 / 808 + 638 - 632 = -631.5235131396958, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' > '+'\nB. '/' > '-' > '+'\nC. '/' = '-' > '+'\nD. '+' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 231 - 830 / 536 * 437, the precedence of the operators is redefined. If 231 - 830 / 536 * 437 = -0.0025572936234161004, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' = '*' > '-'\nB. '*' = '/' = '-'\nC. '*' = '/' > '-'\nD. '*' > '/' = '-'",
+                "D"
+            ],
+            [
+                "For the expression 502 - 274 * 628 / 234, the precedence of the operators is redefined. If 502 - 274 * 628 / 234 = 611.8974358974359, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' > '/'\nB. '-' = '*' > '/'\nC. '/' = '*' > '-'\nD. '*' > '/' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 954 / 741 * 435 - 118, the precedence of the operators is redefined. If 954 / 741 * 435 - 118 = 0.004061354551143693, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '/'\nB. '*' > '-' = '/'\nC. '-' > '*' > '/'\nD. '/' = '-' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 29 / 18 - 487 * 285, the precedence of the operators is redefined. If 29 / 18 - 487 * 285 = -0.00021696031122582575, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '/'\nB. '-' = '/' = '*'\nC. '-' > '*' > '/'\nD. '/' = '-' = '*'",
+                "C"
+            ],
+            [
+                "For the expression 82 / 676 - 390 * 366, the precedence of the operators is redefined. If 82 / 676 - 390 * 366 = 0.0007833696358286522, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '/' = '*' = '-'\nC. '-' > '/' > '*'\nD. '-' = '/' = '*'",
+                "A"
+            ],
+            [
+                "For the expression 944 / 818 * 565 - 895, the precedence of the operators is redefined. If 944 / 818 * 565 - 895 = -894.9979574615402, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' > '/'\nB. '*' > '/' = '-'\nC. '-' > '*' = '/'\nD. '-' > '*' > '/'",
+                "B"
+            ],
+            [
+                "For the expression 768 / 406 - 744 + 134, the precedence of the operators is redefined. If 768 / 406 - 744 + 134 = -876.1083743842364, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '+' > '/' = '-'\nB. '+' = '-' = '/'\nC. '-' > '/' > '+'\nD. '-' > '+' > '/'",
+                "A"
+            ],
+            [
+                "For the expression 353 * 105 - 968 / 481, the precedence of the operators is redefined. If 353 * 105 - 968 / 481 = -633.3451143451143, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '*' > '/'\nB. '-' = '*' > '/'\nC. '*' > '-' > '/'\nD. '/' > '*' = '-'",
+                "A"
+            ],
+            [
+                "For the expression 334 / 966 * 901 - 333, the precedence of the operators is redefined. If 334 / 966 * 901 - 333 = 0.0006087248126439798, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '-' = '/'\nB. '*' > '/' > '-'\nC. '*' = '/' = '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 562 / 690 * 678 - 18, the precedence of the operators is redefined. If 562 / 690 * 678 - 18 = 0.0012013629698034638, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' > '/'\nB. '-' = '/' > '*'\nC. '*' > '/' = '-'\nD. '-' > '/' > '*'",
+                "A"
+            ],
+            [
+                "For the expression 390 / 844 - 453 + 975, the precedence of the operators is redefined. If 390 / 844 - 453 + 975 = -1427.5379146919431, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '/' = '+'\nB. '+' > '/' = '-'\nC. '+' = '/' = '-'\nD. '-' > '+' = '/'",
+                "B"
+            ],
+            [
+                "For the expression 431 - 782 * 968 / 756, the precedence of the operators is redefined. If 431 - 782 * 968 / 756 = -449.42857142857144, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '-' > '/'\nB. '*' = '/' > '-'\nC. '*' > '/' > '-'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 868 - 1 / 648 + 295, the precedence of the operators is redefined. If 868 - 1 / 648 + 295 = 572.9984567901234, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '+'\nB. '-' > '+' = '/'\nC. '/' > '+' = '-'\nD. '/' = '+' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 304 - 112 / 766 * 101, the precedence of the operators is redefined. If 304 - 112 / 766 * 101 = 0.0024817103120233696, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '/' > '-' = '*'\nB. '-' = '*' > '/'\nC. '/' = '-' > '*'\nD. '/' > '*' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 80 * 526 - 24 / 93, the precedence of the operators is redefined. If 80 * 526 - 24 / 93 = 431.8279569892473, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' > '/' > '-'\nB. '-' > '*' > '/'\nC. '*' = '/' = '-'\nD. '/' = '*' > '-'",
+                "B"
+            ],
+            [
+                "For the expression 712 * 925 - 762 / 586, the precedence of the operators is redefined. If 712 * 925 - 762 / 586 = 198.04778156996588, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' = '*' = '/'\nB. '-' = '/' = '*'\nC. '/' = '-' = '*'\nD. '-' > '*' > '/'",
+                "D"
+            ],
+            [
+                "For the expression 342 - 53 / 15 + 754, the precedence of the operators is redefined. If 342 - 53 / 15 + 754 = -415.5333333333333, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '-' > '/' = '+'\nB. '-' = '/' > '+'\nC. '-' = '+' > '/'\nD. '/' = '+' > '-'",
+                "D"
+            ],
+            [
+                "For the expression 400 / 930 - 365 * 185, the precedence of the operators is redefined. If 400 / 930 - 365 * 185 = 0.003826835685242765, what is the redefined precedence of the operators? Please choose the correct answer from A, B, C, and D, and put the final answer choice in brackets, for example, [B].\nA. '*' = '/' > '-'\nB. '*' > '/' = '-'\nC. '/' = '*' > '-'\nD. '-' > '*' > '/'",
+                "D"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,1258 @@
+{
+    "+": {
+        "*": {
+            "accuracy": "2/25=0.08",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 626 * 2391 + 139 / 1931? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1496766.1,
+                    1496416.1,
+                    "To solve the expression 626 * 2391 + 139 / 1931, we'll do the multiplication and division first and then add the two results.\n\nMultiplication:\n626 * 2391 = 1496416\n\nDivision:\n139 / 1931 ≈ 0.071975\n\nNow we add the two results:\n1496416 + 0.071975 ≈ 1496416.071975\n\nThe final result, rounded to the nearest decimal, is approximately [1496416.1]."
+                ],
+                [
+                    "What is the value of 3529 * 7606 + 5736 / 6963? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    26841574.8,
+                    26850134.8,
+                    "To solve the expression 3529 * 7606 + 5736 / 6963, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication and division:\n\n3529 * 7606 = 26850134\n5736 / 6963 ≈ 0.8238 (rounded to four decimal places)\n\nNow we add the results:\n\n26850134 + 0.8238 ≈ 26850134.8238\n\nThus, the final result rounded to four decimal places is [26850134.8238]."
+                ],
+                [
+                    "What is the value of 1343 * 2680 + 5698 / 5650? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3599241.0,
+                    3599241.0,
+                    "To solve the expression 1343 * 2680 + 5698 / 5650, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nFirst, we perform the multiplication:\n1343 * 2680 = 3599240\n\nThen, we perform the division:\n5698 / 5650 ≈ 1.0084955752212389\n\nNow we add the results of the multiplication and division:\n3599240 + 1.0084955752212389 ≈ 3599241.0084955752212389\n\nRounded to a reasonable number of decimal places, the result would be approximately 3599241.0085.\n\nSo the final result in brackets is approximately [3599241.0085]."
+                ],
+                [
+                    "What is the value of 6796 - 7246 + 5472 * 5178? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    28333566.0,
+                    28339326,
+                    "To solve the expression 6796 - 7246 + 5472 * 5178, you should follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction).\n\nFirst, you perform the multiplication:\n5472 * 5178 = 28,339,776\n\nThen, you perform the subtraction and addition in order from left to right:\n6796 - 7246 = -450\n\nNow add the result of the multiplication:\n-450 + 28,339,776 = 28,339,326\n\nSo the final result is [28,339,326]."
+                ],
+                [
+                    "What is the value of 1311 / 7345 + 9580 * 1756? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    16822480.2,
+                    16820080.2,
+                    "To solve the expression \\( 1311 / 7345 + 9580 \\times 1756 \\), we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division from left to right, and finally addition and subtraction from left to right. This is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven there are no parentheses or exponents to deal with, we start with the multiplication:\n\n\\( 9580 \\times 1756 = 16,820,080 \\)\n\nNext, we perform the division:\n\n\\( 1311 / 7345 \\approx 0.1785 \\) (rounded to four decimal places for simplicity)\n\nFinally, we add the results of the division and multiplication:\n\n\\( 0.1785 + 16,820,080 = 16,820,080.1785 \\)\n\nSo the final result is approximately [16,820,080.1785]."
+                ],
+                [
+                    "What is the value of 6250 * 7840 + 4593 / 7671? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    49000000.6,
+                    49000000.6,
+                    "First, we'll perform the multiplication and then the division:\n\n6250 * 7840 = 49,000,000\n\nThen for the division:\n\n4593 / 7671 ≈ 0.5988 (rounded to four decimal places)\n\nNow we add the results:\n\n49,000,000 + 0.5988 ≈ 49,000,000.5988\n\nSo the final result, rounded to four decimal places, is:\n\n[49,000,000.5988]"
+                ],
+                [
+                    "What is the value of 2026 * 8703 + 658 / 8737? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    17632278.1,
+                    17631558.1,
+                    "To calculate the value of 2026 * 8703 + 658 / 8737, we'll perform the operations step by step:\n\nFirst, multiply 2026 by 8703:\n2026 * 8703 = 17631558\n\nThen, divide 658 by 8737:\n658 / 8737 ≈ 0.0753 (rounded to four decimal places)\n\nNow, add the two results together:\n17631558 + 0.0753 ≈ 17631558.0753\n\nSo the final result, rounded to four decimal places, is approximately [17631558.0753]."
+                ],
+                [
+                    "What is the value of 1860 + 9441 * 1998 - 3891? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    18861087.0,
+                    18868827,
+                    "To solve the expression 1860 + 9441 * 1998 - 3891, we should follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n9441 * 1998 = 18,870,858\n\nNow, we add and subtract in order from left to right:\n1860 + 18,870,858 - 3891\n\nFirst the addition:\n1860 + 18,870,858 = 18,872,718\n\nThen the subtraction:\n18,872,718 - 3891 = 18,868,827\n\nSo the final result is:\n[18,868,827]"
+                ],
+                [
+                    "What is the value of 8505 * 4473 + 2363 / 9185? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    38042865.3,
+                    38049665.3,
+                    "To solve the expression 8505 * 4473 + 2363 / 9185, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n8505 * 4473 = 38049665\n\nNext, we perform the division:\n2363 / 9185 ≈ 0.257265\n\nNow, we add the results of the multiplication and the division:\n38049665 + 0.257265 ≈ 38049665.257265\n\nTherefore, the final result is approximately [38049665.26]."
+                ],
+                [
+                    "What is the value of 7300 - 8513 + 3276 * 471? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1541783.0,
+                    1541963,
+                    "To solve the expression 7300 - 8513 + 3276 * 471, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the multiplication:\n\n3276 * 471 = 1543176\n\nNow, we perform the addition and subtraction from left to right:\n\n7300 - 8513 + 1543176\n\nFirst, we subtract 8513 from 7300:\n\n7300 - 8513 = -1213\n\nNow, we add the result of the multiplication:\n\n-1213 + 1543176 = 1541963\n\nThus, the final result is:\n\n[1541963]"
+                ],
+                [
+                    "What is the value of 3130 * 3215 + 8356 - 775? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10070531.0,
+                    10069031,
+                    "To solve the expression 3130 * 3215 + 8356 - 775, we should follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nHere, we have multiplication, addition, and subtraction. We will start with the multiplication:\n\n3130 * 3215 = 10,061,450\n\nThen we add 8356:\n\n10,061,450 + 8356 = 10,069,806\n\nFinally, we subtract 775:\n\n10,069,806 - 775 = 10,069,031\n\nSo the final result is [10,069,031]."
+                ],
+                [
+                    "What is the value of 2687 * 7014 + 4299 / 5894? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    18846618.7,
+                    18845838.7,
+                    "To solve the expression 2687 * 7014 + 4299 / 5894, we need to perform the multiplication and division before addition, according to the order of operations (PEMDAS/BODMAS).\n\nFirst, we multiply:\n\n2687 * 7014 = 18845838\n\nThen, we divide:\n\n4299 / 5894 ≈ 0.7291 (rounded to four decimal places)\n\nNow, we add the results:\n\n18845838 + 0.7291 ≈ 18845838.7291\n\nSo, the final result as a decimal, rounded to four decimal places, is [18845838.7291]."
+                ],
+                [
+                    "What is the value of 1766 - 9888 * 3327 + 1126? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -32894484.0,
+                    -32884044,
+                    "To solve the expression 1766 - 9888 * 3327 + 1126, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n9888 * 3327 = 32886936\n\nNow we substitute the result back into the expression:\n\n1766 - 32886936 + 1126\n\nNext, we perform the addition and subtraction from left to right:\n\n1766 + 1126 = 2892\n\n2892 - 32886936 = -32884044\n\nSo the final result is [-32884044]."
+                ],
+                [
+                    "What is the value of 4539 + 8210 * 4114 / 922? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    41172.3,
+                    41184.4,
+                    "To solve the expression 4539 + 8210 * 4114 / 922, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), and Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we perform the multiplication and division:\n\n8210 * 4114 = 33,785,940\n33,785,940 / 922 = 36,645.4238611714 (rounded to 13 decimal places)\n\nNow we have:\n\n4539 + 36,645.4238611714 = 41,184.4238611714\n\nSo the final result is [41,184.4238611714]."
+                ],
+                [
+                    "What is the value of 9757 * 3262 - 5633 + 492? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    31822193.0,
+                    31813813,
+                    "To calculate the value of 9757 * 3262 - 5633 + 492, we first perform the multiplication, then the subtraction, and finally the addition:\n\n9757 * 3262 = 31818954\n31818954 - 5633 = 31813321\n31813321 + 492 = 31813813\n\nSo the final result is [31813813]."
+                ],
+                [
+                    "What is the value of 9454 / 9695 + 3781 * 763? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2884904.0,
+                    2885714.0,
+                    "To solve this expression, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), which tells us to perform multiplication and division before addition.\n\nFirst, we divide 9454 by 9695:\n\n9454 / 9695 = 0.9752 (rounded to four decimal places)\n\nNext, we multiply 3781 by 763:\n\n3781 * 763 = 2885713\n\nNow we add the two results together:\n\n0.9752 + 2885713 = 2885713.9752\n\nSo the final result is [2885713.9752]."
+                ],
+                [
+                    "What is the value of 7131 / 262 * 8835 + 3014? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    243481.1,
+                    243673,
+                    "To solve the expression 7131 / 262 * 8835 + 3014, we will follow the order of operations, which is parentheses first (none in this case), then exponents (none here), followed by multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we perform the division:\n7131 / 262 = 27.229007633587786 (rounded to 15 decimal places)\n\nThen we multiply the result by 8835:\n27.229007633587786 * 8835 = 240658.602290076 (rounded to 12 decimal places)\n\nFinally, we add 3014 to the result:\n240658.602290076 + 3014 = 243672.602290076\n\nRounded to the nearest whole number, the final result is:\n[243673]"
+                ],
+                [
+                    "What is the value of 5153 * 8379 + 4194 / 5555? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    43176987.8,
+                    43179647.8,
+                    "To solve the expression 5153 * 8379 + 4194 / 5555, we must first perform the multiplication and division before adding the results together.\n\nMultiplication:\n5153 * 8379 = 43179647\n\nDivision:\n4194 / 5555 ≈ 0.755\n\nNow we add the results of the multiplication and division together:\n43179647 + 0.755 ≈ 43179647.755\n\nSo, the final result is approximately [43179647.755]."
+                ],
+                [
+                    "What is the value of 133 * 9045 + 1546 / 4699? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1202985.3,
+                    1202995.3,
+                    "To calculate the value of the expression 133 * 9045 + 1546 / 4699, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication and division:\n\n133 * 9045 = 1202995\n1546 / 4699 ≈ 0.3290 (rounded to 4 decimal places)\n\nThen we add the results:\n\n1202995 + 0.3290 ≈ 1202995.3290\n\nSo the final result is approximately [1202995.3290]."
+                ],
+                [
+                    "What is the value of 5252 - 6860 * 6640 + 4618? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -45540530.0,
+                    -45564530,
+                    "To solve the expression 5252 - 6860 * 6640 + 4618, we should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we'll perform the multiplication:\n\n6860 * 6640 = 45,574,400\n\nNow, we can substitute this back into the original expression and perform the addition and subtraction from left to right:\n\n5252 - 45,574,400 + 4618\n\nWe'll do the subtraction first:\n\n5252 - 45,574,400 = -45,569,148\n\nNow, we'll add 4618 to the result:\n\n-45,569,148 + 4618 = -45,564,530\n\nSo the final result is [-45,564,530]."
+                ],
+                [
+                    "What is the value of 6302 - 7677 * 1313 + 2117? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -10071482.0,
+                    -10072322,
+                    "To solve the expression 6302 - 7677 * 1313 + 2117, we should follow the order of operations, which is parentheses first, exponents (none in this case), multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the multiplication:\n\n7677 * 1313 = 10,080,741\n\nNow we substitute this value back into the expression:\n\n6302 - 10,080,741 + 2117\n\nNext, we perform the addition and subtraction from left to right:\n\n6302 + 2117 = 8419\n\n8419 - 10,080,741 = -10,072,322\n\nSo the final result is:\n\n[-10,072,322]"
+                ],
+                [
+                    "What is the value of 2505 * 8473 + 9247 / 6331? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    21224866.5,
+                    21226136,
+                    "To solve the expression 2505 * 8473 + 9247 / 6331, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication and division:\n\n2505 * 8473 = 21226135\n9247 / 6331 = 1.4605205 (rounded to 7 decimal places)\n\nNow we add the results:\n\n21226135 + 1.4605205 ≈ 21226136.4605205\n\nRounded to the nearest whole number, the result is [21226136]."
+                ],
+                [
+                    "What is the value of 979 - 8657 + 1412 * 4890? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6897002.0,
+                    6898202,
+                    "To solve the expression 979 - 8657 + 1412 * 4890, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n1412 * 4890 = 6905880\n\nNow, we perform the addition and subtraction from left to right:\n979 - 8657 + 6905880\n\nFirst, the subtraction:\n979 - 8657 = -7678\n\nNow, the addition with the result of the multiplication:\n-7678 + 6905880 = 6898202\n\nSo, the final result is [6898202]."
+                ],
+                [
+                    "What is the value of 9249 - 1933 * 7195 + 7920? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -13890766.0,
+                    -13885866,
+                    "To solve the expression 9249 - 1933 * 7195 + 7920, we should follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and addition and subtraction (from left to right). Since there are no parentheses or exponents in this expression, we start with the multiplication:\n\n1933 * 7195 = 13,903,035\n\nNow we substitute this value back into the expression:\n\n9249 - 13,903,035 + 7920\n\nNext, we perform the subtraction and addition from left to right:\n\n9249 - 13,903,035 = -13,893,786\n-13,893,786 + 7920 = -13,885,866\n\nThe final result of the expression is [-13,885,866]."
+                ],
+                [
+                    "What is the value of 6544 * 4945 + 3015 / 7431? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    32360080.4,
+                    32363680.4,
+                    "To calculate the value of 6544 * 4945 + 3015 / 7431, we need to perform the multiplication and division first, and then add the results together.\n\nFirst, we calculate the multiplication:\n6544 * 4945 = 32363680\n\nNext, we calculate the division:\n3015 / 7431 ≈ 0.4056 (rounded to four decimal places)\n\nNow, we add the two results together:\n32363680 + 0.4056 ≈ 32363680.4056\n\nTherefore, the final result is approximately [32363680.4056]."
+                ]
+            ]
+        },
+        "/": {
+            "accuracy": "12/25=0.48",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 6329 * 2879 / 6396 + 5083? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7931.8,
+                    7933.0,
+                    "To find the value of the expression 6329 * 2879 / 6396 + 5083, we should follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). There are no parentheses or exponents to deal with here, so we'll start with the multiplication and division.\n\nFirst, we multiply 6329 by 2879:\n\n6329 * 2879 = 18226371\n\nNext, we divide this result by 6396:\n\n18226371 / 6396 ≈ 2849.957471\n\nFinally, we add 5083 to the result of the division:\n\n2849.957471 + 5083 = 7932.957471\n\nSo the final result, rounded to the nearest decimal, is approximately [7932.957471]."
+                ],
+                [
+                    "What is the value of 30 - 2528 / 663 + 537? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    563.2,
+                    563.2,
+                    "To solve the expression 30 - 2528 / 663 + 537, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this order, division should be done before addition and subtraction.\n\nSo let's first calculate the division:\n\n2528 / 663 = 3.814176 (rounded to six decimal places)\n\nNow we can perform the addition and subtraction:\n\n30 - 3.814176 + 537 = 26.185824 + 537 = 563.185824\n\nRounded to two decimal places, the result is 563.19. So the final numeric result is [563.19]."
+                ],
+                [
+                    "What is the value of 1498 - 3261 / 7366 + 6023? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7520.6,
+                    7520.6,
+                    "To solve the expression 1498 - 3261 / 7366 + 6023, we need to follow the order of operations, which is parentheses first (not applicable here), then exponents (not applicable here), then multiplication and division (from left to right), and finally addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nSo, we first perform the division:\n\n3261 / 7366 = 0.4428 (rounded to four decimal places)\n\nNow, we substitute this value back into the expression:\n\n1498 - 0.4428 + 6023\n\nNext, we perform the addition and subtraction from left to right:\n\n1498 + 6023 = 7521\n7521 - 0.4428 = 7520.5572\n\nTherefore, the value of the expression is approximately [7520.5572]."
+                ],
+                [
+                    "What is the value of 6469 + 3266 / 255 * 3645? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    53153.6,
+                    53152,
+                    "To solve this expression, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, we must perform the division before the addition.\n\nSo, let's first calculate the division and multiplication part of the expression:\n\n3266 / 255 * 3645\n\nFirst, divide 3266 by 255:\n\n3266 / 255 ≈ 12.8078431373\n\nNow, multiply this result by 3645:\n\n12.8078431373 * 3645 ≈ 46682.7450980392\n\nNow, we can add this result to 6469:\n\n6469 + 46682.7450980392 ≈ 53151.7450980392\n\nRounded to the nearest whole number, the final result is approximately [53152]."
+                ],
+                [
+                    "What is the value of 9823 - 8879 / 6882 + 8529? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    18350.7,
+                    18350.7,
+                    "To solve the expression 9823 - 8879 / 6882 + 8529, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform the division:\n\n8879 / 6882\n\nNow, let's calculate that:\n\n8879 ÷ 6882 ≈ 1.2899 (rounded to four decimal places)\n\nNow we can rewrite the original expression with this result:\n\n9823 - 1.2899 + 8529\n\nNext, we perform the addition and subtraction from left to right:\n\n9823 + 8529 = 18352\n\nNow subtract the result of the division:\n\n18352 - 1.2899 ≈ 18350.7101\n\nSo, the final result, rounded to four decimal places, is:\n\n[18350.7101]"
+                ],
+                [
+                    "What is the value of 395 + 5596 / 4423 * 6332? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8406.3,
+                    8408.8,
+                    "To solve this expression, we need to follow the order of operations, which is commonly known by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to PEMDAS, we perform multiplication and division before addition.\n\nThe expression is:\n\n395 + (5596 / 4423) * 6332\n\nFirst, we divide 5596 by 4423, then multiply the result by 6332, and finally, add 395.\n\nLet's calculate it step by step:\n\n5596 / 4423 ≈ 1.265\n1.265 * 6332 ≈ 8013.78\n\nNow we add 395 to the result:\n\n395 + 8013.78 ≈ 8408.78\n\nSo the final result is approximately [8408.78]."
+                ],
+                [
+                    "What is the value of 4131 + 2970 / 8030 * 7650? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6960.5,
+                    6959.5,
+                    "To solve the expression 4131 + 2970 / 8030 * 7650, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nFirst, we must perform the division and multiplication before we do the addition:\n\n2970 / 8030 * 7650\n\nLet's first calculate the division:\n\n2970 / 8030 ≈ 0.369739\n\nNow, we multiply this result by 7650:\n\n0.369739 * 7650 ≈ 2828.50035\n\nNow we can perform the addition with the initial number:\n\n4131 + 2828.50035 ≈ 6959.50035\n\nSo the final result, rounded to the nearest decimal, is approximately:\n\n[6959.5]"
+                ],
+                [
+                    "What is the value of 841 / 5799 + 510 * 8196? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4179960.1,
+                    4182960.1,
+                    "To solve this expression, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nThe expression is:\n\n841 / 5799 + 510 * 8196\n\nFirst, we perform the division and multiplication:\n\n841 / 5799 = 0.145009482 (approximately)\n510 * 8196 = 4182960\n\nNow we add the results of the division and multiplication:\n\n0.145009482 + 4182960 ≈ 4182960.145009482\n\nThe final result, rounded to a reasonable number of decimal places, is approximately:\n\n[4182960.145]"
+                ],
+                [
+                    "What is the value of 4858 / 2334 + 1197 * 479? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    573365.1,
+                    573265.1,
+                    "To solve the expression 4858 / 2334 + 1197 * 479, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n4858 / 2334 = 2.080893 (approximated to six decimal places)\n1197 * 479 = 573263\n\nNow, we add the results:\n\n2.080893 + 573263 = 573265.080893 (approximated to six decimal places)\n\nSo, the final result is [573265.080893]."
+                ],
+                [
+                    "What is the value of 4444 / 2966 + 7681 * 6165? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    47353366.5,
+                    47373566,
+                    "To solve the expression 4444 / 2966 + 7681 * 6165, we will follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication:\n\n4444 / 2966 = 1.49898 (rounded to five decimal places)\n7681 * 6165 = 47373565\n\nNow we add the results:\n\n1.49898 + 47373565 = 47373566.49898\n\nRounded to the nearest whole number, the final result is [47373566]."
+                ],
+                [
+                    "What is the value of 2983 / 1558 * 7807 + 1096? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    16043.5,
+                    16044,
+                    "To solve the expression 2983 / 1558 * 7807 + 1096, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we first perform the division, then the multiplication, and finally the addition.\n\nFirst, we divide 2983 by 1558:\n2983 / 1558 ≈ 1.91440051347882 (rounded to 14 decimal places for intermediate calculation)\n\nNext, we multiply the result of the division by 7807:\n1.91440051347882 * 7807 ≈ 14948.063655366 (rounded to 12 decimal places for intermediate calculation)\n\nFinally, we add 1096 to the result of the multiplication:\n14948.063655366 + 1096 ≈ 16044.063655366\n\nRounded to the nearest whole number, the final result is approximately [16044]."
+                ],
+                [
+                    "What is the value of 4022 / 1921 * 9915 + 9950? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    30709.0,
+                    30704,
+                    "To solve the expression \\( \\frac{4022}{1921} \\times 9915 + 9950 \\), we first need to perform the division, then the multiplication, and finally the addition, according to the order of operations (PEMDAS/BODMAS).\n\nLet's start by dividing 4022 by 1921:\n\n\\( \\frac{4022}{1921} \\approx 2.09307 \\) (rounded to 5 decimal places)\n\nNext, we multiply this result by 9915:\n\n\\( 2.09307 \\times 9915 \\approx 20754.15665 \\) (rounded to 5 decimal places)\n\nFinally, we add 9950 to the result of the multiplication:\n\n\\( 20754.15665 + 9950 \\approx 30704.15665 \\)\n\nRounded to the nearest whole number, the result is approximately 30704.\n\nSo the final result is [30704]."
+                ],
+                [
+                    "What is the value of 6034 / 1709 + 2511 * 378? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    949161.5,
+                    949161.5,
+                    "To calculate the value of the expression 6034 / 1709 + 2511 * 378, we first perform the division and multiplication, and then the addition:\n\n6034 / 1709 = 3.530487804878048780487804878 (approximately, as the division does not result in a whole number)\n\n2511 * 378 = 949158\n\nNow, we add the results of the division and multiplication:\n\n3.530487804878048780487804878 + 949158 = 949161.530487804878048780487804878\n\nThe final result, rounded to the nearest decimal, is approximately [949161.5]."
+                ],
+                [
+                    "What is the value of 6649 / 9946 + 4294 - 8062? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -3767.3,
+                    -3767.3,
+                    "Let's calculate the expression step by step:\n\nFirst, we divide 6649 by 9946:\n6649 / 9946 ≈ 0.6683 (rounded to four decimal places)\n\nNext, we add 4294 to the result:\n0.6683 + 4294 ≈ 4294.6683\n\nFinally, we subtract 8062 from the result:\n4294.6683 - 8062 ≈ -3767.3317\n\nSo the final result of the expression is approximately [-3767.3317]."
+                ],
+                [
+                    "What is the value of 7478 - 4281 + 3694 / 9959? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3197.4,
+                    3197.4,
+                    "To solve the expression 7478 - 4281 + 3694 / 9959, we must follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to PEMDAS, we must first perform the division before doing the subtraction and addition.\n\nSo let's first divide 3694 by 9959:\n\n3694 / 9959 ≈ 0.3708 (rounded to four decimal places)\n\nNow we can perform the subtraction and addition:\n\n7478 - 4281 + 0.3708 ≈ 3197 + 0.3708 ≈ 3197.3708\n\nRounding to four decimal places for consistency, the final result is:\n\n3197.3708\n\nTherefore, the value of the expression is approximately [3197.3708]."
+                ],
+                [
+                    "What is the value of 9607 - 7100 + 1928 / 2747? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2507.7,
+                    2507.7,
+                    "To solve the expression 9607 - 7100 + 1928 / 2747, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division comes before addition and subtraction.\n\nFirst, we'll do the division:\n\n1928 / 2747 = approximately 0.701859\n\nNow, we can perform the subtraction and addition:\n\n9607 - 7100 = 2507\n\nFinally, we add the result of the division to the result of the subtraction:\n\n2507 + 0.701859 = 2507.701859\n\nTherefore, the value of the expression is approximately [2507.701859]."
+                ],
+                [
+                    "What is the value of 6073 - 6697 / 446 + 2252? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8310.0,
+                    8310,
+                    "To solve the expression 6073 - 6697 / 446 + 2252, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to PEMDAS, we perform division before addition and subtraction.\n\nSo, let's do the division first:\n\n6697 / 446 ≈ 15.0156950673 (rounded to 10 decimal places)\n\nNow, let's perform the subtraction and addition:\n\n6073 - 15.0156950673 + 2252 ≈ 6073 - 15.0156950673 + 2252\n≈ 6057.9843049327 + 2252\n≈ 8309.9843049327\n\nRounded to a whole number, the result is approximately 8310.\n\nSo, the value of the expression is approximately [8310]."
+                ],
+                [
+                    "What is the value of 1624 / 7495 + 4273 * 3262? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13938526.2,
+                    13941106.2,
+                    "To calculate the value of the expression 1624 / 7495 + 4273 * 3262, we'll first perform each operation step by step.\n\n1. Divide 1624 by 7495:\n1624 / 7495 ≈ 0.21681222707424 (rounded to 14 decimal places)\n\n2. Multiply 4273 by 3262:\n4273 * 3262 = 13941106\n\nNow we add the results of the two operations:\n\n0.21681222707424 + 13941106 ≈ 13941106.21681222707424\n\nRounded to the nearest decimal, the result is approximately 13941106.2. So the final numeric result in brackets is [13941106.2]."
+                ],
+                [
+                    "What is the value of 1774 - 8396 + 762 / 2297? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -6621.7,
+                    -6621.7,
+                    "First, let's perform the operations in the correct order, following the rules of arithmetic (PEMDAS/BODMAS: Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction):\n\n1. Division: 762 / 2297\n2. Subtraction: 1774 - 8396\n3. Addition of the result of the division to the result of the subtraction.\n\nLet's calculate:\n\n1. Division: 762 / 2297 ≈ 0.331739\n\nNow we round this to a reasonable number of decimal places. Let's keep it to six decimal places for precision:\n\n0.331739 ≈ 0.331739 (no need to round as it is already at six decimal places)\n\n2. Subtraction: 1774 - 8396 = -6622\n\n3. Addition: -6622 + 0.331739\n\nNow we add the results of the subtraction and the division:\n\n-6622 + 0.331739 ≈ -6621.668261\n\nRounded to six decimal places, the result is:\n\n-6621.668261 (no need to round as it is already at six decimal places)\n\nSo, the final result in brackets is: [-6621.668261]."
+                ],
+                [
+                    "What is the value of 9566 - 924 + 9935 / 9597? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8643.0,
+                    8643.0,
+                    "First, let's perform the operations in the correct order, following the order of operations (PEMDAS/BODMAS: Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction):\n\n1. Division: 9935 / 9597\n2. Subtraction: 9566 - 924\n3. Addition of the results from steps 1 and 2.\n\nLet's calculate each step:\n\n1. Division:\n9935 / 9597 = 1.0352 (approximately, rounded to four decimal places)\n\n2. Subtraction:\n9566 - 924 = 8642\n\nNow, we add the results from step 1 and step 2:\n\n8642 + 1.0352 = 8643.0352\n\nSo, the final result is [8643.0352]."
+                ],
+                [
+                    "What is the value of 6847 - 8795 + 3495 / 8206? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1947.6,
+                    -1947.6,
+                    "To solve the expression 6847 - 8795 + 3495 / 8206, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we'll do the division:\n\n3495 / 8206 = 0.425908 (rounded to six decimal places)\n\nNow, we'll do the subtraction and addition:\n\n6847 - 8795 = -1948\n\nThen we add the result of the division:\n\n-1948 + 0.425908 = -1947.574092 (rounded to six decimal places)\n\nSo, the final result is approximately [-1947.574092]."
+                ],
+                [
+                    "What is the value of 5564 * 7701 / 7444 + 6691? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    12447.1,
+                    12446.7,
+                    "To find the value of the expression 5564 * 7701 / 7444 + 6691, we will follow the order of operations, which is parentheses first (if any), then exponents (if any), then multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we perform the multiplication:\n5564 * 7701 = 42836664\n\nNext, we perform the division:\n42836664 / 7444 ≈ 5755.6529\n\nFinally, we perform the addition:\n5755.6529 + 6691 ≈ 12446.6529\n\nSo the value of the expression is approximately [12446.6529]."
+                ],
+                [
+                    "What is the value of 625 + 6061 / 3859 - 7615? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -6988.4,
+                    -6988.4,
+                    "To solve the expression 625 + 6061 / 3859 - 7615, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction from left to right).\n\nFirst, we perform the division:\n\n6061 / 3859 ≈ 1.571\n\nNow we can add and subtract in order from left to right:\n\n625 + 1.571 - 7615 ≈ 626.571 - 7615 ≈ -6988.429\n\nSo the result of the expression is approximately [-6988.429]."
+                ],
+                [
+                    "What is the value of 6797 / 9217 + 513 * 802? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    411426.7,
+                    411346.7,
+                    "To calculate the value of 6797 / 9217 + 513 * 802, we need to perform the division and multiplication separately and then add the results together.\n\nFirst, we calculate the division:\n6797 / 9217 = 0.737252 (rounded to six decimal places)\n\nNext, we calculate the multiplication:\n513 * 802 = 411346\n\nNow, we add the two results together:\n0.737252 + 411346 = 411346.737252\n\nSo the final result is [411346.737252]."
+                ],
+                [
+                    "What is the value of 5722 + 7737 / 1017 * 3030? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    28773.2,
+                    28764.3,
+                    "To solve the expression 5722 + 7737 / 1017 * 3030, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division and multiplication before the addition:\n\n7737 / 1017 * 3030\n\nNow, let's divide 7737 by 1017 and then multiply the result by 3030:\n\n7737 / 1017 = 7.606687 (rounded to six decimal places)\n\nNow, multiply this result by 3030:\n\n7.606687 * 3030 ≈ 23042.321 (rounded to three decimal places)\n\nFinally, add this result to 5722:\n\n5722 + 23042.321 ≈ 28764.321\n\nSo, the final result of the expression is approximately [28764.321]."
+                ]
+            ]
+        }
+    },
+    "-": {
+        "*": {
+            "accuracy": "5/25=0.2",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 373 + 9752 * 4000 - 6804? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    39001569.0,
+                    39001569,
+                    "To solve the expression, we should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we need to perform the multiplication:\n\n9752 * 4000 = 39,008,000\n\nThen we perform the addition and subtraction from left to right:\n\n373 + 39,008,000 - 6804\n\nAdding 373 to 39,008,000:\n\n39,008,373\n\nNow subtracting 6804 from that result:\n\n39,008,373 - 6804 = 39,001,569\n\nSo the final result is:\n\n[39,001,569]"
+                ],
+                [
+                    "What is the value of 832 * 8085 - 6479 / 4874? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6726718.7,
+                    6726719,
+                    "To solve the expression 832 * 8085 - 6479 / 4874, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication:\n832 * 8085 = 6,726,720\n\nNext, we perform the division:\n6479 / 4874 = 1.3293 (rounded to four decimal places for simplicity)\n\nNow we subtract the result of the division from the result of the multiplication:\n6,726,720 - 1.3293 ≈ 6,726,718.6707\n\nRounded to the nearest whole number, the final result is:\n6,726,719\n\nSo, the value of the expression is approximately [6,726,719]."
+                ],
+                [
+                    "What is the value of 3433 * 8791 - 874 / 8603? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    30179502.9,
+                    30177402.9,
+                    "To solve this, we first need to perform the multiplication and then the division, followed by the subtraction:\n\n3433 * 8791 = 30,177,403\n\nThen we calculate the division:\n\n874 / 8603 ≈ 0.101593\n\nNow we subtract the result of the division from the result of the multiplication:\n\n30,177,403 - 0.101593 ≈ 30,177,402.898407\n\nRounded to the nearest decimal, the final result is approximately [30,177,402.9]."
+                ],
+                [
+                    "What is the value of 4130 / 2175 - 9474 * 9433? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -89368240.1,
+                    -89366500.1,
+                    "To solve the expression 4130 / 2175 - 9474 * 9433, we first perform the division and multiplication before the subtraction:\n\nFirst, divide 4130 by 2175:\n4130 / 2175 ≈ 1.897701149\n\nThen, multiply 9474 by 9433:\n9474 * 9433 = 89366502\n\nNow, subtract the second result from the first:\n1.897701149 - 89366502 ≈ -89366500.102298851\n\nSo the final result is approximately [-89366500.102298851]."
+                ],
+                [
+                    "What is the value of 7873 * 7555 - 899 / 4764? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    59480514.8,
+                    59468415,
+                    "To calculate the value of 7873 * 7555 - 899 / 4764, we'll do the multiplication and division first, then subtract the division result from the multiplication result.\n\nMultiplication:\n7873 * 7555 = 59468415\n\nDivision:\n899 / 4764 ≈ 0.188684\n\nNow we subtract the division result from the multiplication result:\n\n59468415 - 0.188684 ≈ 59468414.811316\n\nRounded to the nearest whole number, we get 59468415.\n\nSo the final result is [59468415]."
+                ],
+                [
+                    "What is the value of 7418 - 9877 * 1089 + 5277? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -10743358.0,
+                    -10744558,
+                    "To solve the expression 7418 - 9877 * 1089 + 5277, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n9877 * 1089\n\nThen we will perform the addition and subtraction from left to right:\n\n7418 - (result of multiplication) + 5277\n\nLet's do the multiplication first:\n\n9877 * 1089 = 10757253\n\nNow we subtract that result from 7418 and then add 5277:\n\n7418 - 10757253 + 5277 = 7418 - 10757253 + 5277\n\nPerforming the subtraction:\n\n7418 - 10757253 = -10749835\n\nNow adding 5277:\n\n-10749835 + 5277 = -10744558\n\nSo the final result is:\n\n[-10744558]"
+                ],
+                [
+                    "What is the value of 2018 - 5355 / 4524 * 8175? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -7658.6,
+                    -7661.6,
+                    "To solve the expression 2018 - 5355 / 4524 * 8175, we should follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, we must perform the division before the subtraction.\n\nFirst, we divide 5355 by 4524:\n\n5355 / 4524 ≈ 1.1838 (rounded to four decimal places)\n\nNext, we multiply the result by 8175:\n\n1.1838 * 8175 ≈ 9679.5655 (rounded to four decimal places)\n\nFinally, we subtract this result from 2018:\n\n2018 - 9679.5655 ≈ -7661.5655 (rounded to four decimal places)\n\nSo, the final result is approximately [-7661.57]."
+                ],
+                [
+                    "What is the value of 9671 + 8720 - 8781 * 6233? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -54713582.0,
+                    -54715762,
+                    "To calculate the value of 9671 + 8720 - 8781 * 6233, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n8781 * 6233 = 54734153\n\nNow we perform the addition and subtraction:\n\n9671 + 8720 - 54734153\n\nFirst, we add 9671 and 8720:\n\n9671 + 8720 = 18391\n\nNow we subtract the result of the multiplication from the sum:\n\n18391 - 54734153 = -54715762\n\nTherefore, the final result is [-54715762]."
+                ],
+                [
+                    "What is the value of 5769 + 9091 * 5766 - 3222? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    52421253.0,
+                    52445673,
+                    "To solve the expression 5769 + 9091 * 5766 - 3222, we should follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nGiven there are no parentheses or exponents to deal with, we start with the multiplication:\n\n9091 * 5766 = 52443126\n\nNow we substitute this back into the original expression and perform the addition and subtraction:\n\n5769 + 52443126 - 3222\n\nFirst, we'll add 5769 to 52443126:\n\n52443126 + 5769 = 52448895\n\nThen we subtract 3222 from the result:\n\n52448895 - 3222 = 52445673\n\nSo the final result is [52445673]."
+                ],
+                [
+                    "What is the value of 3551 * 6096 - 1062 / 8585? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    21646895.9,
+                    21650295.9,
+                    "To solve this, we must follow the order of operations, which is known by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nFirst, we perform the multiplication:\n\n3551 * 6096 = 21650296\n\nNext, we perform the division:\n\n1062 / 8585 = 0.123736\n\nNow, we subtract the result of the division from the result of the multiplication:\n\n21650296 - 0.123736 = 21650295.876264\n\nRounded to the nearest decimal, the result is:\n\n21650295.9\n\nSo, the final result in brackets is [21650295.9]."
+                ],
+                [
+                    "What is the value of 248 + 9524 - 6768 * 1562? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -10561844.0,
+                    -10562804,
+                    "To solve the expression 248 + 9524 - 6768 * 1562, we should follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division, and finally addition and subtraction (PEMDAS/BODMAS).\n\nFirst, we perform the multiplication:\n6768 * 1562 = 10,572,576\n\nNow, we subtract the result from the sum of 248 and 9524:\n248 + 9524 = 9772\n\n9772 - 10,572,576 = -10,562,804\n\nSo the final result is [-10,562,804]."
+                ],
+                [
+                    "What is the value of 6293 + 6741 * 99 - 926? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    672726.0,
+                    672726,
+                    "To solve the expression 6293 + 6741 * 99 - 926, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n6741 * 99 = 667359\n\nThen we perform the addition and subtraction from left to right:\n6293 + 667359 - 926\n\nFirst, add 6293 and 667359:\n6293 + 667359 = 673652\n\nThen subtract 926:\n673652 - 926 = 672726\n\nSo the final result is [672726]."
+                ],
+                [
+                    "What is the value of 9344 / 3707 * 2461 - 6640? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -436.7,
+                    -436.1,
+                    "Let's calculate the expression step by step:\n\nFirst, divide 9344 by 3707:\n9344 / 3707 ≈ 2.5197 (rounded to four decimal places)\n\nNext, multiply the result by 2461:\n2.5197 * 2461 ≈ 6203.8957 (rounded to four decimal places)\n\nFinally, subtract 6640 from the result:\n6203.8957 - 6640 ≈ -436.1043 (rounded to four decimal places)\n\nSo the final result is approximately [-436.1043]."
+                ],
+                [
+                    "What is the value of 639 / 7895 * 4976 - 4644? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -4241.3,
+                    -4241.2,
+                    "To calculate the value of \\( 639 / 7895 \\times 4976 - 4644 \\), we'll follow the order of operations, which is parentheses first, then multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we'll do the division:\n\\( 639 / 7895 = 0.080927 \\) (rounded to six decimal places)\n\nNext, we'll multiply this result by 4976:\n\\( 0.080927 \\times 4976 = 402.823152 \\) (rounded to six decimal places)\n\nFinally, we'll subtract 4644 from the result:\n\\( 402.823152 - 4644 = -4241.176848 \\)\n\nSo, the final result rounded to six decimal places is approximately \\([-4241.176848]\\)."
+                ],
+                [
+                    "What is the value of 3092 + 7957 - 5245 * 4203? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -22033686.0,
+                    -22031386,
+                    "To solve the expression 3092 + 7957 - 5245 * 4203, we should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). Multiplication comes before addition and subtraction, so we first multiply 5245 by 4203.\n\n5245 * 4203 = 22042435\n\nNow we subtract this result from the sum of 3092 and 7957.\n\nFirst, let's add 3092 and 7957:\n\n3092 + 7957 = 11049\n\nNow, let's subtract the product from this sum:\n\n11049 - 22042435 = -22031386\n\nSo the value of the expression is [-22031386]."
+                ],
+                [
+                    "What is the value of 3547 * 2853 - 5768 / 2226? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10119588.4,
+                    10118088.4,
+                    "To solve the expression 3547 * 2853 - 5768 / 2226, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we'll perform the multiplication:\n\n3547 * 2853 = 10,118,091\n\nNext, we'll perform the division:\n\n5768 / 2226 ≈ 2.591\n\nNow, we subtract the result of the division from the result of the multiplication:\n\n10,118,091 - 2.591 ≈ 10,118,088.409\n\nRounded to three decimal places, the result is approximately 10,118,088.409.\n\nTherefore, the value of the given expression is approximately [10,118,088.409]."
+                ],
+                [
+                    "What is the value of 8390 - 7362 * 2719 + 2263? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -20006625.0,
+                    -20001385,
+                    "To solve the expression, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nThe expression is: 8390 - 7362 * 2719 + 2263\n\nFirst, we perform the multiplication:\n\n7362 * 2719 = 20,012,038\n\nNow, we substitute this back into the expression:\n\n8390 - 20,012,038 + 2263\n\nNext, we perform the addition and subtraction from left to right:\n\n8390 + 2263 = 10,653\n\nNow, subtract the product from the sum:\n\n10,653 - 20,012,038 = -20,001,385\n\nSo, the final result is [-20,001,385]."
+                ],
+                [
+                    "What is the value of 2955 + 224 * 1461 - 5560? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    324659.0,
+                    324659,
+                    "To find the value of the expression 2955 + 224 * 1461 - 5560, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the multiplication:\n\n224 * 1461 = 327264\n\nNow we add and subtract in order from left to right:\n\n2955 + 327264 - 5560\n\nFirst, we add 2955 and 327264:\n\n2955 + 327264 = 330219\n\nThen, we subtract 5560 from the result:\n\n330219 - 5560 = 324659\n\nSo the final result is:\n\n[324659]"
+                ],
+                [
+                    "What is the value of 1558 * 6520 - 9195 + 7924? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10156889.0,
+                    10156889,
+                    "Let's calculate the value step by step:\n\nFirst, multiply 1558 by 6520:\n1558 * 6520 = 10,158,160\n\nThen, subtract 9195 from the result:\n10,158,160 - 9195 = 10,148,965\n\nFinally, add 7924 to the result:\n10,148,965 + 7924 = 10,156,889\n\nSo the final result is [10,156,889]."
+                ],
+                [
+                    "What is the value of 5674 * 5719 - 4433 / 2664? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    32449604.3,
+                    32448124.3,
+                    "To solve the expression 5674 * 5719 - 4433 / 2664, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication:\n\n5674 * 5719 = 32448126\n\nNext, we perform the division:\n\n4433 / 2664 ≈ 1.6641 (rounded to four decimal places)\n\nNow, we subtract the result of the division from the result of the multiplication:\n\n32448126 - 1.6641 ≈ 32448124.3359\n\nSo, the final result, rounded to four decimal places, is approximately [32448124.3359]."
+                ],
+                [
+                    "What is the value of 6148 - 8681 + 4855 * 4000? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    19417467.0,
+                    19417467,
+                    "To solve the expression 6148 - 8681 + 4855 * 4000, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n4855 * 4000 = 19,420,000\n\nNow we can perform the addition and subtraction in order from left to right:\n\n6148 - 8681 + 19,420,000\n\nFirst, subtract 8681 from 6148:\n\n6148 - 8681 = -2533\n\nNow add the result to 19,420,000:\n\n-2533 + 19,420,000 = 19,417,467\n\nSo the final result is [19,417,467]."
+                ],
+                [
+                    "What is the value of 7279 * 5474 - 7879 / 9976? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    39845245.2,
+                    39854345.2,
+                    "To calculate the value of 7279 * 5474 - 7879 / 9976, we first need to perform the multiplication and then the division, followed by the subtraction:\n\n7279 * 5474 = 39854346\n\nNow we calculate the division:\n\n7879 / 9976 ≈ 0.7896\n\nFinally, we subtract the result of the division from the result of the multiplication:\n\n39854346 - 0.7896 ≈ 39854345.2104\n\nTherefore, the final result is approximately [39854345.2104]."
+                ],
+                [
+                    "What is the value of 2498 * 9546 - 1089 / 4307? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    23845907.7,
+                    23854008,
+                    "To solve the expression 2498 * 9546 - 1089 / 4307, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication and division:\n\nMultiplication: 2498 * 9546\nDivision: 1089 / 4307\n\nLet's calculate each of these:\n\n2498 * 9546 = 23854008\n\n1089 / 4307 ≈ 0.252922 (rounded to six decimal places)\n\nNow we subtract the result of the division from the result of the multiplication:\n\n23854008 - 0.252922 ≈ 23854007.747078\n\nRounded to the nearest whole number, the result is:\n\n[23854008]"
+                ],
+                [
+                    "What is the value of 1368 / 5761 * 1008 - 6931? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -6691.6,
+                    -6691.5,
+                    "Let's calculate the value step by step:\n\nFirst, we calculate the division:\n1368 / 5761\n\nNext, we multiply the result by 1008:\n(1368 / 5761) * 1008\n\nFinally, we subtract 6931 from the result of the multiplication:\n((1368 / 5761) * 1008) - 6931\n\nNow, let's do the actual calculations:\n\n1368 / 5761 ≈ 0.2375 (rounded to four decimal places for simplicity)\n\nNow multiply by 1008:\n0.2375 * 1008 ≈ 239.52 (rounded to two decimal places for simplicity)\n\nSubtract 6931 from the result:\n239.52 - 6931 ≈ -6691.48\n\nSo the final result is approximately [-6691.48]."
+                ],
+                [
+                    "What is the value of 4095 - 2642 * 1883 + 3460? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -4967331.0,
+                    -4967411,
+                    "Let's calculate the expression step by step:\n\n1. Calculate the multiplication part first:\n2642 * 1883\n\n2. Then subtract the result from 4095:\n4095 - (2642 * 1883)\n\n3. Finally, add 3460 to the result of the subtraction.\n\nNow let's do the math:\n\n1. 2642 * 1883 = 4974966\n\n2. 4095 - 4974966 = -4970871\n\n3. -4970871 + 3460 = -4967411\n\nSo the final result is [-4967411]."
+                ]
+            ]
+        },
+        "/": {
+            "accuracy": "10/25=0.4",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 5159 - 7026 / 5176 * 6634? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -3846.1,
+                    -3841,
+                    "To solve the expression 5159 - 7026 / 5176 * 6634, we should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). In this case, we need to perform the division first, then the multiplication, and finally the subtraction.\n\nLet's calculate it step by step:\n\n1. Division: 7026 / 5176\n2. Multiplication of the result by 6634\n3. Subtraction of the result from 5159\n\nFirst, we calculate the division:\n\n7026 / 5176 = 1.3568173374613 (approximately, but we'll keep the full precision for now)\n\nNext, we multiply this result by 6634:\n\n1.3568173374613 * 6634 = 8999.999999999998 (approximately 9000, but we will use the exact value for the final calculation)\n\nNow, we subtract this value from 5159:\n\n5159 - 8999.999999999998 = -3840.999999999998 (approximately -3841)\n\nSo the final result is approximately:\n\n[-3841]"
+                ],
+                [
+                    "What is the value of 8646 / 7299 * 1033 - 2965? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1741.4,
+                    -1740.9,
+                    "To solve the expression 8646 / 7299 * 1033 - 2965, we first need to perform the division and multiplication, and then subtract the last number.\n\nFirst, divide 8646 by 7299:\n8646 / 7299 ≈ 1.1848 (rounded to four decimal places)\n\nNow, multiply this result by 1033:\n1.1848 * 1033 ≈ 1224.0664 (rounded to four decimal places)\n\nFinally, subtract 2965 from the result:\n1224.0664 - 2965 ≈ -1740.9336 (rounded to four decimal places)\n\nSo the final result is approximately [-1740.9336]."
+                ],
+                [
+                    "What is the value of 5962 + 4784 - 9001 / 4567? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10744.0,
+                    10744.0,
+                    "To solve the expression 5962 + 4784 - 9001 / 4567, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n9001 / 4567 = 1.9705 (rounded to four decimal places)\n\nNow, we add and subtract in order from left to right:\n\n5962 + 4784 - 1.9705 = 10746 - 1.9705 = 10744.0295\n\nRounded to four decimal places, the final result is:\n\n10744.0295\n\nSo, the value of the expression is approximately [10744.0295]."
+                ],
+                [
+                    "What is the value of 7085 - 2777 + 8819 / 7683? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4309.1,
+                    4309.1,
+                    "To solve the expression 7085 - 2777 + 8819 / 7683, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, we first perform the division, then the subtraction, and finally the addition.\n\nSo let's calculate it step by step:\n\n1. Division: 8819 / 7683\n2. Subtraction: 7085 - 2777\n3. Addition: Result of step 2 + Result of step 1\n\nLet's calculate each step:\n\n1. Division:\n8819 / 7683 ≈ 1.1477 (rounded to four decimal places)\n\n2. Subtraction:\n7085 - 2777 = 4308\n\n3. Addition:\n4308 + 1.1477 ≈ 4309.1477\n\nTherefore, the final result of the expression 7085 - 2777 + 8819 / 7683 is approximately [4309.1477]."
+                ],
+                [
+                    "What is the value of 6733 / 2479 - 6858 * 1704? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -11686029.3,
+                    -11687709.3,
+                    "To find the value of the expression 6733 / 2479 - 6858 * 1704, we need to perform the division and multiplication first, and then subtract the second result from the first.\n\nFirst, we divide 6733 by 2479:\n\n6733 / 2479 ≈ 2.716\n\nNext, we multiply 6858 by 1704:\n\n6858 * 1704 = 11687712\n\nNow, we subtract the second result from the first:\n\n2.716 - 11687712 ≈ -11687709.284\n\nRounded to three decimal places, the result is approximately -11687709.284. So, the final numeric result in brackets is [-11687709.284]."
+                ],
+                [
+                    "What is the value of 9883 / 8089 * 62 - 1701? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1625.2,
+                    -1625.3,
+                    "To solve the expression 9883 / 8089 * 62 - 1701, we'll follow the order of operations, which is parentheses first, then exponents, multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we divide 9883 by 8089:\n9883 / 8089 ≈ 1.2216 (rounded to four decimal places for simplicity)\n\nNext, we multiply this result by 62:\n1.2216 * 62 ≈ 75.7392 (rounded to four decimal places)\n\nFinally, we subtract 1701 from the result:\n75.7392 - 1701 ≈ -1625.2608\n\nSo the final result, rounded to four decimal places, is approximately:\n[-1625.2608]"
+                ],
+                [
+                    "What is the value of 479 - 3733 / 8892 + 7764? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8242.6,
+                    8242.6,
+                    "To solve the expression 479 - 3733 / 8892 + 7764, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction).\n\nFirst, we perform the division:\n\n3733 / 8892 = 0.4196 (rounded to four decimal places)\n\nNow, we can solve the expression:\n\n479 - 0.4196 + 7764\n\nFirst, we perform the subtraction:\n\n479 - 0.4196 = 478.5804\n\nThen, we add:\n\n478.5804 + 7764 = 8242.5804\n\nSo the final result is [8242.5804]."
+                ],
+                [
+                    "What is the value of 109 * 681 / 8996 - 431? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -422.7,
+                    -422.8,
+                    "Let's calculate the value step by step:\n\nFirst, we multiply 109 by 681:\n109 * 681 = 74229\n\nNext, we divide this product by 8996:\n74229 / 8996 ≈ 8.25 (rounded to two decimal places)\n\nFinally, we subtract 431 from the result:\n8.25 - 431 = -422.75\n\nSo the final result is [-422.75]."
+                ],
+                [
+                    "What is the value of 1348 + 3116 - 1370 / 1956? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4463.3,
+                    4463.3,
+                    "To solve the expression 1348 + 3116 - 1370 / 1956, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, we must perform the division before the addition and subtraction.\n\nSo, first, we divide 1370 by 1956:\n\n1370 / 1956 ≈ 0.7004089979550102\n\nNow, we can add and subtract the numbers:\n\n1348 + 3116 - (1370 / 1956) ≈ 1348 + 3116 - 0.7004089979550102\n\nNow, we add 1348 and 3116:\n\n1348 + 3116 = 4464\n\nAnd then subtract the result of the division:\n\n4464 - 0.7004089979550102 ≈ 4463.299591002045\n\nRounded to the nearest decimal, the result is approximately 4463.3. However, since you have not specified the number of decimal places you want, I will provide the result with the decimal as calculated:\n\nThe value of the expression is approximately [4463.299591002045]."
+                ],
+                [
+                    "What is the value of 3542 - 5999 / 8665 + 6214? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    9755.3,
+                    9755.3,
+                    "To solve the expression 3542 - 5999 / 8665 + 6214, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven the expression does not contain parentheses or exponents, we start with division:\n\n5999 / 8665 = 0.692 (rounded to three decimal places)\n\nNow we can perform the addition and subtraction:\n\n3542 - 0.692 + 6214\n\nFirst, we'll subtract:\n\n3542 - 0.692 = 3541.308\n\nNow we'll add:\n\n3541.308 + 6214 = 9755.308\n\nSo, the final result is [9755.308]."
+                ],
+                [
+                    "What is the value of 4048 - 8141 / 187 + 6863? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10867.5,
+                    10867.5,
+                    "First, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). Division and multiplication should be performed before addition and subtraction, from left to right.\n\nLet's solve the expression step by step:\n\n4048 - 8141 / 187 + 6863\n\nFirst, we perform the division:\n8141 / 187 ≈ 43.52406417\n\nNow the expression looks like this:\n4048 - 43.52406417 + 6863\n\nNext, perform the subtraction and addition from left to right:\n4048 - 43.52406417 ≈ 4004.47593583\n4004.47593583 + 6863 ≈ 10867.47593583\n\nSo the result of the expression 4048 - 8141 / 187 + 6863 is approximately [10867.48] when rounded to two decimal places."
+                ],
+                [
+                    "What is the value of 5156 - 1454 / 9838 * 5901? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4283.9,
+                    4283.9,
+                    "To solve the expression 5156 - 1454 / 9838 * 5901, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division and multiplication:\n\n1454 / 9838 * 5901\n\nFirst the division:\n1454 / 9838 = 0.1478 (rounded to four decimal places)\n\nNow, multiply this result by 5901:\n0.1478 * 5901 = 872.0878 (rounded to four decimal places)\n\nNow we have the original expression simplified to:\n5156 - 872.0878\n\nSubtract the second number from the first:\n5156 - 872.0878 = 4283.9122 (rounded to four decimal places)\n\nSo the final result is approximately [4283.9122]."
+                ],
+                [
+                    "What is the value of 5648 - 4048 / 9260 * 2684? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4474.7,
+                    4475.0,
+                    "To solve the expression 5648 - 4048 / 9260 * 2684, we need to follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction). According to these rules, we first perform division, then multiplication, and finally subtraction.\n\nLet's calculate it step by step:\n\n1. Division: 4048 / 9260\n2. Multiplication of the result by 2684\n3. Subtraction of the result from 5648\n\nLet's do the math:\n\n1. 4048 / 9260 = 0.43702770780856 (rounded to 14 decimal places)\n2. 0.43702770780856 * 2684 = 1172.9863580123824 (rounded to 13 decimal places)\n3. 5648 - 1172.9863580123824 = 4475.0136419876176\n\nRounding to a reasonable number of decimal places, we get 4475.0136.\n\nTherefore, the value of the expression is approximately [4475.0136]."
+                ],
+                [
+                    "What is the value of 5724 / 7646 - 4206 * 500? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2102999.3,
+                    -2102999.2,
+                    "To solve the expression 5724 / 7646 - 4206 * 500, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we'll do the division, then the multiplication, and finally the subtraction:\n\n5724 / 7646 = 0.7483676792 (approximately)\n\nNow, let's do the multiplication:\n\n4206 * 500 = 2103000\n\nNow, we'll subtract the result of the multiplication from the result of the division:\n\n0.7483676792 - 2103000\n\nSince the division yields a number much less than one and the multiplication yields a number in the millions, the subtraction will yield a negative number that is just slightly less than -2103000.\n\nThe final result is approximately:\n\n[-2102999.2516323208]\n\nFor simplicity, we can round it to:\n\n[-2102999.25]"
+                ],
+                [
+                    "What is the value of 3274 / 4745 * 7270 - 7525? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2508.8,
+                    -2507.6,
+                    "To solve the expression 3274 / 4745 * 7270 - 7525, we should follow the order of operations, which is parentheses first, then exponents, multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we divide 3274 by 4745:\n3274 / 4745 = 0.689888199\n\nThen, we multiply the result by 7270:\n0.689888199 * 7270 = 5017.444573\n\nFinally, we subtract 7525 from the result:\n5017.444573 - 7525 = -2507.555427\n\nSo the final result is approximately [-2507.56] when rounded to two decimal places."
+                ],
+                [
+                    "What is the value of 7122 / 8367 - 7943 * 1578? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -12534053.1,
+                    -12534163.1,
+                    "To solve this expression, we should follow the order of operations, which is parentheses first, then exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nThe expression given is:\n\n7122 / 8367 - 7943 * 1578\n\nFirst, we perform the division and multiplication:\n\n7122 / 8367 = 0.8512 (approximately)\n7943 * 1578 = 12535014\n\nNow, we subtract the second result from the first:\n\n0.8512 - 12535014 = -12534163.1488 (approximately)\n\nSo the value of the expression is approximately [-12534163.1488]."
+                ],
+                [
+                    "What is the value of 3643 + 4116 - 7074 / 2020? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7755.5,
+                    7755.5,
+                    "To solve the expression 3643 + 4116 - 7074 / 2020, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division comes before addition and subtraction.\n\nFirst, we divide 7074 by 2020:\n\n7074 / 2020 ≈ 3.503960396039604\n\nNow, we add 3643 and 4116, and then subtract the result of the division:\n\n3643 + 4116 = 7759\n\n7759 - 3.503960396039604 ≈ 7755.4960396039604\n\nSo the final result is approximately:\n\n7755.4960396039604\n\nRounded to two decimal places, the result would be 7755.50.\n\nTherefore, the final numeric result is approximately [7755.50]."
+                ],
+                [
+                    "What is the value of 6866 / 593 - 8992 * 5830? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -52423348.4,
+                    -52444148.4,
+                    "To solve the expression 6866 / 593 - 8992 * 5830, we'll perform the operations step by step, following the order of operations (PEMDAS/BODMAS: Parentheses/Brackets, Exponents/Orders, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nFirst, we'll do the division, then the multiplication, and finally the subtraction:\n\nDivision:\n6866 / 593 = 11.5764 (approximately, rounded to 4 decimal places)\n\nMultiplication:\n8992 * 5830 = 52444160\n\nNow we subtract the multiplication result from the division result:\n11.5764 - 52444160 = -52444148.4236 (approximately, rounded to 4 decimal places)\n\nSo the final result is approximately [-52444148.4236]."
+                ],
+                [
+                    "What is the value of 5871 + 452 - 9629 / 4371? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6320.8,
+                    6320.8,
+                    "To solve the expression 5871 + 452 - 9629 / 4371, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the division:\n\n9629 / 4371 = 2.2038 (rounded to four decimal places)\n\nNow we can add and subtract in order from left to right:\n\n5871 + 452 - 2.2038 = 6323 - 2.2038 = 6320.7962 (rounded to four decimal places)\n\nSo the final result is approximately [6320.7962]."
+                ],
+                [
+                    "What is the value of 6302 - 3757 / 4696 * 954? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5538.8,
+                    5539.1,
+                    "To solve the expression 6302 - 3757 / 4696 * 954, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nSo, we first perform the division, then the multiplication, and finally the subtraction:\n\n3757 / 4696 = 0.799829 (approximately, when rounded to six decimal places)\n\nNow, multiply this result by 954:\n\n0.799829 * 954 = 762.866586 (approximately, when rounded to six decimal places)\n\nFinally, subtract this result from 6302:\n\n6302 - 762.866586 = 5539.133414 (approximately, when rounded to six decimal places)\n\nTherefore, the final result is approximately [5539.13] when rounded to two decimal places."
+                ],
+                [
+                    "What is the value of 2166 - 1907 / 4743 * 2053? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1340.6,
+                    1340.4,
+                    "To solve the expression 2166 - 1907 / 4743 * 2053, we need to follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division, then the multiplication, and finally the subtraction.\n\nLet's calculate it step by step:\n\n1. Division: 1907 / 4743\n2. Multiplication of the division result by 2053\n3. Subtraction of the multiplication result from 2166.\n\nLet's do the math:\n\n1. Division:\n1907 / 4743 ≈ 0.402\n\n2. Multiplication of the division result by 2053:\n0.402 * 2053 ≈ 825.606\n\n3. Subtraction of the multiplication result from 2166:\n2166 - 825.606 ≈ 1340.394\n\nSo, the final result is approximately [1340.394]."
+                ],
+                [
+                    "What is the value of 9039 + 6643 - 4295 / 9710? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    15681.6,
+                    15681.6,
+                    "To solve the expression 9039 + 6643 - 4295 / 9710, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to PEMDAS, division comes before addition and subtraction, so we first divide 4295 by 9710.\n\n4295 / 9710 = 0.4422657952069716775599128540305 (rounded to 31 decimal places)\n\nNow we can add and subtract the numbers in the expression:\n\n9039 + 6643 - (4295 / 9710) = 9039 + 6643 - 0.4422657952069716775599128540305\n\n15682 - 0.4422657952069716775599128540305 = 15681.5577342047930283224400871459695\n\nRounded to the nearest decimal, the result is:\n\n15681.6\n\nSo the final result is [15681.6]."
+                ],
+                [
+                    "What is the value of 2972 / 8341 - 1985 * 4416? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -8765759.6,
+                    -8770559.6,
+                    "Let's first calculate the two separate parts of the expression:\n\nThe division part:\n2972 / 8341\n\nAnd the multiplication part:\n1985 * 4416\n\nWe'll handle the division first:\n\n2972 / 8341 ≈ 0.3562 (rounded to four decimal places)\n\nNow, we'll handle the multiplication:\n\n1985 * 4416 = 8770560\n\nNow, we'll subtract the multiplication result from the division result:\n\n0.3562 - 8770560 ≈ -8770559.6438 (rounded to four decimal places)\n\nSo, the final result is approximately [-8770559.6438]."
+                ],
+                [
+                    "What is the value of 9650 - 8937 / 3053 * 3238? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    171.5,
+                    179.2,
+                    "To solve the expression 9650 - 8937 / 3053 * 3238, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, we must perform division before subtraction.\n\nFirst, let's perform the division:\n\n8937 / 3053 ≈ 2.927\n\nNow, we multiply the result of the division by 3238:\n\n2.927 * 3238 ≈ 9470.846\n\nFinally, we subtract this value from 9650:\n\n9650 - 9470.846 ≈ 179.154\n\nThus, the final result is approximately [179.154]."
+                ],
+                [
+                    "What is the value of 8278 / 6861 - 1777 * 6730? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -11959208.8,
+                    -11953908.8,
+                    "To solve the expression 8278 / 6861 - 1777 * 6730, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division and multiplication:\n\nDivision: 8278 / 6861\nMultiplication: 1777 * 6730\n\nLet's calculate each part:\n\n8278 / 6861 ≈ 1.2065 (rounded to four decimal places)\n1777 * 6730 = 11954010\n\nNow, we subtract the result of the multiplication from the result of the division:\n\n1.2065 - 11954010 ≈ -11953908.7935\n\nRounded to four decimal places, the final result is approximately:\n\n[-11953908.7935]"
+                ]
+            ]
+        }
+    },
+    "*": {
+        "+": {
+            "accuracy": "8/25=0.32",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 7296 * 515 / 4803 + 6979? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7761.3,
+                    7761.4,
+                    "To solve the expression 7296 * 515 / 4803 + 6979, we follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n7296 * 515 = 3,757,440\n\nNext, we divide the result by 4803:\n3,757,440 / 4803 ≈ 782.4299402456773\n\nFinally, we add 6979 to the quotient:\n782.4299402456773 + 6979 ≈ 7761.429940245677\n\nRounded to the nearest decimal, the result is approximately:\n7761.4\n\nSo, the value of the expression is approximately [7761.4]."
+                ],
+                [
+                    "What is the value of 9135 - 4846 * 6771 + 132? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -32802999.0,
+                    32817699,
+                    "To solve the expression 9135 - 4846 * 6771 + 132, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nThere are no parentheses or exponents to deal with here, so we move on to multiplication:\n\n4846 * 6771 = 32,826,966\n\nNow we substitute this back into the original expression:\n\n9135 - 32,826,966 + 132\n\nNext, we perform the addition and subtraction from left to right:\n\n9135 + 132 = 9267\n\nNow subtract this from 32,826,966:\n\n32,826,966 - 9267 = 32,817,699\n\nTherefore, the value of the expression is:\n\n[32,817,699]"
+                ],
+                [
+                    "What is the value of 1002 + 2072 / 5869 * 435? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1155.6,
+                    1155.6,
+                    "To solve the expression, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nThe expression is: 1002 + (2072 / 5869) * 435\n\nFirst, we perform the division:\n2072 / 5869 = 0.353073\n\nThen we multiply the result by 435:\n0.353073 * 435 = 153.586785\n\nFinally, we add 1002 to the result:\n1002 + 153.586785 = 1155.586785\n\nRounded to the nearest decimal, the result is approximately 1155.6, so the final numeric result is [1155.6]."
+                ],
+                [
+                    "What is the value of 5774 - 9546 + 1933 * 2954? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5706310.0,
+                    5707270,
+                    "To solve the expression 5774 - 9546 + 1933 * 2954, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the multiplication:\n1933 * 2954 = 5711042\n\nNext, we perform the subtraction and addition from left to right:\n5774 - 9546 = -3772\n-3772 + 5711042 = 5707270\n\nSo the value of the expression is:\n5707270\n\nIn brackets, the result is: [5707270]."
+                ],
+                [
+                    "What is the value of 4959 * 525 - 4639 + 5662? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2604498.0,
+                    2604498,
+                    "To solve the expression 4959 * 525 - 4639 + 5662, we first perform the multiplication, then the subtraction, and finally the addition:\n\n4959 * 525 = 2603475\n2603475 - 4639 = 2598836\n2598836 + 5662 = 2604498\n\nSo the final result is [2604498]."
+                ],
+                [
+                    "What is the value of 8111 + 9468 / 6375 * 7274? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    18914.2,
+                    18912.6,
+                    "To solve the expression 8111 + 9468 / 6375 * 7274, we must follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n9468 / 6375 * 7274\n\nLet's divide 9468 by 6375:\n\n= 1.485 (rounded to three decimal places)\n\nNow, multiply this result by 7274:\n\n1.485 * 7274 = 10801.59 (rounded to two decimal places)\n\nNow, we add this result to 8111:\n\n8111 + 10801.59 = 18912.59\n\nSo, the value of the expression is approximately [18912.59]."
+                ],
+                [
+                    "What is the value of 628 - 1849 + 5310 * 4943? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    26246109.0,
+                    26241109,
+                    "To solve the expression 628 - 1849 + 5310 * 4943, we should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the multiplication:\n\n5310 * 4943 = 26242330\n\nNext, we perform the addition and subtraction from left to right:\n\n628 - 1849 + 26242330 = -1221 + 26242330 = 26241109\n\nSo the result of the expression is [26241109]."
+                ],
+                [
+                    "What is the value of 8648 - 6573 + 5772 * 7378? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    42587891.0,
+                    42602831,
+                    "To solve the expression 8648 - 6573 + 5772 * 7378, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we'll perform the multiplication:\n\n5772 * 7378 = 42600756\n\nNow we have:\n\n8648 - 6573 + 42600756\n\nNext, we perform the subtraction and addition from left to right:\n\n8648 - 6573 = 2075\n\nNow we add this result to the product:\n\n2075 + 42600756 = 42602831\n\nSo the final result is:\n\n[42602831]"
+                ],
+                [
+                    "What is the value of 7041 * 3543 - 4404 + 7484? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    24949343.0,
+                    24937103,
+                    "To find the value of 7041 * 3543 - 4404 + 7484, we first perform the multiplication and then the addition and subtraction:\n\n7041 * 3543 = 24,934,023\n24,934,023 - 4404 = 24,929,619\n24,929,619 + 7484 = 24,937,103\n\nSo the final result is [24,937,103]."
+                ],
+                [
+                    "What is the value of 9327 / 9610 + 1738 * 5990? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10410621.0,
+                    10404621.0,
+                    "To solve the expression 9327 / 9610 + 1738 * 5990, we'll perform each operation step by step.\n\nFirst, we'll do the division:\n9327 / 9610 = 0.970655\n\nNext, we'll do the multiplication:\n1738 * 5990 = 10404620\n\nNow, we'll add the results together:\n0.970655 + 10404620 = 10404620.970655\n\nSo the final result is approximately [10404620.97]."
+                ],
+                [
+                    "What is the value of 1908 - 4150 + 3034 * 366? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1108202.0,
+                    1108202,
+                    "To find the value of the expression 1908 - 4150 + 3034 * 366, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division, and finally addition and subtraction (PEMDAS/BODMAS).\n\nFirst, we'll perform the multiplication:\n\n3034 * 366 = 1,110,444\n\nNow we'll do the addition and subtraction from left to right:\n\n1908 - 4150 + 1,110,444\n\nFirst, subtract 4150 from 1908:\n\n1908 - 4150 = -2242\n\nThen add the result of the multiplication:\n\n-2242 + 1,110,444 = 1,108,202\n\nSo the final result of the expression is [1,108,202]."
+                ],
+                [
+                    "What is the value of 6784 + 8928 / 5907 * 1900? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    9655.7,
+                    9655.7,
+                    "To solve the expression 6784 + 8928 / 5907 * 1900, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division and multiplication:\n\n8928 / 5907 = 1.5114 approximately (rounded to four decimal places for simplicity)\n1.5114 * 1900 = 2871.66 approximately (rounded to two decimal places for simplicity)\n\nNow, we add the result to 6784:\n\n6784 + 2871.66 = 9655.66\n\nSo the final result, rounded to two decimal places, is [9655.66]."
+                ],
+                [
+                    "What is the value of 2799 + 125 / 447 * 629? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2974.9,
+                    2974.9,
+                    "To calculate the value of the expression 2799 + 125 / 447 * 629, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division and multiplication before addition:\n\n125 / 447 * 629\n\nNow, we calculate the division:\n\n125 ÷ 447 ≈ 0.279642058165548\n\nThen we multiply the result by 629:\n\n0.279642058165548 * 629 ≈ 175.895736556000\n\nNow we add this result to 2799:\n\n2799 + 175.895736556000 ≈ 2974.895736556000\n\nSo the final result of the expression is approximately:\n\n[2974.90] (rounded to two decimal places)"
+                ],
+                [
+                    "What is the value of 8657 + 212 / 9975 * 2014? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8699.8,
+                    8699.8,
+                    "To solve the expression 8657 + 212 / 9975 * 2014, we must follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division and multiplication before the addition:\n\n212 / 9975 * 2014\n\nLet's calculate the division first:\n\n212 / 9975 = 0.02125628140703517587939698492462311557788944723618...\n\nNow we multiply this result by 2014:\n\n0.02125628140703517587939698492462311557788944723618... * 2014 = 42.81557276381909547738693467336683417085427135678392...\n\nNow we add this result to 8657:\n\n8657 + 42.81557276381909547738693467336683417085427135678392... = 8699.81557276381909547738693467336683417085427135678392...\n\nRounded to a reasonable number of decimal places, the result would be:\n\n8699.82 (rounded to two decimal places)\n\nSo, the value of the expression is approximately [8699.82]."
+                ],
+                [
+                    "What is the value of 167 * 402 + 80 / 9956? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    67134.0,
+                    67134.0,
+                    "First, let's perform the multiplication and division separately:\n\n167 * 402 = 67134\n\n80 / 9956 ≈ 0.00803318250377\n\nNow, let's add the two results together:\n\n67134 + 0.00803318250377 ≈ 67134.00803318250377\n\nRounded to a reasonable number of decimal places, the result is:\n\n67134.008\n\nSo, the final result is approximately [67134.008]."
+                ],
+                [
+                    "What is the value of 4461 + 3040 / 8887 * 6827? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6796.3,
+                    6798.3,
+                    "To solve the expression 4461 + 3040 / 8887 * 6827, we should follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nFirst, we need to perform the division and multiplication before the addition:\n\n3040 / 8887 * 6827\n\nLet's calculate the division first:\n\n3040 / 8887 ≈ 0.3422 (rounded to four decimal places)\n\nNow, we multiply this result by 6827:\n\n0.3422 * 6827 ≈ 2337.314 (rounded to three decimal places)\n\nFinally, we add this result to 4461:\n\n4461 + 2337.314 ≈ 6798.314 (rounded to three decimal places)\n\nSo, the final result of the expression is approximately [6798.314]."
+                ],
+                [
+                    "What is the value of 9709 * 7741 - 8871 + 7657? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    75156155.0,
+                    75194135,
+                    "To solve the expression 9709 * 7741 - 8871 + 7657, we first perform the multiplication, then the subtraction, and finally the addition.\n\n9709 * 7741 = 75,195,349\n75,195,349 - 8871 = 75,186,478\n75,186,478 + 7657 = 75,194,135\n\nSo the value of the expression is [75,194,135]."
+                ],
+                [
+                    "What is the value of 6958 / 9348 + 6720 * 9775? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    65688000.7,
+                    65702401,
+                    "To find the value of the expression, we perform the division and multiplication first, and then add the results:\n\n6958 / 9348 = 0.7442577030812325 (approximately)\n6720 * 9775 = 65702400\n\nNow we add the two results:\n0.7442577030812325 + 65702400 = 65702400.7442577030812325\n\nSo, the value of the expression rounded to the nearest whole number is [65702401]."
+                ],
+                [
+                    "What is the value of 8011 + 1803 / 1489 * 8734? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    18586.8,
+                    18587.9,
+                    "To solve the expression 8011 + 1803 / 1489 * 8734, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we do the division and multiplication before the addition:\n\n1803 / 1489 * 8734\n\nLet's do the division first:\n\n1803 / 1489 = 1.2110 (rounded to four decimal places for intermediate calculation)\n\nNow, multiply this result by 8734:\n\n1.2110 * 8734 = 10576.914 (rounded to three decimal places for intermediate calculation)\n\nNow we can add this result to 8011:\n\n8011 + 10576.914 = 18587.914\n\nSo the result of the expression 8011 + 1803 / 1489 * 8734 is approximately [18587.914]."
+                ],
+                [
+                    "What is the value of 4155 * 1269 - 6979 + 2658? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5268374.0,
+                    5268524,
+                    "To solve the expression 4155 * 1269 - 6979 + 2658, we must follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we do the multiplication:\n\n4155 * 1269 = 5272845\n\nNow we have:\n\n5272845 - 6979 + 2658\n\nNext, we perform the subtraction and addition from left to right:\n\n5272845 - 6979 = 5265866\n5265866 + 2658 = 5268524\n\nSo the final result is:\n\n[5268524]"
+                ],
+                [
+                    "What is the value of 3625 + 8372 / 3005 * 4686? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    16680.3,
+                    16678.9,
+                    "To solve the expression 3625 + 8372 / 3005 * 4686, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this order, we should perform the division and multiplication before the addition.\n\nFirst, we divide 8372 by 3005:\n\n8372 / 3005 ≈ 2.785357\n\nNext, we multiply the result by 4686:\n\n2.785357 * 4686 ≈ 13053.893962\n\nFinally, we add 3625 to the product:\n\n3625 + 13053.893962 ≈ 16678.893962\n\nRounded to a decimal, the result is approximately 16678.89. However, since you didn't specify the precision for rounding, I'll leave the result as is.\n\nSo the value of the expression is approximately [16678.893962]."
+                ],
+                [
+                    "What is the value of 9245 - 2052 + 5181 * 6507? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    33719960.0,
+                    33737480,
+                    "To solve the expression 9245 - 2052 + 5181 * 6507, we should follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction). According to these rules, we must perform the multiplication before the addition and subtraction.\n\nLet's calculate it step by step:\n\n1. Multiplication: 5181 * 6507\n2. Addition and subtraction: 9245 - 2052 + (result from step 1)\n\nStep 1: Multiplication\n5181 * 6507 = 33,730,287\n\nStep 2: Addition and subtraction\n9245 - 2052 + 33,730,287\n\nFirst, we subtract 2052 from 9245:\n9245 - 2052 = 7193\n\nThen, we add the result to 33,730,287:\n7193 + 33,730,287 = 33,737,480\n\nSo, the final result of the expression is [33,737,480]."
+                ],
+                [
+                    "What is the value of 7455 / 3098 * 9576 + 5890? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    28933.6,
+                    28930,
+                    "To solve this expression, we'll follow the order of operations, which is parentheses first, then exponents, multiplication and division from left to right, and finally addition and subtraction from left to right. This is often remembered by the acronym PEMDAS.\n\nThe expression is:\n\n7455 / 3098 * 9576 + 5890\n\nFirst, we'll do the division and multiplication from left to right:\n\n7455 / 3098 = 2.40639250903 (approximately)\n2.40639250903 * 9576 = 23040.000000000004 (approximately)\n\nNow, we'll add 5890 to the result:\n\n23040 + 5890 = 28930\n\nSo, the final result is approximately [28930]."
+                ],
+                [
+                    "What is the value of 3535 - 1209 + 2082 * 8702? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    18119890.0,
+                    18116290,
+                    "Let's calculate the value step by step:\n\nFirst, we will perform the multiplication, as it has precedence over addition and subtraction:\n\n2082 * 8702 = 18,113,964\n\nNext, we will perform the subtraction and addition:\n\n3535 - 1209 + 18,113,964\n\nFirst, we subtract:\n\n3535 - 1209 = 2326\n\nNow, we add the result to the product we calculated earlier:\n\n2326 + 18,113,964 = 18,116,290\n\nSo, the final result is [18,116,290]."
+                ],
+                [
+                    "What is the value of 4450 * 7550 - 1895 + 286? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    33595891.0,
+                    33595891,
+                    "Let's calculate the value step by step:\n\nFirst, we multiply 4450 by 7550:\n4450 * 7550 = 33,597,500\n\nNext, we subtract 1895:\n33,597,500 - 1895 = 33,595,605\n\nFinally, we add 286:\n33,595,605 + 286 = 33,595,891\n\nSo the final result is [33,595,891]."
+                ]
+            ]
+        },
+        "-": {
+            "accuracy": "5/25=0.2",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 413 - 8981 + 3916 * 3592? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    14057704.0,
+                    14058984,
+                    "To find the value of the expression 413 - 8981 + 3916 * 3592, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n3916 * 3592 = 14067552\n\nNow we have:\n\n413 - 8981 + 14067552\n\nNext, we perform the addition and subtraction from left to right:\n\n413 - 8981 = -8568\n\n-8568 + 14067552 = 14058984\n\nSo the value of the expression is [14058984]."
+                ],
+                [
+                    "What is the value of 9599 - 9584 + 5151 * 7193? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    37051158.0,
+                    37045058,
+                    "To solve the expression 9599 - 9584 + 5151 * 7193, we should follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division, and finally addition and subtraction (PEMDAS).\n\nFirst, we do the multiplication:\n\n5151 * 7193 = 37045043\n\nNow we perform the subtraction and addition:\n\n9599 - 9584 = 15\n\nAnd then we add this result to the product we calculated:\n\n15 + 37045043 = 37045058\n\nSo the final result is [37045058]."
+                ],
+                [
+                    "What is the value of 5403 * 2590 / 9453 - 7238? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -5757.6,
+                    -5757.9,
+                    "To calculate the value of 5403 * 2590 / 9453 - 7238, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered using the acronym PEMDAS.\n\nFirst, we perform the multiplication:\n\n5403 * 2590 = 13,994,370\n\nNext, we perform the division:\n\n13,994,370 / 9453 ≈ 1480.121\n\nFinally, we subtract 7238 from the result of the division:\n\n1480.121 - 7238 ≈ -5757.879\n\nSo, the final result is approximately [-5757.879]."
+                ],
+                [
+                    "What is the value of 1394 - 9482 / 6693 * 4647? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -5189.4,
+                    -5191.6,
+                    "To solve the expression 1394 - 9482 / 6693 * 4647, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n9482 / 6693 = 1.4169 (rounded to four decimal places)\n\nNext, we multiply the result by 4647:\n\n1.4169 * 4647 = 6585.6263 (rounded to four decimal places)\n\nFinally, we subtract that result from 1394:\n\n1394 - 6585.6263 = -5191.6263\n\nSo the final result, rounded to four decimal places, is [-5191.6263]."
+                ],
+                [
+                    "What is the value of 5075 * 7244 + 590 - 4462? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    36759428.0,
+                    36758828,
+                    "To calculate the value of the expression 5075 * 7244 + 590 - 4462, we first perform the multiplication, then the addition, and finally the subtraction:\n\nMultiplication:\n5075 * 7244 = 36,762,700\n\nAddition:\n36,762,700 + 590 = 36,763,290\n\nSubtraction:\n36,763,290 - 4462 = 36,758,828\n\nSo the final result is [36,758,828]."
+                ],
+                [
+                    "What is the value of 7716 * 9312 - 3700 / 9085? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    71851391.6,
+                    71877191.6,
+                    "To solve the expression 7716 * 9312 - 3700 / 9085, we first need to perform the multiplication and division before subtracting.\n\nMultiplying 7716 by 9312:\n7716 * 9312 = 71877192\n\nThen, dividing 3700 by 9085:\n3700 / 9085 ≈ 0.407174\n\nNow we subtract the result of the division from the result of the multiplication:\n71877192 - 0.407174 ≈ 71877191.592826\n\nSo the final result is approximately [71877191.59]."
+                ],
+                [
+                    "What is the value of 2520 - 6935 * 5638 + 9027? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -39087983.0,
+                    -39073183,
+                    "To solve the expression 2520 - 6935 * 5638 + 9027, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n6935 * 5638 = 39084730\n\nNow we have:\n\n2520 - 39084730 + 9027\n\nNext, we perform the addition and subtraction from left to right:\n\n2520 + 9027 = 11547\n\n11547 - 39084730 = -39073183\n\nSo the final result is:\n\n[-39073183]"
+                ],
+                [
+                    "What is the value of 5796 - 2088 + 7681 * 7904? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    60714332.0,
+                    60729452,
+                    "To solve the arithmetic expression, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven the expression:\n\n5796 - 2088 + 7681 * 7904\n\nFirst, we perform the multiplication:\n\n7681 * 7904 = 60725744\n\nNow, we have:\n\n5796 - 2088 + 60725744\n\nNext, we perform the subtraction and addition from left to right:\n\n5796 - 2088 = 3708\n\nFinally, we add the result to the product:\n\n3708 + 60725744 = 60729452\n\nSo the value of the expression is [60729452]."
+                ],
+                [
+                    "What is the value of 9435 / 9044 - 3974 * 3292? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -13082407.0,
+                    -13086967.0,
+                    "Let's calculate the value step by step.\n\nFirst, we divide 9435 by 9044:\n\n9435 / 9044 ≈ 1.0432 (rounded to four decimal places)\n\nNext, we multiply 3974 by 3292:\n\n3974 * 3292 = 13086968\n\nNow, let's subtract the second result from the first:\n\n1.0432 - 13086968 ≈ -13086966.9568 (rounded to four decimal places)\n\nTherefore, the final result is approximately [-13086966.9568]."
+                ],
+                [
+                    "What is the value of 9560 * 2199 - 511 / 4901? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    21022439.9,
+                    21018440,
+                    "To solve this expression, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nGiven the expression:\n\n9560 * 2199 - 511 / 4901\n\nWe first perform the multiplication, then the division, and finally the subtraction.\n\nMultiplication:\n9560 * 2199 = 21018440\n\nDivision:\n511 / 4901 ≈ 0.1042630051 (rounded to 10 decimal places)\n\nNow we subtract the result of the division from the result of the multiplication:\n\n21018440 - 0.1042630051 ≈ 21018439.8957369949 (rounded to 10 decimal places)\n\nThe final result as a decimal, rounded to the nearest whole number, is:\n\n21018439.8957369949 ≈ 21018440\n\nSo the value of the expression is approximately [21018440]."
+                ],
+                [
+                    "What is the value of 9366 * 4395 - 3030 + 9524? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    41170064.0,
+                    41204864,
+                    "To calculate the value of the expression 9366 * 4395 - 3030 + 9524, we first need to perform the multiplication, then the subtraction, and finally the addition, following the order of operations (PEMDAS/BODMAS).\n\nMultiplication:\n9366 * 4395 = 41,198,370\n\nNow we subtract 3030 from the result:\n41,198,370 - 3030 = 41,195,340\n\nFinally, we add 9524 to the result:\n41,195,340 + 9524 = 41,204,864\n\nSo the value of the expression is [41,204,864]."
+                ],
+                [
+                    "What is the value of 2285 * 4896 - 2506 / 7406? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    11187359.7,
+                    11184839.7,
+                    "To solve the expression 2285 * 4896 - 2506 / 7406, we need to perform the multiplication and division before the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\nFirst, we multiply 2285 by 4896:\n2285 * 4896 = 11184840\n\nThen, we divide 2506 by 7406:\n2506 / 7406 ≈ 0.3384 (rounded to four decimal places)\n\nNow we subtract the result of the division from the result of the multiplication:\n11184840 - 0.3384 ≈ 11184839.6616 (rounded to four decimal places)\n\nThe final result is approximately:\n[11184839.6616]"
+                ],
+                [
+                    "What is the value of 9102 * 732 - 7453 / 1080? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6662657.1,
+                    6664737.1,
+                    "Let's calculate the value step by step:\n\nFirst, we multiply 9102 by 732:\n9102 * 732 = 6664744\n\nNext, we divide 7453 by 1080:\n7453 / 1080 ≈ 6.89907407407 (rounded to 11 decimal places)\n\nNow we subtract the second result from the first:\n6664744 - 6.89907407407 ≈ 6664737.100925926\n\nFinally, we round the result to a reasonable number of decimal places, for example, to two decimal places:\n6664737.10\n\nSo the value of 9102 * 732 - 7453 / 1080 is approximately [6664737.10]."
+                ],
+                [
+                    "What is the value of 9741 - 2583 / 7213 * 7168? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7174.1,
+                    7176.8,
+                    "To solve the expression 9741 - 2583 / 7213 * 7168, we first need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nLet's solve it step by step:\n\n1. Division: 2583 / 7213\n2. Multiplication: (result of division) * 7168\n3. Subtraction: 9741 - (result of multiplication)\n\nFirst, we divide 2583 by 7213:\n\n2583 / 7213 ≈ 0.358\n\nNow, we multiply this result by 7168:\n\n0.358 * 7168 ≈ 2564.224\n\nFinally, we subtract this result from 9741:\n\n9741 - 2564.224 ≈ 7176.776\n\nSo the final result is approximately [7176.776]."
+                ],
+                [
+                    "What is the value of 5902 - 4464 / 3234 * 1143? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4324.3,
+                    4324.7,
+                    "To solve the expression 5902 - 4464 / 3234 * 1143, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed from left to right.\n\nFirst, we perform the division:\n\n4464 / 3234 = 1.38008617 (rounded to 8 decimal places)\n\nNext, we multiply the result by 1143:\n\n1.38008617 * 1143 = 1577.26848951 (rounded to 8 decimal places)\n\nFinally, we subtract this result from 5902:\n\n5902 - 1577.26848951 = 4324.73151049 (rounded to 8 decimal places)\n\nSo the final result, rounded to two decimal places, is:\n\n4324.73\n\nTherefore, the value of the expression is approximately [4324.73]."
+                ],
+                [
+                    "What is the value of 2556 - 3361 / 6952 * 7588? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1112.5,
+                    -1112.5,
+                    "To solve the expression 2556 - 3361 / 6952 * 7588, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), and Addition and Subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n3361 / 6952 * 7588\n\nWe first divide 3361 by 6952, and then multiply the result by 7588. Let's calculate the division first:\n\n3361 / 6952 ≈ 0.4835 (rounded to four decimal places)\n\nNow, we multiply this result by 7588:\n\n0.4835 * 7588 ≈ 3668.4588 (rounded to four decimal places)\n\nNow we have the expression:\n\n2556 - 3668.4588\n\nFinally, we perform the subtraction:\n\n2556 - 3668.4588 ≈ -1112.4588 (rounded to four decimal places)\n\nSo the final result is approximately [-1112.4588]."
+                ],
+                [
+                    "What is the value of 6646 / 6048 - 3112 * 2419? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -7527926.9,
+                    -7528766.9,
+                    "To find the value of the expression 6646 / 6048 - 3112 * 2419, we need to perform the division and multiplication first, and then the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\nFirst, we divide 6646 by 6048:\n\n6646 / 6048 ≈ 1.0989 (rounded to four decimal places)\n\nNext, we multiply 3112 by 2419:\n\n3112 * 2419 = 7528768\n\nNow, we subtract the product from the result of the division:\n\n1.0989 - 7528768 ≈ -7528766.9011 (rounded to four decimal places)\n\nThe final result, rounded to four decimal places, is approximately:\n\n[-7528766.9011]"
+                ],
+                [
+                    "What is the value of 8124 + 1298 * 970 - 1148? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1266036.0,
+                    1266036,
+                    "To solve the expression, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nThe expression given is:\n\n8124 + 1298 * 970 - 1148\n\nFirst, we perform the multiplication:\n\n1298 * 970 = 1,259,060\n\nNow, we substitute the result of the multiplication back into the expression:\n\n8124 + 1,259,060 - 1148\n\nNext, we perform the addition and subtraction from left to right:\n\n8124 + 1,259,060 = 1,267,184\n\nFinally, subtract 1148:\n\n1,267,184 - 1148 = 1,266,036\n\nSo, the value of the expression is [1,266,036]."
+                ],
+                [
+                    "What is the value of 9428 * 166 - 7856 + 3045? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1560237.0,
+                    1560237,
+                    "To solve the expression 9428 * 166 - 7856 + 3045, we should follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n\n9428 * 166 = 1,565,048\n\nThen we perform the subtraction and addition in order from left to right:\n\n1,565,048 - 7856 = 1,557,192\n\n1,557,192 + 3045 = 1,560,237\n\nSo the result of the expression 9428 * 166 - 7856 + 3045 is [1,560,237]."
+                ],
+                [
+                    "What is the value of 7600 - 4114 + 5699 * 5829? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    33222957.0,
+                    33217857,
+                    "To solve the expression 7600 - 4114 + 5699 * 5829, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division, and finally addition and subtraction (PEMDAS/BODMAS).\n\nFirst, we perform the multiplication:\n5699 * 5829 = 33214371\n\nThen we perform the subtraction and addition:\n7600 - 4114 = 3486\n\nNow we add the result of the multiplication to the result of the subtraction:\n3486 + 33214371 = 33217857\n\nSo the value of the expression is [33217857]."
+                ],
+                [
+                    "What is the value of 9787 - 9911 / 219 * 6794? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -297680.3,
+                    -297654.7,
+                    "To solve this expression, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nThe expression given is:\n\n9787 - 9911 / 219 * 6794\n\nFirst, we perform the division:\n\n9911 / 219 = 45.256\n\nNext, we multiply the result by 6794:\n\n45.256 * 6794 = 307441.664\n\nFinally, we subtract this result from 9787:\n\n9787 - 307441.664 = -297654.664\n\nTherefore, the value of the expression is [-297654.664]."
+                ],
+                [
+                    "What is the value of 7757 - 2895 / 8830 * 9371? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4684.6,
+                    4685,
+                    "To solve the expression 7757 - 2895 / 8830 * 9371, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, multiplication and division should be performed before addition and subtraction, and they are performed from left to right.\n\nSo, let's first perform the division and then the multiplication:\n\n2895 / 8830 = 0.32774274661508704 (approximately)\n\nNow, multiply this result by 9371:\n\n0.32774274661508704 * 9371 = 3071.9999999999995 (approximately)\n\nNow, subtract this result from 7757:\n\n7757 - 3072 = 4685 (since 3071.9999999999995 is approximately 3072)\n\nTherefore, the final result is [4685]."
+                ],
+                [
+                    "What is the value of 3952 * 7776 - 4042 + 53? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    30726763.0,
+                    30726763,
+                    "To find the value of the expression 3952 * 7776 - 4042 + 53, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n3952 * 7776 = 30730752\n\nNext, we perform the subtraction and addition in order from left to right:\n30730752 - 4042 = 30726710\n30726710 + 53 = 30726763\n\nTherefore, the final result is [30726763]."
+                ],
+                [
+                    "What is the value of 3457 - 356 * 1636 + 2369? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -576590.0,
+                    -576590,
+                    "To solve the expression 3457 - 356 * 1636 + 2369, we should follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division from left to right, and finally addition and subtraction from left to right. This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nLet's calculate it step by step:\n\n1. First, we'll perform the multiplication:\n   356 * 1636 = 582416\n\n2. Then, we'll perform the subtraction and addition from left to right:\n   3457 - 582416 + 2369\n\n3. Subtract 582416 from 3457:\n   3457 - 582416 = -578959\n\n4. Finally, add 2369 to the result:\n   -578959 + 2369 = -576590\n\nSo the value of the expression is [-576590]."
+                ],
+                [
+                    "What is the value of 5092 * 8422 - 1388 + 549? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    42883985.0,
+                    42893905,
+                    "To calculate the value of the expression 5092 * 8422 - 1388 + 549, we first perform the multiplication, then the subtraction, and finally the addition:\n\n5092 * 8422 = 42,894,744\n42,894,744 - 1388 = 42,893,356\n42,893,356 + 549 = 42,893,905\n\nSo the final result is [42,893,905]."
+                ]
+            ]
+        }
+    },
+    "/": {
+        "+": {
+            "accuracy": "15/25=0.6",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 7464 / 3198 + 5788 * 3101? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    17948590.3,
+                    17953390,
+                    "To solve the expression 7464 / 3198 + 5788 * 3101, we need to perform the division and multiplication first according to the order of operations (PEMDAS/BODMAS).\n\nFirst, we do the division:\n7464 / 3198 = 2.33333333333 (approximately)\n\nNext, we do the multiplication:\n5788 * 3101 = 17953388\n\nNow we add the results of the division and multiplication:\n2.33333333333 + 17953388 = 17953390.33333333333\n\nSo the final result, rounded to the nearest integer, is approximately [17953390]."
+                ],
+                [
+                    "What is the value of 4450 + 2165 * 1666 / 2521? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5880.7,
+                    5880.5,
+                    "To solve the expression 4450 + 2165 * 1666 / 2521, we must follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication and division from left to right:\n\n2165 * 1666 = 3605790\n3605790 / 2521 = 1430.5 (approximately, since the division does not result in a whole number)\n\nNow we have:\n\n4450 + 1430.5\n\nAdding those together gives us:\n\n4450 + 1430.5 = 5880.5\n\nSo the value of the expression is [5880.5]."
+                ],
+                [
+                    "What is the value of 8659 - 6849 + 8275 / 2532? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1813.3,
+                    1813.3,
+                    "To solve the expression 8659 - 6849 + 8275 / 2532, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division from left to right, and finally addition and subtraction from left to right. This is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven that there are no parentheses or exponents, we start with division:\n\n8275 / 2532 = 3.267\n\nNow we can perform the addition and subtraction:\n\n8659 - 6849 + 3.267\n\nFirst, we'll subtract 6849 from 8659:\n\n8659 - 6849 = 1810\n\nNow we add the result of the division:\n\n1810 + 3.267 = 1813.267\n\nSo the final result is [1813.267]."
+                ],
+                [
+                    "What is the value of 1595 - 4592 + 6488 / 8564? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2996.2,
+                    -2996.2,
+                    "To solve the expression 1595 - 4592 + 6488 / 8564, we need to follow the order of operations, which is typically remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction from left to right).\n\nFirst, we perform the division:\n\n6488 / 8564 = 0.7577 (rounded to four decimal places)\n\nNow we can proceed with the addition and subtraction:\n\n1595 - 4592 + 0.7577 ≈ 1595 - 4592 + 0.7577\n= -2997 + 0.7577\n≈ -2996.2423\n\nSo the final result, rounded to four decimal places, is approximately [-2996.2423]."
+                ],
+                [
+                    "What is the value of 5691 - 5860 + 8062 / 4036? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -167.0,
+                    -167.0,
+                    "To solve the expression 5691 - 5860 + 8062 / 4036, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we perform the division:\n\n8062 / 4036 = 1.998514115899582\n\nNow we have:\n\n5691 - 5860 + 1.998514115899582\n\nNext, we perform the subtraction and addition from left to right:\n\n5691 - 5860 = -169\n\nNow add the result of the division:\n\n-169 + 1.998514115899582 = -167.00148588410042\n\nThe final result, rounded to the nearest decimal, is:\n\n[-167.0]"
+                ],
+                [
+                    "What is the value of 2550 / 7736 - 1864 + 4074? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2210.3,
+                    2210.3,
+                    "To solve the expression 2550 / 7736 - 1864 + 4074, we first perform the division, then the subtraction, and finally the addition.\n\n2550 / 7736 = 0.3296 (approximately, rounded to four decimal places)\n\nNow, we subtract 1864 from this result:\n\n0.3296 - 1864 = -1863.6704 (approximately, rounded to four decimal places)\n\nFinally, we add 4074 to the result:\n\n-1863.6704 + 4074 = 2210.3296 (approximately, rounded to four decimal places)\n\nSo the final result is approximately [2210.3296]."
+                ],
+                [
+                    "What is the value of 8379 / 9240 * 4992 + 3183? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7709.8,
+                    7710.3,
+                    "To solve the expression 8379 / 9240 * 4992 + 3183, follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). Since there are no parentheses or exponents, we start with the division and multiplication, and then proceed to the addition.\n\nFirst, divide 8379 by 9240:\n\n8379 / 9240 = 0.907051282051282\n\nNext, multiply this result by 4992:\n\n0.907051282051282 * 4992 ≈ 4527.255128205128\n\nFinally, add 3183 to the result of the multiplication:\n\n4527.255128205128 + 3183 ≈ 7710.255128205128\n\nRounded to the nearest whole number, the result is approximately 7710.26.\n\nSo the final result is [7710.26]."
+                ],
+                [
+                    "What is the value of 6408 - 8182 / 4363 + 2111? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8517.1,
+                    8517.1,
+                    "To solve the expression 6408 - 8182 / 4363 + 2111, we should follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division:\n\n8182 / 4363 ≈ 1.875 (rounded to three decimal places for simplicity)\n\nNow, we can rewrite the expression with this result:\n\n6408 - 1.875 + 2111\n\nNext, we perform the addition and subtraction from left to right:\n\n6408 - 1.875 ≈ 6406.125\n6406.125 + 2111 ≈ 8517.125\n\nSo the final result is approximately [8517.125]."
+                ],
+                [
+                    "What is the value of 9905 - 5692 + 4533 / 4789? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4213.9,
+                    4213.9,
+                    "To solve the expression 9905 - 5692 + 4533 / 4789, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n4533 / 4789 = 0.9462 (approximately, rounded to four decimal places)\n\nNow, we have:\n\n9905 - 5692 + 0.9462\n\nNext, we perform the subtraction and addition from left to right:\n\n9905 - 5692 = 4213\n\nNow, we add the result of the division:\n\n4213 + 0.9462 = 4213.9462\n\nSo the final result is approximately [4213.9462]."
+                ],
+                [
+                    "What is the value of 3652 / 8675 * 8136 + 1556? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4981.1,
+                    4982,
+                    "To find the value of the expression, we first follow the order of operations, which is parentheses first, then exponents, multiplication and division from left to right, and finally addition and subtraction from left to right. Since there are no parentheses or exponents, we start with the multiplication and division.\n\nFirst, we divide 3652 by 8675:\n\n3652 / 8675 = 0.4209195402 (approximately)\n\nThen, we multiply this result by 8136:\n\n0.4209195402 * 8136 = 3425.9999992 (approximately)\n\nFinally, we add 1556 to the result:\n\n3425.9999992 + 1556 = 4981.9999992 (approximately)\n\nRounded to the nearest whole number, the result is 4982.\n\nSo, the value of the expression is approximately [4982]."
+                ],
+                [
+                    "What is the value of 1320 - 4692 / 3391 + 2820? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4138.6,
+                    4138.6,
+                    "To solve the expression 1320 - 4692 / 3391 + 2820, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), and Addition and Subtraction (from left to right). This is often abbreviated as PEMDAS.\n\nFirst, we perform the division:\n\n4692 / 3391\n\nTo get the exact decimal result of this division, we divide 4692 by 3391:\n\n4692 ÷ 3391 ≈ 1.3834 (rounded to four decimal places)\n\nNow we can rewrite the expression with this result:\n\n1320 - 1.3834 + 2820\n\nNext, we perform the subtraction and addition from left to right:\n\n1320 - 1.3834 = 1318.6166\n1318.6166 + 2820 = 4138.6166\n\nSo the final result of the expression is approximately:\n\n4138.6166\n\nTherefore, the value of the expression is approximately [4138.62] when rounded to two decimal places."
+                ],
+                [
+                    "What is the value of 9430 / 324 * 1975 + 8892? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    66374.3,
+                    66411.4,
+                    "To solve the expression 9430 / 324 * 1975 + 8892, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division:\n\n9430 / 324 = 29.1111111111 (rounded to 10 decimal places)\n\nNext, we multiply the result by 1975:\n\n29.1111111111 * 1975 ≈ 57519.4444444444 (rounded to 10 decimal places)\n\nFinally, we add 8892 to the result of the multiplication:\n\n57519.4444444444 + 8892 ≈ 66411.4444444444 (rounded to 10 decimal places)\n\nTherefore, the final result, rounded to the nearest decimal, is approximately [66411.4]."
+                ],
+                [
+                    "What is the value of 2189 - 3226 + 4617 / 8882? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1036.5,
+                    -1036.5,
+                    "To solve the expression 2189 - 3226 + 4617 / 8882, we need to follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n4617 / 8882 = 0.5201 (rounded to four decimal places)\n\nNow we can perform the subtraction and addition:\n\n2189 - 3226 + 0.5201 = -1037 + 0.5201 = -1036.4799\n\nRounded to four decimal places, the final result is:\n\n[-1036.4799]"
+                ],
+                [
+                    "What is the value of 4905 - 56 + 8636 / 7826? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4850.1,
+                    4850.1,
+                    "To solve the expression 4905 - 56 + 8636 / 7826, we will follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we will perform the division:\n\n8636 / 7826 ≈ 1.1035 (rounded to four decimal places)\n\nNow, we subtract and then add to the result:\n\n4905 - 56 + 1.1035\n= 4849 + 1.1035\n= 4850.1035\n\nSo the final result is approximately [4850.1035]."
+                ],
+                [
+                    "What is the value of 5170 - 6923 / 8343 + 2262? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7431.2,
+                    7431.2,
+                    "To solve the expression 5170 - 6923 / 8343 + 2262, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division:\n\n6923 / 8343 = 0.8297 (rounded to four decimal places)\n\nNow, we have:\n\n5170 - 0.8297 + 2262\n\nNext, we perform the subtraction and addition from left to right:\n\n5170 - 0.8297 = 5169.1703 (rounded to four decimal places)\n5169.1703 + 2262 = 7431.1703 (rounded to four decimal places)\n\nSo the final result is:\n\n[7431.1703]"
+                ],
+                [
+                    "What is the value of 7608 - 7464 + 7716 / 5373? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    145.4,
+                    145.4,
+                    "First, we need to solve the division before we do the subtraction and addition because of the order of operations (PEMDAS/BODMAS: Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction).\n\nSo, let's calculate the division first:\n\n7716 / 5373 = 1.4356 (rounded to four decimal places)\n\nNow, let's do the subtraction and addition:\n\n7608 - 7464 = 144\n\nNow, add the result of the division:\n\n144 + 1.4356 = 145.4356\n\nSo the final result is [145.4356]."
+                ],
+                [
+                    "What is the value of 8868 / 8784 * 8820 + 7601? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    16505.3,
+                    16505.7,
+                    "To calculate the value of the expression 8868 / 8784 * 8820 + 7601, we first perform the division and multiplication, and then the addition:\n\n8868 / 8784 = 1.0096 (approximately, to four decimal places)\n1.0096 * 8820 = 8904.672 (approximately, to three decimal places)\n8904.672 + 7601 = 16505.672 (approximately, to three decimal places)\n\nSo the final result is approximately [16505.672]."
+                ],
+                [
+                    "What is the value of 4825 - 1857 / 8683 + 3843? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8667.8,
+                    8667.8,
+                    "To solve this expression, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division and multiplication should be done before addition and subtraction, and all operations should be performed from left to right.\n\nSo, let's first perform the division:\n\n1857 / 8683\n\nThis division will result in a decimal number, which we can then use in the remaining calculation. Let's calculate this:\n\n1857 / 8683 ≈ 0.2139 (rounded to four decimal places for simplicity)\n\nNow we substitute this result back into the original expression:\n\n4825 - (1857 / 8683) + 3843\n4825 - 0.2139 + 3843\n\nNow we perform the subtraction and then the addition:\n\n4825 - 0.2139 ≈ 4824.7861\n4824.7861 + 3843 ≈ 8667.7861\n\nSo the final result is approximately:\n\n[8667.7861]"
+                ],
+                [
+                    "What is the value of 3304 / 9943 - 1125 + 1225? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    100.3,
+                    100.3,
+                    "To solve the expression 3304 / 9943 - 1125 + 1225, we need to follow the order of operations, which is parentheses first, then exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we divide 3304 by 9943:\n\n3304 / 9943 ≈ 0.3322 (rounded to four decimal places for simplicity)\n\nThen, we subtract 1125 and add 1225 to the result:\n\n0.3322 - 1125 + 1225\n\nNow we perform the subtraction and addition in order from left to right:\n\n(0.3322 - 1125) + 1225\n≈ -1124.6678 + 1225\n\nFinally, we add 1225 to -1124.6678:\n\n-1124.6678 + 1225 ≈ 100.3322\n\nSo the value of the expression is approximately [100.3322] when rounded to four decimal places."
+                ],
+                [
+                    "What is the value of 3279 / 3559 - 9522 + 1335? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -8186.1,
+                    -8186.1,
+                    "Let's solve the expression step by step:\n\nFirst, we perform the division:\n3279 / 3559 = 0.9218 (approximately, rounded to four decimal places)\n\nNext, we perform the subtraction and addition in the expression from left to right:\n0.9218 - 9522 + 1335\n\nFirst, we subtract 9522 from 0.9218:\n0.9218 - 9522 = -9521.0782\n\nThen we add 1335 to the result:\n-9521.0782 + 1335 = -8186.0782\n\nSo the final result is approximately:\n[-8186.0782]"
+                ],
+                [
+                    "What is the value of 781 + 2556 - 8080 / 4147? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3335.1,
+                    3335.1,
+                    "First, let's perform the division:\n\n8080 / 4147 ≈ 1.9479 (rounded to four decimal places)\n\nNow, let's perform the addition and subtraction:\n\n781 + 2556 - 1.9479 ≈ 3337 - 1.9479 ≈ 3335.0521\n\nSo the final result, rounded to four decimal places, is [3335.0521]."
+                ],
+                [
+                    "What is the value of 5816 / 7047 * 2723 + 9749? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    11996.3,
+                    11996.8,
+                    "To calculate the value of the expression 5816 / 7047 * 2723 + 9749, we first do the division and multiplication, and then add the last number. Let's do the calculation step by step:\n\n5816 / 7047 = 0.8254 (approximately, rounded to 4 decimal places)\n0.8254 * 2723 = 2247.7592 (approximately, rounded to 4 decimal places)\n2247.7592 + 9749 = 11996.7592 (approximately, rounded to 4 decimal places)\n\nSo the final result, rounded to four decimal places, is [11996.7592]."
+                ],
+                [
+                    "What is the value of 5770 + 8227 * 2775 / 1200? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    24794.9,
+                    24803.3,
+                    "To solve the expression 5770 + 8227 * 2775 / 1200, we should follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication and division:\n\n8227 * 2775 = 22839975\n\nNow, we divide the result by 1200:\n\n22839975 / 1200 ≈ 19033.3125\n\nNow, we can add this result to 5770:\n\n5770 + 19033.3125 = 24803.3125\n\nSo, the final result is [24803.3125]."
+                ],
+                [
+                    "What is the value of 8108 + 3904 * 6299 / 781? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    39594.9,
+                    39593.2,
+                    "To solve the expression 8108 + 3904 * 6299 / 781, we should follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division from left to right, and finally addition and subtraction from left to right. This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the multiplication and division:\n\n3904 * 6299 = 24589904\n24589904 / 781 ≈ 31485.1517\n\nNow, we add the result to 8108:\n\n8108 + 31485.1517 ≈ 39593.1517\n\nTherefore, the value of the expression is approximately [39593.15]."
+                ],
+                [
+                    "What is the value of 2721 + 9361 / 8107 * 9540? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13736.7,
+                    13732.3,
+                    "To solve the expression 2721 + 9361 / 8107 * 9540, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is commonly known as PEMDAS or BODMAS.\n\nFirst, we perform the division, then the multiplication, and finally the addition:\n\n9361 / 8107 * 9540 + 2721\n\nFirst, we divide 9361 by 8107:\n\n9361 / 8107 ≈ 1.1549 (rounded to four decimal places for simplicity)\n\nThen we multiply the result by 9540:\n\n1.1549 * 9540 ≈ 11011.326 (rounded to three decimal places)\n\nFinally, we add 2721 to the result:\n\n11011.326 + 2721 ≈ 13732.326\n\nSo the final result, rounded to three decimal places, is approximately [13732.326]."
+                ]
+            ]
+        },
+        "-": {
+            "accuracy": "6/25=0.24",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "What is the value of 8686 - 7194 / 631 * 7615? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -78132.2,
+                    -86098.2,
+                    "To solve the expression 8686 - 7194 / 631 * 7615, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, we must perform the division before the subtraction.\n\nFirst, we divide 7194 by 631:\n7194 / 631 ≈ 11.4009465\n\nThen we multiply the result by 7615:\n11.4009465 * 7615 ≈ 86784.1950395\n\nNow, we subtract this result from 8686:\n8686 - 86784.1950395 ≈ -86098.1950395\n\nSo the final result is approximately [-86098.20]."
+                ],
+                [
+                    "What is the value of 2594 / 2746 * 8882 - 4363? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4027.4,
+                    4023.1,
+                    "To solve the expression 2594 / 2746 * 8882 - 4363, we'll follow the order of operations, which is parentheses first, then exponents, multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we perform the division:\n\n2594 / 2746 = 0.944366 (rounded to six decimal places)\n\nNext, we multiply the result by 8882:\n\n0.944366 * 8882 ≈ 8386.079332 (rounded to six decimal places)\n\nFinally, we subtract 4363 from the multiplication result:\n\n8386.079332 - 4363 ≈ 4023.079332 (rounded to six decimal places)\n\nSo, the final result is approximately [4023.079332]."
+                ],
+                [
+                    "What is the value of 71 / 8495 * 5929 - 2985? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2935.4,
+                    -2935.4,
+                    "To solve the expression \\( \\frac{71}{8495} \\times 5929 - 2985 \\), we first calculate the division and multiplication, and then subtract 2985.\n\nFirst, divide 71 by 8495:\n\\( \\frac{71}{8495} \\approx 0.00836257 \\)\n\nNow, multiply this result by 5929:\n\\( 0.00836257 \\times 5929 \\approx 49.5613 \\)\n\nFinally, subtract 2985 from the result:\n\\( 49.5613 - 2985 \\approx -2935.4387 \\)\n\nSo the final result is approximately [-2935.4387]."
+                ],
+                [
+                    "What is the value of 5886 / 8742 * 735 - 1093? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -598.1,
+                    -597.8,
+                    "To solve the expression 5886 / 8742 * 735 - 1093, we should follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). Since there are no parentheses or exponents, we start with the division and multiplication:\n\nFirst, we divide 5886 by 8742:\n5886 / 8742 ≈ 0.6734 (rounded to four decimal places)\n\nNext, we multiply this result by 735:\n0.6734 * 735 ≈ 495.153 (rounded to three decimal places)\n\nFinally, we subtract 1093 from the result of the multiplication:\n495.153 - 1093 ≈ -597.847 (rounded to three decimal places)\n\nSo, the final result of the expression is approximately [-597.847]."
+                ],
+                [
+                    "What is the value of 7744 * 6767 - 7721 / 7468? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    52403647.0,
+                    52422447.0,
+                    "To find the value of the expression 7744 * 6767 - 7721 / 7468, we need to perform the multiplication and division first and then the subtraction.\n\nFirst, we multiply 7744 by 6767:\n7744 * 6767 = 52422448\n\nNext, we divide 7721 by 7468:\n7721 / 7468 ≈ 1.0338 (rounded to four decimal places)\n\nNow we subtract the result of the division from the result of the multiplication:\n52422448 - 1.0338 ≈ 52422446.9662\n\nSo the final result, rounded to four decimal places, is approximately [52422446.9662]."
+                ],
+                [
+                    "What is the value of 1583 / 7191 * 6452 - 2507? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1086.7,
+                    -1086.3,
+                    "To solve the expression 1583 / 7191 * 6452 - 2507, we should follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division:\n\n1583 / 7191 = 0.220166\n\nThen we multiply the result by 6452:\n\n0.220166 * 6452 = 1420.651032\n\nFinally, we subtract 2507 from the result:\n\n1420.651032 - 2507 = -1086.348968\n\nSo the final result is approximately [-1086.35]."
+                ],
+                [
+                    "What is the value of 9445 / 6251 * 4796 - 9444? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2197.4,
+                    -2200.5,
+                    "To solve the expression 9445 / 6251 * 4796 - 9444, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This is often remembered by the acronym PEMDAS.\n\nFirst, we divide 9445 by 6251, then multiply the result by 4796, and finally subtract 9444 from the result of the multiplication.\n\nLet's calculate it step by step:\n\n9445 / 6251 = 1.510797\n\nNow we multiply this result by 4796:\n\n1.510797 * 4796 = 7243.468152\n\nFinally, we subtract 9444 from the result:\n\n7243.468152 - 9444 = -2200.531848\n\nTherefore, the final result is approximately [-2200.53] when rounded to two decimal places."
+                ],
+                [
+                    "What is the value of 9853 / 4360 * 9921 - 6162? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    16258.1,
+                    16262,
+                    "To solve the expression 9853 / 4360 * 9921 - 6162, we'll first perform the division, then the multiplication, and finally the subtraction, following the order of operations (PEMDAS/BODMAS).\n\nFirst, we divide 9853 by 4360:\n\n9853 / 4360 ≈ 2.25986238532\n\nNow, we multiply this result by 9921:\n\n2.25986238532 * 9921 ≈ 22423.999965892\n\nFinally, we subtract 6162 from the result of the multiplication:\n\n22423.999965892 - 6162 ≈ 16261.999965892\n\nRounded to a reasonable number of decimal places, the answer would be approximately 16262. But since you have not specified the number of decimal places you want, I'll give you the result rounded to the nearest whole number:\n\n[16262]"
+                ],
+                [
+                    "What is the value of 4416 - 4190 * 3394 / 6355? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2178.3,
+                    2178.4,
+                    "To solve the expression 4416 - 4190 * 3394 / 6355, we should follow the order of operations, which is parentheses first (not applicable here), then exponents (also not applicable), followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right).\n\nFirst, we perform the multiplication and division:\n\n4190 * 3394 = 14224660\n\nNow, divide that result by 6355:\n\n14224660 / 6355 ≈ 2237.6106\n\nNow, we can subtract that result from 4416:\n\n4416 - 2237.6106 ≈ 2178.3894\n\nSo the final result is approximately [2178.3894]."
+                ],
+                [
+                    "What is the value of 8231 - 4644 * 8306 / 7072? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2776.7,
+                    2775.4,
+                    "To solve the expression 8231 - 4644 * 8306 / 7072, we need to follow the order of operations, which is parentheses first, then exponents, multiplication and division from left to right, and finally addition and subtraction from left to right. This is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven the expression does not have any parentheses or exponents, we start with the multiplication and division:\n\n4644 * 8306 / 7072\n\nFirst, we perform the multiplication:\n\n4644 * 8306 = 38570424\n\nNext, we divide the result by 7072:\n\n38570424 / 7072 ≈ 5455.625106\n\nNow we can subtract this result from 8231:\n\n8231 - 5455.625106 ≈ 2775.374894\n\nSo the value of the expression is approximately [2775.37] when rounded to two decimal places."
+                ],
+                [
+                    "What is the value of 9406 - 2499 / 6143 * 6544? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6743.9,
+                    6742.5,
+                    "First, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this order, we must perform the division before the subtraction.\n\nSo, we will first divide 2499 by 6143, and then multiply the result by 6544, and finally subtract that from 9406.\n\nLet's calculate it step by step:\n\n1. Division: 2499 / 6143 = 0.4069 (rounded to four decimal places for simplicity)\n2. Multiplication: 0.4069 * 6544 = 2663.4856 (rounded to four decimal places)\n3. Subtraction: 9406 - 2663.4856 = 6742.5144 (rounded to four decimal places)\n\nSo the result is approximately [6742.5144]."
+                ],
+                [
+                    "What is the value of 6719 / 7768 * 8991 - 4364? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3412.8,
+                    3411.4,
+                    "To find the value of the expression 6719 / 7768 * 8991 - 4364, we first perform the division and multiplication, and then subtract the last number.\n\nFirst, divide 6719 by 7768:\n6719 ÷ 7768 ≈ 0.865\n\nThen multiply that result by 8991:\n0.865 * 8991 ≈ 7775.415\n\nFinally, subtract 4364 from the result:\n7775.415 - 4364 ≈ 3411.415\n\nSo the final result is approximately [3411.415]."
+                ],
+                [
+                    "What is the value of 5759 - 1044 * 3221 / 935? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2162.5,
+                    2161.5,
+                    "To calculate the value of 5759 - 1044 * 3221 / 935, we should follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication and division from left to right:\n\n1044 * 3221 = 3363584\n3363584 / 935 = 3597.543315\n\nNow, we subtract this result from 5759:\n\n5759 - 3597.543315 = 2161.456685\n\nTherefore, the final result is [2161.456685]."
+                ],
+                [
+                    "What is the value of 7377 / 102 * 9928 - 243? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    717785.0,
+                    718000.5,
+                    "To solve the expression 7377 / 102 * 9928 - 243, we'll follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we'll do the division, then the multiplication, and finally the subtraction:\n\n\\( \\frac{7377}{102} \\times 9928 - 243 \\)\n\nLet's calculate the division first:\n\n\\( \\frac{7377}{102} \\approx 72.3235294118 \\) (rounded to 10 decimal places)\n\nNow, we'll multiply this result by 9928:\n\n\\( 72.3235294118 \\times 9928 \\approx 718,243.52941176 \\) (rounded to 8 decimal places)\n\nFinally, we'll subtract 243 from this result:\n\n\\( 718,243.52941176 - 243 \\approx 718,000.52941176 \\)\n\nSo the final result, rounded to the nearest decimal, is approximately [718,000.5]."
+                ],
+                [
+                    "What is the value of 5797 / 2985 * 525 - 9054? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -8034.4,
+                    -8034.6,
+                    "Let's calculate the value step by step:\n\nFirst, we divide 5797 by 2985:\n5797 / 2985 ≈ 1.941705\n\nThen, we multiply that result by 525:\n1.941705 * 525 ≈ 1019.394125\n\nFinally, we subtract 9054 from the result:\n1019.394125 - 9054 ≈ -8034.605875\n\nSo the final result is approximately [-8034.61]."
+                ],
+                [
+                    "What is the value of 5851 * 8266 - 5367 / 7439? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    48364365.3,
+                    48354565.3,
+                    "To solve the expression 5851 * 8266 - 5367 / 7439, we need to follow the order of operations, which is parentheses first, then exponents, multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven that there are no parentheses or exponents to deal with, we'll perform the multiplication and division first:\n\n5851 * 8266 = 48354566\n5367 / 7439 ≈ 0.7215 (rounded to four decimal places for intermediate calculation)\n\nNow we subtract the result of the division from the result of the multiplication:\n\n48354566 - 0.7215 ≈ 48354565.2785\n\nRounded to four decimal places, the result is approximately 48354565.2785. However, since you requested the final numeric result in brackets, and without the decimal approximation, the exact result would be:\n\n48354566 - (5367 / 7439)\n\nTo get the exact decimal result, we need to perform the division with more precision:\n\n5367 / 7439 ≈ 0.7214285714285714 (rounded to 16 decimal places for accuracy)\n\nNow, subtracting this from 48354566:\n\n48354566 - 0.7214285714285714 = 48354565.2785714285714286\n\nThe exact result of the expression is 48354565.2785714285714286. However, since you requested the result to be in brackets, we will provide it as:\n\n[48354565.2785714285714286]"
+                ],
+                [
+                    "What is the value of 1850 - 7516 + 7288 / 3778? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -5664.1,
+                    -5664.1,
+                    "To solve the expression 1850 - 7516 + 7288 / 3778, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first need to perform the division before doing the addition and subtraction.\n\nSo, let's start by dividing 7288 by 3778:\n\n7288 / 3778 ≈ 1.929\n\nNow we can perform the subtraction and addition:\n\n1850 - 7516 + 1.929\n\nFirst, we'll do the subtraction:\n\n1850 - 7516 = -5666\n\nNow, we'll add the result of the division:\n\n-5666 + 1.929 ≈ -5664.071\n\nSo the final result is approximately [-5664.071]."
+                ],
+                [
+                    "What is the value of 810 / 4727 - 7853 * 723? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -5677718.8,
+                    -5678928.8,
+                    "To solve the expression \\( \\frac{810}{4727} - 7853 \\times 723 \\), we first need to perform the division and multiplication, then the subtraction.\n\nFirst, we calculate the division:\n\\( \\frac{810}{4727} \\approx 0.1713 \\) (rounded to four decimal places)\n\nNext, we calculate the multiplication:\n\\( 7853 \\times 723 = 5678929 \\)\n\nNow, we subtract the result of the multiplication from the result of the division:\n\\( 0.1713 - 5678929 \\)\n\nSince 0.1713 is much smaller than 5678929, the subtraction will result in a number that is just slightly less than -5678929.\n\n\\( 0.1713 - 5678929 \\approx -5678928.8287 \\) (rounded to four decimal places)\n\nSo, the value of the expression is approximately \\([-5678928.8287]\\)."
+                ],
+                [
+                    "What is the value of 5033 + 8779 / 1063 - 4131? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    910.3,
+                    910.3,
+                    "To solve the expression 5033 + 8779 / 1063 - 4131, we must follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division comes before addition and subtraction.\n\nFirst, we divide 8779 by 1063:\n\n8779 / 1063 ≈ 8.256443\n\nNow, we can perform the addition and subtraction:\n\n5033 + 8.256443 - 4131 ≈ 5033 + 8.256443 - 4131\n≈ 5041.256443 - 4131\n≈ 910.256443\n\nSo the result of the expression is approximately [910.256443]."
+                ],
+                [
+                    "What is the value of 8278 - 6100 + 8692 / 9795? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2178.9,
+                    2178.9,
+                    "To solve the expression 8278 - 6100 + 8692 / 9795, we must first follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n8692 / 9795 = 0.8874 (rounded to four decimal places)\n\nNext, we perform the subtraction and addition from left to right:\n\n8278 - 6100 = 2178\n\nNow, we add the result of the division:\n\n2178 + 0.8874 = 2178.8874\n\nSo the final result is:\n\n[2178.8874]"
+                ],
+                [
+                    "What is the value of 6381 / 2829 - 6675 + 3095? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -3577.7,
+                    -3577.7,
+                    "First, let's perform the division:\n\n6381 / 2829 ≈ 2.255\n\nNow, let's perform the rest of the operations:\n\n2.255 - 6675 + 3095\n\nWhen we subtract 6675 from 2.255, we get:\n\n2.255 - 6675 ≈ -6672.745\n\nNow, adding 3095 to that result:\n\n-6672.745 + 3095 ≈ -3577.745\n\nSo, the final result is approximately:\n\n[-3577.745]"
+                ],
+                [
+                    "What is the value of 9499 - 7541 * 9435 / 8043? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    652.9,
+                    653.4,
+                    "To calculate the value of the expression 9499 - 7541 * 9435 / 8043, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication and division from left to right:\n\n7541 * 9435 = 71153335\n\nNow, we divide this result by 8043:\n\n71153335 / 8043 ≈ 8845.616\n\nNow we can perform the subtraction:\n\n9499 - 8845.616 ≈ 653.384\n\nSo the result of the expression is approximately [653.384]."
+                ],
+                [
+                    "What is the value of 5418 * 2868 - 1550 / 380? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    15538819.9,
+                    15537140,
+                    "To find the value of the expression 5418 * 2868 - 1550 / 380, we need to perform the multiplication and division before the subtraction, following the order of operations (PEMDAS/BODMAS).\n\nFirst, we multiply 5418 by 2868:\n\n5418 * 2868 = 15537144\n\nNext, we divide 1550 by 380:\n\n1550 / 380 = 4.0789473684210526315789473684211 (rounded to many decimal places for accuracy)\n\nNow we subtract the result of the division from the result of the multiplication:\n\n15537144 - 4.0789473684210526315789473684211 ≈ 15537139.9210526315789473684211\n\nRounded to the nearest whole number, the result is:\n\n15537140\n\nSo the value of the expression is approximately [15537140]."
+                ],
+                [
+                    "What is the value of 2224 / 7599 * 2835 - 6535? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -5705.3,
+                    -5705.3,
+                    "To solve the expression 2224 / 7599 * 2835 - 6535, follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication:\n\n2224 / 7599 * 2835\n\nTo get the result of this part, we'll do the division first and then multiply by 2835:\n\n(2224 / 7599) * 2835\n\nNow, let's calculate the division:\n\n2224 / 7599 ≈ 0.292687\n\nNow multiply this result by 2835:\n\n0.292687 * 2835 ≈ 829.732845\n\nNow we have:\n\n829.732845 - 6535\n\nSubtract 6535 from 829.732845:\n\n829.732845 - 6535 ≈ -5705.267155\n\nRounded to a more manageable number of decimal places, the result is approximately:\n\n-5705.27\n\nSo the final result within brackets is approximately [-5705.27]."
+                ],
+                [
+                    "What is the value of 1677 / 9153 * 1642 - 9950? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -9649.2,
+                    -9649.3,
+                    "Let's calculate the value step by step.\n\nFirst, we divide 1677 by 9153:\n\n1677 / 9153 ≈ 0.1832 (rounded to four decimal places)\n\nNext, we multiply this result by 1642:\n\n0.1832 * 1642 ≈ 300.6784 (rounded to four decimal places)\n\nFinally, we subtract 9950 from this product:\n\n300.6784 - 9950 ≈ -9649.3216\n\nSo, the final result is approximately [-9649.32]."
+                ]
+            ]
+        }
+    }
+}

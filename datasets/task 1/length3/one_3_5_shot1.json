@@ -1,0 +1,826 @@
+{
+    "+": {
+        "*": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' > '-'\n[Example Question]: 6137 + 1135 * 24939 - 1888\n[Answer]: 181354520\n\nBased on the new priorities, what is the value of 82222 + 71495 * 68118 - 30832? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10470863774
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' > '-'\n[Example Question]: 60162 - 99359 + 57467 * 55049\n[Answer]: -8633054312\n\nBased on the new priorities, what is the value of 34562 - 88749 + 24986 * 73476? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -8356758298
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 41080 - 7098 + 39460 * 58924\n[Answer]: -2325107058\n\nBased on the new priorities, what is the value of 41843 - 4140 + 10372 * 27108? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -281126473
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' = '/'\n[Example Question]: 95880 * 86890 + 56143 / 89400\n[Answer]: 93188.69511185682\n\nBased on the new priorities, what is the value of 38722 * 47372 + 71127 / 87473? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                20971.153510226013
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' > '-'\n[Example Question]: 26274 - 42667 + 4958 * 23306\n[Answer]: -1109921976\n\nBased on the new priorities, what is the value of 89356 - 14600 + 77325 * 66180? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -6083507144
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' > '-'\n[Example Question]: 81524 * 80392 + 51122 - 77044\n[Answer]: 10721470292\n\nBased on the new priorities, what is the value of 89606 * 12592 + 7205 - 1691? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1773928291
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 11812 - 29405 + 53114 * 97809\n[Answer]: -5195044819\n\nBased on the new priorities, what is the value of 47054 - 17185 + 62145 * 2492? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -154835471
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' = '/'\n[Example Question]: 39115 + 94108 * 68475 / 64089\n[Answer]: 142340.26002902215\n\nBased on the new priorities, what is the value of 25512 + 13977 * 17885 / 50508? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                13983.146531242575
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' = '/'\n[Example Question]: 8208 * 34617 + 55466 / 3523\n[Answer]: 80667.55662787397\n\nBased on the new priorities, what is the value of 87449 * 48405 + 19786 / 97052? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                43615.67645179904
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' = '/'\n[Example Question]: 12997 / 82212 * 90317 + 10949\n[Answer]: 16009.271176957136\n\nBased on the new priorities, what is the value of 548 / 9099 * 20143 + 87755? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6498.307945928124
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' > '-'\n[Example Question]: 26547 - 38154 + 27313 * 15533\n[Answer]: -1016872364\n\nBased on the new priorities, what is the value of 88286 - 55537 + 87 * 92273? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5132505066
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 26506 - 15351 * 88183 + 18130\n[Answer]: -1353688857\n\nBased on the new priorities, what is the value of 37058 - 68403 * 25897 + 17149? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1771412582
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' > '-'\n[Example Question]: 8787 - 77614 + 60022 * 21422\n[Answer]: -2948429605\n\nBased on the new priorities, what is the value of 70348 - 78824 + 46755 * 78389? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -9843941883
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 5259 * 42212 - 32313 + 33699\n[Answer]: 221926896\n\nBased on the new priorities, what is the value of 25742 * 11917 - 42785 + 89862? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                306634767
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' > '-'\n[Example Question]: 91821 - 36003 * 2502 + 51231\n[Answer]: -90038916\n\nBased on the new priorities, what is the value of 34201 - 57427 * 70369 + 69576? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4041115938
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' > '-'\n[Example Question]: 57216 - 5418 * 69977 + 76714\n[Answer]: -379154884\n\nBased on the new priorities, what is the value of 52144 - 46301 * 61857 + 71748? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2864060561
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' > '-'\n[Example Question]: 64780 - 81522 * 45909 + 18104\n[Answer]: -5218403006\n\nBased on the new priorities, what is the value of 1114 - 9054 * 86024 + 11471? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -882718616
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' > '-'\n[Example Question]: 90527 * 13300 + 31605 - 37962\n[Answer]: 4065076973\n\nBased on the new priorities, what is the value of 84515 * 97467 + 85430 - 72743? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                15457467212
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' = '/'\n[Example Question]: 80859 + 78797 * 41519 / 99881\n[Answer]: 66366.55083549424\n\nBased on the new priorities, what is the value of 2926 + 28547 * 69742 / 91893? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                23886.36747086285
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' > '-'\n[Example Question]: 73668 - 42270 * 22300 + 71253\n[Answer]: -3954411642\n\nBased on the new priorities, what is the value of 13746 - 59242 * 15459 + 39757? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3271092526
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' = '/'\n[Example Question]: 60648 / 64146 * 79112 + 25026\n[Answer]: 98459.16228603497\n\nBased on the new priorities, what is the value of 74126 / 1002 * 26348 + 68585? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7022957.642714571
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' > '-'\n[Example Question]: 50635 * 70590 - 73788 + 54218\n[Answer]: 3574196644\n\nBased on the new priorities, what is the value of 64044 * 6985 - 513 + 9185? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                447337642
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*' = '/'\n[Example Question]: 82541 + 52831 / 92314 * 90470\n[Answer]: 132667.90345993024\n\nBased on the new priorities, what is the value of 54716 + 20086 / 87832 * 70071? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                59675.86918207487
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*' > '-'\n[Example Question]: 53218 - 65397 * 42518 + 15166\n[Answer]: -3772307330\n\nBased on the new priorities, what is the value of 24079 - 41726 * 50949 + 66393? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4896188213
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 73126 - 36745 + 33566 * 961\n[Answer]: -32220545\n\nBased on the new priorities, what is the value of 9021 - 98612 + 40889 * 96979? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3965463922
+            ]
+        ],
+        "/": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' > '-'\n[Example Question]: 61153 / 19752 + 9293 - 28356\n[Answer]: -28353.894542950595\n\nBased on the new priorities, what is the value of 74380 / 60330 + 5849 - 59415? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -59413.87607851433
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' > '-'\n[Example Question]: 59185 - 12952 + 5664 / 9560\n[Answer]: 59183.05271966527\n\nBased on the new priorities, what is the value of 5053 - 44141 + 52688 / 36492? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5050.346569111038
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' > '-'\n[Example Question]: 31228 + 55569 / 728 - 73467\n[Answer]: -73347.77335164836\n\nBased on the new priorities, what is the value of 84737 + 45220 / 21006 - 82833? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -82826.81333904598
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' = '*'\n[Example Question]: 88110 / 72358 * 35787 + 39509\n[Answer]: 91687.58893280632\n\nBased on the new priorities, what is the value of 26650 / 93607 * 15152 + 40423? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                15822.254211757669
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '-'\n[Example Question]: 4253 - 32914 / 98542 + 93978\n[Answer]: -89725.33400986381\n\nBased on the new priorities, what is the value of 61325 - 38403 / 1576 + 70371? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -9070.367385786798
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '-'\n[Example Question]: 42264 - 39368 / 37334 + 13491\n[Answer]: 28771.94551883002\n\nBased on the new priorities, what is the value of 60787 - 62889 / 17970 + 40514? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                20269.500333889817
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' = '*'\n[Example Question]: 82947 / 31486 * 76086 + 18640\n[Answer]: 249547.0215969002\n\nBased on the new priorities, what is the value of 78825 / 26537 * 57552 + 12655? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                208541.53728756076
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' = '*'\n[Example Question]: 15894 + 4284 / 86285 * 57999\n[Answer]: 13563.23604334473\n\nBased on the new priorities, what is the value of 53737 + 87325 / 97782 * 4363? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6294.13906444949
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' = '*'\n[Example Question]: 6724 / 30606 + 12239 * 19010\n[Answer]: 232667566.4111612\n\nBased on the new priorities, what is the value of 43238 / 23495 + 93188 * 8863? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                825941554.6360502
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' > '-'\n[Example Question]: 72356 - 117 / 41263 + 21508\n[Answer]: 50847.99716452997\n\nBased on the new priorities, what is the value of 89413 - 79537 / 65353 + 46364? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                43047.78296329166
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' > '-'\n[Example Question]: 7539 / 36344 - 40444 + 50340\n[Answer]: -90783.79256548536\n\nBased on the new priorities, what is the value of 73748 / 93437 - 86368 + 25000? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -111367.21071952225
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' > '-'\n[Example Question]: 93332 - 90890 / 34888 + 98410\n[Answer]: -5080.6051937628945\n\nBased on the new priorities, what is the value of 45064 - 75082 / 45204 + 46014? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -951.6609592071472
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' = '*'\n[Example Question]: 46323 + 2737 / 54422 * 84192\n[Answer]: 75896.87111829774\n\nBased on the new priorities, what is the value of 14257 + 21642 / 70919 * 16080? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8139.65115131347
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' > '-'\n[Example Question]: 77807 / 14833 - 79824 + 82998\n[Answer]: -162816.7544663925\n\nBased on the new priorities, what is the value of 14577 / 2106 - 41953 + 12827? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -54773.07834757835
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' = '*'\n[Example Question]: 63159 + 16260 / 69360 * 72726\n[Answer]: 83273.15735294118\n\nBased on the new priorities, what is the value of 61721 + 88720 / 15341 * 81460? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                798834.7474089043
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' > '-'\n[Example Question]: 7613 - 277 / 58783 + 3271\n[Answer]: 7612.995536145937\n\nBased on the new priorities, what is the value of 87900 - 33026 / 73097 + 52815? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                87899.73770569921
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' = '*'\n[Example Question]: 46116 + 84987 / 59186 * 5956\n[Answer]: 13193.144797756226\n\nBased on the new priorities, what is the value of 15193 + 80274 / 80318 * 45052? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                53549.38225553425
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' > '-'\n[Example Question]: 62151 / 40192 + 58769 - 2644\n[Answer]: -2643.371964713372\n\nBased on the new priorities, what is the value of 13234 / 50818 + 17722 - 14137? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -14136.806915669682
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' > '-'\n[Example Question]: 572 - 87425 + 63159 / 83097\n[Answer]: 570.1878527504001\n\nBased on the new priorities, what is the value of 9001 - 24941 + 81598 / 89092? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8999.804168724464
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/' = '*'\n[Example Question]: 5851 + 42451 / 69222 * 83792\n[Answer]: 58468.71202796799\n\nBased on the new priorities, what is the value of 64588 + 21257 / 49635 * 52726? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                91190.96343306135
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' = '*'\n[Example Question]: 39245 / 63584 * 836 + 99917\n[Answer]: 62186.26517677403\n\nBased on the new priorities, what is the value of 58179 / 22875 * 8134 + 49712? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                147122.2921967213
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' > '-'\n[Example Question]: 77129 + 43603 / 77744 - 80129\n[Answer]: -80127.44705700761\n\nBased on the new priorities, what is the value of 36653 + 54626 / 748 - 94209? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -94086.9692513369
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '-'\n[Example Question]: 73828 - 43446 / 51570 + 34913\n[Answer]: 38914.15753344968\n\nBased on the new priorities, what is the value of 56878 - 82129 / 39620 + 60831? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3955.072917718324
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/' = '*'\n[Example Question]: 57646 / 85325 * 83907 + 66214\n[Answer]: 101422.50414298271\n\nBased on the new priorities, what is the value of 47188 / 94454 * 989 + 58784? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                29861.819764117983
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '-'\n[Example Question]: 63684 - 19277 / 50966 + 6232\n[Answer]: 57451.62176745281\n\nBased on the new priorities, what is the value of 2783 - 6146 / 80714 + 9825? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -7042.076145402285
+            ]
+        ]
+    },
+    "-": {
+        "*": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' > '+'\n[Example Question]: 64498 + 45354 * 38575 - 38922\n[Answer]: -15673340\n\nBased on the new priorities, what is the value of 1253 + 9933 * 91807 - 6224? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                850097192
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' = '/'\n[Example Question]: 34622 / 33904 - 63906 * 36102\n[Answer]: -41661.33737750816\n\nBased on the new priorities, what is the value of 23213 / 2313 - 31965 * 69926? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -54741.40826925671
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' = '/'\n[Example Question]: 10541 / 18516 - 10802 * 79438\n[Answer]: 108550.16308011409\n\nBased on the new priorities, what is the value of 62721 / 85023 - 75819 * 51998? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                354342.3031290743
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' > '+'\n[Example Question]: 38477 + 56114 * 7621 - 68003\n[Answer]: -3388237071\n\nBased on the new priorities, what is the value of 74233 + 58069 * 16416 - 41228? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1440733795
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' = '/'\n[Example Question]: 60223 - 97490 * 99766 / 4748\n[Answer]: -783062.2413647851\n\nBased on the new priorities, what is the value of 75288 - 73254 * 77512 / 93320? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1689.449292756108
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' > '+'\n[Example Question]: 53545 - 48525 * 31111 + 25125\n[Answer]: 156202345\n\nBased on the new priorities, what is the value of 17431 - 55052 * 2745 + 84898? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -103184747
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' > '+'\n[Example Question]: 12212 * 758 - 56468 + 93712\n[Answer]: -680236808\n\nBased on the new priorities, what is the value of 13421 * 39997 - 85407 + 58242? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -609389368
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' = '/'\n[Example Question]: 49310 - 91691 * 27099 / 65809\n[Answer]: -17451.757647130333\n\nBased on the new priorities, what is the value of 603 - 94196 * 81315 / 17379? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -437914.42516830657
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' > '+'\n[Example Question]: 50391 - 691 * 25217 + 89936\n[Answer]: 1253374836\n\nBased on the new priorities, what is the value of 54963 - 80172 * 2782 + 59679? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -70071759
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' > '+'\n[Example Question]: 70157 + 27572 * 15384 - 43410\n[Answer]: -772662715\n\nBased on the new priorities, what is the value of 50123 + 70623 * 85964 - 86028? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4469749
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' = '/'\n[Example Question]: 49659 - 21688 / 17524 * 39654\n[Answer]: 63293.88461538462\n\nBased on the new priorities, what is the value of 46931 - 58876 / 72166 * 76517? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -12665.182565196907
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' > '+'\n[Example Question]: 81337 + 34974 - 81837 * 6448\n[Answer]: -302091287\n\nBased on the new priorities, what is the value of 69143 + 9953 - 74186 * 72416? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4651427785
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' > '+'\n[Example Question]: 9202 + 94652 * 53156 - 67758\n[Answer]: -1382099302\n\nBased on the new priorities, what is the value of 61677 + 19819 * 59822 - 28126? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                628244701
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' > '+'\n[Example Question]: 33486 + 98543 - 69200 * 8930\n[Answer]: 262066476\n\nBased on the new priorities, what is the value of 50071 + 9635 - 634 * 71858? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                646843929
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' = '/'\n[Example Question]: 73072 * 75480 - 47504 / 78351\n[Answer]: 70393.83104236066\n\nBased on the new priorities, what is the value of 85816 * 85422 - 4376 / 22459? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                326397.87951378064
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 10839 - 17610 + 24065 * 71286\n[Answer]: -1715504361\n\nBased on the new priorities, what is the value of 7738 - 20266 + 77291 * 33803? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2612680201
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' = '/'\n[Example Question]: 81038 / 94071 * 80940 - 29179\n[Answer]: 44589.80895281224\n\nBased on the new priorities, what is the value of 21481 / 31746 * 28474 - 15507? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8774.148774648775
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' = '/'\n[Example Question]: 46720 - 85366 / 70311 * 86917\n[Answer]: -47773.383709519134\n\nBased on the new priorities, what is the value of 83493 - 79298 / 99146 * 38703? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1637.575746878341
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' = '/'\n[Example Question]: 91457 - 66831 / 1586 * 18808\n[Answer]: 292033.9268600252\n\nBased on the new priorities, what is the value of 41126 - 52705 / 10604 * 80551? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -87957.37731044888
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' > '+'\n[Example Question]: 93852 - 70000 * 64518 + 51079\n[Answer]: 1538934415\n\nBased on the new priorities, what is the value of 55909 - 45623 * 24083 + 62687? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                247780425
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 38282 - 62551 + 84891 * 80325\n[Answer]: -6818893844\n\nBased on the new priorities, what is the value of 60670 - 70139 + 86521 * 18376? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1589919365
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' = '/'\n[Example Question]: 38139 - 36062 / 16133 * 87421\n[Answer]: 11254.783177338375\n\nBased on the new priorities, what is the value of 56310 - 75623 / 20422 * 87885? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -83112.47698560376
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*' > '+'\n[Example Question]: 36067 + 15727 * 71431 - 31207\n[Answer]: 632638915\n\nBased on the new priorities, what is the value of 86194 + 80052 * 73052 - 61117? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                955506814
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*' > '+'\n[Example Question]: 35878 + 36270 - 63423 * 5171\n[Answer]: -140372285\n\nBased on the new priorities, what is the value of 67694 + 82957 - 58550 * 49499? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1208189787
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '-'\n[Example Question]: 29031 - 84005 + 62821 * 58564\n[Answer]: -3679104018\n\nBased on the new priorities, what is the value of 48487 - 22429 + 23361 * 27906? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -651886008
+            ]
+        ],
+        "/": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' > '+'\n[Example Question]: 89087 - 20372 / 27259 + 91421\n[Answer]: 91423.52081881213\n\nBased on the new priorities, what is the value of 94072 - 56229 / 7114 + 75647? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                75652.31951082373
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 46849 / 88223 - 13721 * 44548\n[Answer]: 28013.06343453867\n\nBased on the new priorities, what is the value of 67127 / 64693 - 60468 * 69455? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1103504.327810651
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 44577 / 92394 * 26660 - 17132\n[Answer]: 4596.939801285797\n\nBased on the new priorities, what is the value of 8388 / 53577 * 81421 - 73627? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1220.2264404501932
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 20238 * 35588 / 37137 - 74054\n[Answer]: -19509.4385784327\n\nBased on the new priorities, what is the value of 39030 * 22880 / 62188 - 27323? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25613.26258425355
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' > '+'\n[Example Question]: 53885 - 52174 / 78756 + 165\n[Answer]: 165.02172532886382\n\nBased on the new priorities, what is the value of 22802 - 96456 / 86695 + 82618? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                82617.15042389988
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/' > '+'\n[Example Question]: 69235 + 46853 - 64066 / 68065\n[Answer]: 69234.74710938074\n\nBased on the new priorities, what is the value of 19038 + 77501 - 53933 / 59551? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                19038.395761616095
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/' = '*'\n[Example Question]: 49065 / 47328 - 85274 * 58976\n[Answer]: -5029058283.503042\n\nBased on the new priorities, what is the value of 26905 / 40787 - 66330 * 69202? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4590123011.145953
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 88096 * 6618 / 3142 - 62013\n[Answer]: -9903.336583377215\n\nBased on the new priorities, what is the value of 19373 * 25331 / 33573 - 30361? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                152782.52272727274
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '-'\n[Example Question]: 64178 - 41902 + 56004 / 33003\n[Answer]: 22274.303063357875\n\nBased on the new priorities, what is the value of 23789 - 69193 + 73087 / 96412? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -45404.75806953492
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/' > '+'\n[Example Question]: 42930 + 75144 - 83081 / 98067\n[Answer]: 42929.91906553683\n\nBased on the new priorities, what is the value of 84531 + 81841 - 55150 / 20935? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                84532.27494626225
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/' > '+'\n[Example Question]: 29893 + 4324 - 47506 / 37972\n[Answer]: 29891.862793637418\n\nBased on the new priorities, what is the value of 68337 + 62919 - 94834 / 74041? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                68336.56895503843
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '-'\n[Example Question]: 20587 - 67216 + 66921 / 45941\n[Answer]: -46630.45667268889\n\nBased on the new priorities, what is the value of 90841 - 63712 + 87286 / 36914? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                27126.635422874788
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 54054 / 65637 - 12115 * 49505\n[Answer]: 49997.071671462196\n\nBased on the new priorities, what is the value of 44485 / 27330 - 7768 * 80565? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                183208.97786524895
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' > '+'\n[Example Question]: 23838 + 74712 - 76042 / 85799\n[Answer]: 23837.98449865383\n\nBased on the new priorities, what is the value of 95462 + 44651 - 51584 / 92664? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                95461.92518130018
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/' = '*'\n[Example Question]: 9146 / 71691 - 76550 * 29492\n[Answer]: -2257608837.5495944\n\nBased on the new priorities, what is the value of 63771 / 13994 - 80724 * 96311? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -7774170272.419251
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' > '+'\n[Example Question]: 39935 + 7875 / 90897 - 37859\n[Answer]: 39935.14847844942\n\nBased on the new priorities, what is the value of 1999 + 23518 / 59104 - 33563? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1999.9207940174622
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/' = '*'\n[Example Question]: 91179 / 5016 - 48702 * 6122\n[Answer]: -298042360.5394737\n\nBased on the new priorities, what is the value of 53161 / 30188 - 54976 * 25238? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1387439843.93885
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' > '+'\n[Example Question]: 89599 + 88824 / 95721 - 58778\n[Answer]: 89601.40435265139\n\nBased on the new priorities, what is the value of 33669 + 33825 / 81279 - 28740? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                33669.643807457316
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/' = '*'\n[Example Question]: 31714 / 54538 - 31817 * 10974\n[Answer]: -349153376.58821374\n\nBased on the new priorities, what is the value of 18022 / 51588 - 8059 * 8912? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -71818694.63906334
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '-'\n[Example Question]: 52151 - 41255 / 43512 + 5740\n[Answer]: 46410.0518707483\n\nBased on the new priorities, what is the value of 9272 - 57335 / 61008 + 71505? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -62233.93979478101
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 76005 / 18610 * 31023 - 72319\n[Answer]: -168656.76947877483\n\nBased on the new priorities, what is the value of 39264 / 60439 * 89785 - 16593? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                47548.945018944716
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 82477 / 28674 - 91720 * 15270\n[Answer]: -19976.26796307458\n\nBased on the new priorities, what is the value of 39356 / 81378 - 59091 * 4628? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8172.457845380715
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 2549 / 90140 * 28386 - 41518\n[Answer]: -371.3497670290659\n\nBased on the new priorities, what is the value of 7773 / 14983 * 65751 - 92480? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -13866.683374491091
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' > '+'\n[Example Question]: 76865 + 61570 - 26723 / 32811\n[Answer]: 76866.06205236049\n\nBased on the new priorities, what is the value of 21842 + 49520 - 76950 / 50345? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                21841.45515940014
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/' = '*'\n[Example Question]: 42448 - 86911 / 18041 * 36347\n[Answer]: -89579.10653511445\n\nBased on the new priorities, what is the value of 26883 - 20681 / 86314 * 11319? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                813.3146187177051
+            ]
+        ]
+    },
+    "*": {
+        "+": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+' = '-'\n[Example Question]: 69096 - 70327 * 46070 + 70999\n[Answer]: -56641171\n\nBased on the new priorities, what is the value of 41731 - 26909 * 59729 + 5085? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                885308323
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '*'\n[Example Question]: 63417 - 11439 + 27315 * 94979\n[Answer]: 7531169847\n\nBased on the new priorities, what is the value of 80066 - 85544 + 9525 * 43794? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                177234318
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 97397 + 76189 / 22569 * 93272\n[Answer]: 9084727853.972439\n\nBased on the new priorities, what is the value of 58077 + 33850 / 52473 * 24789? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1439686744.2269168
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 19526 / 87090 + 46364 * 98068\n[Answer]: 4546846739.320794\n\nBased on the new priorities, what is the value of 19930 / 33034 + 91392 * 22734? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2077719443.826724
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 84581 + 54890 / 19777 * 29460\n[Answer]: 2491838024.6458006\n\nBased on the new priorities, what is the value of 25722 + 96940 / 64420 * 44746? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1151023946.3253648
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '*'\n[Example Question]: 66920 - 71331 + 78897 * 87226\n[Answer]: 6497115836\n\nBased on the new priorities, what is the value of 92102 - 49872 + 65755 * 93906? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10140439410
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 98652 * 84524 / 19321 + 91866\n[Answer]: 9063196207.055536\n\nBased on the new priorities, what is the value of 86903 * 47201 / 80761 + 26987? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2345302051.709662
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '*'\n[Example Question]: 93129 - 69068 + 88674 * 32398\n[Answer]: 3652388530\n\nBased on the new priorities, what is the value of 62762 - 56358 + 93287 * 63577? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6338054707
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '*'\n[Example Question]: 20253 - 99875 + 92984 * 51174\n[Answer]: 683786988\n\nBased on the new priorities, what is the value of 49922 - 90264 + 53408 * 44234? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                577961444
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+' = '-'\n[Example Question]: 40887 - 62321 + 87339 * 27648\n[Answer]: 1822141440\n\nBased on the new priorities, what is the value of 5360 - 85411 + 60444 * 71378? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1399508446
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '*'\n[Example Question]: 19871 * 88105 - 23644 + 7416\n[Answer]: 1428267867\n\nBased on the new priorities, what is the value of 95544 * 11430 - 95242 + 35858? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4581716976
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 99856 / 49519 + 71339 * 13995\n[Answer]: 998417526.1821724\n\nBased on the new priorities, what is the value of 85945 / 75180 + 42811 * 78665? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3367817244.0160284
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '*'\n[Example Question]: 39499 - 62831 * 41461 + 5193\n[Answer]: -1088531128\n\nBased on the new priorities, what is the value of 84372 - 76889 * 99711 + 73262? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1294356959
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 7631 / 75926 + 8085 * 43219\n[Answer]: 349429958.7582514\n\nBased on the new priorities, what is the value of 34373 / 96600 + 71810 * 97255? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6983916156.067443
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '*'\n[Example Question]: 4102 * 49919 - 35049 + 11301\n[Answer]: 107353442\n\nBased on the new priorities, what is the value of 51744 * 9014 - 68520 + 71215? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                605870496
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+' = '-'\n[Example Question]: 27097 - 32192 * 82486 + 13771\n[Answer]: -420252399\n\nBased on the new priorities, what is the value of 15028 - 31312 * 16933 + 30163? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -275706809
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 24013 / 80643 + 69166 * 56089\n[Answer]: 3879468475.5755486\n\nBased on the new priorities, what is the value of 45029 / 62941 + 54217 * 91661? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4969650012.748225
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 76173 + 99722 / 88152 * 71806\n[Answer]: 5469759668.578228\n\nBased on the new priorities, what is the value of 57653 + 23809 / 6048 * 43844? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2527910731.503307
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+' = '-'\n[Example Question]: 94395 - 26882 + 26694 * 19522\n[Answer]: 1839109054\n\nBased on the new priorities, what is the value of 60880 - 12652 + 55681 * 39127? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4065647443
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+' = '-'\n[Example Question]: 297 - 47537 * 23037 + 31567\n[Answer]: -1088236313\n\nBased on the new priorities, what is the value of 75367 - 47948 * 40778 + 66772? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1118158754
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '*' = '+'\n[Example Question]: 97222 + 29182 / 59194 * 34822\n[Answer]: 3385481650.868331\n\nBased on the new priorities, what is the value of 2022 + 4508 / 90438 * 12036? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                24337391.950109467
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '*' = '+'\n[Example Question]: 85418 + 48849 / 8625 * 41191\n[Answer]: 3518686129.4966955\n\nBased on the new priorities, what is the value of 14841 + 44978 / 44826 * 75779? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1124712174.958194
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+' = '-'\n[Example Question]: 67199 - 21658 + 23231 * 10787\n[Answer]: 741843564\n\nBased on the new priorities, what is the value of 66551 - 80382 + 23251 * 46068? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                433960560
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+' = '-'\n[Example Question]: 5896 - 45696 + 77247 * 33056\n[Answer]: 1237848032\n\nBased on the new priorities, what is the value of 68936 - 92230 + 45144 * 17339? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                378857150
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '+' > '*'\n[Example Question]: 39460 * 38222 / 46135 + 74391\n[Answer]: 2935501551.88512\n\nBased on the new priorities, what is the value of 75046 * 78419 / 64981 + 7908? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                593554333.4310337
+            ]
+        ],
+        "-": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '+' > '*'\n[Example Question]: 63218 * 34991 - 73740 + 36911\n[Answer]: -116194684\n\nBased on the new priorities, what is the value of 16018 * 51389 - 48172 + 3901? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                114016124
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 74076 - 39193 / 82456 * 82163\n[Answer]: 6086267334.268809\n\nBased on the new priorities, what is the value of 39434 - 46494 / 663 * 91409? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3598212294.769231
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '*' = '-'\n[Example Question]: 39270 - 68948 / 51507 * 2813\n[Answer]: 110462744.47834276\n\nBased on the new priorities, what is the value of 80442 - 83162 / 62845 * 99506? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8004329976.958676
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-' = '+'\n[Example Question]: 66814 - 93399 + 97355 * 14098\n[Answer]: 997715460\n\nBased on the new priorities, what is the value of 94701 - 23254 + 71720 * 83580? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                11965897860
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 57268 * 54013 / 22863 - 24603\n[Answer]: -1408829310.4477978\n\nBased on the new priorities, what is the value of 28943 * 98388 / 44329 - 16309? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -471967148.15220284
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '*' = '-'\n[Example Question]: 50863 / 76887 - 93922 * 44415\n[Answer]: -4171516248.1780405\n\nBased on the new priorities, what is the value of 68620 / 68384 - 85081 * 57035? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4852537603.16653
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '-'\n[Example Question]: 87606 - 20230 / 3918 * 52718\n[Answer]: 87605.9999020572\n\nBased on the new priorities, what is the value of 52618 - 83439 / 38089 * 45126? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                52617.999951455204
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-' = '+'\n[Example Question]: 20758 + 67784 * 34162 - 53730\n[Answer]: 3024718074\n\nBased on the new priorities, what is the value of 48562 + 3985 * 13143 - 69292? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                690555929
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 65729 / 49199 - 72946 * 72058\n[Answer]: -5256246599.777434\n\nBased on the new priorities, what is the value of 21190 / 45117 - 38963 * 4771? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -185890232.21515173
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '+' > '*'\n[Example Question]: 2712 * 4886 - 70631 + 33685\n[Answer]: -86946720\n\nBased on the new priorities, what is the value of 43650 * 10306 - 85644 + 60830? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -633274200
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '*' = '-'\n[Example Question]: 29496 - 46756 / 24811 * 68813\n[Answer]: 2029578570.8153644\n\nBased on the new priorities, what is the value of 80330 - 49394 / 6769 * 25743? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2067747341.020535
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '+' > '*'\n[Example Question]: 60932 - 19079 + 33179 * 88938\n[Answer]: 6673196016\n\nBased on the new priorities, what is the value of 98599 - 99483 + 15957 * 92561? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1395171953
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 37221 - 49987 / 1566 * 68642\n[Answer]: 2552732817.0868454\n\nBased on the new priorities, what is the value of 66866 - 10782 / 63337 * 56781? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3796708680.042629
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 26246 / 28150 - 26816 * 48948\n[Answer]: -1312543930.7279575\n\nBased on the new priorities, what is the value of 27795 / 96146 - 5499 * 78650? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -432473612.94645643
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '*' = '-'\n[Example Question]: 45741 / 40770 - 46776 * 84782\n[Answer]: -3965667712.7097864\n\nBased on the new priorities, what is the value of 31288 / 87959 - 7674 * 98989? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -759606374.5056447
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 71420 * 74679 - 38088 / 69353\n[Answer]: 5333534956.823497\n\nBased on the new priorities, what is the value of 71270 * 90735 - 44516 / 83318? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6466645371.129648
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-' = '+'\n[Example Question]: 10811 - 35100 + 23619 * 9127\n[Answer]: -6115090\n\nBased on the new priorities, what is the value of 24609 - 81375 + 76381 * 65666? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1288038590
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-' = '+'\n[Example Question]: 34160 + 26143 * 50627 - 1928\n[Answer]: 3052958053\n\nBased on the new priorities, what is the value of 15454 + 7754 * 35214 - 39281? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                817207231
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 75336 * 20447 - 5402 / 67112\n[Answer]: 1540389128.0312314\n\nBased on the new priorities, what is the value of 63423 * 61550 - 24495 / 98312? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3903669847.7949286
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 80984 / 87641 - 46788 * 59782\n[Answer]: -2797024974.8972282\n\nBased on the new priorities, what is the value of 87860 / 93234 - 62910 * 54788? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3446661449.97576
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-' = '+'\n[Example Question]: 25088 + 33686 * 51717 - 97702\n[Answer]: 3039517256\n\nBased on the new priorities, what is the value of 5648 + 81282 * 90578 - 49691? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7873895849
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' > '-' > '*'\n[Example Question]: 94429 * 17951 / 78270 - 12671\n[Answer]: -1196488201.9796984\n\nBased on the new priorities, what is the value of 16358 * 18904 / 62260 - 84679? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1385174115.2214584
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '+' > '*'\n[Example Question]: 4158 * 47087 + 9495 - 83685\n[Answer]: -112694274\n\nBased on the new priorities, what is the value of 14763 * 9422 + 45506 - 86934? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -472504578
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-' = '+'\n[Example Question]: 92695 - 56166 + 73441 * 30725\n[Answer]: 3378828250\n\nBased on the new priorities, what is the value of 74777 - 87086 + 24600 * 46683? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                573780753
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-' = '+'\n[Example Question]: 37484 - 83467 + 48165 * 81490\n[Answer]: 177811180\n\nBased on the new priorities, what is the value of 82900 - 19648 + 48944 * 98358? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                11035374168
+            ]
+        ]
+    },
+    "/": {
+        "+": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 60534 - 3745 + 49791 / 52506\n[Answer]: 2.029863253723384\n\nBased on the new priorities, what is the value of 32882 - 29617 + 80224 / 47130? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.7714619138552938
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '+'\n[Example Question]: 82037 + 87225 / 53884 * 55639\n[Answer]: 82037.00002909389\n\nBased on the new priorities, what is the value of 96078 + 5479 / 96372 * 99941? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                96078.00000056886
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '+'\n[Example Question]: 3488 / 13582 * 92432 + 67122\n[Answer]: 67122.00000277837\n\nBased on the new priorities, what is the value of 98358 / 28815 * 20800 + 57962? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                57962.00016410724
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '+'\n[Example Question]: 51097 / 90603 * 8683 + 759\n[Answer]: 759.0000649505785\n\nBased on the new priorities, what is the value of 33692 / 16934 * 27140 + 79872? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                79872.00007330901
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 88661 - 44835 + 88814 / 78804\n[Answer]: 1.6831632912034922\n\nBased on the new priorities, what is the value of 22219 - 21662 + 98271 / 79102? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.249374225683295
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '+'\n[Example Question]: 18544 * 77122 + 63575 / 4382\n[Answer]: 326383.8299863076\n\nBased on the new priorities, what is the value of 93605 * 78527 + 67876 / 90601? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                81131.41920067108
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '+'\n[Example Question]: 18615 / 73402 * 4172 + 17352\n[Answer]: 17352.00006078702\n\nBased on the new priorities, what is the value of 46598 / 12712 * 8779 + 980? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                980.0004175498614
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+' = '-'\n[Example Question]: 20231 - 90494 + 58218 / 6673\n[Answer]: -1.805035216544283\n\nBased on the new priorities, what is the value of 88841 - 73527 + 16920 / 61294? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5258916043984729
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+' = '-'\n[Example Question]: 82136 - 45492 / 66208 + 12162\n[Answer]: 12162.553467858868\n\nBased on the new priorities, what is the value of 91764 - 42010 / 9268 + 59574? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                59579.36836426413
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 92192 / 86830 - 84370 + 17696\n[Answer]: 4.573923397499504\n\nBased on the new priorities, what is the value of 8903 / 67949 - 72134 + 22930? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.47495332088556946
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '/'\n[Example Question]: 72206 / 51935 + 19161 * 75323\n[Answer]: 5.002785467751136e-05\n\nBased on the new priorities, what is the value of 66940 / 71410 + 55898 * 13508? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8.864562690212506e-05
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '/'\n[Example Question]: 27954 / 43442 * 87549 + 19892\n[Answer]: 7.34988744252379e-06\n\nBased on the new priorities, what is the value of 73212 / 77439 * 96745 + 95959? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9.772112168555511e-06
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 50926 / 2953 - 28659 + 39637\n[Answer]: 3.6555882564065754\n\nBased on the new priorities, what is the value of 25071 / 40244 - 55040 + 33792? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3198041692987998
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 33012 - 61575 / 40014 + 72723\n[Answer]: -0.2533595891322281\n\nBased on the new priorities, what is the value of 39715 - 26485 / 24236 + 15449? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.33337533072949477
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '+'\n[Example Question]: 2385 + 67494 * 27635 / 13976\n[Answer]: 133457.28928162565\n\nBased on the new priorities, what is the value of 62576 + 60768 * 65530 / 87494? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                45513.859418931585
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '+'\n[Example Question]: 44290 + 82203 / 7232 * 84118\n[Answer]: 0.00020793094961208097\n\nBased on the new priorities, what is the value of 73192 + 5382 / 14895 * 77653? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.793289400011854e-05
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '+'\n[Example Question]: 54708 + 33211 * 53577 / 72636\n[Answer]: 24497.500619527505\n\nBased on the new priorities, what is the value of 6736 + 63202 * 83082 / 32425? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                161941.566692367
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 41564 - 29424 + 78354 / 98385\n[Answer]: 0.9197946841490064\n\nBased on the new priorities, what is the value of 95198 - 5662 + 52067 / 13680? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10.35109649122807
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '+' > '/'\n[Example Question]: 38016 / 94176 * 69085 + 18837\n[Answer]: 5.843070942241793e-06\n\nBased on the new priorities, what is the value of 16635 / 22726 * 21288 + 58997? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.4380483781458876e-05
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 16663 - 17987 / 93671 + 88189\n[Answer]: -0.00728032552512922\n\nBased on the new priorities, what is the value of 49541 - 9806 / 54995 + 24418? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5003588833062597
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+' = '-'\n[Example Question]: 8564 - 10258 / 97677 + 19047\n[Answer]: 19046.982657125012\n\nBased on the new priorities, what is the value of 70920 - 63496 / 28171 + 91003? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                91003.26353342089
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '+'\n[Example Question]: 19577 / 87829 * 68646 + 50672\n[Answer]: 50672.00000324708\n\nBased on the new priorities, what is the value of 80860 / 63978 * 9618 + 62709? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                62709.00013140694
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '-' > '/'\n[Example Question]: 16878 - 16417 + 16468 / 51727\n[Answer]: 0.32727589073404606\n\nBased on the new priorities, what is the value of 72274 - 98318 + 40922 / 11719? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.2695622493386807
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '+'\n[Example Question]: 40430 + 45696 * 68743 / 2369\n[Answer]: 1326011.2106373997\n\nBased on the new priorities, what is the value of 66454 + 28996 * 56766 / 64969? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                25335.98162200434
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '+'\n[Example Question]: 53376 / 64594 * 92048 + 55090\n[Answer]: 55090.00000897717\n\nBased on the new priorities, what is the value of 51021 / 33043 * 12089 + 1084? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1084.0001277259432
+            ]
+        ],
+        "-": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '-'\n[Example Question]: 62295 - 64351 / 34076 * 27487\n[Answer]: 62294.99993129642\n\nBased on the new priorities, what is the value of 16117 - 4243 / 36679 * 49801? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                16116.99999767717
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 97072 - 61760 * 80060 / 401\n[Answer]: -12330195.83042394\n\nBased on the new priorities, what is the value of 24814 - 14533 * 95036 / 72375? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -19083.01725734024
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '-'\n[Example Question]: 44419 - 50922 / 13420 * 79669\n[Answer]: 44418.999952371865\n\nBased on the new priorities, what is the value of 96948 - 18899 / 39050 * 6874? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                96947.99992959423
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 88301 / 42072 * 46430 - 90750\n[Answer]: -90749.99995479632\n\nBased on the new priorities, what is the value of 52502 / 21825 * 31381 - 71723? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -71722.99992334248
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '-'\n[Example Question]: 14540 - 92174 / 20543 * 44917\n[Answer]: 14539.999900107283\n\nBased on the new priorities, what is the value of 45385 - 19734 / 55285 * 60806? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                45384.999994129685
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 91440 / 95367 * 23391 - 68241\n[Answer]: -68240.99995900893\n\nBased on the new priorities, what is the value of 77648 / 9262 * 637 - 8263? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -8262.986839085583
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '-'\n[Example Question]: 55952 - 72932 / 6481 * 16929\n[Answer]: 55951.99933527074\n\nBased on the new priorities, what is the value of 38448 - 81119 / 96985 * 94819? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                38447.999991178905
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 11674 / 96759 * 31301 - 35003\n[Answer]: -35002.99999614548\n\nBased on the new priorities, what is the value of 65510 / 65097 * 18914 - 21708? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -21707.99994679368
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 60336 / 93297 * 66334 - 72075\n[Answer]: -72074.99999025071\n\nBased on the new priorities, what is the value of 55330 / 67358 * 36244 - 20960? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -20959.99997733606
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '-' > '/'\n[Example Question]: 33777 / 84521 - 30723 * 64266\n[Answer]: -1.7107824040645213e-05\n\nBased on the new priorities, what is the value of 4086 / 53230 - 57666 * 22030? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -3.216490219559307e-06
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '-' > '/'\n[Example Question]: 53992 * 53758 - 98733 / 86140\n[Answer]: 33694.02371720455\n\nBased on the new priorities, what is the value of 81961 * 99809 - 58148 / 23178? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                352937.58309603937
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 19338 - 21824 * 51950 / 15828\n[Answer]: -71628.59881223149\n\nBased on the new priorities, what is the value of 52478 - 11273 * 49967 / 47503? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -11856.63038123908
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '-' > '/'\n[Example Question]: 7262 / 27353 * 53670 - 96173\n[Answer]: 4.947070915642341e-06\n\nBased on the new priorities, what is the value of 78927 / 26713 * 19210 - 18585? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.00015381238126430845
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 47547 / 9808 * 85523 - 6059\n[Answer]: -6058.999943316098\n\nBased on the new priorities, what is the value of 51205 / 69573 * 1243 - 50219? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -50218.99940789257
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '-'\n[Example Question]: 33432 - 56868 / 91305 * 10776\n[Answer]: 33431.9999422016\n\nBased on the new priorities, what is the value of 66311 - 54934 / 32224 * 29968? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                66310.99994311418
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-' = '+'\n[Example Question]: 67465 + 84687 / 77951 - 87628\n[Answer]: -87626.04810714423\n\nBased on the new priorities, what is the value of 46237 + 96001 / 9665 - 71786? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -71771.28318675634
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '-' > '/'\n[Example Question]: 61424 / 99416 * 44717 - 99057\n[Answer]: 1.381716127984889e-05\n\nBased on the new priorities, what is the value of 64070 / 76364 * 75970 - 5747? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.1043948145732768e-05
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 79639 / 85811 * 15913 - 46025\n[Answer]: -46024.99994167822\n\nBased on the new priorities, what is the value of 71659 / 12346 * 93375 - 52305? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -52304.999937839595
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 72462 / 63383 * 67024 - 86057\n[Answer]: -86056.99998294283\n\nBased on the new priorities, what is the value of 99320 / 3630 * 6081 - 39984? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -39983.99550059504
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-' = '+'\n[Example Question]: 88130 - 81174 / 98234 + 25299\n[Answer]: 25299.070810513673\n\nBased on the new priorities, what is the value of 73053 - 74702 / 10505 + 97870? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                97869.84302712994
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-' = '+'\n[Example Question]: 30052 + 14067 / 96415 - 64541\n[Answer]: -64540.5424052274\n\nBased on the new priorities, what is the value of 66440 + 62337 / 53039 - 56429? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -56426.57203190105
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '-' > '/'\n[Example Question]: 70476 / 56493 * 52588 - 29110\n[Answer]: 2.372270509415107e-05\n\nBased on the new priorities, what is the value of 81004 / 2461 * 64175 - 24467? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.000512975069984076
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' > '-'\n[Example Question]: 48191 - 87616 / 34441 * 65413\n[Answer]: 48190.99996110949\n\nBased on the new priorities, what is the value of 64659 - 15666 / 90713 * 88035? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                64658.9999980383
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/' = '-'\n[Example Question]: 54231 - 80551 / 54109 * 66415\n[Answer]: -7.324031445155776e-06\n\nBased on the new priorities, what is the value of 91586 - 72888 / 57445 * 81488? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.994378935984269e-06
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '-' > '/'\n[Example Question]: 25157 * 30200 - 69982 / 26389\n[Answer]: 28787.4272613589\n\nBased on the new priorities, what is the value of 62987 * 66456 - 49136 / 18846? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                222106.27910431923
+            ]
+        ]
+    }
+}

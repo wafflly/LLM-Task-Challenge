@@ -1,0 +1,1259 @@
+{
+    "+": {
+        "*": {
+            "accuracy": "25/25=1.0",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 5 - 6 * 9 + 1\n[Answer]: -48\n\nWhat is the value of 8 - 4 * 4 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1.0,
+                    1,
+                    "To solve the expression 8 - 4 * 4 + 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed before addition and subtraction, and all operations should be performed from left to right.\n\nSo, we first perform the multiplication:\n\n4 * 4 = 16\n\nNow we substitute this back into the expression:\n\n8 - 16 + 9\n\nNext, we perform the operations from left to right:\n\n8 - 16 = -8\n-8 + 9 = 1\n\nTherefore, the value of the expression is [1]."
+                ],
+                [
+                    "[Example Question]: 8 - 2 + 9 * 8\n[Answer]: 78\n\nWhat is the value of 3 - 2 + 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    17.0,
+                    17,
+                    "To solve the expression 3 - 2 + 4 * 4, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nFirst, we perform the multiplication:\n4 * 4 = 16\n\nThen we perform the addition and subtraction from left to right:\n3 - 2 + 16\n1 + 16\n17\n\nSo the value of the expression is [17]."
+                ],
+                [
+                    "[Example Question]: 6 - 6 + 3 * 7\n[Answer]: 21\n\nWhat is the value of 6 - 1 + 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    23.0,
+                    23,
+                    "To solve the expression 6 - 1 + 6 * 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nFirst, we perform the multiplication:\n6 * 3 = 18\n\nThen, we perform the addition and subtraction from left to right:\n6 - 1 + 18\n= 5 + 18\n= 23\n\nSo the value of the expression is [23]."
+                ],
+                [
+                    "[Example Question]: 9 + 1 * 9 / 2\n[Answer]: 13.5\n\nWhat is the value of 1 + 9 * 9 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    14.5,
+                    14.5,
+                    "To solve the expression 1 + 9 * 9 / 6, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication and division from left to right:\n\n9 * 9 = 81\n81 / 6 = 13.5\n\nNow, we add the result to 1:\n\n1 + 13.5 = 14.5\n\nSo the value of the expression is [14.5]."
+                ],
+                [
+                    "[Example Question]: 5 - 2 + 4 * 7\n[Answer]: 31\n\nWhat is the value of 1 - 3 + 1 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.0,
+                    7,
+                    "To solve the expression 1 - 3 + 1 * 9, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to PEMDAS, we perform multiplication before addition and subtraction. So we first multiply 1 * 9:\n\n1 * 9 = 9\n\nNow we substitute this result back into the expression:\n\n1 - 3 + 9\n\nNext, we perform the addition and subtraction from left to right:\n\n1 - 3 = -2\n-2 + 9 = 7\n\nSo the value of the expression is [7]."
+                ],
+                [
+                    "[Example Question]: 8 - 3 + 7 * 1\n[Answer]: 12\n\nWhat is the value of 4 - 4 + 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    21.0,
+                    21,
+                    "To solve the expression 4 - 4 + 7 * 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n7 * 3 = 21\n\nThen we perform the addition and subtraction from left to right:\n4 - 4 + 21\n= 0 + 21\n= 21\n\nSo the value of the expression is [21]."
+                ],
+                [
+                    "[Example Question]: 8 / 7 * 8 + 3\n[Answer]: 12.142857142857142\n\nWhat is the value of 8 / 9 * 6 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    14.3,
+                    14.3,
+                    "To solve the expression 8 / 9 * 6 + 9, we first perform the division and multiplication (following the order of operations: parentheses, exponents, multiplication and division from left to right, and addition and subtraction from left to right), and then we add the result to 9.\n\n8 / 9 * 6 = (8/9) * 6\n= (8 * 6) / 9\n= 48 / 9\n= 5.333333333333333 (repeating)\n\nNow we add 9 to the result:\n\n5.333333333333333 + 9 = 14.333333333333333 (repeating)\n\nSo the value of the expression is [14.333333333333333]."
+                ],
+                [
+                    "[Example Question]: 8 - 3 + 2 * 6\n[Answer]: 17\n\nWhat is the value of 2 - 7 + 2 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.0,
+                    5,
+                    "To solve the expression 2 - 7 + 2 * 5, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform the multiplication before addition and subtraction:\n\n2 * 5 = 10\n\nNow we substitute the result back into the expression:\n\n2 - 7 + 10\n\nNext, we perform the addition and subtraction from left to right:\n\n2 - 7 = -5\n-5 + 10 = 5\n\nSo the value of the expression is [5]."
+                ],
+                [
+                    "[Example Question]: 8 - 3 + 7 * 9\n[Answer]: 68\n\nWhat is the value of 5 - 8 + 5 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.0,
+                    7,
+                    "To solve the expression 5 - 8 + 5 * 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nFirst, we perform the multiplication:\n5 * 2 = 10\n\nNow we rewrite the expression with this result:\n5 - 8 + 10\n\nNext, we perform the addition and subtraction from left to right:\n5 - 8 = -3\n-3 + 10 = 7\n\nSo the value of the expression is [7]."
+                ],
+                [
+                    "[Example Question]: 2 - 9 + 5 * 9\n[Answer]: 38\n\nWhat is the value of 3 - 4 + 5 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    44.0,
+                    44,
+                    "To solve the expression 3 - 4 + 5 * 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nFirst, we perform the multiplication:\n5 * 9 = 45\n\nThen we perform the addition and subtraction from left to right:\n3 - 4 + 45\n= -1 + 45\n= 44\n\nSo the value of the expression is [44]."
+                ],
+                [
+                    "[Example Question]: 8 - 5 + 2 * 9\n[Answer]: 21\n\nWhat is the value of 7 - 4 + 3 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    21.0,
+                    21,
+                    "To solve the expression 7 - 4 + 3 * 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n3 * 6 = 18\n\nThen we perform the addition and subtraction from left to right:\n7 - 4 + 18\n= 3 + 18\n= 21\n\nSo the value of the expression is [21]."
+                ],
+                [
+                    "[Example Question]: 4 * 3 - 3 + 8\n[Answer]: 17\n\nWhat is the value of 2 * 6 - 7 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10.0,
+                    10,
+                    "To solve the expression 2 * 6 - 7 + 5, follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, perform the multiplication:\n2 * 6 = 12\n\nThen, subtract 7:\n12 - 7 = 5\n\nFinally, add 5:\n5 + 5 = 10\n\nSo the value of the expression is [10]."
+                ],
+                [
+                    "[Example Question]: 1 - 7 + 3 * 8\n[Answer]: 18\n\nWhat is the value of 7 - 7 + 6 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    48.0,
+                    48,
+                    "To solve the expression 7 - 7 + 6 * 8, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n6 * 8 = 48\n\nThen, we do the addition and subtraction from left to right:\n7 - 7 + 48\n0 + 48\n48\n\nSo the value of the expression is [48]."
+                ],
+                [
+                    "[Example Question]: 3 / 2 * 5 + 4\n[Answer]: 11.5\n\nWhat is the value of 6 / 8 * 5 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.8,
+                    7.8,
+                    "To solve the expression 6 / 8 * 5 + 4, we first perform the division and multiplication from left to right, and then we add the last number.\n\n6 / 8 = 0.75\n0.75 * 5 = 3.75\n3.75 + 4 = 7.75\n\nSo the value of the expression is [7.75]."
+                ],
+                [
+                    "[Example Question]: 8 * 2 - 1 + 5\n[Answer]: 20\n\nWhat is the value of 8 * 6 - 4 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    53.0,
+                    53,
+                    "To calculate the value of 8 * 6 - 4 + 9, follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, perform the multiplication:\n8 * 6 = 48\n\nThen, perform the subtraction and addition in order from left to right:\n48 - 4 + 9 = 44 + 9 = 53\n\nSo the final result is [53]."
+                ],
+                [
+                    "[Example Question]: 7 - 5 * 9 + 5\n[Answer]: -33\n\nWhat is the value of 1 - 8 * 9 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -64.0,
+                    -64,
+                    "To solve the expression 1 - 8 * 9 + 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n8 * 9 = 72\n\nNow we substitute the result back into the expression:\n1 - 72 + 7\n\nNext, we perform the addition and subtraction from left to right:\n1 - 72 = -71\n-71 + 7 = -64\n\nSo the final result is [-64]."
+                ],
+                [
+                    "[Example Question]: 2 * 2 + 2 / 9\n[Answer]: 4.222222222222222\n\nWhat is the value of 2 * 9 + 8 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    19.3,
+                    19.3,
+                    "To solve the expression 2 * 9 + 8 / 6, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed before addition and subtraction, and are performed from left to right.\n\nFirst, we perform the multiplication:\n2 * 9 = 18\n\nThen, we perform the division:\n8 / 6 = 1.3333333333333333 (repeating)\n\nFinally, we add the results of the multiplication and division:\n18 + 1.3333333333333333 = 19.3333333333333333\n\nSo the value of the expression is approximately [19.3333333333333333], or rounded to two decimal places, [19.33]."
+                ],
+                [
+                    "[Example Question]: 5 * 2 - 9 + 3\n[Answer]: 4\n\nWhat is the value of 8 * 6 - 4 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    52.0,
+                    52,
+                    "To solve the expression 8 * 6 - 4 + 8, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the multiplication:\n8 * 6 = 48\n\nThen we subtract 4:\n48 - 4 = 44\n\nFinally, we add 8:\n44 + 8 = 52\n\nSo the value of the expression is [52]."
+                ],
+                [
+                    "[Example Question]: 9 - 8 + 4 * 2\n[Answer]: 9\n\nWhat is the value of 4 - 6 + 7 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    26.0,
+                    26,
+                    "To solve the expression 4 - 6 + 7 * 4, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n7 * 4 = 28\n\nNow we rewrite the expression with the result of the multiplication:\n4 - 6 + 28\n\nNext, we perform the addition and subtraction from left to right:\n4 - 6 = -2\n-2 + 28 = 26\n\nSo the value of the expression is [26]."
+                ],
+                [
+                    "[Example Question]: 4 - 8 + 4 * 5\n[Answer]: 16\n\nWhat is the value of 8 - 9 + 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    20.0,
+                    20,
+                    "To solve the expression 8 - 9 + 3 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n3 * 7 = 21\n\nThen we perform the addition and subtraction from left to right:\n8 - 9 + 21\n\nFirst, we subtract 9 from 8:\n8 - 9 = -1\n\nThen we add 21 to the result:\n-1 + 21 = 20\n\nSo the value of the expression is [20]."
+                ],
+                [
+                    "[Example Question]: 8 - 1 * 1 + 6\n[Answer]: 13\n\nWhat is the value of 7 - 8 * 2 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -8.0,
+                    -8,
+                    "To solve the expression 7 - 8 * 2 + 1, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n8 * 2 = 16\n\nThen we substitute this back into the expression:\n7 - 16 + 1\n\nNext, we perform the subtraction and addition from left to right:\n7 - 16 = -9\n-9 + 1 = -8\n\nSo the final result is [-8]."
+                ],
+                [
+                    "[Example Question]: 6 + 1 * 6 - 2\n[Answer]: 10\n\nWhat is the value of 4 + 5 * 5 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    23.0,
+                    23,
+                    "To solve the expression 4 + 5 * 5 - 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), which dictates that multiplication is performed before addition and subtraction.\n\nSo, we first perform the multiplication:\n\n5 * 5 = 25\n\nThen we perform the addition and subtraction from left to right:\n\n4 + 25 - 6\n\nFirst, we add 4 and 25:\n\n4 + 25 = 29\n\nThen we subtract 6 from the result:\n\n29 - 6 = 23\n\nTherefore, the value of the expression is [23]."
+                ],
+                [
+                    "[Example Question]: 9 - 3 * 2 + 1\n[Answer]: 4\n\nWhat is the value of 8 - 3 * 7 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -5.0,
+                    -5,
+                    "To solve the expression 8 - 3 * 7 + 8, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n3 * 7 = 21\n\nThen we substitute this back into the expression:\n8 - 21 + 8\n\nNext, we perform the addition and subtraction from left to right:\n8 - 21 = -13\n-13 + 8 = -5\n\nSo the value of the expression is [-5]."
+                ],
+                [
+                    "[Example Question]: 1 - 5 + 5 * 5\n[Answer]: 21\n\nWhat is the value of 2 - 7 + 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    58.0,
+                    58,
+                    "To solve the expression 2 - 7 + 9 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform the multiplication before addition and subtraction:\n\n9 * 7 = 63\n\nNow we substitute the result back into the expression:\n\n2 - 7 + 63\n\nNext, we perform the addition and subtraction from left to right:\n\n2 - 7 = -5\n-5 + 63 = 58\n\nSo the value of the expression 2 - 7 + 9 * 7 is [58]."
+                ],
+                [
+                    "[Example Question]: 3 - 2 * 4 + 6\n[Answer]: 1\n\nWhat is the value of 2 - 3 * 4 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -9.0,
+                    -9,
+                    "To solve the expression 2 - 3 * 4 + 1, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n3 * 4 = 12\n\nThen we substitute this back into the expression:\n2 - 12 + 1\n\nNow we perform the addition and subtraction from left to right:\n2 - 12 = -10\n-10 + 1 = -9\n\nSo the final result is [-9]."
+                ]
+            ]
+        },
+        "/": {
+            "accuracy": "24/25=0.96",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 4 / 6 + 7 * 4\n[Answer]: 28.666666666666668\n\nWhat is the value of 7 / 4 + 6 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    25.8,
+                    25.8,
+                    "To solve the expression 7 / 4 + 6 * 4, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n7 / 4 = 1.75\n6 * 4 = 24\n\nNow, we add the results:\n\n1.75 + 24 = 25.75\n\nSo the value of the expression is [25.75]."
+                ],
+                [
+                    "[Example Question]: 7 - 2 / 9 + 6\n[Answer]: 12.777777777777779\n\nWhat is the value of 9 - 4 / 4 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    9.0,
+                    9,
+                    "To solve the expression 9 - 4 / 4 + 1, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction, also from left to right.\n\nSo, we first perform the division:\n\n4 / 4 = 1\n\nNow we substitute this back into the expression:\n\n9 - 1 + 1\n\nNext, we perform the subtraction and addition from left to right:\n\n9 - 1 = 8\n8 + 1 = 9\n\nTherefore, the value of the expression is [9]."
+                ],
+                [
+                    "[Example Question]: 1 - 1 + 3 / 9\n[Answer]: 0.3333333333333333\n\nWhat is the value of 7 - 7 + 9 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1.0,
+                    1,
+                    "To solve the expression 7 - 7 + 9 / 9, we first perform the division, then the subtraction and addition from left to right.\n\n7 - 7 = 0\n9 / 9 = 1\n\nNow we add the results:\n\n0 + 1 = 1\n\nSo the value of the expression is [1]."
+                ],
+                [
+                    "[Example Question]: 8 - 1 + 1 / 7\n[Answer]: 7.142857142857143\n\nWhat is the value of 4 - 2 + 7 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.0,
+                    3,
+                    "To solve the expression 4 - 2 + 7 / 7, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n7 / 7 = 1\n\nNow we have:\n4 - 2 + 1\n\nNext, we perform the subtraction and addition from left to right:\n4 - 2 = 2\n2 + 1 = 3\n\nSo the final result is:\n[3]"
+                ],
+                [
+                    "[Example Question]: 7 - 3 + 8 / 7\n[Answer]: 5.142857142857142\n\nWhat is the value of 2 - 4 + 8 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1.0,
+                    -1,
+                    "To solve the expression 2 - 4 + 8 / 8, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n8 / 8 = 1\n\nNow we have:\n2 - 4 + 1\n\nNext, we perform the addition and subtraction from left to right:\n2 - 4 = -2\n-2 + 1 = -1\n\nSo the final result is:\n[-1]"
+                ],
+                [
+                    "[Example Question]: 2 - 7 / 1 + 9\n[Answer]: 4.0\n\nWhat is the value of 3 - 6 / 1 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    0.0,
+                    0,
+                    "To solve the expression 3 - 6 / 1 + 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Division comes before addition and subtraction, so we first divide 6 by 1, and then subtract that result from 3, and finally add 3.\n\nHere's the step-by-step calculation:\n\n1. Division: 6 / 1 = 6\n2. Subtraction: 3 - 6 = -3\n3. Addition: -3 + 3 = 0\n\nSo the value of the expression is [0]."
+                ],
+                [
+                    "[Example Question]: 9 / 8 - 5 + 2\n[Answer]: -1.875\n\nWhat is the value of 4 / 6 - 9 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2.3,
+                    -2.3,
+                    "To solve the expression 4 / 6 - 9 + 6, we first perform the division, then the subtraction and addition in order from left to right.\n\n4 / 6 = 0.6667 (rounded to four decimal places)\n\nNow we subtract 9:\n\n0.6667 - 9 = -8.3333 (rounded to four decimal places)\n\nFinally, we add 6:\n\n-8.3333 + 6 = -2.3333 (rounded to four decimal places)\n\nSo the value of the expression is approximately [-2.3333]."
+                ],
+                [
+                    "[Example Question]: 8 - 3 / 5 + 2\n[Answer]: 9.4\n\nWhat is the value of 9 - 3 / 7 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    14.6,
+                    14.6,
+                    "To solve the expression 9 - 3 / 7 + 6, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This is often abbreviated as PEMDAS.\n\nFirst, we perform the division:\n\n3 / 7 = 0.42857142857 (rounded to 11 decimal places)\n\nNow, we rewrite the expression with the result of the division:\n\n9 - 0.42857142857 + 6\n\nNext, we perform the addition and subtraction from left to right:\n\n9 - 0.42857142857 = 8.57142857143 (rounded to 11 decimal places)\n\nFinally, we add 6 to the result:\n\n8.57142857143 + 6 = 14.57142857143 (rounded to 11 decimal places)\n\nRounded to one decimal place, the result is 14.6.\n\nSo the value of the expression is [14.6]."
+                ],
+                [
+                    "[Example Question]: 9 / 9 - 2 + 6\n[Answer]: 5.0\n\nWhat is the value of 9 / 7 - 9 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -3.7,
+                    -3.7,
+                    "To solve the expression 9 / 7 - 9 + 4, we first perform the division, then the subtraction, and finally the addition:\n\n9 / 7 = 1.2857 (rounded to four decimal places)\n1.2857 - 9 = -7.7143 (rounded to four decimal places)\n-7.7143 + 4 = -3.7143 (rounded to four decimal places)\n\nSo the value of the expression is approximately [-3.7143]."
+                ],
+                [
+                    "[Example Question]: 4 + 7 / 4 * 8\n[Answer]: 18.0\n\nWhat is the value of 4 + 4 / 9 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.3,
+                    5.3,
+                    "To solve the expression 4 + 4 / 9 * 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nFirst, we perform the division and multiplication:\n\n4 / 9 * 3\n\n= (4 / 9) * 3\n\n= 4/3\n\nNow, we add this result to 4:\n\n4 + 4/3\n\nTo add the fraction to the whole number, we can convert the whole number into a fraction with the same denominator:\n\n4 = 4/1 = (4 * 3) / (1 * 3) = 12/3\n\nNow we can add the two fractions:\n\n12/3 + 4/3 = (12 + 4) / 3 = 16/3\n\nTo convert this to a decimal, we divide the numerator by the denominator:\n\n16 ÷ 3 = 5.333...\n\nThe result is a repeating decimal, so we can round it to three decimal places:\n\n5.333\n\nTherefore, the value of the expression 4 + 4 / 9 * 3 is approximately [5.333]."
+                ],
+                [
+                    "[Example Question]: 9 / 9 * 5 + 8\n[Answer]: 13.0\n\nWhat is the value of 1 / 8 * 7 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1.9,
+                    1.9,
+                    "To calculate the value of 1 / 8 * 7 + 1, we first perform the multiplication and then the addition:\n\n1 / 8 * 7 = 7 / 8\n\nNow we add 1 to the result:\n\n7 / 8 + 1 = 7 / 8 + 8 / 8 = 15 / 8\n\nConverting 15 / 8 to a decimal:\n\n15 / 8 = 1.875\n\nSo the final result is [1.875]."
+                ],
+                [
+                    "[Example Question]: 1 - 9 / 9 + 2\n[Answer]: 2.0\n\nWhat is the value of 7 - 2 / 6 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13.7,
+                    13.7,
+                    "To solve the expression 7 - 2 / 6 + 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nThe expression does not contain any parentheses, exponents, or multiplication, so we start with division:\n\n2 / 6 = 0.3333...\n\nNow we substitute this back into the expression:\n\n7 - 0.3333... + 7\n\nNext, we perform the addition and subtraction from left to right:\n\n7 - 0.3333... = 6.6666...\n6.6666... + 7 = 13.6666...\n\nRounded to a reasonable number of decimal places, the result is:\n\n13.6666... ≈ 13.67\n\nSo the value of the expression is approximately [13.67]."
+                ],
+                [
+                    "[Example Question]: 7 / 4 + 1 - 5\n[Answer]: -2.25\n\nWhat is the value of 7 / 9 + 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1.2,
+                    -1.2,
+                    "To calculate the value of 7 / 9 + 2 - 4, we first perform the division, then the addition and subtraction in order from left to right.\n\n7 / 9 = 0.777...(repeating)\n\nNow we add 2:\n\n0.777... + 2 = 2.777...\n\nFinally, we subtract 4:\n\n2.777... - 4 = -1.222...\n\nSo the final result is [-1.222...]."
+                ],
+                [
+                    "[Example Question]: 3 - 7 / 9 + 9\n[Answer]: 11.222222222222221\n\nWhat is the value of 9 - 5 / 9 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10.4,
+                    10.4,
+                    "To solve the expression 9 - 5 / 9 + 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n5 / 9 = 0.5555555555555556 (approximately)\n\nNow, we can rewrite the expression with this result:\n\n9 - 0.5555555555555556 + 2\n\nNext, we perform the addition and subtraction from left to right:\n\n9 - 0.5555555555555556 = 8.444444444444444\n8.444444444444444 + 2 = 10.444444444444445\n\nSo the value of the expression is approximately 10.444444444444445.\n\nTherefore, the result in brackets is [10.444444444444445]."
+                ],
+                [
+                    "[Example Question]: 1 / 5 + 7 * 8\n[Answer]: 56.2\n\nWhat is the value of 1 / 1 + 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    73.0,
+                    0.0,
+                    "To solve the expression 1 / 1 + 9 * 8, we need to follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Orders/Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform multiplication before addition and division. So we first multiply 9 by 8, and then we add the result to 1, and finally, we divide 1 by the result of the addition.\n\n9 * 8 = 72\n1 + 72 = 73\n1 / 73\n\nNow we divide 1 by 73 to get the final result. Since 1 divided by 73 cannot be divided evenly, it results in a decimal.\n\n1 / 73 ≈ 0.01369863\n\nRounded to two decimal places, the result is approximately 0.01.\n\nSo the value of 1 / 1 + 9 * 8 is approximately [0.01]."
+                ],
+                [
+                    "[Example Question]: 4 - 2 + 4 / 9\n[Answer]: 2.4444444444444446\n\nWhat is the value of 9 - 5 + 6 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.0,
+                    5,
+                    "To solve the expression 9 - 5 + 6 / 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n6 / 6 = 1\n\nNow we have:\n9 - 5 + 1\n\nNext, we perform the subtraction and addition from left to right:\n9 - 5 = 4\n4 + 1 = 5\n\nSo the final result is:\n[5]"
+                ],
+                [
+                    "[Example Question]: 3 - 3 / 3 + 3\n[Answer]: 5.0\n\nWhat is the value of 6 - 6 / 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8.3,
+                    8.3,
+                    "To solve the expression 6 - 6 / 9 + 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n6 / 9 = 0.666...\n\nThen, we perform the subtraction and addition from left to right:\n\n6 - 0.666... + 3\n\n5.333... + 3\n\nFinally, we add the results:\n\n5.333... + 3 = 8.333...\n\nRounded to one decimal place, the result is 8.3. So the value of the expression is approximately [8.3]."
+                ],
+                [
+                    "[Example Question]: 1 + 7 / 7 * 1\n[Answer]: 2.0\n\nWhat is the value of 6 + 3 / 2 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    18.0,
+                    18,
+                    "To solve the expression 6 + 3 / 2 * 8, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to this rule, multiplication and division should be performed before addition.\n\nSo, we first perform the division and multiplication:\n\n3 / 2 = 1.5\n1.5 * 8 = 12\n\nNow we add the result to 6:\n\n6 + 12 = 18\n\nTherefore, the value of the expression is [18]."
+                ],
+                [
+                    "[Example Question]: 4 - 1 + 4 / 6\n[Answer]: 3.6666666666666665\n\nWhat is the value of 8 - 1 + 2 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8.0,
+                    8,
+                    "To solve the expression 8 - 1 + 2 / 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n2 / 2 = 1\n\nNow we have:\n8 - 1 + 1\n\nNext, we perform the subtraction and addition from left to right:\n8 - 1 = 7\n7 + 1 = 8\n\nSo the final result is:\n[8]"
+                ],
+                [
+                    "[Example Question]: 3 + 6 / 6 * 9\n[Answer]: 12.0\n\nWhat is the value of 9 + 5 / 2 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    21.5,
+                    21.5,
+                    "To solve the expression 9 + 5 / 2 * 5, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed before addition and subtraction, and are done from left to right.\n\nSo, we first perform the division and multiplication:\n\n5 / 2 * 5\n\n= 2.5 * 5\n\n= 12.5\n\nThen we add this result to 9:\n\n9 + 12.5\n\n= 21.5\n\nTherefore, the value of the expression is [21.5]."
+                ],
+                [
+                    "[Example Question]: 4 - 5 + 4 / 1\n[Answer]: 3.0\n\nWhat is the value of 3 - 5 + 5 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1.0,
+                    -1,
+                    "To solve the expression 3 - 5 + 5 / 5, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n5 / 5 = 1\n\nNow we have:\n3 - 5 + 1\n\nNext, we perform the addition and subtraction from left to right:\n3 - 5 = -2\n-2 + 1 = -1\n\nSo the final result is:\n[-1]"
+                ],
+                [
+                    "[Example Question]: 8 + 3 / 8 - 5\n[Answer]: 3.375\n\nWhat is the value of 3 + 8 / 7 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -0.9,
+                    -0.9,
+                    "To solve the expression 3 + 8 / 7 - 5, we must follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we perform the division:\n\n8 / 7 = 1.142857...\n\nThen we add and subtract from left to right:\n\n3 + 1.142857... - 5\n\nNow, we add 3 and 1.142857...:\n\n3 + 1.142857... = 4.142857...\n\nFinally, we subtract 5 from the result:\n\n4.142857... - 5 = -0.857142...\n\nSo the value of the expression is approximately -0.857142..., and rounded to three decimal places, it would be -0.857.\n\nThe final numeric result is [-0.857]."
+                ],
+                [
+                    "[Example Question]: 8 - 3 / 1 + 2\n[Answer]: 7.0\n\nWhat is the value of 6 - 9 / 8 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    11.9,
+                    11.9,
+                    "To solve the expression 6 - 9 / 8 + 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction from left to right).\n\nFirst, we perform the division:\n\n9 / 8 = 1.125\n\nNow, we substitute this value back into the expression:\n\n6 - 1.125 + 7\n\nNext, we perform the addition and subtraction from left to right:\n\n6 - 1.125 = 4.875\n4.875 + 7 = 11.875\n\nSo the value of the expression is [11.875]."
+                ],
+                [
+                    "[Example Question]: 4 + 8 / 5 * 5\n[Answer]: 12.0\n\nWhat is the value of 8 + 2 / 5 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10.8,
+                    10.8,
+                    "To solve the expression 8 + 2 / 5 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nFirst, we perform the division and multiplication:\n\n2 / 5 = 0.4\n0.4 * 7 = 2.8\n\nNow, we add the result to 8:\n\n8 + 2.8 = 10.8\n\nSo the value of the expression is [10.8]."
+                ],
+                [
+                    "[Example Question]: 2 / 2 + 2 * 1\n[Answer]: 3.0\n\nWhat is the value of 2 / 6 + 1 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    9.3,
+                    9.3,
+                    "To solve the expression 2 / 6 + 1 * 9, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division from left to right, Addition and Subtraction from left to right).\n\nFirst, we perform the division and multiplication since there are no parentheses or exponents to consider:\n\n2 / 6 = 0.3333... (repeating)\n1 * 9 = 9\n\nNow we add the results of the division and multiplication:\n\n0.3333... + 9 = 9.3333...\n\nThe final result is [9.3333...], but if we round it to one decimal place, it would be [9.3]."
+                ]
+            ]
+        }
+    },
+    "overall_accuracy": "199/200=0.995",
+    "-": {
+        "*": {
+            "accuracy": "25/25=1.0",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 3 + 8 - 5 * 1\n[Answer]: 6\n\nWhat is the value of 7 + 7 - 3 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -7.0,
+                    -7,
+                    "To solve the expression 7 + 7 - 3 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nFirst, we perform the multiplication:\n3 * 7 = 21\n\nThen, we perform the addition and subtraction from left to right:\n7 + 7 = 14\n14 - 21 = -7\n\nSo the value of the expression is [-7]."
+                ],
+                [
+                    "[Example Question]: 5 - 4 + 4 * 9\n[Answer]: 37\n\nWhat is the value of 5 - 3 + 6 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    20.0,
+                    20,
+                    "To solve the expression 5 - 3 + 6 * 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nFirst, we perform the multiplication:\n6 * 3 = 18\n\nThen, we perform the addition and subtraction from left to right:\n5 - 3 + 18\n= 2 + 18\n= 20\n\nSo the value of the expression is [20]."
+                ],
+                [
+                    "[Example Question]: 3 - 2 * 3 + 9\n[Answer]: 6\n\nWhat is the value of 3 - 9 * 5 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -39.0,
+                    -39,
+                    "To solve the expression 3 - 9 * 5 + 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nSo we first do the multiplication:\n\n9 * 5 = 45\n\nNow we substitute that back into the expression:\n\n3 - 45 + 3\n\nNext, we do the addition and subtraction from left to right:\n\n3 - 45 = -42\n-42 + 3 = -39\n\nSo the value of the expression is [-39]."
+                ],
+                [
+                    "[Example Question]: 5 * 7 - 2 / 1\n[Answer]: 33.0\n\nWhat is the value of 6 * 5 - 7 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    29.1,
+                    29.1,
+                    "To solve the expression 6 * 5 - 7 / 8, we first perform the multiplication and division before subtraction, following the order of operations (PEMDAS/BODMAS):\n\n6 * 5 = 30\n7 / 8 = 0.875\n\nNow, subtract the result of the division from the result of the multiplication:\n\n30 - 0.875 = 29.125\n\nSo the value of 6 * 5 - 7 / 8 is [29.125]."
+                ],
+                [
+                    "[Example Question]: 6 - 4 + 3 * 7\n[Answer]: 23\n\nWhat is the value of 3 - 3 + 4 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    16.0,
+                    16,
+                    "To solve the expression 3 - 3 + 4 * 4, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n4 * 4 = 16\n\nThen, we do the addition and subtraction from left to right:\n3 - 3 + 16\n0 + 16\n16\n\nSo the value of the expression is [16]."
+                ],
+                [
+                    "[Example Question]: 1 + 4 * 1 - 5\n[Answer]: 0\n\nWhat is the value of 3 + 7 * 1 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1.0,
+                    1,
+                    "To solve the expression 3 + 7 * 1 - 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform the multiplication before addition and subtraction:\n\n7 * 1 = 7\n\nNow we substitute this back into the expression:\n\n3 + 7 - 9\n\nNext, we perform the addition and subtraction from left to right:\n\n3 + 7 = 10\n10 - 9 = 1\n\nSo the final result is [1]."
+                ],
+                [
+                    "[Example Question]: 5 * 8 - 7 + 3\n[Answer]: 36\n\nWhat is the value of 6 * 4 - 3 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    28.0,
+                    28,
+                    "To calculate the value of 6 * 4 - 3 + 7, follow these steps:\n\n1. Multiply 6 by 4: 6 * 4 = 24\n2. Subtract 3: 24 - 3 = 21\n3. Add 7: 21 + 7 = 28\n\nSo the final result is [28]."
+                ],
+                [
+                    "[Example Question]: 4 * 2 - 5 / 9\n[Answer]: 7.444444444444445\n\nWhat is the value of 9 * 2 - 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13.5,
+                    13.5,
+                    "To solve the expression 9 * 2 - 9 / 2, we first perform the multiplication and division before subtraction, following the order of operations (PEMDAS/BODMAS):\n\n9 * 2 = 18\n9 / 2 = 4.5\n\nNow, subtract the second result from the first:\n\n18 - 4.5 = 13.5\n\nSo the value of the expression is [13.5]."
+                ],
+                [
+                    "[Example Question]: 7 + 7 - 8 * 6\n[Answer]: -34\n\nWhat is the value of 1 + 2 - 1 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -3.0,
+                    -3,
+                    "To solve the expression 1 + 2 - 1 * 6, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n1 * 6 = 6\n\nThen, we perform the addition and subtraction from left to right:\n1 + 2 - 6\n= 3 - 6\n= -3\n\nSo the final result is [-3]."
+                ],
+                [
+                    "[Example Question]: 1 * 5 - 3 / 1\n[Answer]: 2.0\n\nWhat is the value of 9 * 7 - 5 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    62.4,
+                    62.4,
+                    "To solve the expression 9 * 7 - 5 / 8, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division are performed from left to right, according to their appearance in the expression.\n\nFirst, we perform the multiplication:\n9 * 7 = 63\n\nThen, we perform the division:\n5 / 8 = 0.625\n\nFinally, we subtract the result of the division from the result of the multiplication:\n63 - 0.625 = 62.375\n\nSo the value of the expression 9 * 7 - 5 / 8 is [62.375]."
+                ],
+                [
+                    "[Example Question]: 5 / 2 * 1 - 5\n[Answer]: -2.5\n\nWhat is the value of 8 / 6 * 2 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2.3,
+                    -2.3,
+                    "To solve the expression 8 / 6 * 2 - 5, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication from left to right:\n\n8 / 6 * 2\n\n= (8 / 6) * 2\n\n= 1.3333... * 2\n\n= 2.6666...\n\nThen, we subtract 5 from the result:\n\n2.6666... - 5\n\n= -2.3333...\n\nRounded to one decimal place, the result is -2.3. So the final numeric result is [-2.3]."
+                ],
+                [
+                    "[Example Question]: 2 + 7 - 8 * 2\n[Answer]: -7\n\nWhat is the value of 9 + 3 - 5 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -23.0,
+                    -23,
+                    "To solve the expression 9 + 3 - 5 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nFirst, we perform the multiplication:\n5 * 7 = 35\n\nThen, we perform the addition and subtraction from left to right:\n9 + 3 - 35\n= 12 - 35\n= -23\n\nSo the value of the expression is [-23]."
+                ],
+                [
+                    "[Example Question]: 2 + 2 * 9 - 9\n[Answer]: 11\n\nWhat is the value of 7 + 5 * 2 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13.0,
+                    13,
+                    "To solve the expression 7 + 5 * 2 - 4, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed before addition and subtraction, and all operations should be performed from left to right.\n\nSo, we first perform the multiplication:\n\n5 * 2 = 10\n\nNow we substitute this back into the expression:\n\n7 + 10 - 4\n\nNext, we perform the addition and subtraction from left to right:\n\n7 + 10 = 17\n17 - 4 = 13\n\nTherefore, the value of the expression is [13]."
+                ],
+                [
+                    "[Example Question]: 6 + 5 - 7 * 4\n[Answer]: -17\n\nWhat is the value of 5 + 3 - 5 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -37.0,
+                    -37,
+                    "To solve the expression 5 + 3 - 5 * 9, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This is often abbreviated as PEMDAS.\n\nFirst, we perform the multiplication:\n- 5 * 9 = 45\n\nThen, we perform the addition and subtraction from left to right:\n- 5 + 3 = 8\n- 8 - 45 = -37\n\nSo the value of the expression is [-37]."
+                ],
+                [
+                    "[Example Question]: 5 - 8 + 8 * 2\n[Answer]: 13\n\nWhat is the value of 3 - 7 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    59.0,
+                    59,
+                    "To solve the expression 3 - 7 + 7 * 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the multiplication:\n7 * 9 = 63\n\nNow we rewrite the expression with the result of the multiplication:\n3 - 7 + 63\n\nNext, we perform the addition and subtraction from left to right:\n3 - 7 = -4\n-4 + 63 = 59\n\nSo the value of the expression is [59]."
+                ],
+                [
+                    "[Example Question]: 3 / 5 * 9 - 5\n[Answer]: 0.39999999999999947\n\nWhat is the value of 5 / 4 * 3 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    0.8,
+                    0.8,
+                    "To solve the expression 5 / 4 * 3 - 3, we follow the order of operations, which is parentheses first (not applicable here), then exponents (not applicable here), then multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we perform the division and multiplication:\n\n5 / 4 * 3 = (5/4) * 3 = 1.25 * 3 = 3.75\n\nNow, we subtract 3 from the result:\n\n3.75 - 3 = 0.75\n\nSo the value of the expression is [0.75]."
+                ],
+                [
+                    "[Example Question]: 7 - 5 * 3 + 9\n[Answer]: 1\n\nWhat is the value of 6 - 7 * 7 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -38.0,
+                    -38,
+                    "To solve the expression 6 - 7 * 7 + 5, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n7 * 7 = 49\n\nNow, we substitute this back into the expression:\n6 - 49 + 5\n\nNext, we perform the subtraction and addition from left to right:\n6 - 49 = -43\n-43 + 5 = -38\n\nSo the value of the expression is [-38]."
+                ],
+                [
+                    "[Example Question]: 6 - 6 + 3 * 1\n[Answer]: 3\n\nWhat is the value of 6 - 3 + 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.0,
+                    7,
+                    "To solve the expression 6 - 3 + 1 * 4, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nFirst, we perform the multiplication:\n1 * 4 = 4\n\nNow we have:\n6 - 3 + 4\n\nNext, we perform the addition and subtraction from left to right:\n6 - 3 = 3\n3 + 4 = 7\n\nSo the final result is [7]."
+                ],
+                [
+                    "[Example Question]: 3 - 3 * 5 + 3\n[Answer]: -9\n\nWhat is the value of 1 - 7 * 9 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -60.0,
+                    -60,
+                    "To solve the expression 1 - 7 * 9 + 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n7 * 9 = 63\n\nThen we substitute this back into the expression:\n1 - 63 + 2\n\nNext, we perform the addition and subtraction from left to right:\n1 - 63 = -62\n-62 + 2 = -60\n\nSo the value of the expression is [-60]."
+                ],
+                [
+                    "[Example Question]: 2 * 9 - 8 / 5\n[Answer]: 16.4\n\nWhat is the value of 7 * 9 - 1 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    62.7,
+                    62.7,
+                    "To solve the expression 7 * 9 - 1 / 3, we first perform the multiplication and division before subtraction, following the order of operations (PEMDAS/BODMAS).\n\n7 * 9 = 63\n1 / 3 = 0.333...\n\nNow, subtract the result of the division from the result of the multiplication:\n\n63 - 0.333... ≈ 62.666...\n\nRounded to three decimal places, the result is approximately 62.667. So, the value of the expression is [62.667]."
+                ],
+                [
+                    "[Example Question]: 6 * 1 - 6 / 5\n[Answer]: 4.8\n\nWhat is the value of 8 * 2 - 7 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    15.0,
+                    15,
+                    "To solve the expression 8 * 2 - 7 / 7, we first perform the multiplication and division before subtraction, according to the order of operations (PEMDAS/BODMAS).\n\n8 * 2 = 16\n7 / 7 = 1\n\nNow we subtract the result of the division from the result of the multiplication:\n\n16 - 1 = 15\n\nSo the value of the expression is [15]."
+                ],
+                [
+                    "[Example Question]: 1 * 5 - 9 + 7\n[Answer]: 3\n\nWhat is the value of 6 * 5 - 7 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    27.0,
+                    27,
+                    "To calculate the value of 6 * 5 - 7 + 4, follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, perform the multiplication:\n6 * 5 = 30\n\nThen, perform the subtraction and addition in order from left to right:\n30 - 7 + 4 = 23 + 4 = 27\n\nSo the final result is [27]."
+                ],
+                [
+                    "[Example Question]: 7 - 7 / 8 * 1\n[Answer]: 6.125\n\nWhat is the value of 8 - 6 / 7 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.4,
+                    5.4,
+                    "To solve the expression 8 - 6 / 7 * 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed from left to right.\n\nFirst, we perform the division and multiplication:\n\n6 / 7 * 3\n\n6 / 7 = 0.857142857 (rounded to 6 decimal places, it's 0.857143)\n0.857143 * 3 = 2.571429 (rounded to 6 decimal places, it's 2.571429)\n\nNow we subtract that result from 8:\n\n8 - 2.571429 = 5.428571 (rounded to 6 decimal places, it's 5.428571)\n\nSo the final result is [5.428571]."
+                ],
+                [
+                    "[Example Question]: 2 * 8 - 2 / 3\n[Answer]: 15.333333333333334\n\nWhat is the value of 2 * 3 - 4 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4.0,
+                    4,
+                    "To solve the expression 2 * 3 - 4 / 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication and division from left to right:\n\nMultiplication:\n2 * 3 = 6\n\nDivision:\n4 / 2 = 2\n\nNow we subtract the result of the division from the result of the multiplication:\n\n6 - 2 = 4\n\nSo the value of the expression 2 * 3 - 4 / 2 is [4]."
+                ],
+                [
+                    "[Example Question]: 1 + 5 * 3 - 6\n[Answer]: 10\n\nWhat is the value of 7 + 6 * 9 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    56.0,
+                    56,
+                    "To solve the expression 7 + 6 * 9 - 5, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n6 * 9 = 54\n\nThen we perform the addition and subtraction from left to right:\n7 + 54 - 5\n\nFirst, add 7 and 54:\n7 + 54 = 61\n\nThen subtract 5:\n61 - 5 = 56\n\nSo the value of the expression is [56]."
+                ]
+            ]
+        },
+        "/": {
+            "accuracy": "25/25=1.0",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 2 - 9 / 4 * 2\n[Answer]: -2.5\n\nWhat is the value of 5 - 4 / 2 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -9.0,
+                    -9,
+                    "To solve the expression 5 - 4 / 2 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division are performed from left to right, followed by addition and subtraction.\n\nSo, we first perform the division:\n\n4 / 2 = 2\n\nThen we multiply the result by 7:\n\n2 * 7 = 14\n\nFinally, we subtract that result from 5:\n\n5 - 14 = -9\n\nTherefore, the value of the expression is [-9]."
+                ],
+                [
+                    "[Example Question]: 2 - 7 / 9 + 3\n[Answer]: 4.222222222222222\n\nWhat is the value of 9 - 5 / 4 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    15.8,
+                    15.8,
+                    "To solve the expression 9 - 5 / 4 + 8, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n5 / 4 = 1.25\n\nNow, we substitute this result back into the original expression:\n\n9 - 1.25 + 8\n\nNext, we perform the addition and subtraction from left to right:\n\n9 - 1.25 = 7.75\n7.75 + 8 = 15.75\n\nSo the value of the expression is [15.75]."
+                ],
+                [
+                    "[Example Question]: 6 + 5 - 3 / 1\n[Answer]: 8.0\n\nWhat is the value of 3 + 8 - 6 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    9.8,
+                    9.8,
+                    "To solve the expression 3 + 8 - 6 / 5, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nGiven the expression does not have parentheses or exponents, we start with division:\n\n6 / 5 = 1.2\n\nNow we perform the addition and subtraction from left to right:\n\n3 + 8 = 11\n11 - 1.2 = 9.8\n\nSo the value of the expression 3 + 8 - 6 / 5 is [9.8]."
+                ],
+                [
+                    "[Example Question]: 4 / 6 - 7 * 9\n[Answer]: -62.333333333333336\n\nWhat is the value of 9 / 3 - 2 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -11.0,
+                    -11,
+                    "To solve the expression 9 / 3 - 2 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nFirst, we divide 9 by 3:\n9 / 3 = 3\n\nThen, we multiply 2 by 7:\n2 * 7 = 14\n\nFinally, we subtract the result of the multiplication from the result of the division:\n3 - 14 = -11\n\nSo the value of the expression 9 / 3 - 2 * 7 is [-11]."
+                ],
+                [
+                    "[Example Question]: 1 + 7 - 9 / 5\n[Answer]: 6.2\n\nWhat is the value of 7 + 1 - 9 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.8,
+                    5.8,
+                    "To solve the expression 7 + 1 - 9 / 4, we need to follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven the expression does not have parentheses or exponents, we start with division:\n\n9 / 4 = 2.25\n\nNow we perform the addition and subtraction from left to right:\n\n7 + 1 = 8\n\nThen we subtract the result of the division:\n\n8 - 2.25 = 5.75\n\nSo the value of the expression 7 + 1 - 9 / 4 is [5.75]."
+                ],
+                [
+                    "[Example Question]: 5 / 8 - 4 * 7\n[Answer]: -27.375\n\nWhat is the value of 9 / 9 - 8 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -23.0,
+                    -23,
+                    "To solve the expression 9 / 9 - 8 * 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nHere's the step-by-step calculation:\n\n1. Division: 9 / 9 = 1\n2. Multiplication: 8 * 3 = 24\n3. Subtraction: 1 - 24 = -23\n\nSo the value of the expression is [-23]."
+                ],
+                [
+                    "[Example Question]: 7 - 6 / 1 + 1\n[Answer]: 2.0\n\nWhat is the value of 2 - 5 / 8 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4.4,
+                    4.4,
+                    "To solve the expression 2 - 5 / 8 + 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n5 / 8 = 0.625\n\nNow, we rewrite the expression with the result of the division:\n\n2 - 0.625 + 3\n\nNext, we perform the addition and subtraction from left to right:\n\n2 - 0.625 = 1.375\n\nThen:\n\n1.375 + 3 = 4.375\n\nSo the value of the expression 2 - 5 / 8 + 3 is [4.375]."
+                ],
+                [
+                    "[Example Question]: 4 / 4 - 8 * 3\n[Answer]: -23.0\n\nWhat is the value of 3 / 7 - 4 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -23.6,
+                    -23.6,
+                    "To solve the expression 3 / 7 - 4 * 6, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed from left to right, followed by addition and subtraction from left to right.\n\nFirst, we perform the division and multiplication:\n\n3 / 7 = 0.42857142857 (approximated to 14 decimal places)\n4 * 6 = 24\n\nNow, we subtract the result of the multiplication from the result of the division:\n\n0.42857142857 - 24 = -23.57142857143 (approximated to 14 decimal places)\n\nRounded to two decimal places, the result is -23.57.\n\nSo the value of the expression is approximately [-23.57]."
+                ],
+                [
+                    "[Example Question]: 2 - 7 + 3 / 6\n[Answer]: -4.5\n\nWhat is the value of 6 - 7 + 1 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -0.8,
+                    -0.8,
+                    "To solve the expression 6 - 7 + 1 / 5, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n1 / 5 = 0.2\n\nThen, we perform the addition and subtraction from left to right:\n6 - 7 = -1\n-1 + 0.2 = -0.8\n\nSo the value of the expression 6 - 7 + 1 / 5 is [-0.8]."
+                ],
+                [
+                    "[Example Question]: 6 / 8 - 1 * 1\n[Answer]: -0.25\n\nWhat is the value of 4 / 9 - 4 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -11.6,
+                    -11.6,
+                    "To solve the expression 4 / 9 - 4 * 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed from left to right.\n\nFirst, we perform the division and multiplication:\n\n4 / 9 = 0.44444444444 (repeating)\n4 * 3 = 12\n\nNow, we subtract the result of the multiplication from the result of the division:\n\n0.44444444444 - 12 = -11.55555555556\n\nRounded to two decimal places, the result is -11.56.\n\nSo the value of the expression 4 / 9 - 4 * 3 is approximately [-11.56]."
+                ],
+                [
+                    "[Example Question]: 1 * 2 / 7 - 1\n[Answer]: -0.7142857142857143\n\nWhat is the value of 7 * 7 / 8 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.1,
+                    5.1,
+                    "To calculate the value of 7 * 7 / 8 - 1, follow these steps:\n\n1. Multiply 7 by 7 to get 49.\n2. Divide 49 by 8 to get 6.125.\n3. Subtract 1 from 6.125 to get 5.125.\n\nSo the final result is [5.125]."
+                ],
+                [
+                    "[Example Question]: 4 / 7 - 4 * 3\n[Answer]: -11.428571428571429\n\nWhat is the value of 8 / 9 - 4 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -11.1,
+                    -11.1,
+                    "To solve the expression 8 / 9 - 4 * 3, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n8 / 9 = 0.888888888888889 (approximately)\n4 * 3 = 12\n\nNow we subtract the result of the multiplication from the result of the division:\n\n0.888888888888889 - 12 = -11.111111111111111 (approximately)\n\nRounded to a reasonable number of decimal places, the result is approximately -11.11. However, since you did not specify the number of decimal places, I will give you the unrounded result.\n\nThe value of 8 / 9 - 4 * 3 is approximately [-11.111111111111111]."
+                ],
+                [
+                    "[Example Question]: 3 / 6 - 1 * 8\n[Answer]: -7.5\n\nWhat is the value of 9 / 1 - 9 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -36.0,
+                    -36,
+                    "To solve the expression 9 / 1 - 9 * 5, we follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n9 / 1 = 9\n9 * 5 = 45\n\nNow we have:\n\n9 - 45\n\nThen we perform the subtraction:\n\n9 - 45 = -36\n\nSo the value of the expression is [-36]."
+                ],
+                [
+                    "[Example Question]: 9 - 1 / 8 * 2\n[Answer]: 8.75\n\nWhat is the value of 7 - 3 / 3 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.0,
+                    3,
+                    "To solve the expression 7 - 3 / 3 * 4, we must follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed from left to right.\n\nFirst, we divide 3 by 3, then multiply the result by 4, and finally subtract that from 7.\n\n7 - (3 / 3) * 4\n= 7 - 1 * 4\n= 7 - 4\n= 3\n\nSo the value of the expression is [3]."
+                ],
+                [
+                    "[Example Question]: 9 - 3 / 8 * 9\n[Answer]: 5.625\n\nWhat is the value of 8 - 3 / 9 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.0,
+                    6,
+                    "To solve the expression 8 - 3 / 9 * 6, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the division and multiplication from left to right:\n\n3 / 9 = 0.3333 (repeating)\n0.3333 * 6 = 2\n\nNow we have:\n\n8 - 2 = 6\n\nSo the value of the expression is [6]."
+                ],
+                [
+                    "[Example Question]: 6 / 8 - 5 * 3\n[Answer]: -14.25\n\nWhat is the value of 3 / 7 - 9 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -17.6,
+                    -17.6,
+                    "To solve the expression 3 / 7 - 9 * 2, we first perform the multiplication and then the division, followed by the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\nFirst, we multiply 9 by 2:\n9 * 2 = 18\n\nThen, we divide 3 by 7:\n3 / 7 ≈ 0.428571\n\nFinally, we subtract the result of the multiplication from the result of the division:\n0.428571 - 18 ≈ -17.571429\n\nSo the value of 3 / 7 - 9 * 2 is approximately [-17.571429]."
+                ],
+                [
+                    "[Example Question]: 5 - 2 / 2 + 7\n[Answer]: 11.0\n\nWhat is the value of 5 - 1 / 4 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.8,
+                    6.8,
+                    "To solve the expression 5 - 1 / 4 + 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n1 / 4 = 0.25\n\nThen, we perform the addition and subtraction from left to right:\n5 - 0.25 + 2 = 4.75 + 2 = 6.75\n\nSo the value of the expression is [6.75]."
+                ],
+                [
+                    "[Example Question]: 8 + 6 / 9 - 4\n[Answer]: 4.666666666666666\n\nWhat is the value of 4 + 4 / 6 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.7,
+                    3.7,
+                    "To solve the expression 4 + 4 / 6 - 1, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nSo, we first perform the division:\n\n4 / 6 = 0.6666666666666667\n\nThen we add and subtract from left to right:\n\n4 + (4 / 6) - 1\n= 4 + 0.6666666666666667 - 1\n= 4.666666666666667 - 1\n= 3.666666666666667\n\nRounded to a reasonable number of decimal places, the result is:\n\n[3.67]"
+                ],
+                [
+                    "[Example Question]: 5 / 7 - 6 * 5\n[Answer]: -29.285714285714285\n\nWhat is the value of 2 / 9 - 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -15.8,
+                    -15.8,
+                    "To solve the expression 2 / 9 - 8 * 2, we need to follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n8 * 2 = 16\n\nNow we have:\n2 / 9 - 16\n\nNext, we perform the division:\n2 / 9 ≈ 0.2222222222222222\n\nNow we subtract the result of the multiplication from the result of the division:\n0.2222222222222222 - 16 ≈ -15.777777777777778\n\nSo the value of 2 / 9 - 8 * 2 is approximately [-15.777777777777778]."
+                ],
+                [
+                    "[Example Question]: 5 - 9 / 9 * 6\n[Answer]: -1.0\n\nWhat is the value of 7 - 3 / 6 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.5,
+                    3.5,
+                    "To solve the expression 7 - 3 / 6 * 7, we need to follow the order of operations, also known as PEMDAS/BODMAS (Parentheses/Brackets, Orders/Exponents, Multiplication and Division, and Addition and Subtraction). Multiplication and division should be performed from left to right.\n\nFirst, we perform the division and multiplication:\n\n3 / 6 * 7\n\n0.5 * 7\n\n3.5\n\nNow, we subtract this result from 7:\n\n7 - 3.5\n\n3.5\n\nSo the value of the expression is [3.5]."
+                ],
+                [
+                    "[Example Question]: 3 + 6 / 3 - 5\n[Answer]: 0.0\n\nWhat is the value of 9 + 8 / 2 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8.0,
+                    8,
+                    "To solve the expression 9 + 8 / 2 - 5, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nSo, we first perform the division:\n\n8 / 2 = 4\n\nThen we substitute this back into the expression:\n\n9 + 4 - 5\n\nNow we perform the addition and subtraction from left to right:\n\n9 + 4 = 13\n13 - 5 = 8\n\nTherefore, the value of the expression is [8]."
+                ],
+                [
+                    "[Example Question]: 6 + 5 - 8 / 9\n[Answer]: 10.11111111111111\n\nWhat is the value of 9 + 2 - 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.5,
+                    6.5,
+                    "To solve the expression 9 + 2 - 9 / 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n9 / 2 = 4.5\n\nNow we have:\n9 + 2 - 4.5\n\nNext, we perform the addition and subtraction from left to right:\n9 + 2 = 11\n11 - 4.5 = 6.5\n\nSo the final result is [6.5]."
+                ],
+                [
+                    "[Example Question]: 3 + 7 - 2 / 6\n[Answer]: 9.666666666666666\n\nWhat is the value of 9 + 3 - 4 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    11.6,
+                    11.6,
+                    "To solve the expression 9 + 3 - 4 / 9, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, division comes before addition and subtraction.\n\nSo we first divide 4 by 9, and then add and subtract the results in sequence:\n\n4 / 9 = 0.4444444444444444 (approximately)\n\nNow we add 9 and 3, and then subtract the result of the division:\n\n9 + 3 = 12\n\n12 - 0.4444444444444444 = 11.555555555555555 (approximately)\n\nSo the value of the expression 9 + 3 - 4 / 9 is approximately [11.555555555555555]."
+                ],
+                [
+                    "[Example Question]: 4 - 2 / 4 + 1\n[Answer]: 4.5\n\nWhat is the value of 6 - 7 / 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.8,
+                    7.8,
+                    "To solve the expression 6 - 7 / 6 + 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n7 / 6 = 1.166666...\n\nThen, we perform the addition and subtraction from left to right:\n\n6 - (7 / 6) + 3\n= 6 - 1.166666... + 3\n= 4.833333... + 3\n= 7.833333...\n\nRounded to one decimal place, the result is 7.8. So the value of the expression is [7.8]."
+                ],
+                [
+                    "[Example Question]: 4 / 5 - 8 * 8\n[Answer]: -63.2\n\nWhat is the value of 7 / 3 - 7 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -39.7,
+                    -39.7,
+                    "To solve the expression 7 / 3 - 7 * 6, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n7 / 3 = 2.3333... (repeating)\n7 * 6 = 42\n\nNow, we subtract the result of the multiplication from the result of the division:\n\n2.3333... - 42 = -39.6666... (repeating)\n\nRounded to a reasonable number of decimal places, the result is approximately -39.67. However, since you did not specify the number of decimal places to round to, I will give you the exact result as a repeating decimal:\n\nThe value of 7 / 3 - 7 * 6 is [-39.6666...]."
+                ]
+            ]
+        }
+    },
+    "*": {
+        "+": {
+            "accuracy": "25/25=1.0",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 3 - 4 * 3 + 6\n[Answer]: -3\n\nWhat is the value of 7 - 8 * 2 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2.0,
+                    -2,
+                    "To solve the expression 7 - 8 * 2 + 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform the multiplication before addition and subtraction:\n\n7 - (8 * 2) + 7\n\nNow, calculate the multiplication:\n\n7 - 16 + 7\n\nNext, perform the addition and subtraction from left to right:\n\n(7 - 16) + 7\n-9 + 7\n\nFinally, add -9 and 7:\n\n-9 + 7 = -2\n\nSo the value of the expression is [-2]."
+                ],
+                [
+                    "[Example Question]: 8 * 1 - 2 + 6\n[Answer]: 12\n\nWhat is the value of 9 * 5 - 6 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    42.0,
+                    42,
+                    "To solve the expression 9 * 5 - 6 + 3, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the multiplication:\n9 * 5 = 45\n\nThen we subtract 6:\n45 - 6 = 39\n\nFinally, we add 3:\n39 + 3 = 42\n\nSo the value of the expression is [42]."
+                ],
+                [
+                    "[Example Question]: 6 * 7 - 7 + 4\n[Answer]: 39\n\nWhat is the value of 2 * 4 - 8 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.0,
+                    7,
+                    "To solve the expression 2 * 4 - 8 + 7, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the multiplication:\n2 * 4 = 8\n\nNow we have:\n8 - 8 + 7\n\nNext, we perform the subtraction and addition from left to right:\n8 - 8 = 0\n0 + 7 = 7\n\nSo the final result is [7]."
+                ],
+                [
+                    "[Example Question]: 7 - 7 + 1 * 7\n[Answer]: 7\n\nWhat is the value of 7 - 9 + 8 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    22.0,
+                    22,
+                    "To solve the expression 7 - 9 + 8 * 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform multiplication before addition and subtraction:\n\n8 * 3 = 24\n\nNow we substitute this result back into the expression:\n\n7 - 9 + 24\n\nNext, we perform the addition and subtraction from left to right:\n\n7 - 9 = -2\n-2 + 24 = 22\n\nSo the value of the expression is [22]."
+                ],
+                [
+                    "[Example Question]: 8 + 3 - 8 * 9\n[Answer]: -61\n\nWhat is the value of 9 + 3 - 1 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.0,
+                    6,
+                    "To solve the expression 9 + 3 - 1 * 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n1 * 6 = 6\n\nThen we perform the addition and subtraction from left to right:\n9 + 3 - 6\n= 12 - 6\n= 6\n\nSo the value of the expression is [6]."
+                ],
+                [
+                    "[Example Question]: 7 * 6 + 3 / 5\n[Answer]: 42.6\n\nWhat is the value of 3 * 9 + 7 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    28.8,
+                    28.8,
+                    "To solve the expression 3 * 9 + 7 / 4, we first perform the multiplication and division before addition, according to the order of operations (PEMDAS/BODMAS).\n\n3 * 9 = 27\n7 / 4 = 1.75\n\nNow, we add the results together:\n\n27 + 1.75 = 28.75\n\nSo the value of the expression is [28.75]."
+                ],
+                [
+                    "[Example Question]: 8 + 4 / 4 * 5\n[Answer]: 13.0\n\nWhat is the value of 5 + 5 / 9 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.1,
+                    6.1,
+                    "To solve the expression 5 + 5 / 9 * 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nSo, we first perform the division and multiplication before the addition:\n\n5 + (5 / 9) * 2\n\nFirst, divide 5 by 9:\n5 / 9 = 0.5555...\n\nThen, multiply the result by 2:\n0.5555... * 2 = 1.1111...\n\nFinally, add 5 to the result:\n5 + 1.1111... = 6.1111...\n\nRounded to two decimal places, the result is 6.11.\n\nSo, the value of the expression is approximately [6.11]."
+                ],
+                [
+                    "[Example Question]: 5 + 5 / 4 * 6\n[Answer]: 12.5\n\nWhat is the value of 7 + 3 / 8 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10.4,
+                    10.4,
+                    "To solve the expression 7 + 3 / 8 * 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nFirst, we perform the division and multiplication:\n\n3 / 8 * 9\n\n= 0.375 * 9\n\n= 3.375\n\nNow, we add this result to 7:\n\n7 + 3.375\n\n= 10.375\n\nSo the value of the expression is [10.375]."
+                ],
+                [
+                    "[Example Question]: 1 / 9 + 8 * 2\n[Answer]: 16.11111111111111\n\nWhat is the value of 3 / 4 + 3 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    27.8,
+                    27.8,
+                    "To calculate the value of 3 / 4 + 3 * 9, we first perform the multiplication and then the addition, according to the order of operations (PEMDAS/BODMAS):\n\n3 / 4 + 3 * 9\n= 3 / 4 + 27\n= 0.75 + 27\n= 27.75\n\nSo the value of the expression is [27.75]."
+                ],
+                [
+                    "[Example Question]: 5 + 2 / 1 * 8\n[Answer]: 21.0\n\nWhat is the value of 9 + 4 / 5 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13.0,
+                    13,
+                    "To solve the expression 9 + 4 / 5 * 5, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division are performed from left to right, according to their appearance in the expression.\n\nFirst, we perform the division and multiplication:\n\n4 / 5 * 5\n\nSince division and multiplication have the same precedence, we perform them from left to right:\n\n(4 / 5) * 5 = 0.8 * 5 = 4\n\nNow we have:\n\n9 + 4\n\nAdding these together gives us:\n\n9 + 4 = 13\n\nSo the value of the expression is [13]."
+                ],
+                [
+                    "[Example Question]: 7 - 3 * 9 + 4\n[Answer]: -16\n\nWhat is the value of 4 - 9 * 9 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -69.0,
+                    -69,
+                    "To solve the expression 4 - 9 * 9 + 8, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n9 * 9 = 81\n\nThen we substitute this back into the expression:\n4 - 81 + 8\n\nNext, we perform the addition and subtraction from left to right:\n4 - 81 = -77\n-77 + 8 = -69\n\nSo the final result is [-69]."
+                ],
+                [
+                    "[Example Question]: 4 - 5 + 6 * 6\n[Answer]: 35\n\nWhat is the value of 3 - 7 + 7 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    38.0,
+                    38,
+                    "To solve the expression 3 - 7 + 7 * 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform the multiplication before addition and subtraction:\n\n7 * 6 = 42\n\nNow we substitute the result back into the expression:\n\n3 - 7 + 42\n\nNext, we perform the addition and subtraction from left to right:\n\n3 - 7 = -4\n-4 + 42 = 38\n\nSo the value of the expression is [38]."
+                ],
+                [
+                    "[Example Question]: 3 * 3 - 5 + 9\n[Answer]: 13\n\nWhat is the value of 4 * 4 - 8 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    9.0,
+                    9,
+                    "The value of 4 * 4 - 8 + 1 is calculated as follows:\n\n4 * 4 = 16\n16 - 8 = 8\n8 + 1 = 9\n\nSo the final result is [9]."
+                ],
+                [
+                    "[Example Question]: 9 + 7 / 2 * 9\n[Answer]: 40.5\n\nWhat is the value of 5 + 8 / 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    61.0,
+                    61,
+                    "To solve the expression 5 + 8 / 1 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nSo, we first perform the division and multiplication:\n\n8 / 1 = 8\n8 * 7 = 56\n\nNow we add the result to 5:\n\n5 + 56 = 61\n\nTherefore, the value of the expression is [61]."
+                ],
+                [
+                    "[Example Question]: 9 - 4 + 2 * 5\n[Answer]: 15\n\nWhat is the value of 5 - 9 + 6 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    32.0,
+                    32,
+                    "To solve the expression 5 - 9 + 6 * 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n6 * 6 = 36\n\nThen we perform the addition and subtraction from left to right:\n5 - 9 + 36\n= -4 + 36\n= 32\n\nSo the value of the expression is [32]."
+                ],
+                [
+                    "[Example Question]: 2 + 8 - 3 * 5\n[Answer]: -5\n\nWhat is the value of 9 + 7 - 2 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    12.0,
+                    12,
+                    "To solve the expression 9 + 7 - 2 * 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n2 * 2 = 4\n\nThen, we perform the addition and subtraction from left to right:\n9 + 7 = 16\n16 - 4 = 12\n\nSo the final result is [12]."
+                ],
+                [
+                    "[Example Question]: 5 - 7 * 3 + 7\n[Answer]: -9\n\nWhat is the value of 6 - 9 * 2 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -6.0,
+                    -6,
+                    "To solve the expression 6 - 9 * 2 + 6, we need to follow the order of operations, which is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right)).\n\nSo first, we perform the multiplication:\n\n9 * 2 = 18\n\nNow we substitute this back into the expression:\n\n6 - 18 + 6\n\nNext, we perform the addition and subtraction from left to right:\n\n6 - 18 = -12\n-12 + 6 = -6\n\nSo the final result is [-6]."
+                ],
+                [
+                    "[Example Question]: 3 - 3 + 5 * 6\n[Answer]: 30\n\nWhat is the value of 2 - 8 + 9 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    48.0,
+                    48,
+                    "To solve the expression 2 - 8 + 9 * 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n9 * 6 = 54\n\nThen we perform the addition and subtraction from left to right:\n2 - 8 + 54\n= -6 + 54\n= 48\n\nSo the value of 2 - 8 + 9 * 6 is [48]."
+                ],
+                [
+                    "[Example Question]: 4 - 7 * 6 + 8\n[Answer]: -30\n\nWhat is the value of 4 - 1 * 5 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    0.0,
+                    0,
+                    "To solve the expression 4 - 1 * 5 + 1, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n1 * 5 = 5\n\nThen we substitute this back into the expression:\n4 - 5 + 1\n\nNow we perform the addition and subtraction from left to right:\n4 - 5 = -1\n-1 + 1 = 0\n\nSo the final result is [0]."
+                ],
+                [
+                    "[Example Question]: 1 - 2 + 6 * 7\n[Answer]: 41\n\nWhat is the value of 3 - 6 + 6 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    9.0,
+                    9,
+                    "To solve the expression 3 - 6 + 6 * 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n6 * 2 = 12\n\nThen, we perform the addition and subtraction from left to right:\n3 - 6 + 12\n\nSubtract 6 from 3:\n3 - 6 = -3\n\nFinally, add 12 to the result:\n-3 + 12 = 9\n\nSo the value of the expression is [9]."
+                ],
+                [
+                    "[Example Question]: 3 / 6 + 3 * 5\n[Answer]: 15.5\n\nWhat is the value of 1 / 6 + 3 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.2,
+                    6.2,
+                    "To solve the expression 1 / 6 + 3 * 2, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be done from left to right before addition and subtraction.\n\nFirst, we perform the multiplication:\n3 * 2 = 6\n\nThen, we add the result to 1 / 6:\n1 / 6 + 6\n\nTo add the fraction to the whole number, we can convert the whole number into a fraction with the same denominator:\n1 / 6 + 6/1 = 1 / 6 + (6 * 6) / (1 * 6) = 1 / 6 + 36 / 6\n\nNow, we add the fractions:\n1 / 6 + 36 / 6 = (1 + 36) / 6 = 37 / 6\n\nFinally, we convert the fraction to a decimal:\n37 / 6 = 6.1666...\n\nThe final result rounded to the nearest tenth is 6.2. So, the value of the expression is [6.2]."
+                ],
+                [
+                    "[Example Question]: 4 - 6 + 6 * 5\n[Answer]: 28\n\nWhat is the value of 7 - 8 + 6 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    29.0,
+                    29,
+                    "To solve the expression 7 - 8 + 6 * 5, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n6 * 5 = 30\n\nThen, we perform the addition and subtraction from left to right:\n7 - 8 + 30\n-1 + 30\n29\n\nSo the value of the expression is [29]."
+                ],
+                [
+                    "[Example Question]: 6 - 6 + 3 * 2\n[Answer]: 6\n\nWhat is the value of 2 - 8 + 7 * 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    57.0,
+                    57,
+                    "To solve the expression 2 - 8 + 7 * 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n7 * 9 = 63\n\nThen we perform the addition and subtraction from left to right:\n2 - 8 + 63\n= -6 + 63\n= 57\n\nSo the value of the expression is [57]."
+                ],
+                [
+                    "[Example Question]: 7 + 5 / 4 * 8\n[Answer]: 17.0\n\nWhat is the value of 9 + 5 / 4 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    16.5,
+                    16.5,
+                    "To solve the expression 9 + 5 / 4 * 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nFirst, we perform the division and multiplication:\n\n5 / 4 * 6\n\nDivide 5 by 4:\n\n1.25 * 6\n\nThen multiply the result by 6:\n\n7.5\n\nNow we add this result to 9:\n\n9 + 7.5 = 16.5\n\nSo the value of the expression is [16.5]."
+                ],
+                [
+                    "[Example Question]: 3 / 3 * 3 + 8\n[Answer]: 11.0\n\nWhat is the value of 2 / 6 * 7 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.3,
+                    5.3,
+                    "To solve the expression 2 / 6 * 7 + 3, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication from left to right:\n\n2 / 6 * 7 = 1/3 * 7\n\nNow, we multiply:\n\n1/3 * 7 = 7/3\n\nThen we convert the fraction to a decimal:\n\n7/3 = 2.333...\n\nFinally, we add 3 to the result:\n\n2.333... + 3 = 5.333...\n\nSo the value of the expression is approximately [5.333]."
+                ]
+            ]
+        },
+        "-": {
+            "accuracy": "25/25=1.0",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 4 * 8 / 8 - 4\n[Answer]: 0.0\n\nWhat is the value of 7 * 3 / 7 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    0.0,
+                    0,
+                    "To solve the expression 7 * 3 / 7 - 3, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the multiplication and division from left to right:\n\n7 * 3 = 21\n21 / 7 = 3\n\nNow we have:\n\n3 - 3 = 0\n\nSo the value of the expression 7 * 3 / 7 - 3 is [0]."
+                ],
+                [
+                    "[Example Question]: 6 / 8 - 8 * 1\n[Answer]: -7.25\n\nWhat is the value of 3 / 8 - 4 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -23.6,
+                    -23.6,
+                    "To solve the expression 3 / 8 - 4 * 6, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n4 * 6 = 24\n\nThen we perform the division:\n3 / 8 = 0.375\n\nNow we subtract the result of the multiplication from the result of the division:\n0.375 - 24 = -23.625\n\nSo the value of the expression 3 / 8 - 4 * 6 is [-23.625]."
+                ],
+                [
+                    "[Example Question]: 6 / 1 - 9 * 4\n[Answer]: -30.0\n\nWhat is the value of 6 / 4 - 1 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -2.5,
+                    -2.5,
+                    "To solve the expression 6 / 4 - 1 * 4, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division and multiplication:\n\n6 / 4 = 1.5\n1 * 4 = 4\n\nNow we have:\n\n1.5 - 4\n\nThen we perform the subtraction:\n\n1.5 - 4 = -2.5\n\nSo the value of the expression is [-2.5]."
+                ],
+                [
+                    "[Example Question]: 1 * 5 / 7 - 4\n[Answer]: -3.2857142857142856\n\nWhat is the value of 7 * 9 / 6 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.5,
+                    7.5,
+                    "To solve the expression 7 * 9 / 6 - 3, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the multiplication:\n7 * 9 = 63\n\nNow we have:\n63 / 6 - 3\n\nNext, we perform the division:\n63 / 6 = 10.5\n\nNow we have:\n10.5 - 3\n\nFinally, we perform the subtraction:\n10.5 - 3 = 7.5\n\nSo the value of the expression is [7.5]."
+                ],
+                [
+                    "[Example Question]: 1 * 2 - 7 + 4\n[Answer]: -1\n\nWhat is the value of 7 * 1 - 5 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.0,
+                    3,
+                    "The value of 7 * 1 - 5 + 1 is calculated as follows:\n\n7 * 1 = 7\n7 - 5 = 2\n2 + 1 = 3\n\nSo the final result is [3]."
+                ],
+                [
+                    "[Example Question]: 8 - 7 / 7 * 3\n[Answer]: 5.0\n\nWhat is the value of 1 - 1 / 4 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -0.2,
+                    -0.2,
+                    "To solve the expression 1 - 1 / 4 * 5, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division and multiplication from left to right:\n\n1 / 4 * 5\n\n= 0.25 * 5\n\n= 1.25\n\nNow, we subtract this result from 1:\n\n1 - 1.25\n\n= -0.25\n\nSo the value of the expression is [-0.25]."
+                ],
+                [
+                    "[Example Question]: 9 / 7 * 9 - 5\n[Answer]: 6.571428571428573\n\nWhat is the value of 7 / 4 * 4 - 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2.0,
+                    2,
+                    "To solve the expression 7 / 4 * 4 - 5, we first perform the division and multiplication from left to right, and then the subtraction:\n\n7 / 4 * 4 - 5\n= (7 / 4) * 4 - 5\n= 1.75 * 4 - 5\n= 7 - 5\n= 2\n\nSo the value of the expression is [2]."
+                ],
+                [
+                    "[Example Question]: 3 + 4 * 8 - 9\n[Answer]: 26\n\nWhat is the value of 9 + 8 * 9 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    74.0,
+                    74,
+                    "To solve the expression 9 + 8 * 9 - 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n8 * 9 = 72\n\nThen we perform the addition and subtraction from left to right:\n9 + 72 - 7\n\nFirst, add 9 and 72:\n9 + 72 = 81\n\nThen subtract 7 from the result:\n81 - 7 = 74\n\nSo the value of the expression is [74]."
+                ],
+                [
+                    "[Example Question]: 5 - 5 / 6 * 2\n[Answer]: 3.333333333333333\n\nWhat is the value of 9 - 3 / 9 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8.0,
+                    8,
+                    "To solve the expression 9 - 3 / 9 * 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to PEMDAS, we perform division before subtraction.\n\nSo, we first divide 3 by 9, then multiply the result by 3, and finally subtract that from 9.\n\n3 / 9 = 0.3333333333333333 (repeating)\n0.3333333333333333 * 3 = 1\n\nNow, subtract that from 9:\n9 - 1 = 8\n\nThe value of the expression is [8]."
+                ],
+                [
+                    "[Example Question]: 1 + 1 * 5 - 1\n[Answer]: 5\n\nWhat is the value of 8 + 8 * 8 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    69.0,
+                    69,
+                    "To solve the expression 8 + 8 * 8 - 3, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nSo we first multiply 8 * 8:\n\n8 * 8 = 64\n\nThen we add 8 and subtract 3 in sequence:\n\n8 + 64 - 3\n\n72 - 3\n\nFinally, we subtract 3 from 72:\n\n72 - 3 = 69\n\nThe value of the expression is [69]."
+                ],
+                [
+                    "[Example Question]: 2 * 1 - 5 / 9\n[Answer]: 1.4444444444444444\n\nWhat is the value of 4 * 6 - 7 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    21.7,
+                    21.7,
+                    "To solve the expression 4 * 6 - 7 / 3, we first perform the multiplication and division before subtraction, following the order of operations (PEMDAS/BODMAS):\n\n4 * 6 = 24\n7 / 3 = 2.3333333333333335\n\nNow, subtract the result of the division from the result of the multiplication:\n\n24 - 2.3333333333333335 = 21.666666666666664\n\nSo, the value of 4 * 6 - 7 / 3 is [21.666666666666664]."
+                ],
+                [
+                    "[Example Question]: 7 + 8 * 8 - 8\n[Answer]: 63\n\nWhat is the value of 8 + 7 * 9 - 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    64.0,
+                    64,
+                    "To solve the expression 8 + 7 * 9 - 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the multiplication:\n7 * 9 = 63\n\nThen we add and subtract in order from left to right:\n8 + 63 - 7\n\nFirst, we add 8 and 63:\n8 + 63 = 71\n\nThen we subtract 7 from the result:\n71 - 7 = 64\n\nSo the value of the expression is [64]."
+                ],
+                [
+                    "[Example Question]: 6 + 2 * 2 - 6\n[Answer]: 4\n\nWhat is the value of 1 + 8 * 5 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    39.0,
+                    39,
+                    "To solve the expression 1 + 8 * 5 - 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), which dictates that multiplication is performed before addition and subtraction.\n\nSo, we first perform the multiplication:\n\n8 * 5 = 40\n\nThen we perform the addition and subtraction from left to right:\n\n1 + 40 - 2\n\nFirst, we add 1 and 40:\n\n1 + 40 = 41\n\nThen we subtract 2 from the result:\n\n41 - 2 = 39\n\nTherefore, the value of the expression is [39]."
+                ],
+                [
+                    "[Example Question]: 8 * 8 + 3 - 9\n[Answer]: 58\n\nWhat is the value of 4 * 9 + 2 - 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    30.0,
+                    30,
+                    "To calculate the value of 4 * 9 + 2 - 8, follow these steps:\n\n1. Multiply 4 by 9: 4 * 9 = 36\n2. Add 2 to the result: 36 + 2 = 38\n3. Subtract 8 from the result: 38 - 8 = 30\n\nSo the final result is [30]."
+                ],
+                [
+                    "[Example Question]: 6 * 9 - 8 + 9\n[Answer]: 55\n\nWhat is the value of 3 * 2 - 6 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2.0,
+                    2,
+                    "The value of 3 * 2 - 6 + 2 is calculated as follows:\n\n3 * 2 = 6\n6 - 6 = 0\n0 + 2 = 2\n\nSo the final result is [2]."
+                ],
+                [
+                    "[Example Question]: 5 + 4 * 3 - 3\n[Answer]: 14\n\nWhat is the value of 7 + 1 * 8 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13.0,
+                    13,
+                    "To solve the expression 7 + 1 * 8 - 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nAccording to the order of operations, we first perform the multiplication before addition and subtraction:\n\n1. Multiplication: 1 * 8 = 8\n2. Then we perform the addition and subtraction from left to right:\n   7 + 8 = 15\n   15 - 2 = 13\n\nSo the value of the expression is [13]."
+                ],
+                [
+                    "[Example Question]: 4 * 7 + 6 - 5\n[Answer]: 29\n\nWhat is the value of 4 * 5 + 1 - 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13.0,
+                    13,
+                    "To calculate the value of 4 * 5 + 1 - 8, follow these steps:\n\n1. Multiply 4 by 5: 4 * 5 = 20\n2. Add 1 to the result: 20 + 1 = 21\n3. Subtract 8 from the result: 21 - 8 = 13\n\nSo the final result is [13]."
+                ],
+                [
+                    "[Example Question]: 7 - 1 + 3 * 6\n[Answer]: 24\n\nWhat is the value of 7 - 2 + 1 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.0,
+                    7,
+                    "To solve the expression 7 - 2 + 1 * 2, we follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nGiven the expression does not have parentheses or exponents, we start with multiplication:\n\n1 * 2 = 2\n\nNow we substitute this back into the expression:\n\n7 - 2 + 2\n\nNext, we perform the addition and subtraction from left to right:\n\n7 - 2 = 5\n5 + 2 = 7\n\nSo the final result is [7]."
+                ],
+                [
+                    "[Example Question]: 6 * 5 - 5 / 1\n[Answer]: 25.0\n\nWhat is the value of 5 * 8 - 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    38.9,
+                    38.9,
+                    "To solve the expression 5 * 8 - 8 / 7, we first perform the multiplication and division before subtraction, following the order of operations (PEMDAS/BODMAS).\n\n5 * 8 = 40\n8 / 7 = 1.142857...\n\nNow, subtract the result of the division from the result of the multiplication:\n\n40 - 1.142857... ≈ 38.857142...\n\nSo the value of the expression is approximately [38.857142]."
+                ],
+                [
+                    "[Example Question]: 6 / 7 - 9 * 3\n[Answer]: -26.142857142857142\n\nWhat is the value of 3 / 6 - 3 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -23.5,
+                    -23.5,
+                    "To solve the expression 3 / 6 - 3 * 8, we first perform the division and multiplication before the subtraction, according to the order of operations (PEMDAS/BODMAS).\n\n3 / 6 = 0.5\n3 * 8 = 24\n\nNow we subtract the second result from the first:\n\n0.5 - 24 = -23.5\n\nSo the value of the expression is [-23.5]."
+                ],
+                [
+                    "[Example Question]: 5 + 3 * 3 - 8\n[Answer]: 6\n\nWhat is the value of 1 + 5 * 3 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.0,
+                    7,
+                    "To solve the expression 1 + 5 * 3 - 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n5 * 3 = 15\n\nThen we substitute this back into the expression:\n1 + 15 - 9\n\nNext, we perform the addition and subtraction from left to right:\n1 + 15 = 16\n16 - 9 = 7\n\nSo the final result is [7]."
+                ],
+                [
+                    "[Example Question]: 7 + 4 * 5 - 3\n[Answer]: 24\n\nWhat is the value of 6 + 2 * 8 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    13.0,
+                    13,
+                    "To solve the expression 6 + 2 * 8 - 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication:\n2 * 8 = 16\n\nThen we perform the addition and subtraction from left to right:\n6 + 16 - 9\n\nNow, add 6 and 16:\n22 - 9\n\nFinally, subtract 9 from 22:\n22 - 9 = 13\n\nSo the value of the expression is [13]."
+                ],
+                [
+                    "[Example Question]: 9 - 3 / 6 * 5\n[Answer]: 6.5\n\nWhat is the value of 6 - 8 / 9 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -0.2,
+                    -0.2,
+                    "To solve the expression 6 - 8 / 9 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division are performed from left to right, according to their appearance in the expression.\n\nFirst, we perform the division and multiplication:\n\n8 / 9 * 7\n\n8 / 9 = 0.88888888889 (approximately)\n\nNow, multiply this result by 7:\n\n0.88888888889 * 7 ≈ 6.22222222223\n\nNow, subtract this result from 6:\n\n6 - 6.22222222223 ≈ -0.22222222223\n\nRounded to two decimal places, the result is approximately -0.22.\n\nSo the value of the expression is approximately [-0.22]."
+                ],
+                [
+                    "[Example Question]: 6 / 9 * 7 - 4\n[Answer]: 0.6666666666666661\n\nWhat is the value of 1 / 4 * 8 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -7.0,
+                    -7,
+                    "To solve the expression 1 / 4 * 8 - 9, we first perform the multiplication and division from left to right, and then the subtraction:\n\n1 / 4 * 8 - 9\n= (1 / 4) * 8 - 9\n= 0.25 * 8 - 9\n= 2 - 9\n= -7\n\nSo the final result is [-7]."
+                ],
+                [
+                    "[Example Question]: 9 - 8 * 5 + 1\n[Answer]: -30\n\nWhat is the value of 8 - 8 * 3 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -10.0,
+                    -10,
+                    "To solve the expression 8 - 8 * 3 + 6, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication comes before addition and subtraction.\n\nSo we first do the multiplication:\n\n8 * 3 = 24\n\nNow we substitute that back into the expression:\n\n8 - 24 + 6\n\nNext, we do the subtraction and addition from left to right:\n\n8 - 24 = -16\n-16 + 6 = -10\n\nSo the value of the expression is [-10]."
+                ]
+            ]
+        }
+    },
+    "/": {
+        "+": {
+            "accuracy": "25/25=1.0",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 7 / 6 + 5 * 8\n[Answer]: 41.166666666666664\n\nWhat is the value of 9 / 6 + 6 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    37.5,
+                    37.5,
+                    "To solve the expression 9 / 6 + 6 * 6, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to PEMDAS, we perform multiplication and division before addition.\n\nFirst, we divide 9 by 6:\n9 / 6 = 1.5\n\nThen, we multiply 6 by 6:\n6 * 6 = 36\n\nFinally, we add the results of the division and multiplication together:\n1.5 + 36 = 37.5\n\nSo the value of 9 / 6 + 6 * 6 is [37.5]."
+                ],
+                [
+                    "[Example Question]: 3 / 8 - 9 + 6\n[Answer]: -2.625\n\nWhat is the value of 5 / 1 - 8 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2.0,
+                    2,
+                    "To solve the expression 5 / 1 - 8 + 5, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nHere's the step-by-step calculation:\n\n1. Division: 5 / 1 = 5\n2. Subtraction: 5 - 8 = -3\n3. Addition: -3 + 5 = 2\n\nSo the value of the expression is [2]."
+                ],
+                [
+                    "[Example Question]: 5 / 2 * 4 + 8\n[Answer]: 18.0\n\nWhat is the value of 7 / 5 * 1 + 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.4,
+                    5.4,
+                    "To calculate the value of 7 / 5 * 1 + 4, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication:\n\n7 / 5 * 1 = 1.4 * 1 = 1.4\n\nThen, we add 4 to the result:\n\n1.4 + 4 = 5.4\n\nSo the final result is [5.4]."
+                ],
+                [
+                    "[Example Question]: 2 / 9 * 8 + 6\n[Answer]: 7.777777777777778\n\nWhat is the value of 9 / 6 * 8 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    15.0,
+                    15,
+                    "To solve the expression 9 / 6 * 8 + 3, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication:\n\n9 / 6 = 1.5\n1.5 * 8 = 12\n\nNow we add the result to 3:\n\n12 + 3 = 15\n\nSo the value of the expression is [15]."
+                ],
+                [
+                    "[Example Question]: 1 - 8 / 2 + 9\n[Answer]: 6.0\n\nWhat is the value of 6 - 8 / 3 + 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10.3,
+                    10.3,
+                    "To solve the expression 6 - 8 / 3 + 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Division comes before addition and subtraction, so we first divide 8 by 3.\n\n6 - 8 / 3 + 7\n= 6 - (8 ÷ 3) + 7\n= 6 - 2.666... + 7\n\nNow we add and subtract from left to right:\n\n= (6 - 2.666...) + 7\n= 3.333... + 7\n= 10.333...\n\nRounded to one decimal place, the result is 10.3. So the final numeric result is [10.3]."
+                ],
+                [
+                    "[Example Question]: 4 / 1 - 2 + 9\n[Answer]: 11.0\n\nWhat is the value of 7 / 1 - 6 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    10.0,
+                    10.0,
+                    "To solve the expression 7 / 1 - 6 + 9, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\n7 / 1 - 6 + 9\n\nFirst, we perform the division:\n7 / 1 = 7\n\nNow we have:\n7 - 6 + 9\n\nNext, we perform the subtraction and addition from left to right:\n7 - 6 = 1\n1 + 9 = 10\n\nSo the final result is:\n[10.0]"
+                ],
+                [
+                    "[Example Question]: 5 * 8 + 3 / 5\n[Answer]: 40.6\n\nWhat is the value of 6 * 7 + 7 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    42.9,
+                    42.9,
+                    "To calculate the value of 6 * 7 + 7 / 8, we first perform the multiplication and division before addition, according to the order of operations (PEMDAS/BODMAS).\n\n6 * 7 = 42\n7 / 8 = 0.875\n\nNow, we add the two results together:\n\n42 + 0.875 = 42.875\n\nSo the value of 6 * 7 + 7 / 8 is [42.875]."
+                ],
+                [
+                    "[Example Question]: 1 / 6 - 2 + 9\n[Answer]: 7.166666666666667\n\nWhat is the value of 4 / 3 - 8 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    2.3,
+                    2.3,
+                    "To calculate the value of 4 / 3 - 8 + 9, we first perform the division, then the subtraction, and finally the addition:\n\n4 / 3 = 1.3333333333333333\n1.3333333333333333 - 8 = -6.666666666666667\n-6.666666666666667 + 9 = 2.333333333333333\n\nSo the final result is [2.333333333333333]."
+                ],
+                [
+                    "[Example Question]: 5 / 9 * 6 + 7\n[Answer]: 10.333333333333334\n\nWhat is the value of 1 / 2 * 4 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.0,
+                    5,
+                    "To calculate the value of 1 / 2 * 4 + 3, follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\n1. First, perform the division and multiplication:\n   1 / 2 * 4 = 0.5 * 4 = 2\n\n2. Then, perform the addition:\n   2 + 3 = 5\n\nSo, the value of 1 / 2 * 4 + 3 is [5]."
+                ],
+                [
+                    "[Example Question]: 1 + 1 / 3 * 1\n[Answer]: 1.3333333333333333\n\nWhat is the value of 6 + 2 / 1 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    20.0,
+                    20,
+                    "To solve the expression 6 + 2 / 1 * 7, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nSo, we first perform the division and multiplication:\n\n2 / 1 * 7\n\nSince division and multiplication are of equal precedence, we perform them from left to right:\n\n= (2 / 1) * 7\n= 2 * 7\n= 14\n\nNow we add this result to 6:\n\n6 + 14 = 20\n\nTherefore, the value of the expression is [20]."
+                ],
+                [
+                    "[Example Question]: 1 / 2 * 8 + 9\n[Answer]: 13.0\n\nWhat is the value of 4 / 8 * 4 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.0,
+                    5,
+                    "To solve the expression 4 / 8 * 4 + 3, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication:\n\n4 / 8 = 0.5\n0.5 * 4 = 2\n\nNow we have:\n\n2 + 3\n\nFinally, we perform the addition:\n\n2 + 3 = 5\n\nSo the value of the expression is [5]."
+                ],
+                [
+                    "[Example Question]: 3 / 4 * 6 + 3\n[Answer]: 7.5\n\nWhat is the value of 6 / 2 * 9 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    30.0,
+                    30,
+                    "To solve the expression 6 / 2 * 9 + 3, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nHere's the step-by-step calculation:\n\n1. Division: 6 / 2 = 3\n2. Multiplication: 3 * 9 = 27\n3. Addition: 27 + 3 = 30\n\nSo the value of the expression is [30]."
+                ],
+                [
+                    "[Example Question]: 4 / 2 * 7 + 9\n[Answer]: 23.0\n\nWhat is the value of 3 / 9 * 4 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.3,
+                    3.3,
+                    "To solve the expression 3 / 9 * 4 + 2, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication:\n\n3 / 9 = 0.3333 (repeating)\n0.3333 * 4 = 1.3332 (repeating)\n\nNow we add 2 to the result:\n\n1.3332 + 2 = 3.3332 (repeating)\n\nSo the final result is [3.3332] (rounded to four decimal places)."
+                ],
+                [
+                    "[Example Question]: 9 + 6 / 4 * 8\n[Answer]: 21.0\n\nWhat is the value of 6 + 8 / 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    8.0,
+                    8.0,
+                    "To solve the expression 6 + 8 / 8 * 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nSo, we first perform the division, then the multiplication, and finally the addition:\n\n8 / 8 = 1\n1 * 2 = 2\n6 + 2 = 8\n\nTherefore, the value of the expression is [8.0]."
+                ],
+                [
+                    "[Example Question]: 7 / 8 - 9 + 6\n[Answer]: -2.125\n\nWhat is the value of 7 / 9 - 4 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4.8,
+                    4.8,
+                    "To solve the expression 7 / 9 - 4 + 8, we first perform the division, then the subtraction, and finally the addition, following the order of operations (PEMDAS/BODMAS):\n\n7 / 9 = 0.777...(repeating)\n\nNow, subtract 4 from the result:\n\n0.777... - 4 = -3.222...\n\nFinally, add 8 to the result:\n\n-3.222... + 8 = 4.777...\n\nSo the value of the expression is approximately [4.777]."
+                ],
+                [
+                    "[Example Question]: 6 + 7 * 2 / 4\n[Answer]: 9.5\n\nWhat is the value of 3 + 7 * 5 / 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.9,
+                    6.9,
+                    "To solve the expression 3 + 7 * 5 / 9, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction, also from left to right.\n\nSo, we first perform the multiplication and division before the addition:\n\n7 * 5 = 35\n35 / 9 = 3.88888888889 (rounded to 11 decimal places)\n\nNow, we add the result to 3:\n\n3 + 3.88888888889 = 6.88888888889 (rounded to 11 decimal places)\n\nThe final result, rounded to the nearest hundredth, is:\n\n[6.89]"
+                ],
+                [
+                    "[Example Question]: 7 / 6 + 1 * 5\n[Answer]: 6.166666666666667\n\nWhat is the value of 3 / 1 + 4 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    15.0,
+                    15,
+                    "To solve the expression 3 / 1 + 4 * 3, we need to follow the order of operations, which is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This rule is often abbreviated as PEMDAS.\n\nFirst, we perform the division and multiplication since there are no parentheses or exponents to deal with:\n\n3 / 1 = 3\n4 * 3 = 12\n\nNow we add the results:\n\n3 + 12 = 15\n\nSo the value of the expression 3 / 1 + 4 * 3 is [15]."
+                ],
+                [
+                    "[Example Question]: 7 / 2 * 7 + 6\n[Answer]: 30.5\n\nWhat is the value of 4 / 2 * 2 + 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.0,
+                    6,
+                    "To solve the expression 4 / 2 * 2 + 2, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nHere's the step-by-step calculation:\n\n1. Division: 4 / 2 = 2\n2. Multiplication: 2 * 2 = 4\n3. Addition: 4 + 2 = 6\n\nSo the value of the expression is [6]."
+                ],
+                [
+                    "[Example Question]: 8 - 7 / 4 + 6\n[Answer]: 12.25\n\nWhat is the value of 1 - 4 / 8 + 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.5,
+                    3.5,
+                    "To solve the expression 1 - 4 / 8 + 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n4 / 8 = 0.5\n\nNow we substitute this back into the expression:\n\n1 - 0.5 + 3\n\nNext, we perform the addition and subtraction from left to right:\n\n1 - 0.5 = 0.5\n0.5 + 3 = 3.5\n\nSo the value of the expression is [3.5]."
+                ],
+                [
+                    "[Example Question]: 8 - 2 + 6 / 5\n[Answer]: 7.2\n\nWhat is the value of 4 - 5 + 4 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    0.3,
+                    0.3,
+                    "To solve the expression 4 - 5 + 4 / 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n4 / 3 = 1.3333...\n\nThen, we perform the addition and subtraction from left to right:\n4 - 5 + 1.3333...\n= -1 + 1.3333...\n= 0.3333...\n\nSo the value of the expression is approximately [0.33] when rounded to two decimal places."
+                ],
+                [
+                    "[Example Question]: 6 - 4 + 1 / 4\n[Answer]: 2.25\n\nWhat is the value of 5 - 7 + 4 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -1.0,
+                    -1,
+                    "To solve the expression 5 - 7 + 4 / 4, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n4 / 4 = 1\n\nNow we have:\n5 - 7 + 1\n\nNext, we perform the addition and subtraction from left to right:\n5 - 7 = -2\n-2 + 1 = -1\n\nSo the final result is:\n[-1]"
+                ],
+                [
+                    "[Example Question]: 3 - 7 + 9 / 8\n[Answer]: -2.875\n\nWhat is the value of 1 - 6 + 4 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -4.5,
+                    -4.5,
+                    "To solve the expression 1 - 6 + 4 / 8, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n4 / 8 = 0.5\n\nNow we have:\n1 - 6 + 0.5\n\nNext, we perform the addition and subtraction from left to right:\n1 - 6 = -5\n-5 + 0.5 = -4.5\n\nSo the value of the expression is [-4.5]."
+                ],
+                [
+                    "[Example Question]: 7 + 9 * 2 / 4\n[Answer]: 11.5\n\nWhat is the value of 9 + 9 * 9 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    25.2,
+                    25.2,
+                    "To solve the expression 9 + 9 * 9 / 5, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction.\n\nFirst, we perform the multiplication:\n9 * 9 = 81\n\nNow we have:\n9 + 81 / 5\n\nNext, we perform the division:\n81 / 5 = 16.2\n\nFinally, we add:\n9 + 16.2 = 25.2\n\nSo the value of the expression is [25.2]."
+                ],
+                [
+                    "[Example Question]: 1 / 4 - 6 + 9\n[Answer]: 3.25\n\nWhat is the value of 7 / 7 - 3 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.0,
+                    6,
+                    "To solve the expression 7 / 7 - 3 + 8, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division:\n7 / 7 = 1\n\nNow we have:\n1 - 3 + 8\n\nNext, we perform the subtraction and addition from left to right:\n1 - 3 = -2\n-2 + 8 = 6\n\nSo the final result is:\n[6]"
+                ],
+                [
+                    "[Example Question]: 5 - 9 + 9 / 2\n[Answer]: 0.5\n\nWhat is the value of 6 - 7 + 2 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -0.5,
+                    -0.5,
+                    "To solve the expression 6 - 7 + 2 / 4, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n2 / 4 = 0.5\n\nNow we have:\n6 - 7 + 0.5\n\nNext, we perform the addition and subtraction from left to right:\n6 - 7 = -1\n-1 + 0.5 = -0.5\n\nSo the value of the expression is [-0.5]."
+                ]
+            ]
+        },
+        "-": {
+            "accuracy": "25/25=1.0",
+            "invalid": "0/25=0.0",
+            "data": [
+                [
+                    "[Example Question]: 3 / 7 * 7 - 1\n[Answer]: 2.0\n\nWhat is the value of 8 / 4 * 4 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    7.0,
+                    7,
+                    "To solve the expression 8 / 4 * 4 - 1, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nHere's the step-by-step calculation:\n\n1. Division and multiplication from left to right:\n   8 / 4 = 2\n   2 * 4 = 8\n\n2. Subtraction:\n   8 - 1 = 7\n\nSo the final result is [7]."
+                ],
+                [
+                    "[Example Question]: 2 / 9 + 9 - 6\n[Answer]: 3.2222222222222214\n\nWhat is the value of 4 / 2 + 5 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.0,
+                    5,
+                    "To solve the expression 4 / 2 + 5 - 2, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division:\n4 / 2 = 2\n\nThen we add 5:\n2 + 5 = 7\n\nFinally, we subtract 2:\n7 - 2 = 5\n\nSo the value of the expression is [5]."
+                ],
+                [
+                    "[Example Question]: 9 / 4 * 8 - 9\n[Answer]: 9.0\n\nWhat is the value of 4 / 5 * 6 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.8,
+                    3.8,
+                    "To solve the expression 4 / 5 * 6 - 1, we first perform the division and multiplication from left to right, and then the subtraction:\n\n4 / 5 * 6 - 1\n= (4 / 5) * 6 - 1\n= 0.8 * 6 - 1\n= 4.8 - 1\n= 3.8\n\nSo the value of the expression is [3.8]."
+                ],
+                [
+                    "[Example Question]: 2 + 6 / 2 - 5\n[Answer]: 0.0\n\nWhat is the value of 3 + 9 / 4 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.2,
+                    3.2,
+                    "To solve the expression 3 + 9 / 4 - 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nSo, we first perform the division:\n\n9 / 4 = 2.25\n\nThen we substitute this back into the expression:\n\n3 + 2.25 - 2\n\nNow we perform the addition and subtraction from left to right:\n\n3 + 2.25 = 5.25\n5.25 - 2 = 3.25\n\nTherefore, the value of the expression is [3.25]."
+                ],
+                [
+                    "[Example Question]: 4 - 9 / 9 * 3\n[Answer]: 1.0\n\nWhat is the value of 8 - 3 / 8 * 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    6.5,
+                    6.5,
+                    "To solve the expression 8 - 3 / 8 * 4, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division are performed from left to right.\n\nFirst, we perform the division and multiplication:\n\n3 / 8 = 0.375\n0.375 * 4 = 1.5\n\nNow we subtract the result from 8:\n\n8 - 1.5 = 6.5\n\nSo the value of the expression is [6.5]."
+                ],
+                [
+                    "[Example Question]: 1 - 6 + 3 / 9\n[Answer]: -4.666666666666667\n\nWhat is the value of 6 - 9 + 9 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1.5,
+                    1.5,
+                    "To solve the expression 6 - 9 + 9 / 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction). According to this rule, we perform division before addition and subtraction.\n\nSo, we first divide 9 by 2:\n\n9 / 2 = 4.5\n\nNow we perform the subtraction and addition in order from left to right:\n\n6 - 9 + 4.5 = -3 + 4.5 = 1.5\n\nTherefore, the value of the expression is [1.5]."
+                ],
+                [
+                    "[Example Question]: 8 - 9 * 8 / 6\n[Answer]: -4.0\n\nWhat is the value of 6 - 5 * 2 / 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    3.5,
+                    3.5,
+                    "To solve the expression 6 - 5 * 2 / 4, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nSo, we first perform the multiplication and division:\n\n5 * 2 = 10\n10 / 4 = 2.5\n\nNow we subtract the result from 6:\n\n6 - 2.5 = 3.5\n\nTherefore, the value of the expression is [3.5]."
+                ],
+                [
+                    "[Example Question]: 4 / 4 * 8 - 7\n[Answer]: 1.0\n\nWhat is the value of 7 / 7 * 7 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.0,
+                    5,
+                    "To solve the expression 7 / 7 * 7 - 2, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nFirst, we perform the division and multiplication from left to right:\n\n7 / 7 = 1\n1 * 7 = 7\n\nNow we have:\n\n7 - 2\n\nFinally, we perform the subtraction:\n\n7 - 2 = 5\n\nSo the value of the expression is [5]."
+                ],
+                [
+                    "[Example Question]: 8 - 4 / 1 * 7\n[Answer]: -20.0\n\nWhat is the value of 7 - 5 / 2 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -13.0,
+                    -13,
+                    "To solve the expression 7 - 5 / 2 * 8, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division are performed from left to right, according to their appearance in the expression.\n\nFirst, we perform the division:\n\n5 / 2 = 2.5\n\nThen we multiply the result by 8:\n\n2.5 * 8 = 20\n\nFinally, we subtract that result from 7:\n\n7 - 20 = -13\n\nSo the value of the expression 7 - 5 / 2 * 8 is [-13]."
+                ],
+                [
+                    "[Example Question]: 2 - 3 + 1 / 9\n[Answer]: -0.8888888888888888\n\nWhat is the value of 6 - 7 + 1 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -0.5,
+                    -0.5,
+                    "To solve the expression 6 - 7 + 1 / 2, we follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division (from left to right), and finally addition and subtraction (from left to right).\n\nHere, we have no parentheses or exponents, so we start with division:\n\n1 / 2 = 0.5\n\nNow we perform the addition and subtraction from left to right:\n\n6 - 7 = -1\n-1 + 0.5 = -0.5\n\nSo the final result is [-0.5]."
+                ],
+                [
+                    "[Example Question]: 2 - 2 / 5 * 3\n[Answer]: 0.7999999999999998\n\nWhat is the value of 7 - 7 / 4 * 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1.8,
+                    1.8,
+                    "To solve the expression 7 - 7 / 4 * 3, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n7 / 4 = 1.75\n\nThen, we multiply the result by 3:\n1.75 * 3 = 5.25\n\nFinally, we subtract that result from 7:\n7 - 5.25 = 1.75\n\nSo the value of the expression is [1.75]."
+                ],
+                [
+                    "[Example Question]: 4 / 2 - 1 * 9\n[Answer]: -7.0\n\nWhat is the value of 8 / 5 - 9 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -70.4,
+                    -70.4,
+                    "To solve the expression 8 / 5 - 9 * 8, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). According to PEMDAS, we perform multiplication and division before addition and subtraction, and we perform operations from left to right.\n\nSo, let's break it down:\n\n1. Division: 8 / 5 = 1.6\n2. Multiplication: 9 * 8 = 72\n3. Subtraction: 1.6 - 72\n\nNow, we subtract 72 from 1.6:\n\n1.6 - 72 = -70.4\n\nTherefore, the value of the expression 8 / 5 - 9 * 8 is [-70.4]."
+                ],
+                [
+                    "[Example Question]: 1 - 2 / 1 * 5\n[Answer]: -9.0\n\nWhat is the value of 7 - 6 / 8 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.5,
+                    5.5,
+                    "To solve the expression 7 - 6 / 8 * 2, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction), where multiplication and division are performed from left to right, followed by addition and subtraction from left to right.\n\nSo, we first perform the division, then the multiplication, and finally the subtraction:\n\n1. Division: 6 / 8 = 0.75\n2. Multiplication: 0.75 * 2 = 1.5\n3. Subtraction: 7 - 1.5 = 5.5\n\nTherefore, the value of the expression is [5.5]."
+                ],
+                [
+                    "[Example Question]: 6 - 6 + 5 / 6\n[Answer]: 0.8333333333333334\n\nWhat is the value of 2 - 6 + 5 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -3.4,
+                    -3.4,
+                    "To solve the expression 2 - 6 + 5 / 8, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction from left to right).\n\nFirst, we perform the division:\n5 / 8 = 0.625\n\nNow, we have:\n2 - 6 + 0.625\n\nNext, we perform the subtraction and addition from left to right:\n2 - 6 = -4\n-4 + 0.625 = -3.375\n\nSo the value of the expression is [-3.375]."
+                ],
+                [
+                    "[Example Question]: 2 * 2 - 3 / 7\n[Answer]: 3.5714285714285716\n\nWhat is the value of 7 * 2 - 8 / 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    12.9,
+                    12.9,
+                    "To solve the expression 7 * 2 - 8 / 7, we first perform the multiplication and division before subtraction, following the order of operations (PEMDAS/BODMAS).\n\n7 * 2 = 14\n8 / 7 = 1.142857142857143\n\nNow, subtract the result of the division from the result of the multiplication:\n\n14 - 1.142857142857143 = 12.857142857142857\n\nSo the value of 7 * 2 - 8 / 7 is [12.857142857142857]."
+                ],
+                [
+                    "[Example Question]: 2 / 9 + 4 - 7\n[Answer]: -2.7777777777777777\n\nWhat is the value of 3 / 9 + 7 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4.3,
+                    4.3,
+                    "To calculate the value of 3 / 9 + 7 - 3, we first perform the division, then the addition and subtraction in order from left to right.\n\n3 / 9 = 0.3333333333333333 (repeating decimal)\n0.3333333333333333 + 7 = 7.333333333333333\n7.333333333333333 - 3 = 4.333333333333333\n\nSo the final result is [4.333333333333333]."
+                ],
+                [
+                    "[Example Question]: 9 - 7 * 5 / 6\n[Answer]: 3.166666666666667\n\nWhat is the value of 5 - 4 * 7 / 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -0.6,
+                    -0.6,
+                    "To solve the expression 5 - 4 * 7 / 5, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction).\n\nFirst, we perform the multiplication and division from left to right:\n\n4 * 7 = 28\n28 / 5 = 5.6\n\nNow we have:\n\n5 - 5.6\n\nFinally, we perform the subtraction:\n\n5 - 5.6 = -0.6\n\nSo the value of the expression is [-0.6]."
+                ],
+                [
+                    "[Example Question]: 1 + 4 / 3 - 7\n[Answer]: -4.666666666666667\n\nWhat is the value of 1 + 6 / 2 - 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -4.0,
+                    -4,
+                    "To solve the expression 1 + 6 / 2 - 8, we need to follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right). This rule is often remembered by the acronym PEMDAS.\n\nSo, we first perform the division:\n\n6 / 2 = 3\n\nThen we substitute this result back into the expression and perform the addition and subtraction from left to right:\n\n1 + 3 - 8\n\nNow we add 1 and 3:\n\n1 + 3 = 4\n\nAnd finally, we subtract 8 from 4:\n\n4 - 8 = -4\n\nSo the value of the expression 1 + 6 / 2 - 8 is [-4]."
+                ],
+                [
+                    "[Example Question]: 2 / 8 - 7 * 1\n[Answer]: -6.75\n\nWhat is the value of 3 / 9 - 5 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -9.7,
+                    -9.7,
+                    "To solve the expression 3 / 9 - 5 * 2, we follow the order of operations, which is parentheses first, then exponents, followed by multiplication and division from left to right, and finally addition and subtraction from left to right.\n\nFirst, we perform the division:\n3 / 9 = 0.333...\n\nThen, we perform the multiplication:\n5 * 2 = 10\n\nNow, we subtract the result of the multiplication from the result of the division:\n0.333... - 10 = -9.666...\n\nRounded to two decimal places, the result is -9.67. So the value of the expression is [-9.67]."
+                ],
+                [
+                    "[Example Question]: 1 - 2 / 8 * 1\n[Answer]: 0.75\n\nWhat is the value of 2 - 7 / 6 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -7.3,
+                    -7.3,
+                    "To solve the expression 2 - 7 / 6 * 8, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division and multiplication from left to right:\n\n7 / 6 * 8\n\nFirst, divide 7 by 6, which gives us:\n\n7 / 6 = 1.16666667 (approximately)\n\nThen, multiply that result by 8:\n\n1.16666667 * 8 = 9.33333336 (approximately)\n\nNow, we subtract that result from 2:\n\n2 - 9.33333336 = -7.33333336 (approximately)\n\nRounded to two decimal places, the result is -7.33. So the value of the expression is approximately [-7.33]."
+                ],
+                [
+                    "[Example Question]: 1 / 4 - 5 + 6\n[Answer]: 1.25\n\nWhat is the value of 1 / 8 - 8 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    1.1,
+                    1.1,
+                    "To calculate the value of 1 / 8 - 8 + 9, we first need to perform the division, then the subtraction, and finally the addition, following the order of operations (PEMDAS/BODMAS):\n\n1 / 8 = 0.125\n\nNow, subtract 8:\n\n0.125 - 8 = -7.875\n\nFinally, add 9:\n\n-7.875 + 9 = 1.125\n\nSo the value of 1 / 8 - 8 + 9 is [1.125]."
+                ],
+                [
+                    "[Example Question]: 4 - 9 / 6 * 8\n[Answer]: -8.0\n\nWhat is the value of 4 - 5 / 3 * 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -4.3,
+                    -4.3,
+                    "To solve the expression 4 - 5 / 3 * 5, we need to follow the order of operations, often remembered by the acronym PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction). Multiplication and division should be performed from left to right, followed by addition and subtraction.\n\nFirst, we perform the division and multiplication:\n\n5 / 3 * 5\n\nDivide 5 by 3:\n\n= 1.666... * 5\n\nThen multiply the result by 5:\n\n= 8.333...\n\nNow we subtract that result from 4:\n\n4 - 8.333...\n\n= -4.333...\n\nRounded to one decimal place, the result is -4.3. So the value of the expression is [-4.3]."
+                ],
+                [
+                    "[Example Question]: 5 / 9 * 7 - 1\n[Answer]: 2.8888888888888893\n\nWhat is the value of 1 / 1 * 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    4.0,
+                    4,
+                    "To solve the expression 1 / 1 * 5 - 1, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\n1 / 1 * 5 - 1\n\nFirst, we perform the division and multiplication since there are no parentheses or exponents to deal with:\n\n1 / 1 = 1\n1 * 5 = 5\n\nNow we have:\n\n5 - 1\n\nFinally, we perform the subtraction:\n\n5 - 1 = 4\n\nSo the value of the expression is [4]."
+                ],
+                [
+                    "[Example Question]: 2 / 3 * 9 - 5\n[Answer]: 1.0\n\nWhat is the value of 3 / 2 * 3 - 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    -4.5,
+                    -4.5,
+                    "To solve the expression 3 / 2 * 3 - 9, we follow the order of operations, which is parentheses, exponents, multiplication and division (from left to right), and addition and subtraction (from left to right).\n\nFirst, we perform the division and multiplication from left to right:\n\n3 / 2 * 3 = 1.5 * 3 = 4.5\n\nNow, we subtract 9 from the result:\n\n4.5 - 9 = -4.5\n\nSo the value of the expression is [-4.5]."
+                ],
+                [
+                    "[Example Question]: 5 + 4 / 8 - 6\n[Answer]: -0.5\n\nWhat is the value of 6 + 1 / 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                    5.2,
+                    5.2,
+                    "To solve the expression 6 + 1 / 5 - 1, we need to follow the order of operations, also known as PEMDAS (Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction).\n\nFirst, we perform the division:\n\n1 / 5 = 0.2\n\nNow we can add and subtract in order from left to right:\n\n6 + 0.2 - 1 = 6.2 - 1 = 5.2\n\nSo the final result is [5.2]."
+                ]
+            ]
+        }
+    }
+}

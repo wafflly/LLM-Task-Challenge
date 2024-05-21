@@ -1,0 +1,1227 @@
+{
+    "+": {
+        "accuracy": "46/50=0.92",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 49 - 86 + 47\n[Answer]: -84\n\nBased on the new priorities, what is the value of 9 - 52 + 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -113.0,
+                -113,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 9 - 52 + 70, we first calculate 52 + 70 and then subtract the result from 9.\n\n52 + 70 = 122\n\nNow we subtract this result from 9:\n\n9 - 122 = -113\n\nTherefore, the value of the expression 9 - 52 + 70 with the new priorities is [-113]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 2 + 45 * 36\n[Answer]: 1692\n\nBased on the new priorities, what is the value of 98 + 8 * 30? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3180.0,
+                3180,
+                "According to the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 98 + 8 * 30, we first add 98 and 8, and then multiply the result by 30.\n\n98 + 8 = 106\n\nNow we multiply 106 by 30:\n\n106 * 30 = 3180\n\nTherefore, the value of the expression 98 + 8 * 30, based on the new priorities, is [3180]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 16 * 87 + 32\n[Answer]: 1904\n\nBased on the new priorities, what is the value of 58 * 56 + 34? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5220.0,
+                5220,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 58 * 56 + 34, we first do the addition:\n\n56 + 34 = 90\n\nNow we multiply the result by 58:\n\n58 * 90 = 5220\n\nTherefore, the value of the expression 58 * 56 + 34 with the new priorities is [5220]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 8 - 95 + 49\n[Answer]: -136\n\nBased on the new priorities, what is the value of 69 - 41 + 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5.0,
+                5,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 69 - 41 + 23, we first calculate 41 + 23 and then subtract the result from 69.\n\n41 + 23 = 64\n\nNow we subtract this result from 69:\n\n69 - 64 = 5\n\nTherefore, the value of the expression 69 - 41 + 23 based on the new priorities is [5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 65 - 33 + 7\n[Answer]: 25\n\nBased on the new priorities, what is the value of 17 - 87 + 64? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -134.0,
+                -134,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 17 - 87 + 64, we first do the addition:\n\n87 + 64 = 151\n\nNow we perform the subtraction with the result of the addition:\n\n17 - 151 = -134\n\nTherefore, the value of the expression 17 - 87 + 64 is [-134]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 26 - 17 + 80\n[Answer]: -71\n\nBased on the new priorities, what is the value of 71 - 27 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                38.0,
+                38,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 71 - 27 + 6, we first calculate 27 + 6, and then subtract the result from 71.\n\n27 + 6 = 33\n\nNow we subtract this result from 71:\n\n71 - 33 = 38\n\nTherefore, the value of the expression 71 - 27 + 6, based on the new priorities, is [38]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 10 / 53 + 95\n[Answer]: 0.06756756756756757\n\nBased on the new priorities, what is the value of 8 / 35 + 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "According to the new priority rules you've provided, the '+' operator has a higher priority than the '/' operator. Therefore, we must perform the addition before the division.\n\nSo for the expression 8 / 35 + 98, we first perform the addition:\n\n35 + 98 = 133\n\nNow we perform the division:\n\n8 / 133\n\nTo get the decimal result, we divide 8 by 133:\n\n8 ÷ 133 ≈ 0.060150375939849624\n\nTherefore, the value of the expression 8 / 35 + 98 with the new priorities is approximately [0.060150375939849624]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 73 - 3 + 59\n[Answer]: 11\n\nBased on the new priorities, what is the value of 34 - 70 + 78? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -114.0,
+                -114,
+                "According to the new priorities, the '+' operator has a higher priority than the '-' operator. Therefore, we first perform the addition before the subtraction.\n\nThe expression is: 34 - 70 + 78\n\nFirst, we perform the addition:\n70 + 78 = 148\n\nNow, we perform the subtraction with the result of the addition:\n34 - 148 = -114\n\nSo the value of the expression 34 - 70 + 78, with the new priorities, is [-114]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 77 + 56 * 58\n[Answer]: 7714\n\nBased on the new priorities, what is the value of 17 + 20 * 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1702.0,
+                1702,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 17 + 20 * 46, we first add 17 and 20:\n\n17 + 20 = 37\n\nNow we multiply the result by 46:\n\n37 * 46 = 1702\n\nTherefore, the value of the expression 17 + 20 * 46, with the new priorities, is [1702]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 89 * 21 + 58\n[Answer]: 7031\n\nBased on the new priorities, what is the value of 75 * 47 + 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5850.0,
+                5850,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 75 * 47 + 31, we first calculate the addition:\n\n31 + 47 = 78\n\nNow we multiply the result by 75:\n\n75 * 78 = 5850\n\nTherefore, the value of the expression 75 * 47 + 31 with the new priorities is [5850]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 87 * 62 + 51\n[Answer]: 9831\n\nBased on the new priorities, what is the value of 72 * 34 + 53? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6264.0,
+                6264,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 72 * 34 + 53, we first calculate the addition:\n\n34 + 53 = 87\n\nNow we multiply the result by 72:\n\n72 * 87 = 6264\n\nTherefore, the value of the expression 72 * 34 + 53 with the new priorities is [6264]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 16 / 38 + 79\n[Answer]: 0.13675213675213677\n\nBased on the new priorities, what is the value of 2 / 52 + 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "According to the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 2 / 52 + 6, we first add 52 and 6, and then divide 2 by the result of that addition.\n\n52 + 6 = 58\n\nNow we divide 2 by 58:\n\n2 / 58 = 0.034482758620689655\n\nTherefore, the value of the expression is [0.034482758620689655]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 66 + 2 * 22\n[Answer]: 1496\n\nBased on the new priorities, what is the value of 92 + 73 * 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                15180.0,
+                15180,
+                "Based on the new priorities where '+' has the same priority as '*', we treat all operations as having the same precedence and perform them from left to right.\n\nSo for the expression 92 + 73 * 92, we would calculate it as follows:\n\nFirst, we add 92 and 73:\n92 + 73 = 165\n\nThen, we multiply the result by 92:\n165 * 92 = 15180\n\nTherefore, the value of the expression 92 + 73 * 92 with the new priorities is [15180]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 22 + 30 / 43\n[Answer]: 1.2093023255813953\n\nBased on the new priorities, what is the value of 61 + 42 / 67? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.5,
+                1.5,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo for the expression 61 + 42 / 67, we first add 61 and 42:\n\n61 + 42 = 103\n\nNow we divide the result by 67:\n\n103 / 67 ≈ 1.5373134328358209\n\nTherefore, the value of the expression is approximately [1.5373134328358209]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 90 + 41 * 48\n[Answer]: 6288\n\nBased on the new priorities, what is the value of 90 + 25 * 40? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4600.0,
+                4600,
+                "Based on the new priorities where '+' has the same priority as '*', we treat all operations as having the same precedence and simply perform them from left to right.\n\nSo for the expression 90 + 25 * 40, we would do the addition first and then the multiplication:\n\n90 + 25 = 115\n115 * 40 = 4600\n\nTherefore, the value of the expression 90 + 25 * 40 is [4600]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 72 + 23 / 88\n[Answer]: 1.0795454545454546\n\nBased on the new priorities, what is the value of 63 + 4 / 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.1,
+                2.1,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo for the expression 63 + 4 / 32, we first add 63 and 4, which gives us 67. Then we divide this sum by 32.\n\n67 / 32 = 2.09375\n\nTherefore, the value of the expression 63 + 4 / 32 with the new priorities is [2.09375]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 21 + 92 / 37\n[Answer]: 3.054054054054054\n\nBased on the new priorities, what is the value of 3 + 81 / 65? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                0.0,
+                "Based on the redefined priorities where '+' is now considered as '/', we will treat the '+' sign as a division operator.\n\nSo, the expression 3 + 81 / 65 would be calculated as follows:\n\n3 / 81 / 65\n\nTo solve this, we perform the divisions from left to right:\n\nFirst, divide 3 by 81:\n3 / 81 = 0.037037037037037035\n\nThen, divide this result by 65:\n0.037037037037037035 / 65 ≈ 0.0005698005698005698\n\nTherefore, the value of the expression 3 + 81 / 65, with the new priorities, is approximately [0.0005698005698005698]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 38 / 61 + 71\n[Answer]: 0.2878787878787879\n\nBased on the new priorities, what is the value of 29 / 2 + 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.2,
+                1.2,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 29 / 2 + 22, we first calculate the sum of 2 and 22:\n\n2 + 22 = 24\n\nNow, we divide 29 by the result:\n\n29 / 24 = 1.2083333333333333\n\nTherefore, the value of the expression 29 / 2 + 22 with the new priorities is [1.2083333333333333]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 82 - 46 + 49\n[Answer]: -13\n\nBased on the new priorities, what is the value of 11 - 43 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -37.0,
+                -37,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 11 - 43 + 5, we first calculate 43 + 5, and then subtract the result from 11.\n\n43 + 5 = 48\n\nNow we subtract 48 from 11:\n\n11 - 48 = -37\n\nTherefore, the value of the expression 11 - 43 + 5 is [-37]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 77 + 90 * 16\n[Answer]: 2672\n\nBased on the new priorities, what is the value of 54 + 71 * 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9625.0,
+                9625,
+                "Based on the new priorities where '+' has the same priority as '*', we treat all operations as having the same precedence and simply perform them from left to right.\n\nSo for the expression 54 + 71 * 77, we first add 54 and 71, and then multiply the result by 77.\n\n54 + 71 = 125\n125 * 77 = 9625\n\nTherefore, the value of the expression 54 + 71 * 77 is [9625]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 75 - 25 + 22\n[Answer]: 28\n\nBased on the new priorities, what is the value of 13 - 57 + 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -105.0,
+                -105,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 13 - 57 + 61, we first calculate 57 + 61 and then subtract the result from 13.\n\n57 + 61 = 118\n\nNow we subtract 118 from 13:\n\n13 - 118 = -105\n\nTherefore, the value of the expression 13 - 57 + 61 based on the new priorities is [-105]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 68 - 49 + 36\n[Answer]: -17\n\nBased on the new priorities, what is the value of 31 - 60 + 33? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -62.0,
+                -62,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 31 - 60 + 33, we first calculate 60 + 33, and then subtract that sum from 31.\n\n60 + 33 = 93\n\nNow we subtract that from 31:\n\n31 - 93 = -62\n\nTherefore, the value of the expression 31 - 60 + 33 with the new priorities is [-62]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 60 + 3 / 22\n[Answer]: 2.8636363636363638\n\nBased on the new priorities, what is the value of 1 + 53 / 87? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.6,
+                1.6,
+                "Based on the new priorities where '+' is treated as '/', we will perform the operation as follows:\n\n1 + 53 / 87\n\nFirst, we perform the division as per the new priority:\n\n53 / 87 = 0.6091954022988506\n\nNow, we treat '+' as '/':\n\n1 / 0.6091954022988506 ≈ 1.641025641025641\n\nSo the value of 1 + 53 / 87 with the new priorities is approximately [1.641025641025641]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 66 + 9 * 87\n[Answer]: 6525\n\nBased on the new priorities, what is the value of 99 + 79 * 7? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1246.0,
+                1246,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 99 + 79 * 7, we first calculate the sum of 99 and 79:\n\n99 + 79 = 178\n\nNow we multiply this sum by 7:\n\n178 * 7 = 1246\n\nTherefore, the value of the expression 99 + 79 * 7 with the new priorities is [1246]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 31 + 34 * 35\n[Answer]: 2275\n\nBased on the new priorities, what is the value of 13 + 68 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2592.0,
+                2592,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 13 + 68 * 32, we first add 13 and 68:\n\n13 + 68 = 81\n\nNow we multiply the result by 32:\n\n81 * 32 = 2592\n\nTherefore, the value of the expression 13 + 68 * 32 with the new priorities is [2592]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 54 - 47 + 51\n[Answer]: -44\n\nBased on the new priorities, what is the value of 35 - 51 + 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -95.0,
+                -95,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 35 - 51 + 79, we first calculate 51 + 79, and then subtract that sum from 35.\n\n51 + 79 = 130\n\nNow we subtract that sum from 35:\n\n35 - 130 = -95\n\nTherefore, the value of the expression 35 - 51 + 79 with the new priorities is [-95]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 85 - 34 + 49\n[Answer]: 2\n\nBased on the new priorities, what is the value of 26 - 6 + 5? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                15.0,
+                15,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 26 - 6 + 5, we first calculate 6 + 5, which equals 11.\n\nNow we subtract this result from 26: 26 - 11 equals 15.\n\nTherefore, the value of the expression 26 - 6 + 5 is [15]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 1 + 29 / 92\n[Answer]: 0.32608695652173914\n\nBased on the new priorities, what is the value of 12 + 16 / 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.0,
+                2,
+                "According to the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 12 + 16 / 14, we first add 12 and 16:\n\n12 + 16 = 28\n\nNow we divide this sum by 14:\n\n28 / 14 = 2\n\nTherefore, the value of the expression 12 + 16 / 14, with the new priorities, is [2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 37 + 70 * 21\n[Answer]: 2247\n\nBased on the new priorities, what is the value of 97 + 84 * 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10317.0,
+                10317,
+                "Based on the new priorities where '+' has the same priority as '*', we treat all operations as having the same precedence and simply perform them from left to right.\n\nSo for the expression 97 + 84 * 57, we first add 97 and 84, and then multiply the result by 57.\n\n97 + 84 = 181\n181 * 57 = 10317\n\nTherefore, the value of the expression 97 + 84 * 57 is [10317]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 30 - 84 + 11\n[Answer]: -65\n\nBased on the new priorities, what is the value of 99 - 73 + 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -24.0,
+                -24,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 99 - 73 + 50, we first calculate 73 + 50, and then subtract the result from 99.\n\n73 + 50 = 123\n\nNow we subtract this result from 99:\n\n99 - 123 = -24\n\nTherefore, the value of the expression 99 - 73 + 50 based on the new priorities is [-24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 43 - 30 + 82\n[Answer]: -69\n\nBased on the new priorities, what is the value of 87 - 83 + 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -25.0,
+                -25,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 87 - 83 + 29, we first calculate 83 + 29, and then subtract that result from 87.\n\n83 + 29 = 112\n\nNow we subtract that from 87:\n\n87 - 112 = -25\n\nTherefore, the value of the expression 87 - 83 + 29 with the new priorities is [-25]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 96 / 99 + 84\n[Answer]: 0.5245901639344263\n\nBased on the new priorities, what is the value of 54 / 33 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 54 / 33 + 68, we first add 33 and 68:\n\n33 + 68 = 101\n\nNow we divide 54 by the result:\n\n54 / 101 = 0.5346534653465347\n\nTherefore, the value of the expression 54 / 33 + 68 with the new priorities is approximately [0.5346534653465347]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 38 * 66 + 60\n[Answer]: 4788\n\nBased on the new priorities, what is the value of 28 * 11 + 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3080.0,
+                3080,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 28 * 11 + 99, we first calculate the addition:\n\n11 + 99 = 110\n\nNow we multiply the result by 28:\n\n28 * 110 = 3080\n\nTherefore, the value of the expression 28 * 11 + 99 with the new priorities is [3080]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 92 - 35 + 72\n[Answer]: -15\n\nBased on the new priorities, what is the value of 60 - 56 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -64.0,
+                -64,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 60 - 56 + 68, we first calculate 56 + 68:\n\n56 + 68 = 124\n\nNow we subtract this result from 60:\n\n60 - 124 = -64\n\nTherefore, the value of the expression 60 - 56 + 68 with the new priorities is [-64]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '/'\n[Example Question]: 74 + 90 / 40\n[Answer]: 4.1\n\nBased on the new priorities, what is the value of 83 + 29 / 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.4,
+                0.1,
+                "Based on the new priorities where '+' is treated as '/', we will perform the operation as if the '+' is a division operator.\n\nSo, the expression 83 + 29 / 46 becomes:\n\n83 / 29 / 46\n\nTo solve this, we first divide 83 by 29, and then divide the result by 46.\n\n83 / 29 = 2.8620689655172414 (approximately)\n\nNow we take this result and divide it by 46:\n\n2.8620689655172414 / 46 = 0.06221845533689655 (approximately)\n\nRounded to one decimal place, the result is:\n\n[0.1]"
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 26 + 63 * 44\n[Answer]: 3916\n\nBased on the new priorities, what is the value of 64 + 45 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                10355.0,
+                10355,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 64 + 45 * 95, we first calculate the sum of 64 and 45:\n\n64 + 45 = 109\n\nNow we multiply this sum by 95:\n\n109 * 95 = 10355\n\nTherefore, the value of the expression 64 + 45 * 95, with the new priorities, is [10355]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 16 + 35 * 1\n[Answer]: 51\n\nBased on the new priorities, what is the value of 71 + 87 * 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                15326.0,
+                15326,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 71 + 87 * 97, we first add 71 and 87:\n\n71 + 87 = 158\n\nNow we multiply the result by 97:\n\n158 * 97 = 15326\n\nTherefore, the value of the expression 71 + 87 * 97, with the new priorities, is [15326]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 93 + 75 * 24\n[Answer]: 4032\n\nBased on the new priorities, what is the value of 60 + 67 * 15? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1905.0,
+                1905,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 60 + 67 * 15, we first calculate the sum of 60 and 67:\n\n60 + 67 = 127\n\nNow we multiply this result by 15:\n\n127 * 15 = 1905\n\nTherefore, the value of the expression 60 + 67 * 15, with the new priorities, is [1905]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 64 / 72 + 31\n[Answer]: 0.6213592233009708\n\nBased on the new priorities, what is the value of 77 / 4 + 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "According to the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 77 / 4 + 88, we first calculate the addition:\n\n4 + 88 = 92\n\nNow we divide 77 by the result:\n\n77 / 92\n\nTo get the decimal result, we perform the division:\n\n77 ÷ 92 ≈ 0.8369565217391305\n\nSo the value of the expression 77 / 4 + 88 with the new priorities is approximately [0.8369565217391305]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 53 - 92 + 64\n[Answer]: -103\n\nBased on the new priorities, what is the value of 61 - 52 + 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -9.0,
+                -9,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 61 - 52 + 18, we first calculate 52 + 18, and then subtract the result from 61.\n\n52 + 18 = 70\n\nNow we subtract this result from 61:\n\n61 - 70 = -9\n\nTherefore, the value of the expression 61 - 52 + 18 with the new priorities is [-9]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 71 + 85 * 82\n[Answer]: 12792\n\nBased on the new priorities, what is the value of 98 + 69 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                8350.0,
+                8350,
+                "Based on the new priorities where '+' has the same priority as '*', we treat all operations as having the same precedence and simply calculate from left to right.\n\nSo for the expression 98 + 69 * 50, we first add 98 and 69, and then multiply the result by 50.\n\n98 + 69 = 167\n167 * 50 = 8350\n\nTherefore, the value of the expression 98 + 69 * 50 is [8350]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' = '*'\n[Example Question]: 42 + 65 * 93\n[Answer]: 9951\n\nBased on the new priorities, what is the value of 49 + 22 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2272.0,
+                34528,
+                "Based on the new priorities where '+' is treated as multiplication ('*'), we will calculate the expression 49 + 22 * 32 by treating the '+' as multiplication.\n\nSo, the expression becomes:\n\n49 * 22 * 32\n\nNow we can calculate it step by step:\n\nFirst, multiply 49 by 22:\n49 * 22 = 1078\n\nThen, multiply the result by 32:\n1078 * 32 = 34528\n\nTherefore, the value of the expression 49 + 22 * 32 with the new priorities is [34528]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 76 + 93 / 80\n[Answer]: 2.1125\n\nBased on the new priorities, what is the value of 17 + 51 / 86? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo for the expression 17 + 51 / 86, we first add 17 and 51:\n\n17 + 51 = 68\n\nNow we divide this sum by 86:\n\n68 / 86 = 0.7906976744186 (rounded to 13 decimal places)\n\nThe final result is approximately [0.7907] when rounded to four decimal places."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 8 + 62 / 51\n[Answer]: 1.3725490196078431\n\nBased on the new priorities, what is the value of 6 + 11 / 78? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo for the expression 6 + 11 / 78, we first add 6 and 11:\n\n6 + 11 = 17\n\nNow we divide this sum by 78:\n\n17 / 78 = 0.21794871794871795\n\nTherefore, the value of the expression is approximately [0.21794871794871795]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 14 + 42 * 14\n[Answer]: 784\n\nBased on the new priorities, what is the value of 12 + 21 * 21? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                693.0,
+                693,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 12 + 21 * 21, we first calculate the sum of 12 and 21:\n\n12 + 21 = 33\n\nNow we multiply this result by 21:\n\n33 * 21 = 693\n\nTherefore, the value of the expression 12 + 21 * 21, with the new priorities, is [693]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 20 + 27 / 97\n[Answer]: 0.4845360824742268\n\nBased on the new priorities, what is the value of 31 + 73 / 34? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.1,
+                3.1,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo for the expression 31 + 73 / 34, we first add 31 and 73:\n\n31 + 73 = 104\n\nNow we divide this sum by 34:\n\n104 / 34 = 3.0588235294117645\n\nTherefore, the value of the expression 31 + 73 / 34 with the new priorities is [3.0588235294117645]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 91 / 10 + 49\n[Answer]: 1.5423728813559323\n\nBased on the new priorities, what is the value of 83 / 31 + 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                1.3,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 83 / 31 + 31, we first calculate the sum of 31 + 31, which is 62.\n\nNow we have the expression 83 / 62.\n\nTo calculate this, we divide 83 by 62:\n\n83 / 62 = 1.3387096774193548\n\nTherefore, the value of the expression 83 / 31 + 31 with the new priorities is approximately [1.3387096774193548]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 13 + 30 / 27\n[Answer]: 1.5925925925925926\n\nBased on the new priorities, what is the value of 94 + 35 / 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.5,
+                1.5,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo for the expression 94 + 35 / 88, we first add 94 and 35:\n\n94 + 35 = 129\n\nNow we divide this sum by 88:\n\n129 / 88 = 1.4659090909090908\n\nTherefore, the value of the expression 94 + 35 / 88 with the new priorities is approximately [1.4659090909090908]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 79 * 52 + 17\n[Answer]: 5451\n\nBased on the new priorities, what is the value of 29 * 84 + 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2958.0,
+                2958,
+                "According to the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 29 * 84 + 18, we first do the addition:\n\n84 + 18 = 102\n\nNow we multiply the result by 29:\n\n29 * 102 = 2958\n\nTherefore, the value of the expression 29 * 84 + 18 with the new priorities is [2958]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 11 - 77 + 67\n[Answer]: -133\n\nBased on the new priorities, what is the value of 58 - 65 + 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -101.0,
+                -101,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 58 - 65 + 94, we first calculate 65 + 94, and then subtract the result from 58.\n\n65 + 94 = 159\n\nNow we subtract this result from 58:\n\n58 - 159 = -101\n\nTherefore, the value of the expression 58 - 65 + 94 with the new priorities is [-101]."
+            ]
+        ]
+    },
+    "overall_accuracy": "187/200=0.935",
+    "-": {
+        "accuracy": "46/50=0.92",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 82 / 75 - 82\n[Answer]: -11.714285714285714\n\nBased on the new priorities, what is the value of 97 / 19 - 71? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.9,
+                -1.9,
+                "According to the new priorities, the subtraction operator '-' has a higher priority than the division operator '/'. Therefore, we first perform the subtraction and then the division.\n\nThe expression is: 97 / 19 - 71\n\nFirst, we subtract 71 from 19:\n19 - 71 = -52\n\nNow we divide 97 by the result of the subtraction:\n97 / -52\n\nPerforming the division gives us:\n97 / -52 ≈ -1.8653846153846154\n\nSo the value of the expression 97 / 19 - 71 with the new priorities is approximately [-1.8653846153846154]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 52 - 31 + 91\n[Answer]: -70\n\nBased on the new priorities, what is the value of 84 - 26 + 74? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -16.0,
+                -16,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 84 - 26 + 74, we first calculate 26 + 74:\n\n26 + 74 = 100\n\nNow we subtract this result from 84:\n\n84 - 100 = -16\n\nTherefore, the value of the expression 84 - 26 + 74 with the new priorities is [-16]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 11 - 25 / 92\n[Answer]: -0.15217391304347827\n\nBased on the new priorities, what is the value of 35 - 86 / 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2.8,
+                -2.8,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 35 - 86 / 18, we first calculate 35 - 86, which is -51.\n\nNow we divide -51 by 18.\n\n-51 / 18 = -2.8333333333333335\n\nTherefore, the value of the expression is approximately [-2.8333333333333335]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 97 * 12 - 94\n[Answer]: -7954\n\nBased on the new priorities, what is the value of 42 * 44 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1596.0,
+                1596,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 42 * 44 - 6, we first calculate 44 - 6, and then multiply the result by 42.\n\n44 - 6 = 38\n\nNow we multiply 38 by 42:\n\n38 * 42 = 1596\n\nTherefore, the value of the expression 42 * 44 - 6 with the new priorities is [1596]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 62 - 24 / 87\n[Answer]: 0.4367816091954023\n\nBased on the new priorities, what is the value of 42 - 41 / 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                41.2,
+                "Based on the new priorities where '-' is treated as '/', we will perform the division first and then the subtraction. So for the expression 42 - 41 / 49, we will first divide 41 by 49 and then subtract the result from 42.\n\nFirst, calculate 41 / 49:\n41 / 49 = 0.836734693877551\n\nNow, subtract this result from 42:\n42 - (41 / 49) = 42 - 0.836734693877551 = 41.16326530612245\n\nSo the value of the expression 42 - 41 / 49 is approximately [41.16326530612245]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 90 - 64 / 16\n[Answer]: 1.625\n\nBased on the new priorities, what is the value of 7 - 48 / 74? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.6,
+                -0.6,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 7 - 48 / 74, we first calculate 7 - 48, which is -41.\n\nNow we divide this result by 74:\n\n-41 / 74 = -0.5540540540540541 (rounded to many decimal places)\n\nTo provide the result as requested, rounded to a reasonable number of decimal places, we get:\n\n[-0.554]"
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 94 - 64 * 29\n[Answer]: 870\n\nBased on the new priorities, what is the value of 90 - 49 * 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2870.0,
+                2870,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 90 - 49 * 70, we first calculate 90 - 49, and then multiply the result by 70.\n\n90 - 49 = 41\n\nNow we multiply 41 by 70:\n\n41 * 70 = 2870\n\nTherefore, the value of the expression 90 - 49 * 70 based on the new priorities is [2870]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 62 - 29 + 10\n[Answer]: 23\n\nBased on the new priorities, what is the value of 39 - 64 + 89? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -114.0,
+                -114,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 39 - 64 + 89, we first calculate 64 + 89:\n\n64 + 89 = 153\n\nNow we subtract this result from 39:\n\n39 - 153 = -114\n\nTherefore, the value of the expression 39 - 64 + 89 with the new priorities is [-114]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 71 / 33 - 2\n[Answer]: 2.2903225806451615\n\nBased on the new priorities, what is the value of 22 / 5 - 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5.5,
+                5.5,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 22 / 5 - 1, we first calculate 5 - 1, which equals 4.\n\nThen we divide 22 by the result:\n\n22 / 4 = 5.5\n\nTherefore, the value of the expression 22 / 5 - 1 with the new priorities is [5.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 78 * 75 - 98\n[Answer]: -1794\n\nBased on the new priorities, what is the value of 54 * 31 - 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2484.0,
+                -2484,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 54 * 31 - 77, we first calculate 31 - 77, which is -46.\n\nThen we multiply 54 by the result of the subtraction:\n\n54 * (-46) = -2484\n\nTherefore, the value of the expression 54 * 31 - 77 with the new priorities is [-2484]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 1 * 93 - 70\n[Answer]: 23\n\nBased on the new priorities, what is the value of 22 * 11 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -44.0,
+                -44,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 22 * 11 - 13, we first calculate 11 - 13, which is -2.\n\nThen we multiply 22 by the result of the subtraction:\n\n22 * (-2) = -44\n\nTherefore, the value of the expression 22 * 11 - 13 with the new priorities is [-44]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 10 - 72 + 53\n[Answer]: -115\n\nBased on the new priorities, what is the value of 89 - 70 + 59? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -40.0,
+                -40,
+                "Based on the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 89 - 70 + 59, we first calculate 70 + 59:\n\n70 + 59 = 129\n\nNow we subtract this result from 89:\n\n89 - 129 = -40\n\nTherefore, the value of the expression 89 - 70 + 59 with the new priorities is [-40]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 57 - 16 + 39\n[Answer]: 2\n\nBased on the new priorities, what is the value of 98 - 17 + 1? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                80.0,
+                80,
+                "Based on the redefined priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 98 - 17 + 1, we first calculate 17 + 1, and then subtract the result from 98.\n\n17 + 1 = 18\n\nNow we subtract this result from 98:\n\n98 - 18 = 80\n\nTherefore, the value of the expression 98 - 17 + 1 based on the new priorities is [80]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 11 - 47 * 23\n[Answer]: -828\n\nBased on the new priorities, what is the value of 13 - 58 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1035.0,
+                -1035,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 13 - 58 * 23, we first calculate 13 - 58, which is -45.\n\nNow we multiply this result by 23: -45 * 23 = -1035.\n\nTherefore, the value of the expression 13 - 58 * 23 with the new priorities is [-1035]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 85 - 44 + 32\n[Answer]: 9\n\nBased on the new priorities, what is the value of 41 - 32 + 41? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -32.0,
+                -32,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 41 - 32 + 41, we first calculate 32 + 41, and then subtract the result from 41.\n\n32 + 41 = 73\n\nNow we subtract this result from the first number:\n\n41 - 73 = -32\n\nTherefore, the value of the expression 41 - 32 + 41 is [-32]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 48 - 32 * 83\n[Answer]: 1328\n\nBased on the new priorities, what is the value of 11 - 20 * 16? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -144.0,
+                3520,
+                "Based on the new priorities where '-' is treated as '*', the expression 11 - 20 * 16 would be calculated as follows:\n\n11 * 20 * 16\n\nNow we perform the multiplication:\n\n220 * 16 = 3520\n\nSo the value of the expression 11 - 20 * 16 with the new priorities is [3520]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 16 - 70 / 46\n[Answer]: -1.173913043478261\n\nBased on the new priorities, what is the value of 92 - 98 / 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.1,
+                -0.1,
+                "According to the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 92 - 98 / 49, we first calculate 92 - 98:\n\n92 - 98 = -6\n\nNow we divide this result by 49:\n\n-6 / 49 = -0.12244897959183673\n\nTherefore, the value of the expression 92 - 98 / 49 with the new priorities is approximately [-0.12244897959183673]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 88 - 98 / 92\n[Answer]: -0.10869565217391304\n\nBased on the new priorities, what is the value of 59 - 60 / 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.3,
+                -0.3,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 59 - 60 / 3, we first calculate 59 - 60, which is -1.\n\nNow we divide this result by 3:\n\n-1 / 3 = -0.3333333333333333\n\nTherefore, the value of the expression 59 - 60 / 3 with the new priorities is approximately [-0.3333333333333333]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 34 - 23 + 50\n[Answer]: -39\n\nBased on the new priorities, what is the value of 46 - 42 + 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -50.0,
+                -50,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 46 - 42 + 54, we first do the addition:\n\n42 + 54 = 96\n\nNow we subtract this result from 46:\n\n46 - 96 = -50\n\nTherefore, the value of the expression 46 - 42 + 54 with the new priorities is [-50]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 54 - 69 / 61\n[Answer]: -0.2459016393442623\n\nBased on the new priorities, what is the value of 26 - 32 / 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.1,
+                -0.1,
+                "According to the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 26 - 32 / 62, we first calculate 26 - 32, which is -6.\n\nNow we divide -6 by 62:\n\n-6 / 62 = -0.0967741935483871\n\nTherefore, the value of the expression 26 - 32 / 62 with the new priorities is approximately [-0.0967741935483871]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 50 - 19 * 41\n[Answer]: 1271\n\nBased on the new priorities, what is the value of 92 - 15 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                154.0,
+                154,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 92 - 15 * 2, we first calculate 92 - 15, which is 77. Then we multiply the result by 2.\n\n77 * 2 = 154\n\nTherefore, the value of the expression 92 - 15 * 2 with the new priorities is [154]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 24 - 7 * 88\n[Answer]: 1496\n\nBased on the new priorities, what is the value of 17 - 28 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -253.0,
+                -253,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 17 - 28 * 23, we first calculate 17 - 28, which is -11.\n\nThen we multiply this result by 23: -11 * 23 = -253.\n\nTherefore, the value of the expression 17 - 28 * 23 based on the new priorities is [-253]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 11 - 9 / 50\n[Answer]: 0.04\n\nBased on the new priorities, what is the value of 59 - 89 / 46? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.7,
+                -0.7,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 59 - 89 / 46, we first calculate 59 - 89:\n\n59 - 89 = -30\n\nNow we divide this result by 46:\n\n-30 / 46 = -0.6521739130434783\n\nRounded to two decimal places, the result is approximately [-0.65]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 28 - 56 + 44\n[Answer]: -72\n\nBased on the new priorities, what is the value of 48 - 59 + 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -81.0,
+                -81,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 48 - 59 + 70, we first calculate 59 + 70 and then subtract that sum from 48.\n\n59 + 70 = 129\n\nNow we subtract that from 48:\n\n48 - 129 = -81\n\nTherefore, the value of the expression 48 - 59 + 70 with the new priorities is [-81]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 68 - 60 / 87\n[Answer]: 0.09195402298850575\n\nBased on the new priorities, what is the value of 63 - 55 / 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 63 - 55 / 94, we first calculate 63 - 55, which is 8. Then we divide this result by 94.\n\n8 / 94 = 0.0851063829787234\n\nTherefore, the value of the expression 63 - 55 / 94 with the new priorities is approximately [0.0851063829787234]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 98 / 66 - 44\n[Answer]: 4.454545454545454\n\nBased on the new priorities, what is the value of 97 / 51 - 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.5,
+                3.5,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 97 / 51 - 23, we first calculate 51 - 23:\n\n51 - 23 = 28\n\nNow we divide 97 by the result:\n\n97 / 28 = 3.464285714285714\n\nTherefore, the value of the expression 97 / 51 - 23 with the new priorities is [3.464285714285714]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 87 - 42 * 1\n[Answer]: 45\n\nBased on the new priorities, what is the value of 22 - 77 * 28? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1540.0,
+                -1540,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 22 - 77 * 28, we first calculate 22 - 77:\n\n22 - 77 = -55\n\nNow we multiply this result by 28:\n\n-55 * 28 = -1540\n\nTherefore, the value of the expression 22 - 77 * 28 based on the new priorities is [-1540]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 10 - 25 / 30\n[Answer]: -0.5\n\nBased on the new priorities, what is the value of 61 - 47 / 70? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 61 - 47 / 70, we first calculate 61 - 47, which is 14.\n\nNow we divide 14 by 70, which gives us 0.2.\n\nTherefore, the value of the expression is [0.2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 27 * 36 - 17\n[Answer]: 513\n\nBased on the new priorities, what is the value of 33 * 71 - 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -825.0,
+                -825,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 33 * 71 - 96, we first calculate 71 - 96:\n\n71 - 96 = -25\n\nNow we multiply the result by 33:\n\n33 * (-25) = -825\n\nTherefore, the value of the expression 33 * 71 - 96 with the new priorities is [-825]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 68 - 11 / 65\n[Answer]: 0.8769230769230769\n\nBased on the new priorities, what is the value of 42 - 28 / 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 42 - 28 / 62, we first calculate 42 - 28:\n\n42 - 28 = 14\n\nNow we divide this result by 62:\n\n14 / 62 = 0.22580645161290322\n\nTherefore, the value of the expression 42 - 28 / 62 with the new priorities is [0.22580645161290322]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 59 - 67 / 84\n[Answer]: -0.09523809523809523\n\nBased on the new priorities, what is the value of 26 - 96 / 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.7,
+                25.0,
+                "Based on the redefined priorities where '-' has the same priority as '/', we should perform the operations from left to right.\n\nSo for the expression 26 - 96 / 95, we first perform the division and then the subtraction.\n\nFirst, we divide 96 by 95:\n96 / 95 = 1.0105263157894737\n\nNow, we subtract this result from 26:\n26 - 1.0105263157894737 = 24.989473684210526\n\nTherefore, the value of the expression 26 - 96 / 95 is approximately [24.989473684210526]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 21 - 95 / 66\n[Answer]: -1.121212121212121\n\nBased on the new priorities, what is the value of 92 - 56 / 57? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.6,
+                0.6,
+                "Given the new priorities where '-' has the same priority as '/', we should perform the subtraction and division from left to right as they appear, since they now have the same priority level.\n\nSo for the expression 92 - 56 / 57, we first do the subtraction, then the division:\n\n92 - 56 = 36\n36 / 57 = 0.631578947368421\n\nTherefore, the value of the expression is approximately [0.631578947368421]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 32 / 63 - 45\n[Answer]: 1.7777777777777777\n\nBased on the new priorities, what is the value of 56 / 77 - 3? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "According to the new priorities, the '-' operator has a higher priority than the '/' operator. Therefore, we must perform the subtraction before the division.\n\nThe expression is: 56 / 77 - 3\n\nFirst, we perform the subtraction:\n77 - 3 = 74\n\nNow, we perform the division with the result of the subtraction:\n56 / 74\n\nCalculating the division gives us:\n56 / 74 ≈ 0.7567567567567568\n\nSo the value of the expression 56 / 77 - 3 with the new priorities is approximately [0.7567567567567568]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 27 - 95 / 13\n[Answer]: -5.230769230769231\n\nBased on the new priorities, what is the value of 29 - 97 / 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -4.9,
+                -4.9,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 29 - 97 / 14, we first calculate 29 - 97:\n\n29 - 97 = -68\n\nNow we divide this result by 14:\n\n-68 / 14 = -4.857142857142857\n\nTherefore, the value of the expression 29 - 97 / 14 with the new priorities is [-4.857142857142857]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 61 - 72 / 15\n[Answer]: -0.7333333333333333\n\nBased on the new priorities, what is the value of 2 - 13 / 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5.5,
+                -5.5,
+                "According to the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 2 - 13 / 2, we first calculate 2 - 13, which is -11. Then we divide this result by 2.\n\n-11 / 2 = -5.5\n\nTherefore, the value of the expression 2 - 13 / 2 with the new priorities is [-5.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 44 * 95 - 4\n[Answer]: 4004\n\nBased on the new priorities, what is the value of 17 * 63 - 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                969.0,
+                969,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 17 * 63 - 6, we first calculate 63 - 6, which equals 57.\n\nThen we multiply 17 by the result of the subtraction:\n\n17 * 57 = 969\n\nTherefore, the value of the expression 17 * 63 - 6 with the new priorities is [969]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 18 - 91 * 46\n[Answer]: -3358\n\nBased on the new priorities, what is the value of 27 - 84 * 90? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -5130.0,
+                204120,
+                "Based on the new priorities where '-' is treated as multiplication ('*'), the expression 27 - 84 * 90 should be calculated as follows:\n\n27 * 84 * 90\n\nNow, we perform the multiplication:\n\n27 * 84 = 2268\n2268 * 90 = 204120\n\nSo the value of the expression 27 - 84 * 90 with the new priorities is [204120]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 53 - 82 / 39\n[Answer]: -0.7435897435897436\n\nBased on the new priorities, what is the value of 61 - 71 / 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.4,
+                -0.4,
+                "Based on the redefined priorities where '-' has the same priority as '/', we should perform the subtraction and division from left to right as they appear because they now have the same precedence.\n\nSo for the expression 61 - 71 / 25, we first subtract 71 from 61, and then divide the result by 25.\n\n61 - 71 = -10\n-10 / 25 = -0.4\n\nTherefore, the value of the expression is [-0.4]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 79 - 70 / 54\n[Answer]: 0.16666666666666666\n\nBased on the new priorities, what is the value of 99 - 96 / 31? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Based on the redefined priorities where '-' has the same priority as '/', we should perform the subtraction and division from left to right as they appear because they now have the same precedence.\n\nSo for the expression 99 - 96 / 31, we first do the subtraction:\n\n99 - 96 = 3\n\nNow we divide the result by 31:\n\n3 / 31 = 0.0967741935483871\n\nTherefore, the value of the expression 99 - 96 / 31 is approximately [0.0967741935483871]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 46 - 49 / 15\n[Answer]: -0.2\n\nBased on the new priorities, what is the value of 94 - 36 / 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7.2,
+                7.2,
+                "Based on the redefined priorities where '-' has the same priority as '/', we should perform the subtraction and division from left to right as they appear because they now have the same priority level.\n\nSo for the expression 94 - 36 / 8, we first do the subtraction and then the division:\n\n94 - 36 = 58\n58 / 8 = 7.25\n\nTherefore, the value of the expression is [7.25]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 75 * 25 - 84\n[Answer]: -4425\n\nBased on the new priorities, what is the value of 93 * 56 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4836.0,
+                4836,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 93 * 56 - 4, we first calculate 56 - 4, and then multiply the result by 93.\n\n56 - 4 = 52\n\nNow we multiply 93 by 52:\n\n93 * 52 = 4836\n\nTherefore, the value of the expression 93 * 56 - 4 with the new priorities is [4836]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 46 - 92 / 11\n[Answer]: -4.181818181818182\n\nBased on the new priorities, what is the value of 58 - 45 / 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 58 - 45 / 17, we first calculate 58 - 45, which is 13.\n\nNow we divide 13 by 17, which gives us approximately 0.7647058823529411.\n\nTherefore, the value of the expression 58 - 45 / 17 with the new priorities is [0.7647058823529411]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 65 / 66 - 82\n[Answer]: -4.0625\n\nBased on the new priorities, what is the value of 70 / 93 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.9,
+                0.9,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo for the expression 70 / 93 - 13, we first calculate 93 - 13:\n\n93 - 13 = 80\n\nNow we divide 70 by the result:\n\n70 / 80 = 0.875\n\nTherefore, the value of the expression 70 / 93 - 13 with the new priorities is [0.875]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 39 * 79 - 78\n[Answer]: 39\n\nBased on the new priorities, what is the value of 58 * 40 - 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2204.0,
+                2204,
+                "According to the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 58 * 40 - 2, we first calculate 40 - 2, which equals 38.\n\nThen we multiply 58 by the result of the subtraction:\n\n58 * 38 = 2204\n\nTherefore, the value of the expression 58 * 40 - 2 with the new priorities is [2204]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '/'\n[Example Question]: 30 - 1 / 69\n[Answer]: 0.42028985507246375\n\nBased on the new priorities, what is the value of 41 - 77 / 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.8,
+                -0.8,
+                "Based on the redefined priorities where '-' has the same priority as '/', we should perform the subtraction and division from left to right as they appear because they now have the same precedence.\n\nSo for the expression 41 - 77 / 43, we first do the subtraction:\n\n41 - 77 = -36\n\nNow we divide this result by 43:\n\n-36 / 43 ≈ -0.8372093023255814\n\nTherefore, the value of the expression is approximately [-0.8372093023255814]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 52 * 64 - 38\n[Answer]: 1352\n\nBased on the new priorities, what is the value of 17 * 74 - 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                884.0,
+                884,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 17 * 74 - 22, we first calculate 74 - 22, and then multiply the result by 17.\n\n74 - 22 = 52\n\nNow we multiply this result by 17:\n\n17 * 52 = 884\n\nTherefore, the value of the expression 17 * 74 - 22 with the new priorities is [884]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 38 * 16 - 60\n[Answer]: -1672\n\nBased on the new priorities, what is the value of 97 * 9 - 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -8536.0,
+                -8536,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 97 * 9 - 97, we first calculate 9 - 97, which is -88.\n\nThen we multiply 97 by the result of the subtraction:\n\n97 * (-88) = -8536\n\nTherefore, the value of the expression 97 * 9 - 97 with the new priorities is [-8536]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '-'\n[Example Question]: 62 - 17 + 66\n[Answer]: -21\n\nBased on the new priorities, what is the value of 77 - 26 + 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -28.0,
+                -28,
+                "According to the new priorities where '+' has a higher priority than '-', we first perform the addition before the subtraction.\n\nSo for the expression 77 - 26 + 79, we first calculate 26 + 79, and then subtract that sum from 77.\n\n26 + 79 = 105\n\nNow we subtract that from 77:\n\n77 - 105 = -28\n\nTherefore, the value of the expression 77 - 26 + 79 with the new priorities is [-28]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' = '*'\n[Example Question]: 76 - 92 * 29\n[Answer]: -464\n\nBased on the new priorities, what is the value of 90 - 61 * 81? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2349.0,
+                2349,
+                "Based on the redefined priorities, the '-' operator now has the same priority as the '*' operator. Therefore, we will perform the operations from left to right as they appear, since they have the same priority level.\n\nThe expression is: 90 - 61 * 81\n\nFirst, we perform the subtraction: 90 - 61 = 29\n\nThen, we multiply the result by 81: 29 * 81\n\nNow, let's calculate the multiplication: 29 * 81 = 2349\n\nSo the value of the expression 90 - 61 * 81, with the new priorities, is [2349]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 23 / 7 - 45\n[Answer]: -0.6052631578947368\n\nBased on the new priorities, what is the value of 47 / 63 - 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.4,
+                -1.4,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 47 / 63 - 96, we first calculate 63 - 96:\n\n63 - 96 = -33\n\nNow we divide 47 by the result of the subtraction:\n\n47 / (-33) = -47 / 33\n\nTo get the decimal result, we divide -47 by 33:\n\n-47 / 33 ≈ -1.4242424242424243\n\nSo the value of the expression 47 / 63 - 96 with the new priorities is approximately [-1.4242424242424243]."
+            ]
+        ]
+    },
+    "*": {
+        "accuracy": "46/50=0.92",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 66 * 98 - 52\n[Answer]: 3036\n\nBased on the new priorities, what is the value of 9 * 45 - 18? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                243.0,
+                243,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 9 * 45 - 18, we first calculate 45 - 18:\n\n45 - 18 = 27\n\nNow we multiply the result by 9:\n\n9 * 27 = 243\n\nTherefore, the value of the expression 9 * 45 - 18 with the new priorities is [243]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 22 + 8 * 47\n[Answer]: 1410\n\nBased on the new priorities, what is the value of 30 + 81 * 49? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5439.0,
+                5439,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we can simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo, for the expression 30 + 81 * 49, we would calculate it as follows:\n\n30 + 81 = 111\n111 * 49 = 5439\n\nTherefore, the value of the expression 30 + 81 * 49 with the new priorities is [5439]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 48 * 84 + 66\n[Answer]: 7200\n\nBased on the new priorities, what is the value of 71 * 86 + 94? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                12780.0,
+                12780,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 71 * 86 + 94, we first calculate 86 + 94:\n\n86 + 94 = 180\n\nNow we multiply the result by 71:\n\n71 * 180 = 12780\n\nTherefore, the value of the expression 71 * 86 + 94 is [12780]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 7 + 15 * 91\n[Answer]: 2002\n\nBased on the new priorities, what is the value of 32 + 58 * 23? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2070.0,
+                2070,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo for the expression 32 + 58 * 23, we would calculate it as follows:\n\n32 + 58 = 90\n90 * 23 = 2070\n\nTherefore, the value of the expression is [2070]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 59 - 25 * 97\n[Answer]: 3298\n\nBased on the new priorities, what is the value of 45 - 20 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                50.0,
+                50,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 45 - 20 * 2, we first calculate 45 - 20, which is 25. Then we multiply the result by 2.\n\n25 * 2 = 50\n\nTherefore, the value of the expression 45 - 20 * 2 with the new priorities is [50]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 23 * 31 + 85\n[Answer]: 2668\n\nBased on the new priorities, what is the value of 39 * 66 + 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5226.0,
+                5226,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 39 * 66 + 68, we first calculate the addition:\n\n66 + 68 = 134\n\nNow we multiply the result by 39:\n\n39 * 134 = 5226\n\nTherefore, the value of the expression 39 * 66 + 68 with the new priorities is [5226]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 23 - 97 * 80\n[Answer]: -5920\n\nBased on the new priorities, what is the value of 44 - 47 * 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -24.0,
+                -24,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction before the multiplication.\n\nSo for the expression 44 - 47 * 8, we first calculate 44 - 47, and then multiply the result by 8.\n\n44 - 47 = -3\n\nNow we multiply this result by 8:\n\n-3 * 8 = -24\n\nTherefore, the value of the expression 44 - 47 * 8, with the new priorities, is [-24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 8 - 53 * 21\n[Answer]: -945\n\nBased on the new priorities, what is the value of 51 - 6 * 24? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1080.0,
+                1080,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nSo for the expression 51 - 6 * 24, we will first subtract 6 from 51, and then multiply the result by 24.\n\nFirst step (subtraction):\n51 - 6 = 45\n\nSecond step (multiplication):\n45 * 24 = 1080\n\nTherefore, the value of the expression 51 - 6 * 24 based on the new priorities is [1080]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 24 - 50 * 47\n[Answer]: -1222\n\nBased on the new priorities, what is the value of 15 - 39 * 17? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -408.0,
+                -408,
+                "Based on the redefined priorities where '*' now has the same priority as '-', we should perform the operations from left to right.\n\nSo for the expression 15 - 39 * 17, we first do the subtraction 15 - 39, and then multiply the result by 17.\n\n15 - 39 = -24\n\nNow we multiply this result by 17:\n\n-24 * 17 = -408\n\nTherefore, the value of the expression 15 - 39 * 17 is [-408]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 65 - 75 * 95\n[Answer]: -950\n\nBased on the new priorities, what is the value of 9 - 49 * 20? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -800.0,
+                -800,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 9 - 49 * 20, we first calculate 9 - 49, and then multiply the result by 20.\n\n9 - 49 = -40\n\nNow we multiply this result by 20:\n\n-40 * 20 = -800\n\nTherefore, the value of the expression 9 - 49 * 20, based on the new priorities, is [-800]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 7 * 96 + 84\n[Answer]: 1260\n\nBased on the new priorities, what is the value of 92 * 57 + 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                14260.0,
+                14260,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 92 * 57 + 98, we first calculate the addition:\n\n57 + 98 = 155\n\nNow we multiply the result by 92:\n\n92 * 155 = 14260\n\nTherefore, the value of the expression 92 * 57 + 98 with the new priorities is [14260]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 5 * 89 - 33\n[Answer]: 280\n\nBased on the new priorities, what is the value of 70 * 74 - 44? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2100.0,
+                2100,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 70 * 74 - 44, we first calculate 74 - 44, which equals 30.\n\nThen we multiply the result by 70: 70 * 30 = 2100.\n\nTherefore, the value of the expression 70 * 74 - 44 with the new priorities is [2100]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 25 - 32 * 89\n[Answer]: -623\n\nBased on the new priorities, what is the value of 18 - 30 * 84? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1008.0,
+                -1008,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nThe expression is: 18 - 30 * 84\n\nFirst, we subtract 30 from 18:\n18 - 30 = -12\n\nThen, we multiply the result by 84:\n-12 * 84 = -1008\n\nSo the value of the expression 18 - 30 * 84 is [-1008]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 16 + 91 * 35\n[Answer]: 3745\n\nBased on the new priorities, what is the value of 69 + 65 * 37? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4958.0,
+                4968,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo for the expression 69 + 65 * 37, we would calculate it as follows:\n\n69 + 65 = 134\n134 * 37 = 4968\n\nTherefore, the value of the expression 69 + 65 * 37 is [4968]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 34 / 71 * 77\n[Answer]: 0.00621913297969636\n\nBased on the new priorities, what is the value of 46 / 42 * 75? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 46 / 42 * 75, we first calculate 42 * 75 and then divide 46 by the result of that multiplication.\n\n42 * 75 = 3150\n\nNow we divide 46 by 3150:\n\n46 / 3150 ≈ 0.0146031746031746\n\nTherefore, the value of the expression 46 / 42 * 75 with the new priorities is approximately [0.0146031746031746]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 39 + 10 * 7\n[Answer]: 343\n\nBased on the new priorities, what is the value of 86 + 31 * 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3744.0,
+                3744,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 86 + 31 * 32, we first add 86 and 31:\n\n86 + 31 = 117\n\nNow we multiply the result by 32:\n\n117 * 32 = 3744\n\nTherefore, the value of the expression 86 + 31 * 32, with the new priorities, is [3744]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 26 / 30 * 32\n[Answer]: 0.027083333333333334\n\nBased on the new priorities, what is the value of 76 / 4 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9.5,
+                9.5,
+                "Given the new priorities where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 76 / 4 * 2, we first calculate 4 * 2, which is 8.\n\nNow we have 76 / 8.\n\nFinally, we perform the division: 76 divided by 8 equals 9.5.\n\nTherefore, the value of the expression 76 / 4 * 2 with the new priorities is [9.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 19 * 33 + 10\n[Answer]: 817\n\nBased on the new priorities, what is the value of 68 * 34 + 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4012.0,
+                4012,
+                "Given the new priority where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 68 * 34 + 25, we first calculate the addition:\n\n34 + 25 = 59\n\nNow we multiply the result by 68:\n\n68 * 59 = 4012\n\nTherefore, the value of the expression 68 * 34 + 25 with the new priorities is [4012]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 98 / 18 * 47\n[Answer]: 0.11583924349881797\n\nBased on the new priorities, what is the value of 44 / 86 * 65? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 44 / 86 * 65, we first calculate 86 * 65 and then divide 44 by the result of that multiplication.\n\n86 * 65 = 5590\n\nNow we divide 44 by 5590:\n\n44 / 5590 ≈ 0.007870650095602294\n\nTherefore, the value of the expression 44 / 86 * 65 with the new priorities is approximately [0.007870650095602294]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 83 - 78 * 42\n[Answer]: 210\n\nBased on the new priorities, what is the value of 48 - 96 * 11? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -528.0,
+                -1008,
+                "Based on the redefined priorities where '*' now has the priority of the '-' operator, we should perform the multiplication first and then the subtraction.\n\nSo for the expression 48 - 96 * 11, we first calculate 96 * 11:\n\n96 * 11 = 1056\n\nNow we subtract that result from 48:\n\n48 - 1056 = -1008\n\nTherefore, the value of the expression 48 - 96 * 11 is [-1008]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 81 * 83 + 72\n[Answer]: 12555\n\nBased on the new priorities, what is the value of 93 * 67 + 54? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                11253.0,
+                11253,
+                "According to the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 93 * 67 + 54, we first add 67 and 54, and then multiply the result by 93.\n\n67 + 54 = 121\n\nNow we multiply this sum by 93:\n\n93 * 121 = 11253\n\nTherefore, the value of the expression 93 * 67 + 54 is [11253]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 28 - 6 * 59\n[Answer]: 1298\n\nBased on the new priorities, what is the value of 98 - 45 * 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4876.0,
+                4876,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 98 - 45 * 92, we first calculate 98 - 45, and then multiply the result by 92.\n\n98 - 45 = 53\n\nNow we multiply 53 by 92:\n\n53 * 92 = 4876\n\nTherefore, the value of the expression 98 - 45 * 92 based on the new priorities is [4876]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 46 - 36 * 56\n[Answer]: 560\n\nBased on the new priorities, what is the value of 95 - 43 * 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5096.0,
+                5096,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 95 - 43 * 98, we first calculate 95 - 43:\n\n95 - 43 = 52\n\nNow we multiply the result by 98:\n\n52 * 98 = 5096\n\nTherefore, the value of the expression 95 - 43 * 98, with the new priorities, is [5096]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 80 + 20 * 35\n[Answer]: 3500\n\nBased on the new priorities, what is the value of 29 + 54 * 37? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3071.0,
+                3071,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 29 + 54 * 37, we first add 29 and 54:\n\n29 + 54 = 83\n\nNow we multiply the result by 37:\n\n83 * 37 = 3071\n\nTherefore, the value of the expression 29 + 54 * 37 with the new priorities is [3071]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 38 * 23 + 80\n[Answer]: 3914\n\nBased on the new priorities, what is the value of 66 * 37 + 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                7524.0,
+                7524,
+                "According to the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 66 * 37 + 77, we first add 37 and 77, and then multiply the result by 66.\n\n37 + 77 = 114\n\nNow we multiply 114 by 66:\n\n66 * 114 = 7524\n\nTherefore, the value of the expression 66 * 37 + 77 with the new priorities is [7524]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 12 / 22 * 73\n[Answer]: 0.007471980074719801\n\nBased on the new priorities, what is the value of 51 / 82 * 79? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 51 / 82 * 79, we first calculate 82 * 79.\n\n82 * 79 = 6478\n\nNow we divide 51 by the result of the multiplication:\n\n51 / 6478 ≈ 0.007874015748031496\n\nTherefore, the value of the expression 51 / 82 * 79 is approximately [0.007874015748031496]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 81 * 8 + 10\n[Answer]: 1458\n\nBased on the new priorities, what is the value of 62 * 54 + 32? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5332.0,
+                5332,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 62 * 54 + 32, we first calculate the addition:\n\n54 + 32 = 86\n\nNow we multiply the result by 62:\n\n62 * 86 = 5332\n\nTherefore, the value of the expression 62 * 54 + 32 with the new priorities is [5332]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 80 / 14 * 36\n[Answer]: 0.15873015873015872\n\nBased on the new priorities, what is the value of 53 / 3 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 53 / 3 * 50, we first calculate 3 * 50:\n\n3 * 50 = 150\n\nNow we divide 53 by the result:\n\n53 / 150 = 0.35333333333333333\n\nTherefore, the value of the expression 53 / 3 * 50 with the new priorities is approximately [0.35333333333333333]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 91 + 95 * 89\n[Answer]: 16554\n\nBased on the new priorities, what is the value of 39 + 55 * 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                9118.0,
+                9118,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 39 + 55 * 97, we first calculate the sum of 39 and 55:\n\n39 + 55 = 94\n\nNow we multiply this sum by 97:\n\n94 * 97 = 9118\n\nTherefore, the value of the expression 39 + 55 * 97 with the new priorities is [9118]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 5 * 3 + 95\n[Answer]: 490\n\nBased on the new priorities, what is the value of 59 * 6 + 45? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3009.0,
+                3009,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 59 * 6 + 45, we first do the addition:\n\n6 + 45 = 51\n\nNow we multiply the result by 59:\n\n59 * 51 = 3009\n\nTherefore, the value of the expression 59 * 6 + 45 with the new priorities is [3009]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 19 - 98 * 61\n[Answer]: -4819\n\nBased on the new priorities, what is the value of 84 - 98 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -350.0,
+                -350,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nSo for the expression 84 - 98 * 25, we first do the subtraction:\n\n84 - 98 = -14\n\nNow we multiply the result by 25:\n\n-14 * 25 = -350\n\nTherefore, the value of the expression 84 - 98 * 25 is [-350]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 53 + 37 * 61\n[Answer]: 5490\n\nBased on the new priorities, what is the value of 95 + 45 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                13300.0,
+                235,
+                "Based on the new priorities where '*' is treated as '+', we simply add all the numbers together:\n\n95 + 45 + 95\n\nNow, we add these numbers:\n\n95 + 45 = 140\n140 + 95 = 235\n\nSo the value of 95 + 45 * 95 with the new priorities is [235]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 14 * 63 + 11\n[Answer]: 1036\n\nBased on the new priorities, what is the value of 78 * 25 + 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                5304.0,
+                5304,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 78 * 25 + 43, we first calculate the addition:\n\n25 + 43 = 68\n\nNow we multiply the result by 78:\n\n78 * 68 = 5304\n\nTherefore, the value of the expression 78 * 25 + 43 with the new priorities is [5304]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 58 + 54 * 26\n[Answer]: 2912\n\nBased on the new priorities, what is the value of 72 + 26 * 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1372.0,
+                112,
+                "Based on the new priorities where '*' is treated as '+', we simply add all the numbers together:\n\n72 + 26 * 14\n\nBecomes:\n\n72 + 26 + 14\n\nNow we add them up:\n\n72 + 26 = 98\n98 + 14 = 112\n\nSo the value of 72 + 26 * 14 with the new priorities is [112]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 47 + 92 * 82\n[Answer]: 11398\n\nBased on the new priorities, what is the value of 21 + 45 * 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1914.0,
+                1914,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 21 + 45 * 29, we first calculate the sum of 21 and 45, and then multiply the result by 29.\n\n21 + 45 = 66\n\nNow we multiply 66 by 29:\n\n66 * 29 = 1914\n\nTherefore, the value of the expression 21 + 45 * 29 based on the new priorities is [1914]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 37 - 10 * 26\n[Answer]: 702\n\nBased on the new priorities, what is the value of 67 - 20 * 56? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2632.0,
+                2632,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 67 - 20 * 56, we first calculate 67 - 20, and then multiply the result by 56.\n\n67 - 20 = 47\n\nNow we multiply 47 by 56:\n\n47 * 56 = 2632\n\nTherefore, the value of the expression 67 - 20 * 56 based on the new priorities is [2632]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 45 - 59 * 25\n[Answer]: -350\n\nBased on the new priorities, what is the value of 61 - 62 * 98? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -98.0,
+                -98,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 61 - 62 * 98, we first calculate 61 - 62, which is -1.\n\nThen we multiply this result by 98: -1 * 98 = -98.\n\nTherefore, the value of the expression 61 - 62 * 98 with the new priorities is [-98]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 43 * 22 - 92\n[Answer]: -3010\n\nBased on the new priorities, what is the value of 74 * 81 - 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1332.0,
+                -1332,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 74 * 81 - 99, we first calculate 81 - 99:\n\n81 - 99 = -18\n\nNow we multiply the result by 74:\n\n74 * (-18) = -1332\n\nTherefore, the value of the expression 74 * 81 - 99 with the new priorities is [-1332]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 25 + 35 * 82\n[Answer]: 4920\n\nBased on the new priorities, what is the value of 17 + 59 * 12? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                912.0,
+                912,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 17 + 59 * 12, we first add 17 and 59:\n\n17 + 59 = 76\n\nNow we multiply the result by 12:\n\n76 * 12 = 912\n\nTherefore, the value of the expression 17 + 59 * 12 with the new priorities is [912]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 19 / 71 * 32\n[Answer]: 0.008362676056338027\n\nBased on the new priorities, what is the value of 94 / 5 * 72? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                0.3,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 94 / 5 * 72, we first calculate 5 * 72 and then divide 94 by the result of that multiplication.\n\n5 * 72 = 360\n\nNow we divide 94 by 360:\n\n94 / 360 = 0.2611111111111111\n\nTherefore, the value of the expression 94 / 5 * 72 with the new priorities is approximately [0.2611111111111111]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 1 - 37 * 12\n[Answer]: -432\n\nBased on the new priorities, what is the value of 77 - 20 * 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1254.0,
+                1254,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nSo for the expression 77 - 20 * 22, we first do the subtraction:\n\n77 - 20 = 57\n\nNow we multiply the result by 22:\n\n57 * 22 = 1254\n\nTherefore, the value of the expression 77 - 20 * 22 with the new priorities is [1254]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '*'\n[Example Question]: 35 - 38 * 99\n[Answer]: -297\n\nBased on the new priorities, what is the value of 25 - 78 * 55? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2915.0,
+                -2915,
+                "Based on the new priorities where '-' has a higher priority than '*', we first perform the subtraction and then the multiplication.\n\nSo for the expression 25 - 78 * 55, we first calculate 25 - 78:\n\n25 - 78 = -53\n\nNow we multiply this result by 55:\n\n-53 * 55 = -2915\n\nTherefore, the value of the expression 25 - 78 * 55, with the new priorities, is [-2915]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 27 * 59 + 43\n[Answer]: 2754\n\nBased on the new priorities, what is the value of 33 * 56 + 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3267.0,
+                3267,
+                "According to the new priorities where '+' has a higher priority than '*', we first perform the addition before the multiplication.\n\nSo for the expression 33 * 56 + 43, we first add 56 and 43, and then multiply the result by 33.\n\n56 + 43 = 99\n\nNow we multiply 33 by 99:\n\n33 * 99 = 3267\n\nTherefore, the value of the expression 33 * 56 + 43 with the new priorities is [3267]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 68 / 71 * 35\n[Answer]: 0.027364185110663984\n\nBased on the new priorities, what is the value of 20 / 27 * 88? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 20 / 27 * 88, we first calculate 27 * 88:\n\n27 * 88 = 2376\n\nNow we divide 20 by the result:\n\n20 / 2376 = 0.008403361344537815\n\nTherefore, the value of the expression 20 / 27 * 88 with the new priorities is approximately [0.008403361344537815]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 22 + 38 * 43\n[Answer]: 2580\n\nBased on the new priorities, what is the value of 37 + 27 * 95? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6080.0,
+                6080,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we can simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo for the expression 37 + 27 * 95, we would calculate it as follows:\n\n37 + 27 = 64\n64 * 95 = 6080\n\nTherefore, the value of the expression 37 + 27 * 95 is [6080]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 71 / 66 * 98\n[Answer]: 0.010977118119975263\n\nBased on the new priorities, what is the value of 60 / 81 * 35? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 60 / 81 * 35, we first calculate 81 * 35 and then divide 60 by the result of that multiplication.\n\n81 * 35 = 2835\n\nNow we divide 60 by 2835:\n\n60 / 2835 ≈ 0.021164021164021163\n\nTherefore, the value of the expression 60 / 81 * 35 with the new priorities is approximately [0.021164021164021163]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '+'\n[Example Question]: 32 + 84 * 39\n[Answer]: 4524\n\nBased on the new priorities, what is the value of 47 + 14 * 48? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2928.0,
+                2928,
+                "Based on the new priorities where '*' is redefined to have the same priority as '+', we simply perform the operations from left to right without considering the usual precedence of multiplication over addition.\n\nSo for the expression 47 + 14 * 48, we would calculate it as follows:\n\n47 + 14 = 61\n61 * 48 = 2928\n\nTherefore, the value of the expression 47 + 14 * 48 is [2928]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 34 - 94 * 16\n[Answer]: -960\n\nBased on the new priorities, what is the value of 77 - 5 * 14? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1008.0,
+                1008,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nSo for the expression 77 - 5 * 14, we will first subtract 5 from 77 and then multiply the result by 14.\n\n77 - 5 = 72\n\nNow we multiply 72 by 14:\n\n72 * 14 = 1008\n\nTherefore, the value of the expression 77 - 5 * 14 based on the new priorities is [1008]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '*'\n[Example Question]: 90 + 55 * 98\n[Answer]: 14210\n\nBased on the new priorities, what is the value of 72 + 37 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2725.0,
+                2725,
+                "Based on the new priorities where '+' has a higher priority than '*', we first perform the addition and then the multiplication.\n\nSo for the expression 72 + 37 * 25, we first add 72 and 37, and then multiply the result by 25.\n\n72 + 37 = 109\n\nNow we multiply 109 by 25:\n\n109 * 25 = 2725\n\nTherefore, the value of the expression 72 + 37 * 25, with the new priorities, is [2725]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' = '-'\n[Example Question]: 3 - 21 * 23\n[Answer]: -414\n\nBased on the new priorities, what is the value of 73 - 45 * 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1400.0,
+                1400,
+                "Based on the new priorities where '*' is now equivalent to '-', we will perform the subtraction first and then the multiplication.\n\nThe expression is: 73 - 45 * 50\n\nFirst, we perform the subtraction (since '*' is now '-'):\n73 - 45 = 28\n\nNow, we multiply the result by 50 (since the original '*' is now the only operation left):\n28 * 50 = 1400\n\nSo the value of the expression 73 - 45 * 50 with the new priorities is [1400]."
+            ]
+        ]
+    },
+    "/": {
+        "accuracy": "49/50=0.98",
+        "invalid": "0/50=0.0",
+        "data": [
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 42 - 99 / 8\n[Answer]: -7.125\n\nBased on the new priorities, what is the value of 93 - 97 / 10? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.4,
+                -0.4,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 93 - 97 / 10, we first calculate 93 - 97:\n\n93 - 97 = -4\n\nNow we divide this result by 10:\n\n-4 / 10 = -0.4\n\nTherefore, the value of the expression 93 - 97 / 10 with the new priorities is [-0.4]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 46 - 5 / 88\n[Answer]: 0.4659090909090909\n\nBased on the new priorities, what is the value of 79 - 9 / 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                3.2,
+                3.2,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 79 - 9 / 22, we first calculate 79 - 9, which is 70.\n\nThen we divide 70 by 22, which gives us 70 / 22 = 3.1818181818181817.\n\nTherefore, the value of the expression 79 - 9 / 22 with the new priorities is [3.1818181818181817]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 84 / 65 * 43\n[Answer]: 0.03005366726296959\n\nBased on the new priorities, what is the value of 22 / 13 * 83? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 22 / 13 * 83, we first calculate 13 * 83:\n\n13 * 83 = 1079\n\nNow we divide 22 by the result:\n\n22 / 1079 ≈ 0.020389247311827957\n\nTherefore, the value of the expression 22 / 13 * 83 is approximately [0.020389247311827957]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 50 - 16 / 88\n[Answer]: 0.38636363636363635\n\nBased on the new priorities, what is the value of 63 - 9 / 66? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 63 - 9 / 66, we first calculate 63 - 9, which is 54.\n\nThen we divide 54 by 66, which gives us 54 / 66.\n\nTo get the decimal value, we divide 54 by 66:\n\n54 ÷ 66 = 0.8181818181818182\n\nSo the value of the expression 63 - 9 / 66 with the new priorities is [0.8181818181818182]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 68 / 90 * 62\n[Answer]: 0.012186379928315413\n\nBased on the new priorities, what is the value of 52 / 30 * 83? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 52 / 30 * 83, we first calculate 30 * 83:\n\n30 * 83 = 2490\n\nNow we divide 52 by the result of the multiplication:\n\n52 / 2490 ≈ 0.020883534136546185\n\nTherefore, the value of the expression 52 / 30 * 83 with the new priorities is approximately [0.020883534136546185]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 52 / 26 * 57\n[Answer]: 0.03508771929824561\n\nBased on the new priorities, what is the value of 17 / 54 * 43? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 17 / 54 * 43, we first calculate 54 * 43:\n\n54 * 43 = 2322\n\nNow we divide 17 by the result of the multiplication:\n\n17 / 2322 ≈ 0.007317073170731707\n\nTherefore, the value of the expression 17 / 54 * 43 is approximately [0.007317073170731707]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 12 / 22 * 81\n[Answer]: 0.006734006734006734\n\nBased on the new priorities, what is the value of 77 / 59 * 68? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 77 / 59 * 68, we first calculate 59 * 68:\n\n59 * 68 = 4012\n\nNow we divide 77 by the result of the multiplication:\n\n77 / 4012 ≈ 0.019192\n\nTherefore, the value of the expression 77 / 59 * 68 with the new priorities is approximately [0.019192]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 22 - 80 / 13\n[Answer]: -4.461538461538462\n\nBased on the new priorities, what is the value of 71 - 53 / 91? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the redefined priorities where '/' has the same priority as '-', we should perform the operations from left to right.\n\nSo for the expression 71 - 53 / 91, we first do the subtraction and then the division.\n\n71 - 53 = 18\n\nNow we divide 18 by 91:\n\n18 / 91 ≈ 0.1978021978021978\n\nTherefore, the value of the expression 71 - 53 / 91 is approximately [0.1978021978021978]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 53 / 5 - 69\n[Answer]: -0.828125\n\nBased on the new priorities, what is the value of 11 / 75 - 4? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 11 / 75 - 4, we first calculate 75 - 4, which is 71.\n\nThen we divide 11 by the result of the subtraction:\n\n11 / 71\n\nTo get the decimal result, we perform the division:\n\n11 ÷ 71 ≈ 0.1549295775\n\nSo the value of the expression 11 / 75 - 4 with the new priorities is approximately [0.1549295775]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 37 - 77 / 36\n[Answer]: -1.1111111111111112\n\nBased on the new priorities, what is the value of 80 - 5 / 97? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo, for the expression 80 - 5 / 97, we first calculate 80 - 5, which is 75.\n\nNow we divide 75 by 97:\n\n75 / 97 = 0.7731958762886598 (approximately)\n\nThe final result is [0.7731958762886598]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 29 / 5 - 68\n[Answer]: -0.4603174603174603\n\nBased on the new priorities, what is the value of 28 / 51 - 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -2.8,
+                -2.8,
+                "According to the new priorities, the '-' operator has a higher priority than the '/' operator. Therefore, we first perform the subtraction and then the division.\n\nThe expression is: 28 / 51 - 61\n\nFirst, we perform the subtraction:\n51 - 61 = -10\n\nNow we divide 28 by the result of the subtraction:\n28 / (-10) = -2.8\n\nSo the value of the expression 28 / 51 - 61 with the new priorities is [-2.8]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 39 / 93 - 54\n[Answer]: 1.0\n\nBased on the new priorities, what is the value of 33 / 45 - 80? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.9,
+                -0.9,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 33 / 45 - 80, we first calculate 45 - 80:\n\n45 - 80 = -35\n\nNow we divide 33 by the result:\n\n33 / (-35) = -0.9428571428571429\n\nRounded to one decimal place, the result is approximately -0.9. Therefore, the value of the expression is [-0.9]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 48 + 32 / 86\n[Answer]: 0.9302325581395349\n\nBased on the new priorities, what is the value of 9 + 30 / 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                6.5,
+                6.5,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo for the expression 9 + 30 / 6, we first add 9 and 30:\n\n9 + 30 = 39\n\nNow we divide the result by 6:\n\n39 / 6 = 6.5\n\nTherefore, the value of the expression 9 + 30 / 6, with the new priorities, is [6.5]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 70 - 50 / 89\n[Answer]: 0.2247191011235955\n\nBased on the new priorities, what is the value of 64 - 80 / 15? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.1,
+                -1.1,
+                "Based on the redefined priorities where division ('/') has the same priority as subtraction ('-'), we would perform the operations from left to right.\n\nSo for the expression 64 - 80 / 15, we would first do the subtraction and then the division:\n\n64 - 80 = -16\n-16 / 15 = -1.0666666666666667\n\nTherefore, the value of the expression is approximately [-1.0666666666666667]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 36 - 11 / 59\n[Answer]: 0.423728813559322\n\nBased on the new priorities, what is the value of 35 - 73 / 33? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.2,
+                -1.2,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 35 - 73 / 33, we first calculate 35 - 73:\n\n35 - 73 = -38\n\nNow we divide this result by 33:\n\n-38 / 33 ≈ -1.15151515151515\n\nRounded to a reasonable number of decimal places, the result is approximately [-1.1515]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 50 / 61 * 88\n[Answer]: 0.009314456035767511\n\nBased on the new priorities, what is the value of 74 / 54 * 55? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 74 / 54 * 55, we first calculate 54 * 55:\n\n54 * 55 = 2970\n\nNow we divide 74 by the result of the multiplication:\n\n74 / 2970 ≈ 0.024915824915824916\n\nTherefore, the value of the expression 74 / 54 * 55 with the new priorities is approximately [0.024915824915824916]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 64 / 38 * 46\n[Answer]: 0.036613272311212815\n\nBased on the new priorities, what is the value of 69 / 96 * 73? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 69 / 96 * 73, we first calculate 96 * 73 and then divide 69 by the result of that multiplication.\n\n96 * 73 = 7008\n\nNow we divide 69 by 7008:\n\n69 / 7008 ≈ 0.00984375\n\nTherefore, the value of the expression 69 / 96 * 73 with the new priorities is approximately [0.00984375]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 95 / 69 - 93\n[Answer]: -3.9583333333333335\n\nBased on the new priorities, what is the value of 28 / 3 - 91? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.3,
+                -0.3,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction before the division.\n\nSo, for the expression 28 / 3 - 91, we first calculate 3 - 91:\n\n3 - 91 = -88\n\nNow we divide 28 by the result of the subtraction:\n\n28 / -88 = -0.3181818181818182\n\nTherefore, the value of the expression 28 / 3 - 91 with the new priorities is approximately [-0.3181818181818182]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 29 / 91 * 39\n[Answer]: 0.008171315863623557\n\nBased on the new priorities, what is the value of 77 / 38 * 6? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.3,
+                0.3,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 77 / 38 * 6, we first calculate 38 * 6, and then divide 77 by the result of that multiplication.\n\n38 * 6 = 228\n\nNow we divide 77 by 228:\n\n77 / 228 = 0.33771929824561403 (approximately)\n\nTherefore, the value of the expression 77 / 38 * 6 with the new priorities is approximately [0.33771929824561403]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 2 / 51 + 82\n[Answer]: 0.015037593984962405\n\nBased on the new priorities, what is the value of 33 / 45 + 8? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.6,
+                0.6,
+                "According to the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 33 / 45 + 8, we first add 45 and 8, and then divide 33 by the result of that addition.\n\n45 + 8 = 53\n\nNow we divide 33 by 53:\n\n33 / 53 ≈ 0.6226415094339622\n\nSo the value of the expression is approximately [0.6226415094339622]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 60 / 62 - 56\n[Answer]: 10.0\n\nBased on the new priorities, what is the value of 65 / 22 - 61? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.7,
+                -1.7,
+                "According to the new priorities, the '-' operator has a higher priority than the '/' operator. Therefore, we first perform the subtraction and then the division.\n\nThe expression is: 65 / 22 - 61\n\nFirst, we perform the subtraction:\n22 - 61 = -39\n\nNow we divide 65 by the result of the subtraction:\n65 / -39\n\nTo get the decimal result, we perform the division:\n65 ÷ -39 ≈ -1.66666666667\n\nSo the value of the expression 65 / 22 - 61, with the new priorities, is approximately [-1.67] when rounded to two decimal places."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 34 / 24 * 15\n[Answer]: 0.09444444444444444\n\nBased on the new priorities, what is the value of 35 / 97 * 72? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 35 / 97 * 72, we first calculate 97 * 72 and then divide 35 by the result of that multiplication.\n\n97 * 72 = 6984\n\nNow we divide 35 by 6984:\n\n35 / 6984 ≈ 0.005009163803713527\n\nTherefore, the value of the expression 35 / 97 * 72 with the new priorities is approximately [0.005009163803713527]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 44 - 87 / 8\n[Answer]: -5.375\n\nBased on the new priorities, what is the value of 60 - 19 / 92? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Based on the new priorities where '/' has the same priority as '-', we should perform the operations from left to right.\n\nSo for the expression 60 - 19 / 92, we first do the subtraction and then the division:\n\n60 - 19 = 41\n41 / 92 = 41 ÷ 92 ≈ 0.4456521739130435\n\nThe value of the expression is approximately [0.4456521739130435]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 20 / 50 - 18\n[Answer]: 0.625\n\nBased on the new priorities, what is the value of 19 / 40 - 13? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.7,
+                0.7,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 19 / 40 - 13, we first calculate 40 - 13:\n\n40 - 13 = 27\n\nNow we divide 19 by the result:\n\n19 / 27\n\nTo get the decimal result, we perform the division:\n\n19 ÷ 27 ≈ 0.7037037037\n\nRounded to three decimal places, the result is approximately 0.704.\n\nSo the value of the expression 19 / 40 - 13, with the new priorities, is approximately [0.704]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 62 / 11 * 38\n[Answer]: 0.14832535885167464\n\nBased on the new priorities, what is the value of 38 / 83 * 25? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 38 / 83 * 25, we first calculate 83 * 25 and then divide 38 by the result of that multiplication.\n\n83 * 25 = 2075\n\nNow we divide 38 by 2075:\n\n38 / 2075 = 0.018313253012048193\n\nTherefore, the value of the expression 38 / 83 * 25 with the new priorities is approximately [0.018313253012048193]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 90 / 62 * 7\n[Answer]: 0.2073732718894009\n\nBased on the new priorities, what is the value of 31 / 97 * 42? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 31 / 97 * 42, we first calculate 97 * 42 and then divide 31 by the result of that multiplication.\n\n97 * 42 = 4074\n\nNow we divide 31 by 4074:\n\n31 / 4074 ≈ 0.0076103500761035\n\nTherefore, the value of the expression 31 / 97 * 42 with the new priorities is approximately [0.0076103500761035]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '-'\n[Example Question]: 16 - 84 / 71\n[Answer]: -0.9577464788732394\n\nBased on the new priorities, what is the value of 52 - 29 / 29? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.8,
+                0.8,
+                "According to the new priorities, the division operator ('/') has the same priority as the subtraction operator ('-'). Therefore, we should perform the operations from left to right.\n\nSo for the expression 52 - 29 / 29, we first perform the subtraction, then the division:\n\n52 - 29 = 23\n23 / 29 ≈ 0.7931034482758621\n\nTherefore, the value of the expression 52 - 29 / 29 is approximately [0.7931034482758621]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 22 + 68 / 42\n[Answer]: 2.142857142857143\n\nBased on the new priorities, what is the value of 47 + 73 / 60? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.0,
+                2,
+                "Given the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 47 + 73 / 60, we first add 47 and 73:\n\n47 + 73 = 120\n\nNow we divide this sum by 60:\n\n120 / 60 = 2\n\nTherefore, the value of the expression 47 + 73 / 60 with the new priorities is [2]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 28 / 29 + 87\n[Answer]: 0.2413793103448276\n\nBased on the new priorities, what is the value of 19 / 72 + 9? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.2,
+                0.2,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 19 / 72 + 9, we first add 72 and 9:\n\n72 + 9 = 81\n\nNow we divide 19 by the result:\n\n19 / 81 = 0.2345679012345679\n\nTherefore, the value of the expression is approximately [0.2345679012345679]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: 7 + 11 / 12\n[Answer]: 1.5\n\nBased on the new priorities, what is the value of 3 + 65 / 47? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.4,
+                1.4,
+                "Based on the new priorities where '/' is redefined to have the same priority as '+', we should perform the operations from left to right without considering the usual precedence of division over addition.\n\nSo for the expression 3 + 65 / 47, we would calculate it as follows:\n\nFirst, we perform the addition:\n3 + 65 = 68\n\nThen, we perform the division with the result of the addition and 47:\n68 / 47 ≈ 1.44680851\n\nRounded to two decimal places, the result is approximately 1.45.\n\nTherefore, the value of the expression 3 + 65 / 47 is approximately [1.45]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 8 - 42 / 72\n[Answer]: -0.4722222222222222\n\nBased on the new priorities, what is the value of 40 - 6 / 26? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                1.3,
+                "According to the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 40 - 6 / 26, we first calculate 40 - 6, which is 34.\n\nNow we divide 34 by 26, which gives us 34 / 26 = 1.3076923076923077.\n\nTherefore, the value of the expression 40 - 6 / 26 with the new priorities is [1.3076923076923077]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 35 / 34 * 37\n[Answer]: 0.02782193958664547\n\nBased on the new priorities, what is the value of 91 / 16 * 90? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 91 / 16 * 90, we first calculate 16 * 90 and then divide 91 by the result of that multiplication.\n\n16 * 90 = 1440\n\nNow we divide 91 by 1440:\n\n91 / 1440 ≈ 0.06319444444444444\n\nTherefore, the value of the expression 91 / 16 * 90 with the new priorities is approximately [0.06319444444444444]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 79 / 57 * 67\n[Answer]: 0.020686043466876147\n\nBased on the new priorities, what is the value of 21 / 6 * 41? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.1,
+                0.1,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 21 / 6 * 41, we first calculate 6 * 41 and then divide 21 by the result of that multiplication.\n\n6 * 41 = 246\n\nNow we divide 21 by 246:\n\n21 / 246 = 0.08536585365853659\n\nTherefore, the value of the expression 21 / 6 * 41 with the new priorities is approximately [0.08536585365853659]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 23 + 1 / 23\n[Answer]: 1.0434782608695652\n\nBased on the new priorities, what is the value of 43 + 12 / 96? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.6,
+                0.6,
+                "Given the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 43 + 12 / 96, we first add 43 and 12:\n\n43 + 12 = 55\n\nNow we divide this sum by 96:\n\n55 / 96 ≈ 0.5729166666666666\n\nTherefore, the value of the expression 43 + 12 / 96 with the new priorities is approximately [0.5729166666666666]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 27 / 81 * 79\n[Answer]: 0.004219409282700422\n\nBased on the new priorities, what is the value of 12 / 55 * 99? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 12 / 55 * 99, we first calculate 55 * 99:\n\n55 * 99 = 5445\n\nNow we divide 12 by the result:\n\n12 / 5445 = 0.0022047244094488188976377952755905\n\nRounded to a reasonable number of decimal places, the result is approximately [0.0022]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 90 + 35 / 7\n[Answer]: 17.857142857142858\n\nBased on the new priorities, what is the value of 25 + 88 / 24? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                4.7,
+                4.7,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, for the expression 25 + 88 / 24, we first add 25 and 88:\n\n25 + 88 = 113\n\nNow we divide this sum by 24:\n\n113 / 24 ≈ 4.708333333333333\n\nTherefore, the value of the expression 25 + 88 / 24, with the new priorities, is approximately [4.708333333333333]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 13 / 48 * 91\n[Answer]: 0.002976190476190476\n\nBased on the new priorities, what is the value of 43 / 19 * 77? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 43 / 19 * 77, we first calculate 19 * 77:\n\n19 * 77 = 1463\n\nNow we divide 43 by the result of the multiplication:\n\n43 / 1463 ≈ 0.029394\n\nTherefore, the value of the expression 43 / 19 * 77 with the new priorities is approximately [0.029394]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 81 / 89 * 61\n[Answer]: 0.01491987474673052\n\nBased on the new priorities, what is the value of 38 / 36 * 26? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 38 / 36 * 26, we first calculate 36 * 26:\n\n36 * 26 = 936\n\nNow we divide 38 by the result of the multiplication:\n\n38 / 936 = 0.0405982905982906\n\nTherefore, the value of the expression 38 / 36 * 26 with the new priorities is approximately [0.0405982905982906]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 60 - 13 / 70\n[Answer]: 0.6714285714285714\n\nBased on the new priorities, what is the value of 11 - 73 / 50? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.2,
+                -1.2,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 11 - 73 / 50, we first calculate 11 - 73, which is -62.\n\nNow we divide -62 by 50, which gives us -1.24.\n\nTherefore, the value of the expression 11 - 73 / 50 with the new priorities is [-1.24]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 39 / 42 + 70\n[Answer]: 0.3482142857142857\n\nBased on the new priorities, what is the value of 27 / 13 + 28? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.7,
+                0.7,
+                "Given the new priority where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo, we first add 28 to 13:\n\n13 + 28 = 41\n\nNow we divide 27 by the result of the addition:\n\n27 / 41\n\nCalculating this gives us:\n\n27 / 41 ≈ 0.6585365853658537\n\nTherefore, the value of 27 / 13 + 28 with the new priorities is approximately [0.6585365853658537]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 56 / 50 + 8\n[Answer]: 0.9655172413793104\n\nBased on the new priorities, what is the value of 53 / 63 + 76? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.4,
+                0.4,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition before the division.\n\nSo for the expression 53 / 63 + 76, we first calculate 63 + 76:\n\n63 + 76 = 139\n\nNow we divide 53 by the result:\n\n53 / 139 ≈ 0.38129496402877697\n\nTherefore, the value of the expression 53 / 63 + 76 with the new priorities is approximately [0.38129496402877697]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 61 - 32 / 74\n[Answer]: 0.3918918918918919\n\nBased on the new priorities, what is the value of 67 - 91 / 38? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.6,
+                -0.6,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 67 - 91 / 38, we first calculate 67 - 91, which is -24.\n\nNow we divide this result by 38:\n\n-24 / 38 = -0.631578947368421\n\nTherefore, the value of the expression 67 - 91 / 38 with the new priorities is approximately [-0.631578947368421]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 52 / 34 * 62\n[Answer]: 0.024667931688804556\n\nBased on the new priorities, what is the value of 70 / 13 * 2? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                2.7,
+                2.7,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 70 / 13 * 2, we first calculate 13 * 2, and then divide 70 by the result.\n\n13 * 2 = 26\n\nNow we divide 70 by 26:\n\n70 / 26 = 2.6923076923076925\n\nTherefore, the value of the expression 70 / 13 * 2 with the new priorities is approximately [2.6923076923076925]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '+' > '/'\n[Example Question]: 88 + 9 / 3\n[Answer]: 32.333333333333336\n\nBased on the new priorities, what is the value of 35 + 4 / 71? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.5,
+                0.5,
+                "Based on the new priorities where '+' has a higher priority than '/', we first perform the addition and then the division.\n\nSo, for the expression 35 + 4 / 71, we first add 35 and 4:\n\n35 + 4 = 39\n\nNow we divide this sum by 71:\n\n39 / 71 ≈ 0.5492957746478873\n\nTherefore, the value of the expression 35 + 4 / 71 with the new priorities is approximately [0.5492957746478873]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 69 / 88 * 2\n[Answer]: 0.39204545454545453\n\nBased on the new priorities, what is the value of 93 / 64 * 62? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 93 / 64 * 62, we first calculate 64 * 62:\n\n64 * 62 = 3968\n\nNow we divide 93 by the result of the multiplication:\n\n93 / 3968 ≈ 0.0234375\n\nTherefore, the value of the expression 93 / 64 * 62 with the new priorities is approximately [0.0234375]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '/' = '+'\n[Example Question]: 90 + 77 / 28\n[Answer]: 5.964285714285714\n\nBased on the new priorities, what is the value of 49 + 71 / 93? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                1.3,
+                213,
+                "Based on the redefined priorities where '/' is treated as '+', the expression 49 + 71 / 93 should be calculated as follows:\n\n49 + 71 + 93\n\nNow, we simply add the numbers together:\n\n49 + 71 = 120\n120 + 93 = 213\n\nSo the value of the expression 49 + 71 / 93 with the new priorities is [213]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 86 - 56 / 22\n[Answer]: 1.3636363636363635\n\nBased on the new priorities, what is the value of 24 - 68 / 81? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -0.5,
+                -0.5,
+                "Based on the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 24 - 68 / 81, we first calculate 24 - 68:\n\n24 - 68 = -44\n\nNow we divide this result by 81:\n\n-44 / 81 = -0.5432098765432098\n\nTherefore, the value of the expression 24 - 68 / 81 with the new priorities is approximately [-0.5432098765432098]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 13 / 34 * 8\n[Answer]: 0.04779411764705882\n\nBased on the new priorities, what is the value of 5 / 55 * 64? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priorities where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 5 / 55 * 64, we first calculate 55 * 64:\n\n55 * 64 = 3520\n\nNow we divide 5 by the result of the multiplication:\n\n5 / 3520 = 0.0014204545454545455\n\nTherefore, the value of the expression 5 / 55 * 64 with the new priorities is approximately [0.0014204545454545455]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '-' > '/'\n[Example Question]: 60 - 43 / 39\n[Answer]: 0.4358974358974359\n\nBased on the new priorities, what is the value of 1 - 30 / 22? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                -1.3,
+                -1.3,
+                "Given the new priorities where '-' has a higher priority than '/', we first perform the subtraction and then the division.\n\nSo for the expression 1 - 30 / 22, we first calculate 1 - 30, which is -29.\n\nNow we divide this result by 22:\n\n-29 / 22 = -1.3181818181818181\n\nTherefore, the value of the expression 1 - 30 / 22 with the new priorities is [-1.3181818181818181]."
+            ],
+            [
+                "We redefine the priorities of elementary arithmetic operators as follows: '*' > '/'\n[Example Question]: 25 / 66 * 39\n[Answer]: 0.009712509712509712\n\nBased on the new priorities, what is the value of 10 / 40 * 16? You can give the result as a decimal, and please put the final numeric result in brackets [], for example, [1].",
+                0.0,
+                0.0,
+                "Given the new priority where '*' has a higher priority than '/', we first perform the multiplication before the division.\n\nSo for the expression 10 / 40 * 16, we first calculate 40 * 16 and then divide 10 by the result of that multiplication.\n\n40 * 16 = 640\n\nNow we divide 10 by 640:\n\n10 / 640 = 0.015625\n\nTherefore, the value of the expression 10 / 40 * 16 with the new priorities is [0.015625]."
+            ]
+        ]
+    }
+}

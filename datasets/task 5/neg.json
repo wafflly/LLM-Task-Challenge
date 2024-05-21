@@ -1,0 +1,2252 @@
+[
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Sheep are afraid of mice.\n3 Winona is a sheep.\n4 Mice are afraid of cats.\n5 Cats are afraid of wolves.\n6 Jessica is a mouse.\n7 Emily is not a cat.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are afraid of cats.\n3 Sheep are afraid of mice.\n4 Gertrude is a cat.\n5 Wolves are afraid of sheep.\n6 Jessica is a mouse.\n7 Emily is not a wolf.\n8 Winona is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Winona is a cat.\n3 Emily is a cat.\n4 Mice are afraid of wolves.\n5 Wolves are afraid of mice.\n6 Sheep are afraid of cats.\n7 Gertrude is not a mouse.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are afraid of mice.\n3 Cats are afraid of sheep.\n4 Jessica is a cat.\n5 Emily is a cat.\n6 Winona is a mouse.\n7 Sheep are afraid of wolves.\n8 Gertrude is not a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "7"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Jessica is a sheep.\n3 Mice are afraid of sheep.\n4 Cats are afraid of sheep.\n5 Wolves are afraid of mice.\n6 Emily is a sheep.\n7 Gertrude is a sheep.\n8 Winona is not a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are afraid of sheep.\n3 Sheep are not afraid of mice.\n4 Emily is a sheep.\n5 Wolves are afraid of sheep.\n6 Gertrude is a sheep.\n7 Winona is a wolf.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Emily is not a cat.\n3 Winona is a cat.\n4 Sheep are afraid of mice.\n5 Mice are afraid of cats.\n6 Wolves are afraid of cats.\n7 Jessica is a wolf.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Gertrude is not a wolf.\n3 Cats are afraid of wolves.\n4 Emily is a cat.\n5 Mice are afraid of cats.\n6 Jessica is a cat.\n7 Sheep are afraid of wolves.\n8 Winona is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Jessica is a mouse.\n3 Cats are afraid of sheep.\n4 Wolves are afraid of mice.\n5 Emily is not a mouse.\n6 Sheep are afraid of mice.\n7 Gertrude is a wolf.\n8 Winona is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Wolves are afraid of cats.\n3 Sheep are afraid of mice.\n4 Emily is a cat.\n5 Mice are not afraid of sheep.\n6 Gertrude is a sheep.\n7 Jessica is a mouse.\n8 Winona is a wolf.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Wolves are not afraid of cats.\n3 Winona is a cat.\n4 Sheep are afraid of cats.\n5 Gertrude is a cat.\n6 Jessica is a wolf.\n7 Mice are afraid of sheep.\n8 Emily is a sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Cats are afraid of wolves.\n3 Mice are afraid of wolves.\n4 Gertrude is a cat.\n5 Jessica is a mouse.\n6 Winona is not a mouse.\n7 Emily is a mouse.\n8 Sheep are afraid of wolves.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are afraid of mice.\n3 Mice are afraid of sheep.\n4 Wolves are afraid of mice.\n5 Emily is a sheep.\n6 Gertrude is not a wolf.\n7 Winona is a sheep.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Jessica is a sheep.\n3 Mice are not afraid of sheep.\n4 Wolves are afraid of mice.\n5 Winona is a wolf.\n6 Gertrude is a sheep.\n7 Emily is a mouse.\n8 Cats are afraid of wolves.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Mice are afraid of sheep.\n3 Gertrude is a mouse.\n4 Wolves are afraid of mice.\n5 Winona is a sheep.\n6 Jessica is a wolf.\n7 Cats are afraid of sheep.\n8 Emily is a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Sheep are afraid of wolves.\n3 Gertrude is a mouse.\n4 Jessica is a sheep.\n5 Cats are afraid of sheep.\n6 Emily is a mouse.\n7 Wolves are afraid of mice.\n8 Winona is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Cats are afraid of sheep.\n3 Jessica is a wolf.\n4 Mice are not afraid of sheep.\n5 Winona is a cat.\n6 Emily is a mouse.\n7 Sheep are afraid of wolves.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Wolves are afraid of mice.\n3 Mice are not afraid of sheep.\n4 Emily is a wolf.\n5 Jessica is a wolf.\n6 Winona is a cat.\n7 Gertrude is a mouse.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Wolves are afraid of sheep.\n3 Winona is a wolf.\n4 Emily is a wolf.\n5 Sheep are afraid of cats.\n6 Jessica is a sheep.\n7 Gertrude is not a cat.\n8 Mice are afraid of wolves.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Wolves are afraid of mice.\n3 Winona is a sheep.\n4 Emily is not a wolf.\n5 Mice are afraid of wolves.\n6 Jessica is a mouse.\n7 Gertrude is a mouse.\n8 Cats are afraid of sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Mice are not afraid of cats.\n3 Wolves are afraid of sheep.\n4 Emily is a wolf.\n5 Cats are afraid of sheep.\n6 Winona is a mouse.\n7 Gertrude is a sheep.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Mice are afraid of sheep.\n3 Gertrude is a mouse.\n4 Wolves are afraid of cats.\n5 Cats are afraid of sheep.\n6 Jessica is a sheep.\n7 Emily is a wolf.\n8 Winona is not a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Sheep are afraid of wolves.\n3 Wolves are not afraid of mice.\n4 Emily is a wolf.\n5 Jessica is a sheep.\n6 Gertrude is a sheep.\n7 Mice are afraid of cats.\n8 Winona is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Winona is a sheep.\n3 Wolves are afraid of mice.\n4 Mice are not afraid of wolves.\n5 Jessica is a sheep.\n6 Emily is a mouse.\n7 Cats are afraid of sheep.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Emily is a mouse.\n3 Cats are afraid of wolves.\n4 Sheep are afraid of wolves.\n5 Winona is a mouse.\n6 Wolves are afraid of sheep.\n7 Jessica is a wolf.\n8 Gertrude is not a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Emily is a mouse.\n3 Sheep are afraid of mice.\n4 Jessica is a sheep.\n5 Cats are afraid of wolves.\n6 Wolves are afraid of sheep.\n7 Gertrude is a mouse.\n8 Winona is a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Emily is a wolf.\n3 Mice are afraid of wolves.\n4 Sheep are afraid of wolves.\n5 Cats are afraid of wolves.\n6 Winona is not a wolf.\n7 Jessica is a mouse.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Cats are afraid of mice.\n3 Sheep are afraid of wolves.\n4 Wolves are afraid of cats.\n5 Gertrude is not a sheep.\n6 Jessica is a wolf.\n7 Winona is a sheep.\n8 Emily is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are afraid of cats.\n3 Cats are not afraid of sheep.\n4 Emily is a wolf.\n5 Gertrude is a cat.\n6 Winona is a cat.\n7 Sheep are afraid of mice.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Mice are afraid of wolves.\n3 Cats are not afraid of wolves.\n4 Jessica is a sheep.\n5 Gertrude is a cat.\n6 Winona is a sheep.\n7 Emily is a cat.\n8 Wolves are afraid of mice.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Wolves are afraid of cats.\n3 Mice are not afraid of sheep.\n4 Sheep are afraid of mice.\n5 Gertrude is a sheep.\n6 Winona is a mouse.\n7 Emily is a wolf.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Mice are afraid of wolves.\n3 Jessica is a sheep.\n4 Cats are afraid of mice.\n5 Wolves are afraid of cats.\n6 Winona is a mouse.\n7 Gertrude is a wolf.\n8 Emily is not a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Cats are not afraid of mice.\n3 Winona is a sheep.\n4 Emily is a sheep.\n5 Gertrude is a cat.\n6 Wolves are afraid of sheep.\n7 Mice are afraid of wolves.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Jessica is a sheep.\n3 Wolves are afraid of cats.\n4 Mice are afraid of sheep.\n5 Cats are afraid of sheep.\n6 Gertrude is a mouse.\n7 Winona is not a cat.\n8 Emily is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Sheep are afraid of cats.\n3 Emily is a cat.\n4 Jessica is a sheep.\n5 Winona is a sheep.\n6 Mice are not afraid of cats.\n7 Wolves are afraid of mice.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Mice are afraid of sheep.\n3 Sheep are not afraid of mice.\n4 Cats are afraid of sheep.\n5 Jessica is a sheep.\n6 Gertrude is a sheep.\n7 Winona is a cat.\n8 Emily is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of cats.\n2 Wolves are afraid of mice.\n3 Gertrude is a wolf.\n4 Cats are afraid of sheep.\n5 Jessica is a cat.\n6 Mice are afraid of cats.\n7 Winona is a sheep.\n8 Emily is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Cats are afraid of mice.\n3 Gertrude is a mouse.\n4 Sheep are afraid of cats.\n5 Emily is a cat.\n6 Winona is a cat.\n7 Jessica is not a cat.\n8 Wolves are afraid of mice.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Mice are afraid of wolves.\n3 Emily is a cat.\n4 Sheep are afraid of mice.\n5 Jessica is a cat.\n6 Wolves are afraid of cats.\n7 Gertrude is not a wolf.\n8 Winona is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Sheep are afraid of mice.\n3 Emily is not a wolf.\n4 Jessica is a sheep.\n5 Cats are afraid of mice.\n6 Winona is a wolf.\n7 Gertrude is a sheep.\n8 Mice are afraid of cats.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Jessica is a cat.\n3 Wolves are afraid of sheep.\n4 Winona is a cat.\n5 Mice are afraid of cats.\n6 Gertrude is not a cat.\n7 Emily is a cat.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are afraid of cats.\n3 Jessica is a mouse.\n4 Sheep are afraid of wolves.\n5 Winona is not a sheep.\n6 Emily is a sheep.\n7 Wolves are afraid of sheep.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Wolves are not afraid of mice.\n3 Winona is a wolf.\n4 Jessica is a cat.\n5 Emily is a cat.\n6 Gertrude is a wolf.\n7 Mice are afraid of wolves.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Sheep are afraid of cats.\n3 Mice are afraid of sheep.\n4 Emily is a sheep.\n5 Gertrude is a cat.\n6 Wolves are afraid of cats.\n7 Winona is a wolf.\n8 Jessica is not a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Wolves are afraid of sheep.\n3 Mice are afraid of cats.\n4 Gertrude is a cat.\n5 Sheep are afraid of wolves.\n6 Emily is a cat.\n7 Winona is not a mouse.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Wolves are afraid of mice.\n3 Jessica is a wolf.\n4 Sheep are not afraid of wolves.\n5 Emily is a sheep.\n6 Mice are afraid of wolves.\n7 Winona is a mouse.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Cats are afraid of wolves.\n3 Sheep are afraid of mice.\n4 Jessica is a sheep.\n5 Wolves are not afraid of mice.\n6 Emily is a wolf.\n7 Winona is a cat.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Emily is a mouse.\n3 Wolves are afraid of mice.\n4 Winona is not a wolf.\n5 Sheep are afraid of cats.\n6 Cats are afraid of sheep.\n7 Jessica is a cat.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Sheep are afraid of wolves.\n3 Wolves are afraid of cats.\n4 Cats are afraid of sheep.\n5 Gertrude is a wolf.\n6 Emily is a wolf.\n7 Winona is not a sheep.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Cats are afraid of wolves.\n3 Wolves are afraid of sheep.\n4 Sheep are afraid of mice.\n5 Emily is a sheep.\n6 Gertrude is a wolf.\n7 Jessica is a cat.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are not afraid of wolves.\n3 Sheep are afraid of wolves.\n4 Emily is a mouse.\n5 Gertrude is a mouse.\n6 Jessica is a cat.\n7 Winona is a sheep.\n8 Wolves are afraid of mice.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Wolves are afraid of mice.\n3 Mice are afraid of cats.\n4 Gertrude is not a sheep.\n5 Jessica is a sheep.\n6 Cats are afraid of wolves.\n7 Emily is a sheep.\n8 Winona is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Cats are afraid of wolves.\n3 Sheep are afraid of mice.\n4 Emily is a sheep.\n5 Gertrude is not a mouse.\n6 Winona is a cat.\n7 Wolves are afraid of cats.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Jessica is a mouse.\n3 Cats are afraid of sheep.\n4 Wolves are afraid of cats.\n5 Sheep are afraid of wolves.\n6 Gertrude is a wolf.\n7 Emily is a sheep.\n8 Winona is a sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Gertrude is a mouse.\n3 Cats are afraid of wolves.\n4 Wolves are not afraid of cats.\n5 Jessica is a mouse.\n6 Sheep are afraid of wolves.\n7 Emily is a wolf.\n8 Winona is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Mice are afraid of sheep.\n3 Jessica is not a mouse.\n4 Emily is a cat.\n5 Gertrude is a cat.\n6 Wolves are afraid of cats.\n7 Sheep are afraid of wolves.\n8 Winona is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are afraid of wolves.\n3 Wolves are afraid of cats.\n4 Sheep are afraid of mice.\n5 Emily is not a cat.\n6 Jessica is a sheep.\n7 Winona is a cat.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Winona is a mouse.\n3 Sheep are afraid of mice.\n4 Wolves are afraid of sheep.\n5 Jessica is a mouse.\n6 Cats are afraid of mice.\n7 Emily is not a cat.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Mice are afraid of sheep.\n3 Winona is a cat.\n4 Wolves are afraid of mice.\n5 Sheep are afraid of wolves.\n6 Jessica is a cat.\n7 Gertrude is a mouse.\n8 Emily is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Mice are afraid of sheep.\n3 Sheep are afraid of wolves.\n4 Emily is a mouse.\n5 Jessica is a sheep.\n6 Gertrude is not a sheep.\n7 Cats are afraid of sheep.\n8 Winona is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Sheep are afraid of mice.\n3 Cats are afraid of wolves.\n4 Wolves are afraid of sheep.\n5 Gertrude is a mouse.\n6 Jessica is a wolf.\n7 Emily is not a wolf.\n8 Winona is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of mice.\n2 Cats are afraid of sheep.\n3 Sheep are afraid of cats.\n4 Emily is a cat.\n5 Jessica is a sheep.\n6 Winona is a wolf.\n7 Mice are afraid of wolves.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are afraid of wolves.\n3 Emily is a cat.\n4 Gertrude is not a mouse.\n5 Sheep are afraid of wolves.\n6 Wolves are afraid of mice.\n7 Winona is a cat.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Wolves are afraid of mice.\n3 Sheep are afraid of cats.\n4 Winona is not a wolf.\n5 Gertrude is a wolf.\n6 Mice are afraid of sheep.\n7 Jessica is a sheep.\n8 Emily is a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Sheep are not afraid of cats.\n3 Wolves are afraid of sheep.\n4 Cats are afraid of sheep.\n5 Emily is a sheep.\n6 Jessica is a wolf.\n7 Winona is a sheep.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Sheep are afraid of mice.\n3 Winona is a mouse.\n4 Gertrude is a sheep.\n5 Jessica is a sheep.\n6 Wolves are afraid of cats.\n7 Cats are afraid of wolves.\n8 Emily is not a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Sheep are not afraid of wolves.\n3 Emily is a wolf.\n4 Mice are afraid of wolves.\n5 Winona is a wolf.\n6 Cats are afraid of sheep.\n7 Jessica is a cat.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Wolves are afraid of cats.\n3 Jessica is a wolf.\n4 Sheep are afraid of cats.\n5 Winona is a mouse.\n6 Cats are not afraid of mice.\n7 Gertrude is a cat.\n8 Emily is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are afraid of sheep.\n3 Cats are not afraid of wolves.\n4 Emily is a cat.\n5 Gertrude is a cat.\n6 Winona is a mouse.\n7 Jessica is a mouse.\n8 Sheep are afraid of wolves.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Jessica is a sheep.\n3 Gertrude is a sheep.\n4 Mice are afraid of sheep.\n5 Cats are afraid of mice.\n6 Winona is a cat.\n7 Wolves are afraid of cats.\n8 Emily is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Sheep are afraid of mice.\n3 Cats are afraid of sheep.\n4 Emily is not a wolf.\n5 Winona is a cat.\n6 Mice are afraid of wolves.\n7 Gertrude is a mouse.\n8 Jessica is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Gertrude is a sheep.\n3 Winona is a sheep.\n4 Mice are afraid of sheep.\n5 Wolves are afraid of sheep.\n6 Cats are afraid of wolves.\n7 Jessica is a mouse.\n8 Emily is not a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Sheep are afraid of wolves.\n3 Mice are afraid of wolves.\n4 Winona is a wolf.\n5 Cats are afraid of wolves.\n6 Emily is not a sheep.\n7 Jessica is a sheep.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are afraid of mice.\n3 Jessica is a sheep.\n4 Wolves are not afraid of mice.\n5 Mice are afraid of wolves.\n6 Emily is a wolf.\n7 Gertrude is a wolf.\n8 Winona is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Jessica is a wolf.\n3 Cats are not afraid of wolves.\n4 Sheep are afraid of wolves.\n5 Winona is a wolf.\n6 Mice are afraid of cats.\n7 Gertrude is a cat.\n8 Emily is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Jessica is not a cat.\n3 Mice are afraid of sheep.\n4 Sheep are afraid of cats.\n5 Emily is a sheep.\n6 Winona is a cat.\n7 Wolves are afraid of cats.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Wolves are afraid of mice.\n3 Mice are afraid of cats.\n4 Winona is a wolf.\n5 Gertrude is not a sheep.\n6 Emily is a sheep.\n7 Cats are afraid of wolves.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Jessica is a sheep.\n3 Cats are afraid of sheep.\n4 Mice are afraid of cats.\n5 Wolves are afraid of mice.\n6 Gertrude is a mouse.\n7 Emily is a cat.\n8 Winona is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Sheep are afraid of cats.\n3 Emily is a sheep.\n4 Cats are afraid of sheep.\n5 Mice are afraid of wolves.\n6 Jessica is a sheep.\n7 Winona is a sheep.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Cats are afraid of sheep.\n3 Sheep are afraid of mice.\n4 Wolves are afraid of cats.\n5 Emily is a mouse.\n6 Jessica is not a sheep.\n7 Winona is a mouse.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Wolves are afraid of cats.\n3 Mice are not afraid of wolves.\n4 Gertrude is a mouse.\n5 Emily is a wolf.\n6 Jessica is a mouse.\n7 Winona is a sheep.\n8 Cats are afraid of mice.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Cats are not afraid of mice.\n3 Winona is a cat.\n4 Emily is a wolf.\n5 Sheep are afraid of mice.\n6 Mice are afraid of cats.\n7 Gertrude is a mouse.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Winona is a wolf.\n3 Gertrude is a wolf.\n4 Cats are afraid of mice.\n5 Mice are not afraid of sheep.\n6 Jessica is a mouse.\n7 Emily is a wolf.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Jessica is a mouse.\n3 Emily is a mouse.\n4 Wolves are afraid of sheep.\n5 Winona is not a wolf.\n6 Sheep are afraid of mice.\n7 Gertrude is a mouse.\n8 Cats are afraid of wolves.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Mice are afraid of cats.\n3 Emily is not a mouse.\n4 Wolves are afraid of sheep.\n5 Jessica is a mouse.\n6 Gertrude is a cat.\n7 Winona is a wolf.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Winona is a wolf.\n3 Sheep are afraid of wolves.\n4 Cats are afraid of sheep.\n5 Mice are afraid of cats.\n6 Gertrude is a mouse.\n7 Jessica is a cat.\n8 Emily is a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Cats are afraid of wolves.\n3 Mice are afraid of wolves.\n4 Emily is a cat.\n5 Wolves are afraid of sheep.\n6 Winona is a sheep.\n7 Gertrude is a mouse.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Winona is a mouse.\n3 Jessica is a mouse.\n4 Wolves are afraid of mice.\n5 Sheep are afraid of mice.\n6 Cats are afraid of wolves.\n7 Emily is a cat.\n8 Gertrude is not a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Cats are afraid of sheep.\n3 Wolves are afraid of sheep.\n4 Gertrude is a mouse.\n5 Emily is a cat.\n6 Sheep are afraid of cats.\n7 Jessica is a cat.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Cats are afraid of mice.\n3 Jessica is a mouse.\n4 Winona is a mouse.\n5 Sheep are afraid of wolves.\n6 Wolves are afraid of mice.\n7 Emily is a sheep.\n8 Gertrude is not a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are afraid of wolves.\n3 Mice are afraid of sheep.\n4 Jessica is a sheep.\n5 Emily is a cat.\n6 Wolves are afraid of mice.\n7 Winona is a sheep.\n8 Gertrude is not a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Mice are afraid of cats.\n3 Cats are afraid of sheep.\n4 Sheep are afraid of mice.\n5 Gertrude is a sheep.\n6 Emily is a cat.\n7 Jessica is a cat.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Mice are afraid of wolves.\n3 Winona is a wolf.\n4 Emily is not a mouse.\n5 Cats are afraid of sheep.\n6 Sheep are afraid of wolves.\n7 Jessica is a wolf.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are afraid of wolves.\n3 Gertrude is a cat.\n4 Jessica is not a cat.\n5 Wolves are afraid of sheep.\n6 Mice are afraid of cats.\n7 Winona is a wolf.\n8 Emily is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Mice are afraid of wolves.\n3 Winona is not a sheep.\n4 Gertrude is a sheep.\n5 Wolves are afraid of sheep.\n6 Emily is a sheep.\n7 Cats are afraid of sheep.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Jessica is not a sheep.\n3 Mice are afraid of cats.\n4 Wolves are afraid of sheep.\n5 Gertrude is a wolf.\n6 Emily is a wolf.\n7 Cats are afraid of mice.\n8 Winona is a sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Sheep are afraid of wolves.\n3 Winona is a cat.\n4 Mice are not afraid of sheep.\n5 Jessica is a mouse.\n6 Wolves are afraid of sheep.\n7 Emily is a wolf.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Mice are afraid of wolves.\n3 Wolves are afraid of sheep.\n4 Winona is not a mouse.\n5 Gertrude is a sheep.\n6 Emily is a sheep.\n7 Jessica is a wolf.\n8 Cats are afraid of mice.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of mice.\n2 Wolves are afraid of sheep.\n3 Sheep are afraid of mice.\n4 Jessica is a sheep.\n5 Gertrude is a cat.\n6 Mice are afraid of wolves.\n7 Winona is a sheep.\n8 Emily is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Mice are afraid of wolves.\n3 Cats are afraid of wolves.\n4 Emily is a mouse.\n5 Jessica is a sheep.\n6 Winona is a cat.\n7 Wolves are afraid of sheep.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of mice.\n2 Mice are afraid of wolves.\n3 Wolves are afraid of cats.\n4 Winona is a wolf.\n5 Gertrude is a wolf.\n6 Jessica is a cat.\n7 Emily is a cat.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Sheep are afraid of wolves.\n3 Gertrude is a mouse.\n4 Wolves are afraid of cats.\n5 Cats are afraid of mice.\n6 Winona is not a mouse.\n7 Emily is a sheep.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Jessica is a mouse.\n3 Winona is a mouse.\n4 Sheep are afraid of cats.\n5 Wolves are afraid of cats.\n6 Cats are afraid of sheep.\n7 Gertrude is a wolf.\n8 Emily is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Wolves are afraid of cats.\n3 Sheep are afraid of cats.\n4 Winona is a wolf.\n5 Mice are afraid of wolves.\n6 Emily is not a mouse.\n7 Gertrude is a sheep.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Mice are afraid of sheep.\n3 Winona is a sheep.\n4 Gertrude is a mouse.\n5 Cats are afraid of wolves.\n6 Jessica is a sheep.\n7 Wolves are afraid of mice.\n8 Emily is not a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of mice.\n2 Wolves are afraid of sheep.\n3 Mice are afraid of wolves.\n4 Sheep are afraid of mice.\n5 Winona is a mouse.\n6 Emily is a wolf.\n7 Jessica is a mouse.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Mice are afraid of sheep.\n3 Gertrude is a cat.\n4 Wolves are afraid of mice.\n5 Sheep are afraid of mice.\n6 Winona is a cat.\n7 Emily is a sheep.\n8 Jessica is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Mice are afraid of wolves.\n3 Winona is a mouse.\n4 Jessica is not a sheep.\n5 Cats are afraid of sheep.\n6 Gertrude is a mouse.\n7 Emily is a sheep.\n8 Wolves are afraid of mice.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of sheep.\n2 Winona is a cat.\n3 Mice are afraid of sheep.\n4 Emily is a cat.\n5 Wolves are afraid of sheep.\n6 Gertrude is a cat.\n7 Sheep are afraid of mice.\n8 Jessica is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Wolves are afraid of mice.\n3 Sheep are afraid of mice.\n4 Mice are afraid of wolves.\n5 Emily is a wolf.\n6 Winona is a cat.\n7 Gertrude is a cat.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Mice are afraid of cats.\n3 Sheep are afraid of mice.\n4 Wolves are afraid of sheep.\n5 Jessica is a sheep.\n6 Emily is not a sheep.\n7 Winona is a mouse.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Cats are afraid of mice.\n3 Mice are afraid of wolves.\n4 Gertrude is not a mouse.\n5 Winona is a mouse.\n6 Emily is a mouse.\n7 Sheep are afraid of mice.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Wolves are afraid of cats.\n3 Winona is a wolf.\n4 Gertrude is not a wolf.\n5 Emily is a wolf.\n6 Sheep are afraid of cats.\n7 Jessica is a mouse.\n8 Cats are afraid of mice.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Mice are afraid of sheep.\n3 Cats are afraid of mice.\n4 Winona is a mouse.\n5 Gertrude is a mouse.\n6 Emily is a mouse.\n7 Wolves are afraid of sheep.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Sheep are not afraid of wolves.\n3 Wolves are afraid of sheep.\n4 Gertrude is a mouse.\n5 Jessica is a sheep.\n6 Winona is a sheep.\n7 Cats are afraid of sheep.\n8 Emily is a wolf.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Mice are afraid of wolves.\n3 Wolves are not afraid of mice.\n4 Winona is a mouse.\n5 Jessica is a wolf.\n6 Sheep are afraid of mice.\n7 Emily is a wolf.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Gertrude is a cat.\n3 Sheep are afraid of mice.\n4 Emily is a cat.\n5 Wolves are afraid of cats.\n6 Jessica is not a wolf.\n7 Winona is a sheep.\n8 Mice are afraid of wolves.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Jessica is a mouse.\n3 Cats are afraid of wolves.\n4 Gertrude is a cat.\n5 Emily is a mouse.\n6 Sheep are not afraid of cats.\n7 Wolves are afraid of mice.\n8 Winona is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Wolves are afraid of cats.\n3 Jessica is a wolf.\n4 Gertrude is a sheep.\n5 Emily is a sheep.\n6 Cats are afraid of wolves.\n7 Mice are afraid of sheep.\n8 Winona is not a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "7"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Cats are afraid of mice.\n3 Mice are afraid of sheep.\n4 Gertrude is a sheep.\n5 Winona is not a cat.\n6 Wolves are afraid of cats.\n7 Jessica is a wolf.\n8 Emily is a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Emily is a cat.\n3 Wolves are afraid of mice.\n4 Gertrude is a cat.\n5 Mice are afraid of sheep.\n6 Winona is a cat.\n7 Sheep are afraid of cats.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are afraid of wolves.\n3 Wolves are not afraid of sheep.\n4 Emily is a cat.\n5 Mice are afraid of sheep.\n6 Jessica is a wolf.\n7 Winona is a sheep.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of mice.\n2 Wolves are afraid of cats.\n3 Mice are afraid of cats.\n4 Cats are afraid of sheep.\n5 Jessica is a mouse.\n6 Emily is a mouse.\n7 Gertrude is a sheep.\n8 Winona is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Gertrude is a mouse.\n3 Sheep are afraid of cats.\n4 Cats are afraid of sheep.\n5 Emily is not a sheep.\n6 Jessica is a cat.\n7 Wolves are afraid of cats.\n8 Winona is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Gertrude is not a mouse.\n3 Cats are afraid of wolves.\n4 Sheep are afraid of cats.\n5 Winona is a mouse.\n6 Wolves are afraid of sheep.\n7 Emily is a wolf.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Sheep are afraid of mice.\n3 Cats are afraid of wolves.\n4 Wolves are not afraid of cats.\n5 Emily is a sheep.\n6 Winona is a sheep.\n7 Jessica is not a wolf.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Gertrude is a mouse.\n3 Winona is not a mouse.\n4 Sheep are afraid of wolves.\n5 Jessica is a mouse.\n6 Emily is a mouse.\n7 Cats are afraid of mice.\n8 Wolves are afraid of cats.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Gertrude is a cat.\n3 Jessica is a cat.\n4 Wolves are not afraid of mice.\n5 Winona is not a wolf.\n6 Sheep are afraid of wolves.\n7 Mice are afraid of wolves.\n8 Emily is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Jessica is a sheep.\n3 Mice are not afraid of sheep.\n4 Cats are afraid of wolves.\n5 Wolves are afraid of cats.\n6 Emily is a wolf.\n7 Winona is not a mouse.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Mice are afraid of wolves.\n3 Cats are not afraid of sheep.\n4 Winona is a wolf.\n5 Gertrude is not a cat.\n6 Emily is a mouse.\n7 Jessica is a cat.\n8 Sheep are afraid of mice.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Cats are afraid of sheep.\n3 Wolves are not afraid of mice.\n4 Jessica is a cat.\n5 Emily is a wolf.\n6 Sheep are afraid of wolves.\n7 Winona is a cat.\n8 Gertrude is not a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of sheep.\n2 Sheep are afraid of cats.\n3 Gertrude is a cat.\n4 Jessica is not a cat.\n5 Mice are afraid of wolves.\n6 Winona is a cat.\n7 Emily is a cat.\n8 Wolves are afraid of sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of cats.\n2 Sheep are afraid of wolves.\n3 Cats are afraid of wolves.\n4 Wolves are afraid of cats.\n5 Gertrude is a sheep.\n6 Jessica is a mouse.\n7 Emily is not a mouse.\n8 Winona is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are not afraid of mice.\n3 Sheep are afraid of wolves.\n4 Cats are afraid of mice.\n5 Emily is a cat.\n6 Jessica is not a wolf.\n7 Winona is a mouse.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are not afraid of wolves.\n3 Wolves are afraid of cats.\n4 Jessica is a wolf.\n5 Emily is a cat.\n6 Gertrude is not a cat.\n7 Winona is a sheep.\n8 Mice are afraid of wolves.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Sheep are afraid of mice.\n3 Wolves are afraid of sheep.\n4 Gertrude is not a mouse.\n5 Cats are afraid of sheep.\n6 Winona is a cat.\n7 Jessica is a wolf.\n8 Emily is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Mice are not afraid of sheep.\n3 Jessica is not a mouse.\n4 Gertrude is a mouse.\n5 Sheep are afraid of wolves.\n6 Emily is a cat.\n7 Wolves are afraid of cats.\n8 Winona is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Gertrude is a mouse.\n3 Wolves are afraid of cats.\n4 Cats are not afraid of sheep.\n5 Winona is a mouse.\n6 Sheep are afraid of mice.\n7 Jessica is a wolf.\n8 Emily is not a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Mice are afraid of sheep.\n3 Cats are not afraid of wolves.\n4 Winona is a wolf.\n5 Sheep are afraid of mice.\n6 Emily is a mouse.\n7 Jessica is a mouse.\n8 Gertrude is not a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Cats are afraid of mice.\n3 Sheep are not afraid of mice.\n4 Mice are afraid of sheep.\n5 Winona is not a sheep.\n6 Jessica is a cat.\n7 Gertrude is a cat.\n8 Emily is a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Gertrude is a wolf.\n3 Sheep are afraid of mice.\n4 Jessica is not a wolf.\n5 Mice are afraid of cats.\n6 Winona is a mouse.\n7 Cats are afraid of sheep.\n8 Emily is a wolf.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are not afraid of sheep.\n3 Jessica is not a wolf.\n4 Winona is a mouse.\n5 Sheep are afraid of wolves.\n6 Emily is a sheep.\n7 Cats are afraid of wolves.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Mice are afraid of sheep.\n3 Cats are afraid of mice.\n4 Jessica is a cat.\n5 Gertrude is a wolf.\n6 Sheep are not afraid of mice.\n7 Emily is not a sheep.\n8 Winona is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Wolves are afraid of mice.\n3 Cats are afraid of sheep.\n4 Jessica is a sheep.\n5 Emily is a wolf.\n6 Mice are not afraid of sheep.\n7 Winona is a cat.\n8 Gertrude is not a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Cats are afraid of wolves.\n3 Jessica is a sheep.\n4 Mice are not afraid of sheep.\n5 Wolves are afraid of mice.\n6 Emily is a sheep.\n7 Winona is a wolf.\n8 Gertrude is not a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Emily is a mouse.\n3 Wolves are afraid of sheep.\n4 Sheep are not afraid of wolves.\n5 Winona is a sheep.\n6 Gertrude is a wolf.\n7 Jessica is not a sheep.\n8 Cats are afraid of sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Emily is a mouse.\n3 Sheep are afraid of mice.\n4 Wolves are afraid of cats.\n5 Gertrude is a wolf.\n6 Cats are afraid of mice.\n7 Winona is a mouse.\n8 Jessica is not a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Cats are afraid of wolves.\n3 Wolves are not afraid of mice.\n4 Emily is a mouse.\n5 Winona is a mouse.\n6 Gertrude is a mouse.\n7 Jessica is not a wolf.\n8 Sheep are afraid of mice.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Cats are afraid of mice.\n3 Sheep are not afraid of wolves.\n4 Emily is a cat.\n5 Gertrude is a wolf.\n6 Winona is a wolf.\n7 Jessica is not a sheep.\n8 Mice are afraid of cats.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Sheep are not afraid of wolves.\n3 Gertrude is a mouse.\n4 Winona is a mouse.\n5 Wolves are afraid of mice.\n6 Emily is a sheep.\n7 Jessica is not a sheep.\n8 Cats are afraid of mice.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of cats.\n2 Mice are afraid of cats.\n3 Jessica is a sheep.\n4 Cats are afraid of wolves.\n5 Wolves are afraid of mice.\n6 Gertrude is not a sheep.\n7 Emily is a cat.\n8 Winona is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Winona is a wolf.\n3 Mice are afraid of cats.\n4 Cats are afraid of sheep.\n5 Sheep are afraid of cats.\n6 Emily is a mouse.\n7 Jessica is not a wolf.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of cats.\n2 Wolves are afraid of sheep.\n3 Gertrude is a sheep.\n4 Winona is a wolf.\n5 Mice are afraid of sheep.\n6 Emily is not a sheep.\n7 Cats are afraid of wolves.\n8 Jessica is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Cats are not afraid of sheep.\n3 Jessica is not a cat.\n4 Wolves are afraid of mice.\n5 Sheep are afraid of mice.\n6 Winona is a cat.\n7 Gertrude is a mouse.\n8 Emily is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Mice are afraid of wolves.\n3 Gertrude is not a cat.\n4 Wolves are afraid of mice.\n5 Emily is a cat.\n6 Jessica is a wolf.\n7 Winona is a mouse.\n8 Sheep are afraid of wolves.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Mice are afraid of cats.\n3 Winona is a mouse.\n4 Cats are afraid of wolves.\n5 Emily is not a wolf.\n6 Jessica is a wolf.\n7 Sheep are afraid of mice.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Wolves are afraid of sheep.\n3 Jessica is a wolf.\n4 Cats are afraid of wolves.\n5 Gertrude is a wolf.\n6 Mice are afraid of sheep.\n7 Winona is not a sheep.\n8 Emily is a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are afraid of sheep.\n3 Wolves are afraid of mice.\n4 Emily is a cat.\n5 Winona is a cat.\n6 Sheep are not afraid of wolves.\n7 Gertrude is not a sheep.\n8 Jessica is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Wolves are afraid of cats.\n3 Gertrude is not a cat.\n4 Mice are afraid of sheep.\n5 Jessica is a cat.\n6 Winona is a cat.\n7 Sheep are afraid of mice.\n8 Emily is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Mice are afraid of sheep.\n3 Winona is a sheep.\n4 Cats are not afraid of wolves.\n5 Jessica is not a cat.\n6 Wolves are afraid of sheep.\n7 Emily is a wolf.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Gertrude is a mouse.\n3 Sheep are afraid of wolves.\n4 Wolves are afraid of cats.\n5 Jessica is not a mouse.\n6 Winona is a sheep.\n7 Emily is a mouse.\n8 Cats are afraid of sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Cats are afraid of wolves.\n3 Emily is a cat.\n4 Wolves are not afraid of cats.\n5 Jessica is a mouse.\n6 Gertrude is a wolf.\n7 Sheep are afraid of mice.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Cats are not afraid of mice.\n3 Emily is not a cat.\n4 Gertrude is a wolf.\n5 Mice are afraid of wolves.\n6 Jessica is a cat.\n7 Sheep are afraid of mice.\n8 Winona is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Sheep are not afraid of mice.\n3 Winona is a cat.\n4 Gertrude is a cat.\n5 Jessica is not a sheep.\n6 Emily is a sheep.\n7 Wolves are afraid of sheep.\n8 Mice are afraid of wolves.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of mice.\n2 Mice are afraid of cats.\n3 Wolves are afraid of sheep.\n4 Sheep are afraid of mice.\n5 Gertrude is a mouse.\n6 Winona is not a cat.\n7 Emily is a cat.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Cats are not afraid of sheep.\n3 Emily is a cat.\n4 Sheep are afraid of wolves.\n5 Wolves are afraid of sheep.\n6 Winona is not a cat.\n7 Jessica is a wolf.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Mice are not afraid of sheep.\n3 Winona is a cat.\n4 Emily is not a mouse.\n5 Wolves are afraid of mice.\n6 Jessica is a cat.\n7 Gertrude is a wolf.\n8 Sheep are afraid of wolves.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are afraid of wolves.\n3 Jessica is a cat.\n4 Winona is a sheep.\n5 Mice are afraid of cats.\n6 Gertrude is a mouse.\n7 Wolves are not afraid of sheep.\n8 Emily is not a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "7"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Gertrude is a mouse.\n3 Sheep are afraid of wolves.\n4 Winona is a sheep.\n5 Emily is a sheep.\n6 Wolves are afraid of mice.\n7 Cats are afraid of sheep.\n8 Jessica is not a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Sheep are not afraid of cats.\n3 Emily is a sheep.\n4 Cats are afraid of wolves.\n5 Gertrude is a sheep.\n6 Jessica is a sheep.\n7 Mice are afraid of cats.\n8 Winona is not a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Wolves are afraid of sheep.\n3 Cats are afraid of wolves.\n4 Jessica is not a mouse.\n5 Gertrude is a wolf.\n6 Emily is a mouse.\n7 Winona is a wolf.\n8 Sheep are afraid of wolves.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Mice are afraid of cats.\n3 Sheep are not afraid of cats.\n4 Jessica is not a sheep.\n5 Emily is a mouse.\n6 Wolves are afraid of sheep.\n7 Winona is a mouse.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of mice.\n2 Wolves are afraid of sheep.\n3 Gertrude is a sheep.\n4 Jessica is a wolf.\n5 Emily is not a sheep.\n6 Cats are afraid of sheep.\n7 Mice are afraid of sheep.\n8 Winona is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Sheep are afraid of wolves.\n3 Mice are afraid of sheep.\n4 Gertrude is a mouse.\n5 Jessica is a mouse.\n6 Emily is a wolf.\n7 Cats are afraid of sheep.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Sheep are afraid of wolves.\n3 Cats are afraid of wolves.\n4 Emily is a cat.\n5 Jessica is not a mouse.\n6 Wolves are afraid of sheep.\n7 Winona is a wolf.\n8 Gertrude is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Wolves are afraid of cats.\n3 Jessica is not a cat.\n4 Winona is a wolf.\n5 Sheep are afraid of cats.\n6 Mice are afraid of sheep.\n7 Gertrude is a wolf.\n8 Emily is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Gertrude is a sheep.\n3 Emily is a sheep.\n4 Cats are afraid of wolves.\n5 Mice are afraid of cats.\n6 Wolves are not afraid of sheep.\n7 Jessica is a cat.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Sheep are afraid of cats.\n3 Cats are afraid of mice.\n4 Wolves are not afraid of mice.\n5 Gertrude is a mouse.\n6 Winona is a cat.\n7 Jessica is not a wolf.\n8 Emily is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Winona is a cat.\n3 Mice are afraid of wolves.\n4 Sheep are not afraid of wolves.\n5 Jessica is not a sheep.\n6 Emily is a cat.\n7 Wolves are afraid of cats.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of mice.\n2 Wolves are afraid of mice.\n3 Emily is a wolf.\n4 Mice are afraid of sheep.\n5 Sheep are afraid of mice.\n6 Gertrude is not a cat.\n7 Winona is a cat.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of cats.\n2 Wolves are not afraid of mice.\n3 Cats are afraid of mice.\n4 Gertrude is not a wolf.\n5 Winona is a cat.\n6 Emily is a sheep.\n7 Jessica is a cat.\n8 Mice are afraid of wolves.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Cats are not afraid of wolves.\n3 Winona is a cat.\n4 Gertrude is not a cat.\n5 Wolves are afraid of cats.\n6 Jessica is a cat.\n7 Sheep are afraid of mice.\n8 Emily is a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Sheep are afraid of wolves.\n3 Mice are afraid of cats.\n4 Winona is a mouse.\n5 Jessica is a cat.\n6 Wolves are afraid of sheep.\n7 Emily is not a cat.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Sheep are not afraid of wolves.\n3 Wolves are afraid of sheep.\n4 Cats are afraid of wolves.\n5 Gertrude is a mouse.\n6 Winona is a cat.\n7 Jessica is not a sheep.\n8 Emily is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of sheep.\n2 Jessica is a cat.\n3 Emily is a cat.\n4 Mice are afraid of wolves.\n5 Winona is a mouse.\n6 Gertrude is not a cat.\n7 Wolves are afraid of cats.\n8 Sheep are afraid of mice.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Wolves are afraid of mice.\n3 Sheep are not afraid of wolves.\n4 Jessica is a sheep.\n5 Cats are afraid of wolves.\n6 Gertrude is a sheep.\n7 Winona is a wolf.\n8 Emily is not a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Sheep are afraid of mice.\n3 Mice are not afraid of cats.\n4 Jessica is a mouse.\n5 Emily is not a mouse.\n6 Wolves are afraid of cats.\n7 Winona is a wolf.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Sheep are afraid of wolves.\n3 Jessica is not a mouse.\n4 Cats are afraid of mice.\n5 Gertrude is a mouse.\n6 Winona is a cat.\n7 Emily is a cat.\n8 Wolves are afraid of cats.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Gertrude is a wolf.\n3 Winona is a wolf.\n4 Sheep are afraid of mice.\n5 Mice are afraid of cats.\n6 Cats are not afraid of sheep.\n7 Emily is not a cat.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Wolves are afraid of sheep.\n3 Sheep are afraid of wolves.\n4 Cats are afraid of mice.\n5 Emily is not a mouse.\n6 Gertrude is a cat.\n7 Jessica is a cat.\n8 Winona is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Mice are afraid of wolves.\n3 Cats are afraid of sheep.\n4 Sheep are not afraid of cats.\n5 Gertrude is a mouse.\n6 Jessica is a mouse.\n7 Emily is not a sheep.\n8 Winona is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are afraid of mice.\n3 Emily is a wolf.\n4 Cats are not afraid of mice.\n5 Winona is not a cat.\n6 Sheep are afraid of mice.\n7 Gertrude is a cat.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Wolves are afraid of mice.\n3 Gertrude is a wolf.\n4 Jessica is a cat.\n5 Mice are not afraid of wolves.\n6 Emily is a mouse.\n7 Winona is not a mouse.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Gertrude is a mouse.\n3 Sheep are afraid of cats.\n4 Wolves are afraid of cats.\n5 Winona is a mouse.\n6 Cats are afraid of wolves.\n7 Emily is not a mouse.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Mice are not afraid of wolves.\n3 Sheep are afraid of cats.\n4 Jessica is a wolf.\n5 Cats are afraid of wolves.\n6 Winona is a sheep.\n7 Gertrude is not a mouse.\n8 Emily is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of cats.\n2 Emily is a mouse.\n3 Cats are afraid of wolves.\n4 Sheep are afraid of cats.\n5 Gertrude is a mouse.\n6 Wolves are afraid of mice.\n7 Jessica is a wolf.\n8 Winona is not a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Mice are afraid of sheep.\n3 Sheep are afraid of wolves.\n4 Jessica is a mouse.\n5 Winona is a cat.\n6 Wolves are not afraid of sheep.\n7 Emily is a sheep.\n8 Gertrude is not a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of wolves.\n2 Cats are afraid of mice.\n3 Gertrude is a mouse.\n4 Sheep are afraid of mice.\n5 Emily is not a mouse.\n6 Winona is a cat.\n7 Wolves are afraid of mice.\n8 Jessica is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Sheep are not afraid of mice.\n3 Gertrude is not a sheep.\n4 Emily is a sheep.\n5 Jessica is a cat.\n6 Wolves are afraid of cats.\n7 Mice are afraid of cats.\n8 Winona is a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Cats are afraid of wolves.\n3 Winona is a wolf.\n4 Jessica is a wolf.\n5 Mice are not afraid of cats.\n6 Gertrude is a cat.\n7 Sheep are afraid of mice.\n8 Emily is not a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Wolves are afraid of cats.\n3 Sheep are afraid of wolves.\n4 Winona is a mouse.\n5 Cats are not afraid of wolves.\n6 Jessica is a cat.\n7 Emily is not a cat.\n8 Gertrude is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of mice.\n2 Cats are afraid of wolves.\n3 Mice are afraid of sheep.\n4 Winona is a sheep.\n5 Wolves are afraid of sheep.\n6 Jessica is a cat.\n7 Gertrude is a cat.\n8 Emily is not a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Sheep are not afraid of mice.\n3 Wolves are afraid of mice.\n4 Winona is a mouse.\n5 Jessica is a wolf.\n6 Emily is a wolf.\n7 Cats are afraid of mice.\n8 Gertrude is not a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Wolves are not afraid of mice.\n3 Gertrude is a wolf.\n4 Jessica is a wolf.\n5 Mice are afraid of wolves.\n6 Winona is not a wolf.\n7 Sheep are afraid of cats.\n8 Emily is a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Sheep are afraid of cats.\n3 Emily is a cat.\n4 Wolves are not afraid of cats.\n5 Gertrude is a sheep.\n6 Jessica is a cat.\n7 Mice are afraid of wolves.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of cats.\n2 Wolves are afraid of cats.\n3 Gertrude is a sheep.\n4 Jessica is not a sheep.\n5 Winona is a sheep.\n6 Mice are afraid of sheep.\n7 Cats are afraid of sheep.\n8 Emily is a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Mice are afraid of wolves.\n3 Gertrude is a mouse.\n4 Winona is a mouse.\n5 Jessica is not a wolf.\n6 Cats are afraid of sheep.\n7 Emily is a mouse.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of mice.\n2 Cats are afraid of sheep.\n3 Sheep are afraid of wolves.\n4 Gertrude is a wolf.\n5 Winona is not a wolf.\n6 Emily is a sheep.\n7 Mice are afraid of sheep.\n8 Jessica is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Emily is a mouse.\n3 Cats are afraid of wolves.\n4 Jessica is a cat.\n5 Wolves are afraid of mice.\n6 Sheep are not afraid of mice.\n7 Winona is not a sheep.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Wolves are afraid of sheep.\n3 Gertrude is a wolf.\n4 Winona is a sheep.\n5 Cats are afraid of wolves.\n6 Jessica is a sheep.\n7 Emily is not a sheep.\n8 Mice are afraid of sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Wolves are not afraid of cats.\n3 Mice are afraid of sheep.\n4 Winona is a mouse.\n5 Emily is a cat.\n6 Sheep are afraid of wolves.\n7 Jessica is a mouse.\n8 Gertrude is not a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Winona is a cat.\n3 Wolves are afraid of mice.\n4 Emily is a wolf.\n5 Mice are afraid of cats.\n6 Jessica is a wolf.\n7 Gertrude is not a cat.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Mice are not afraid of wolves.\n3 Wolves are afraid of mice.\n4 Gertrude is a mouse.\n5 Sheep are afraid of cats.\n6 Winona is a sheep.\n7 Jessica is a cat.\n8 Emily is not a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Winona is a cat.\n3 Wolves are not afraid of sheep.\n4 Emily is a cat.\n5 Gertrude is not a wolf.\n6 Sheep are afraid of wolves.\n7 Mice are afraid of wolves.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of mice.\n2 Sheep are afraid of cats.\n3 Mice are afraid of sheep.\n4 Gertrude is a wolf.\n5 Jessica is a wolf.\n6 Cats are afraid of sheep.\n7 Emily is not a wolf.\n8 Winona is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Gertrude is a cat.\n3 Sheep are afraid of cats.\n4 Winona is a cat.\n5 Emily is not a cat.\n6 Mice are afraid of cats.\n7 Wolves are afraid of mice.\n8 Jessica is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Gertrude is a wolf.\n3 Mice are afraid of cats.\n4 Jessica is a wolf.\n5 Emily is a mouse.\n6 Sheep are not afraid of cats.\n7 Cats are afraid of sheep.\n8 Winona is not a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Sheep are afraid of mice.\n3 Cats are afraid of mice.\n4 Jessica is a cat.\n5 Wolves are afraid of cats.\n6 Winona is not a mouse.\n7 Gertrude is a mouse.\n8 Emily is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Mice are not afraid of wolves.\n3 Gertrude is a wolf.\n4 Jessica is a mouse.\n5 Emily is not a mouse.\n6 Cats are afraid of sheep.\n7 Sheep are afraid of wolves.\n8 Winona is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Mice are afraid of wolves.\n3 Gertrude is a mouse.\n4 Sheep are afraid of cats.\n5 Jessica is a cat.\n6 Emily is not a cat.\n7 Winona is a cat.\n8 Wolves are afraid of cats.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of mice.\n2 Cats are afraid of sheep.\n3 Mice are not afraid of sheep.\n4 Gertrude is a cat.\n5 Winona is a sheep.\n6 Emily is a cat.\n7 Jessica is not a mouse.\n8 Wolves are afraid of mice.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of wolves.\n2 Wolves are afraid of cats.\n3 Gertrude is not a sheep.\n4 Cats are afraid of mice.\n5 Winona is a sheep.\n6 Mice are afraid of cats.\n7 Emily is a wolf.\n8 Jessica is a cat.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Cats are not afraid of wolves.\n3 Jessica is a cat.\n4 Gertrude is not a cat.\n5 Wolves are afraid of cats.\n6 Winona is a cat.\n7 Emily is a wolf.\n8 Sheep are afraid of cats.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Emily is not a mouse.\n3 Sheep are afraid of cats.\n4 Cats are afraid of mice.\n5 Wolves are afraid of sheep.\n6 Jessica is a wolf.\n7 Gertrude is a mouse.\n8 Winona is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Sheep are afraid of mice.\n3 Emily is not a wolf.\n4 Jessica is a wolf.\n5 Cats are afraid of wolves.\n6 Mice are afraid of sheep.\n7 Gertrude is a cat.\n8 Winona is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of cats.\n2 Cats are afraid of sheep.\n3 Mice are afraid of wolves.\n4 Sheep are afraid of wolves.\n5 Gertrude is a sheep.\n6 Emily is a cat.\n7 Jessica is not a wolf.\n8 Winona is a mouse.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Cats are afraid of wolves.\n3 Emily is a mouse.\n4 Jessica is a mouse.\n5 Wolves are not afraid of mice.\n6 Sheep are afraid of wolves.\n7 Gertrude is not a wolf.\n8 Winona is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Sheep are not afraid of mice.\n3 Gertrude is a cat.\n4 Mice are afraid of wolves.\n5 Winona is a sheep.\n6 Emily is not a sheep.\n7 Wolves are afraid of sheep.\n8 Jessica is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Cats are not afraid of mice.\n3 Jessica is a cat.\n4 Mice are afraid of cats.\n5 Sheep are afraid of wolves.\n6 Winona is a cat.\n7 Emily is not a cat.\n8 Gertrude is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of sheep.\n2 Wolves are afraid of sheep.\n3 Gertrude is not a cat.\n4 Mice are afraid of cats.\n5 Jessica is a wolf.\n6 Sheep are afraid of cats.\n7 Winona is a cat.\n8 Emily is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are not afraid of sheep.\n3 Winona is a mouse.\n4 Cats are afraid of mice.\n5 Emily is a mouse.\n6 Jessica is not a wolf.\n7 Gertrude is a wolf.\n8 Sheep are afraid of mice.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of cats.\n2 Mice are not afraid of sheep.\n3 Emily is a mouse.\n4 Sheep are afraid of wolves.\n5 Gertrude is a mouse.\n6 Cats are afraid of sheep.\n7 Jessica is not a mouse.\n8 Winona is a sheep.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Mice are not afraid of sheep.\n2 Cats are afraid of mice.\n3 Emily is a mouse.\n4 Sheep are afraid of mice.\n5 Jessica is a sheep.\n6 Wolves are afraid of sheep.\n7 Winona is a mouse.\n8 Gertrude is not a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are not afraid of mice.\n2 Cats are afraid of mice.\n3 Winona is not a wolf.\n4 Mice are afraid of cats.\n5 Sheep are afraid of wolves.\n6 Jessica is a wolf.\n7 Gertrude is a sheep.\n8 Emily is a sheep.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of wolves.\n2 Wolves are not afraid of sheep.\n3 Sheep are afraid of cats.\n4 Winona is a sheep.\n5 Emily is a cat.\n6 Mice are afraid of cats.\n7 Gertrude is a mouse.\n8 Jessica is not a wolf.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Sheep are afraid of wolves.\n3 Emily is a sheep.\n4 Mice are afraid of sheep.\n5 Jessica is a sheep.\n6 Winona is not a cat.\n7 Wolves are afraid of cats.\n8 Gertrude is a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of mice.\n2 Wolves are afraid of mice.\n3 Winona is a sheep.\n4 Mice are afraid of cats.\n5 Gertrude is not a sheep.\n6 Emily is a sheep.\n7 Jessica is a sheep.\n8 Cats are afraid of sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of cats.\n2 Jessica is a mouse.\n3 Sheep are afraid of cats.\n4 Gertrude is a mouse.\n5 Emily is a mouse.\n6 Wolves are not afraid of mice.\n7 Cats are afraid of wolves.\n8 Winona is not a wolf.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Sheep are afraid of mice.\n3 Gertrude is a cat.\n4 Wolves are afraid of sheep.\n5 Mice are not afraid of wolves.\n6 Emily is not a mouse.\n7 Winona is a mouse.\n8 Jessica is a wolf.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "5"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Winona is a wolf.\n3 Sheep are afraid of mice.\n4 Emily is a wolf.\n5 Gertrude is a wolf.\n6 Cats are not afraid of mice.\n7 Mice are afraid of cats.\n8 Jessica is not a cat.\n\nBased on the above sentences, what is jessica afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Cats are not afraid of wolves.\n2 Sheep are afraid of wolves.\n3 Winona is a sheep.\n4 Emily is a sheep.\n5 Gertrude is not a cat.\n6 Wolves are afraid of mice.\n7 Mice are afraid of wolves.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of sheep.\n2 Sheep are afraid of wolves.\n3 Emily is a sheep.\n4 Wolves are not afraid of mice.\n5 Winona is a mouse.\n6 Cats are afraid of wolves.\n7 Jessica is a cat.\n8 Gertrude is not a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "4"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are not afraid of cats.\n2 Winona is a sheep.\n3 Wolves are afraid of sheep.\n4 Mice are afraid of cats.\n5 Cats are afraid of sheep.\n6 Gertrude is a mouse.\n7 Emily is not a sheep.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "1"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of sheep.\n2 Sheep are afraid of cats.\n3 Jessica is a sheep.\n4 Mice are afraid of cats.\n5 Emily is a mouse.\n6 Wolves are not afraid of mice.\n7 Winona is a cat.\n8 Gertrude is not a wolf.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Sheep are afraid of wolves.\n2 Mice are not afraid of wolves.\n3 Wolves are afraid of cats.\n4 Emily is not a mouse.\n5 Cats are afraid of sheep.\n6 Gertrude is a wolf.\n7 Jessica is a wolf.\n8 Winona is a cat.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Sheep are not afraid of cats.\n3 Wolves are afraid of mice.\n4 Emily is not a sheep.\n5 Mice are afraid of cats.\n6 Winona is a cat.\n7 Gertrude is a wolf.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "4",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of mice.\n2 Gertrude is a wolf.\n3 Mice are not afraid of cats.\n4 Jessica is a wolf.\n5 Cats are afraid of wolves.\n6 Winona is not a mouse.\n7 Emily is a cat.\n8 Sheep are afraid of wolves.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "6",
+            "3"
+        ]
+    },
+    {
+        "prompt": "1 Mice are afraid of wolves.\n2 Wolves are not afraid of mice.\n3 Sheep are afraid of mice.\n4 Emily is a wolf.\n5 Winona is not a wolf.\n6 Cats are afraid of mice.\n7 Gertrude is a wolf.\n8 Jessica is a mouse.\n\nBased on the above sentences, what is winona afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "5",
+            "2"
+        ]
+    },
+    {
+        "prompt": "1 Cats are afraid of mice.\n2 Emily is a cat.\n3 Wolves are afraid of sheep.\n4 Mice are afraid of cats.\n5 Jessica is a wolf.\n6 Sheep are not afraid of cats.\n7 Winona is a sheep.\n8 Gertrude is not a sheep.\n\nBased on the above sentences, what is gertrude afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "8",
+            "6"
+        ]
+    },
+    {
+        "prompt": "1 Wolves are afraid of sheep.\n2 Mice are afraid of sheep.\n3 Gertrude is a mouse.\n4 Cats are not afraid of mice.\n5 Sheep are afraid of cats.\n6 Jessica is a wolf.\n7 Emily is not a cat.\n8 Winona is a sheep.\n\nBased on the above sentences, what is emily afraid of?\nA. cat\nB. mouse\nC. wolf\nD. sheep\nE. not enough information is provided to answer the question\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; and put the number of sentences used to arrive at the conclusion in parentheses, for example, (2, 5).",
+        "gold_label": "no info",
+        "gold_choice": "E",
+        "gold_evidence": [
+            "7",
+            "4"
+        ]
+    }
+]

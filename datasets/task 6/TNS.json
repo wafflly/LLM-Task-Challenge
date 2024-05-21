@@ -1,0 +1,1802 @@
+[
+    {
+        "prompt": "Given the three statements here:\n1. X2 sjCP X3\n2. X4 sjCP X1\n3. X1 sjCP X2\n\nIf 'X sjCP Y' means 'X runs faster than Y', what does X1 sjCP?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 YEFxG X2\n2. X2 YEFxG X3\n3. X4 YEFxG X1\n\nIf 'X YEFxG Y' means 'X runs faster than Y', what does X1 YEFxG?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 ZQoB X2\n2. X4 ZQoB X1\n3. X2 ZQoB X3\n\nIf 'X ZQoB Y' means 'X runs faster than Y', what does X1 ZQoB?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 pUATz X3\n2. X4 pUATz X1\n3. X1 pUATz X2\n\nIf 'X pUATz Y' means 'X runs faster than Y', what does X1 pUATz?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 veNpr X2\n2. X4 veNpr X1\n3. X2 veNpr X3\n\nIf 'X veNpr Y' means 'X runs faster than Y', what does X1 veNpr?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 xXBB X2\n2. X4 xXBB X1\n3. X2 xXBB X3\n\nIf 'X xXBB Y' means 'X runs faster than Y', what does X1 xXBB?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 CbKA X2\n2. X2 CbKA X3\n3. X4 CbKA X1\n\nIf 'X CbKA Y' means 'X runs faster than Y', what does X1 CbKA?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 MktSr X3\n2. X1 MktSr X2\n3. X4 MktSr X1\n\nIf 'X MktSr Y' means 'X runs faster than Y', what does X1 MktSr?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 AKIjd X2\n2. X2 AKIjd X3\n3. X4 AKIjd X1\n\nIf 'X AKIjd Y' means 'X runs faster than Y', what does X1 AKIjd?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 Gigo X1\n2. X2 Gigo X3\n3. X1 Gigo X2\n\nIf 'X Gigo Y' means 'X runs faster than Y', what does X1 Gigo?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 bfWNq X2\n2. X2 bfWNq X3\n3. X4 bfWNq X1\n\nIf 'X bfWNq Y' means 'X runs faster than Y', what does X1 bfWNq?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 znCV X2\n2. X2 znCV X3\n3. X4 znCV X1\n\nIf 'X znCV Y' means 'X runs faster than Y', what does X1 znCV?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 wquxoi X3\n2. X1 wquxoi X2\n3. X4 wquxoi X1\n\nIf 'X wquxoi Y' means 'X runs faster than Y', what does X1 wquxoi?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 yWyNR X3\n2. X1 yWyNR X2\n3. X4 yWyNR X1\n\nIf 'X yWyNR Y' means 'X runs faster than Y', what does X1 yWyNR?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 DITsR X2\n2. X2 DITsR X3\n3. X4 DITsR X1\n\nIf 'X DITsR Y' means 'X runs faster than Y', what does X1 DITsR?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 Jbpqm X3\n2. X4 Jbpqm X1\n3. X1 Jbpqm X2\n\nIf 'X Jbpqm Y' means 'X runs faster than Y', what does X1 Jbpqm?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 PKxdta X3\n2. X1 PKxdta X2\n3. X4 PKxdta X1\n\nIf 'X PKxdta Y' means 'X runs faster than Y', what does X1 PKxdta?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 sKqZ X3\n2. X1 sKqZ X2\n3. X4 sKqZ X1\n\nIf 'X sKqZ Y' means 'X runs faster than Y', what does X1 sKqZ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 piXGVo X2\n2. X2 piXGVo X3\n3. X4 piXGVo X1\n\nIf 'X piXGVo Y' means 'X runs faster than Y', what does X1 piXGVo?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 tNGEs X3\n2. X4 tNGEs X1\n3. X1 tNGEs X2\n\nIf 'X tNGEs Y' means 'X runs faster than Y', what does X1 tNGEs?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 NqJfa X3\n2. X1 NqJfa X2\n3. X4 NqJfa X1\n\nIf 'X NqJfa Y' means 'X runs faster than Y', what does X1 NqJfa?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 uPTQQS X2\n2. X4 uPTQQS X1\n3. X2 uPTQQS X3\n\nIf 'X uPTQQS Y' means 'X runs faster than Y', what does X1 uPTQQS?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 HmsI X3\n2. X1 HmsI X2\n3. X4 HmsI X1\n\nIf 'X HmsI Y' means 'X runs faster than Y', what does X1 HmsI?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 BBvxJG X3\n2. X4 BBvxJG X1\n3. X1 BBvxJG X2\n\nIf 'X BBvxJG Y' means 'X runs faster than Y', what does X1 BBvxJG?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 RbwhZ X2\n2. X4 RbwhZ X1\n3. X2 RbwhZ X3\n\nIf 'X RbwhZ Y' means 'X runs faster than Y', what does X1 RbwhZ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 hCyEnT X3\n2. X1 hCyEnT X2\n3. X4 hCyEnT X1\n\nIf 'X hCyEnT Y' means 'X runs faster than Y', what does X1 hCyEnT?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 oJqJ X1\n2. X2 oJqJ X3\n3. X1 oJqJ X2\n\nIf 'X oJqJ Y' means 'X runs faster than Y', what does X1 oJqJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 Tzucst X3\n2. X1 Tzucst X2\n3. X4 Tzucst X1\n\nIf 'X Tzucst Y' means 'X runs faster than Y', what does X1 Tzucst?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 etuJu X3\n2. X1 etuJu X2\n3. X4 etuJu X1\n\nIf 'X etuJu Y' means 'X runs faster than Y', what does X1 etuJu?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 MoYdHL X1\n2. X2 MoYdHL X3\n3. X1 MoYdHL X2\n\nIf 'X MoYdHL Y' means 'X runs faster than Y', what does X1 MoYdHL?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 eWDuu X3\n2. X1 eWDuu X2\n3. X4 eWDuu X1\n\nIf 'X eWDuu Y' means 'X runs faster than Y', what does X1 eWDuu?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 tCsTFX X3\n2. X4 tCsTFX X1\n3. X1 tCsTFX X2\n\nIf 'X tCsTFX Y' means 'X runs faster than Y', what does X1 tCsTFX?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 vFTi X1\n2. X1 vFTi X2\n3. X2 vFTi X3\n\nIf 'X vFTi Y' means 'X runs faster than Y', what does X1 vFTi?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 IbRzy X2\n2. X4 IbRzy X1\n3. X2 IbRzy X3\n\nIf 'X IbRzy Y' means 'X runs faster than Y', what does X1 IbRzy?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 iQyHw X1\n2. X1 iQyHw X2\n3. X2 iQyHw X3\n\nIf 'X iQyHw Y' means 'X runs faster than Y', what does X1 iQyHw?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 ikqjg X3\n2. X1 ikqjg X2\n3. X4 ikqjg X1\n\nIf 'X ikqjg Y' means 'X runs faster than Y', what does X1 ikqjg?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 hmnJK X1\n2. X1 hmnJK X2\n3. X2 hmnJK X3\n\nIf 'X hmnJK Y' means 'X runs faster than Y', what does X1 hmnJK?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 vKIp X1\n2. X2 vKIp X3\n3. X1 vKIp X2\n\nIf 'X vKIp Y' means 'X runs faster than Y', what does X1 vKIp?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 nvtiAh X1\n2. X1 nvtiAh X2\n3. X2 nvtiAh X3\n\nIf 'X nvtiAh Y' means 'X runs faster than Y', what does X1 nvtiAh?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 xvtU X3\n2. X1 xvtU X2\n3. X4 xvtU X1\n\nIf 'X xvtU Y' means 'X runs faster than Y', what does X1 xvtU?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 sjHBL X2\n2. X2 sjHBL X3\n3. X4 sjHBL X1\n\nIf 'X sjHBL Y' means 'X runs faster than Y', what does X1 sjHBL?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 Kkhao X3\n2. X4 Kkhao X1\n3. X1 Kkhao X2\n\nIf 'X Kkhao Y' means 'X runs faster than Y', what does X1 Kkhao?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 HcjEmq X3\n2. X4 HcjEmq X1\n3. X1 HcjEmq X2\n\nIf 'X HcjEmq Y' means 'X runs faster than Y', what does X1 HcjEmq?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 DIRTrn X3\n2. X4 DIRTrn X1\n3. X1 DIRTrn X2\n\nIf 'X DIRTrn Y' means 'X runs faster than Y', what does X1 DIRTrn?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 XFRg X3\n2. X4 XFRg X1\n3. X1 XFRg X2\n\nIf 'X XFRg Y' means 'X runs faster than Y', what does X1 XFRg?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 CKjfan X3\n2. X1 CKjfan X2\n3. X4 CKjfan X1\n\nIf 'X CKjfan Y' means 'X runs faster than Y', what does X1 CKjfan?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 EkxQt X1\n2. X2 EkxQt X3\n3. X1 EkxQt X2\n\nIf 'X EkxQt Y' means 'X runs faster than Y', what does X1 EkxQt?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 uyGeZ X3\n2. X1 uyGeZ X2\n3. X4 uyGeZ X1\n\nIf 'X uyGeZ Y' means 'X runs faster than Y', what does X1 uyGeZ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 oWmuCW X1\n2. X2 oWmuCW X3\n3. X1 oWmuCW X2\n\nIf 'X oWmuCW Y' means 'X runs faster than Y', what does X1 oWmuCW?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 bPZd X3\n2. X4 bPZd X1\n3. X1 bPZd X2\n\nIf 'X bPZd Y' means 'X runs faster than Y', what does X1 bPZd?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 zWZT X3\n2. X1 zWZT X2\n3. X4 zWZT X1\n\nIf 'X zWZT Y' means 'X runs faster than Y', what does X1 zWZT?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 Gpbz X1\n2. X1 Gpbz X2\n3. X2 Gpbz X3\n\nIf 'X Gpbz Y' means 'X runs faster than Y', what does X1 Gpbz?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 jahjGh X3\n2. X1 jahjGh X2\n3. X4 jahjGh X1\n\nIf 'X jahjGh Y' means 'X runs faster than Y', what does X1 jahjGh?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 sjHbn X1\n2. X2 sjHbn X3\n3. X1 sjHbn X2\n\nIf 'X sjHbn Y' means 'X runs faster than Y', what does X1 sjHbn?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 QobYqx X2\n2. X4 QobYqx X1\n3. X2 QobYqx X3\n\nIf 'X QobYqx Y' means 'X runs faster than Y', what does X1 QobYqx?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 oiYA X3\n2. X1 oiYA X2\n3. X4 oiYA X1\n\nIf 'X oiYA Y' means 'X runs faster than Y', what does X1 oiYA?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 rbTA X1\n2. X1 rbTA X2\n3. X2 rbTA X3\n\nIf 'X rbTA Y' means 'X runs faster than Y', what does X1 rbTA?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 DMrTu X1\n2. X1 DMrTu X2\n3. X2 DMrTu X3\n\nIf 'X DMrTu Y' means 'X runs faster than Y', what does X1 DMrTu?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 guPaQc X3\n2. X1 guPaQc X2\n3. X4 guPaQc X1\n\nIf 'X guPaQc Y' means 'X runs faster than Y', what does X1 guPaQc?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 vxcPF X2\n2. X4 vxcPF X1\n3. X2 vxcPF X3\n\nIf 'X vxcPF Y' means 'X runs faster than Y', what does X1 vxcPF?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 zKQrjN X1\n2. X1 zKQrjN X2\n3. X2 zKQrjN X3\n\nIf 'X zKQrjN Y' means 'X runs faster than Y', what does X1 zKQrjN?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 kgBt X2\n2. X4 kgBt X1\n3. X2 kgBt X3\n\nIf 'X kgBt Y' means 'X runs faster than Y', what does X1 kgBt?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 VdLbk X1\n2. X1 VdLbk X2\n3. X2 VdLbk X3\n\nIf 'X VdLbk Y' means 'X runs faster than Y', what does X1 VdLbk?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 TKgC X3\n2. X1 TKgC X2\n3. X4 TKgC X1\n\nIf 'X TKgC Y' means 'X runs faster than Y', what does X1 TKgC?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 QiAzr X3\n2. X4 QiAzr X1\n3. X1 QiAzr X2\n\nIf 'X QiAzr Y' means 'X runs faster than Y', what does X1 QiAzr?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 CPRoqg X2\n2. X2 CPRoqg X3\n3. X4 CPRoqg X1\n\nIf 'X CPRoqg Y' means 'X runs faster than Y', what does X1 CPRoqg?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 azzTY X1\n2. X2 azzTY X3\n3. X1 azzTY X2\n\nIf 'X azzTY Y' means 'X runs faster than Y', what does X1 azzTY?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 RCwWH X3\n2. X1 RCwWH X2\n3. X4 RCwWH X1\n\nIf 'X RCwWH Y' means 'X runs faster than Y', what does X1 RCwWH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 PLbDHk X1\n2. X2 PLbDHk X3\n3. X1 PLbDHk X2\n\nIf 'X PLbDHk Y' means 'X runs faster than Y', what does X1 PLbDHk?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 ZoYn X2\n2. X2 ZoYn X3\n3. X4 ZoYn X1\n\nIf 'X ZoYn Y' means 'X runs faster than Y', what does X1 ZoYn?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 efkFEP X1\n2. X1 efkFEP X2\n3. X2 efkFEP X3\n\nIf 'X efkFEP Y' means 'X runs faster than Y', what does X1 efkFEP?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 ZxdZIH X1\n2. X1 ZxdZIH X2\n3. X2 ZxdZIH X3\n\nIf 'X ZxdZIH Y' means 'X runs faster than Y', what does X1 ZxdZIH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 CWdYYS X1\n2. X2 CWdYYS X3\n3. X1 CWdYYS X2\n\nIf 'X CWdYYS Y' means 'X runs faster than Y', what does X1 CWdYYS?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 cpKpS X2\n2. X4 cpKpS X1\n3. X2 cpKpS X3\n\nIf 'X cpKpS Y' means 'X runs faster than Y', what does X1 cpKpS?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 dPLnof X1\n2. X2 dPLnof X3\n3. X1 dPLnof X2\n\nIf 'X dPLnof Y' means 'X runs faster than Y', what does X1 dPLnof?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 PoMq X1\n2. X1 PoMq X2\n3. X2 PoMq X3\n\nIf 'X PoMq Y' means 'X runs faster than Y', what does X1 PoMq?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 cCkZi X3\n2. X4 cCkZi X1\n3. X1 cCkZi X2\n\nIf 'X cCkZi Y' means 'X runs faster than Y', what does X1 cCkZi?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 bpWq X3\n2. X1 bpWq X2\n3. X4 bpWq X1\n\nIf 'X bpWq Y' means 'X runs faster than Y', what does X1 bpWq?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 QIbP X2\n2. X4 QIbP X1\n3. X2 QIbP X3\n\nIf 'X QIbP Y' means 'X runs faster than Y', what does X1 QIbP?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 xNVV X1\n2. X2 xNVV X3\n3. X1 xNVV X2\n\nIf 'X xNVV Y' means 'X runs faster than Y', what does X1 xNVV?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 QIjLp X2\n2. X2 QIjLp X3\n3. X4 QIjLp X1\n\nIf 'X QIjLp Y' means 'X runs faster than Y', what does X1 QIjLp?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 PLtnH X2\n2. X2 PLtnH X3\n3. X4 PLtnH X1\n\nIf 'X PLtnH Y' means 'X runs faster than Y', what does X1 PLtnH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 Sten X2\n2. X2 Sten X3\n3. X4 Sten X1\n\nIf 'X Sten Y' means 'X runs faster than Y', what does X1 Sten?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 tILzBA X2\n2. X4 tILzBA X1\n3. X2 tILzBA X3\n\nIf 'X tILzBA Y' means 'X runs faster than Y', what does X1 tILzBA?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 pwJTh X1\n2. X2 pwJTh X3\n3. X1 pwJTh X2\n\nIf 'X pwJTh Y' means 'X runs faster than Y', what does X1 pwJTh?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 sbUw X1\n2. X1 sbUw X2\n3. X2 sbUw X3\n\nIf 'X sbUw Y' means 'X runs faster than Y', what does X1 sbUw?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 zqSSnU X1\n2. X2 zqSSnU X3\n3. X1 zqSSnU X2\n\nIf 'X zqSSnU Y' means 'X runs faster than Y', what does X1 zqSSnU?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 qUjF X2\n2. X4 qUjF X1\n3. X2 qUjF X3\n\nIf 'X qUjF Y' means 'X runs faster than Y', what does X1 qUjF?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 SeIxH X2\n2. X4 SeIxH X1\n3. X2 SeIxH X3\n\nIf 'X SeIxH Y' means 'X runs faster than Y', what does X1 SeIxH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 oIznQ X1\n2. X1 oIznQ X2\n3. X2 oIznQ X3\n\nIf 'X oIznQ Y' means 'X runs faster than Y', what does X1 oIznQ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 FpXBtw X2\n2. X2 FpXBtw X3\n3. X4 FpXBtw X1\n\nIf 'X FpXBtw Y' means 'X runs faster than Y', what does X1 FpXBtw?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 eVfbqC X2\n2. X4 eVfbqC X1\n3. X2 eVfbqC X3\n\nIf 'X eVfbqC Y' means 'X runs faster than Y', what does X1 eVfbqC?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 AWRA X1\n2. X1 AWRA X2\n3. X2 AWRA X3\n\nIf 'X AWRA Y' means 'X runs faster than Y', what does X1 AWRA?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 AQZPbx X2\n2. X4 AQZPbx X1\n3. X2 AQZPbx X3\n\nIf 'X AQZPbx Y' means 'X runs faster than Y', what does X1 AQZPbx?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 fgBB X3\n2. X4 fgBB X1\n3. X1 fgBB X2\n\nIf 'X fgBB Y' means 'X runs faster than Y', what does X1 fgBB?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 HHXj X1\n2. X2 HHXj X3\n3. X1 HHXj X2\n\nIf 'X HHXj Y' means 'X runs faster than Y', what does X1 HHXj?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 AnjH X3\n2. X1 AnjH X2\n3. X4 AnjH X1\n\nIf 'X AnjH Y' means 'X runs faster than Y', what does X1 AnjH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 BxCDfK X2\n2. X2 BxCDfK X3\n3. X4 BxCDfK X1\n\nIf 'X BxCDfK Y' means 'X runs faster than Y', what does X1 BxCDfK?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 NfTJ X2\n2. X2 NfTJ X3\n3. X4 NfTJ X1\n\nIf 'X NfTJ Y' means 'X runs faster than Y', what does X1 NfTJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 YLZZZq X2\n2. X2 YLZZZq X3\n3. X4 YLZZZq X1\n\nIf 'X YLZZZq Y' means 'X runs faster than Y', what does X1 YLZZZq?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 sFtKC X1\n2. X1 sFtKC X2\n3. X2 sFtKC X3\n\nIf 'X sFtKC Y' means 'X was born before Y', what does X1 sFtKC?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 nYgQp X2\n2. X4 nYgQp X1\n3. X2 nYgQp X3\n\nIf 'X nYgQp Y' means 'X was born before Y', what does X1 nYgQp?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 sJNY X2\n2. X2 sJNY X3\n3. X4 sJNY X1\n\nIf 'X sJNY Y' means 'X was born before Y', what does X1 sJNY?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 gKMIfU X3\n2. X4 gKMIfU X1\n3. X1 gKMIfU X2\n\nIf 'X gKMIfU Y' means 'X was born before Y', what does X1 gKMIfU?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 oKxjue X2\n2. X2 oKxjue X3\n3. X4 oKxjue X1\n\nIf 'X oKxjue Y' means 'X was born before Y', what does X1 oKxjue?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 zKem X2\n2. X2 zKem X3\n3. X4 zKem X1\n\nIf 'X zKem Y' means 'X was born before Y', what does X1 zKem?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 XsgFdY X2\n2. X2 XsgFdY X3\n3. X4 XsgFdY X1\n\nIf 'X XsgFdY Y' means 'X was born before Y', what does X1 XsgFdY?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 vmIaV X2\n2. X2 vmIaV X3\n3. X4 vmIaV X1\n\nIf 'X vmIaV Y' means 'X was born before Y', what does X1 vmIaV?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 EVPE X1\n2. X2 EVPE X3\n3. X1 EVPE X2\n\nIf 'X EVPE Y' means 'X was born before Y', what does X1 EVPE?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 JDiF X3\n2. X4 JDiF X1\n3. X1 JDiF X2\n\nIf 'X JDiF Y' means 'X was born before Y', what does X1 JDiF?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 zNLHM X2\n2. X4 zNLHM X1\n3. X2 zNLHM X3\n\nIf 'X zNLHM Y' means 'X was born before Y', what does X1 zNLHM?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 Gvmxn X2\n2. X2 Gvmxn X3\n3. X4 Gvmxn X1\n\nIf 'X Gvmxn Y' means 'X was born before Y', what does X1 Gvmxn?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 bvgx X2\n2. X4 bvgx X1\n3. X2 bvgx X3\n\nIf 'X bvgx Y' means 'X was born before Y', what does X1 bvgx?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 xaKg X1\n2. X2 xaKg X3\n3. X1 xaKg X2\n\nIf 'X xaKg Y' means 'X was born before Y', what does X1 xaKg?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 EVyqiT X1\n2. X1 EVyqiT X2\n3. X2 EVyqiT X3\n\nIf 'X EVyqiT Y' means 'X was born before Y', what does X1 EVyqiT?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 roxp X3\n2. X4 roxp X1\n3. X1 roxp X2\n\nIf 'X roxp Y' means 'X was born before Y', what does X1 roxp?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 qAtRR X2\n2. X2 qAtRR X3\n3. X4 qAtRR X1\n\nIf 'X qAtRR Y' means 'X was born before Y', what does X1 qAtRR?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 jZkf X3\n2. X4 jZkf X1\n3. X1 jZkf X2\n\nIf 'X jZkf Y' means 'X was born before Y', what does X1 jZkf?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 JdEtn X2\n2. X2 JdEtn X3\n3. X4 JdEtn X1\n\nIf 'X JdEtn Y' means 'X was born before Y', what does X1 JdEtn?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 dKGAEv X2\n2. X4 dKGAEv X1\n3. X2 dKGAEv X3\n\nIf 'X dKGAEv Y' means 'X was born before Y', what does X1 dKGAEv?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 kqoWw X1\n2. X1 kqoWw X2\n3. X2 kqoWw X3\n\nIf 'X kqoWw Y' means 'X was born before Y', what does X1 kqoWw?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 IUNw X2\n2. X2 IUNw X3\n3. X4 IUNw X1\n\nIf 'X IUNw Y' means 'X was born before Y', what does X1 IUNw?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 AqhurD X2\n2. X4 AqhurD X1\n3. X2 AqhurD X3\n\nIf 'X AqhurD Y' means 'X was born before Y', what does X1 AqhurD?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 ScjJXu X2\n2. X2 ScjJXu X3\n3. X4 ScjJXu X1\n\nIf 'X ScjJXu Y' means 'X was born before Y', what does X1 ScjJXu?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 ynurfZ X3\n2. X1 ynurfZ X2\n3. X4 ynurfZ X1\n\nIf 'X ynurfZ Y' means 'X was born before Y', what does X1 ynurfZ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 BuvDt X1\n2. X2 BuvDt X3\n3. X1 BuvDt X2\n\nIf 'X BuvDt Y' means 'X was born before Y', what does X1 BuvDt?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 ZuuUD X3\n2. X4 ZuuUD X1\n3. X1 ZuuUD X2\n\nIf 'X ZuuUD Y' means 'X was born before Y', what does X1 ZuuUD?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 HeqikN X3\n2. X1 HeqikN X2\n3. X4 HeqikN X1\n\nIf 'X HeqikN Y' means 'X was born before Y', what does X1 HeqikN?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 WWXaHm X1\n2. X1 WWXaHm X2\n3. X2 WWXaHm X3\n\nIf 'X WWXaHm Y' means 'X was born before Y', what does X1 WWXaHm?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 KTaIh X1\n2. X2 KTaIh X3\n3. X1 KTaIh X2\n\nIf 'X KTaIh Y' means 'X was born before Y', what does X1 KTaIh?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 MImUY X1\n2. X1 MImUY X2\n3. X2 MImUY X3\n\nIf 'X MImUY Y' means 'X was born before Y', what does X1 MImUY?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 MkpkWB X1\n2. X1 MkpkWB X2\n3. X2 MkpkWB X3\n\nIf 'X MkpkWB Y' means 'X was born before Y', what does X1 MkpkWB?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 cFQwuH X3\n2. X4 cFQwuH X1\n3. X1 cFQwuH X2\n\nIf 'X cFQwuH Y' means 'X was born before Y', what does X1 cFQwuH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 tsbaxm X3\n2. X1 tsbaxm X2\n3. X4 tsbaxm X1\n\nIf 'X tsbaxm Y' means 'X was born before Y', what does X1 tsbaxm?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 ZwtIPb X2\n2. X4 ZwtIPb X1\n3. X2 ZwtIPb X3\n\nIf 'X ZwtIPb Y' means 'X was born before Y', what does X1 ZwtIPb?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 NbTe X3\n2. X4 NbTe X1\n3. X1 NbTe X2\n\nIf 'X NbTe Y' means 'X was born before Y', what does X1 NbTe?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 GDaF X2\n2. X4 GDaF X1\n3. X2 GDaF X3\n\nIf 'X GDaF Y' means 'X was born before Y', what does X1 GDaF?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 LhYQ X2\n2. X2 LhYQ X3\n3. X4 LhYQ X1\n\nIf 'X LhYQ Y' means 'X was born before Y', what does X1 LhYQ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 YsfHw X3\n2. X1 YsfHw X2\n3. X4 YsfHw X1\n\nIf 'X YsfHw Y' means 'X was born before Y', what does X1 YsfHw?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 Apwh X1\n2. X1 Apwh X2\n3. X2 Apwh X3\n\nIf 'X Apwh Y' means 'X was born before Y', what does X1 Apwh?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 vEyx X2\n2. X4 vEyx X1\n3. X2 vEyx X3\n\nIf 'X vEyx Y' means 'X was born before Y', what does X1 vEyx?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 uZTkH X3\n2. X1 uZTkH X2\n3. X4 uZTkH X1\n\nIf 'X uZTkH Y' means 'X was born before Y', what does X1 uZTkH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 UyRJ X1\n2. X1 UyRJ X2\n3. X2 UyRJ X3\n\nIf 'X UyRJ Y' means 'X was born before Y', what does X1 UyRJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 idtmis X1\n2. X1 idtmis X2\n3. X2 idtmis X3\n\nIf 'X idtmis Y' means 'X was born before Y', what does X1 idtmis?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 MfTqk X1\n2. X1 MfTqk X2\n3. X2 MfTqk X3\n\nIf 'X MfTqk Y' means 'X was born before Y', what does X1 MfTqk?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 dMdcy X1\n2. X1 dMdcy X2\n3. X2 dMdcy X3\n\nIf 'X dMdcy Y' means 'X was born before Y', what does X1 dMdcy?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 zIbY X1\n2. X2 zIbY X3\n3. X1 zIbY X2\n\nIf 'X zIbY Y' means 'X was born before Y', what does X1 zIbY?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 YLMn X3\n2. X4 YLMn X1\n3. X1 YLMn X2\n\nIf 'X YLMn Y' means 'X was born before Y', what does X1 YLMn?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 hXarIo X2\n2. X4 hXarIo X1\n3. X2 hXarIo X3\n\nIf 'X hXarIo Y' means 'X was born before Y', what does X1 hXarIo?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 fJgI X1\n2. X2 fJgI X3\n3. X1 fJgI X2\n\nIf 'X fJgI Y' means 'X was born before Y', what does X1 fJgI?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 VkABJ X1\n2. X2 VkABJ X3\n3. X1 VkABJ X2\n\nIf 'X VkABJ Y' means 'X was born before Y', what does X1 VkABJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 ydoo X2\n2. X2 ydoo X3\n3. X4 ydoo X1\n\nIf 'X ydoo Y' means 'X was born before Y', what does X1 ydoo?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 qCwf X3\n2. X4 qCwf X1\n3. X1 qCwf X2\n\nIf 'X qCwf Y' means 'X was born before Y', what does X1 qCwf?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 dWnG X2\n2. X2 dWnG X3\n3. X4 dWnG X1\n\nIf 'X dWnG Y' means 'X was born before Y', what does X1 dWnG?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 REcSsE X1\n2. X1 REcSsE X2\n3. X2 REcSsE X3\n\nIf 'X REcSsE Y' means 'X was born before Y', what does X1 REcSsE?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 NCRTK X2\n2. X2 NCRTK X3\n3. X4 NCRTK X1\n\nIf 'X NCRTK Y' means 'X was born before Y', what does X1 NCRTK?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 fAqJBK X2\n2. X2 fAqJBK X3\n3. X4 fAqJBK X1\n\nIf 'X fAqJBK Y' means 'X was born before Y', what does X1 fAqJBK?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 wcZhy X1\n2. X1 wcZhy X2\n3. X2 wcZhy X3\n\nIf 'X wcZhy Y' means 'X was born before Y', what does X1 wcZhy?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 Utwp X3\n2. X4 Utwp X1\n3. X1 Utwp X2\n\nIf 'X Utwp Y' means 'X was born before Y', what does X1 Utwp?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 jFRD X1\n2. X2 jFRD X3\n3. X1 jFRD X2\n\nIf 'X jFRD Y' means 'X was born before Y', what does X1 jFRD?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 aPvx X3\n2. X4 aPvx X1\n3. X1 aPvx X2\n\nIf 'X aPvx Y' means 'X was born before Y', what does X1 aPvx?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 ShSI X3\n2. X1 ShSI X2\n3. X4 ShSI X1\n\nIf 'X ShSI Y' means 'X was born before Y', what does X1 ShSI?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 GHoV X2\n2. X2 GHoV X3\n3. X4 GHoV X1\n\nIf 'X GHoV Y' means 'X was born before Y', what does X1 GHoV?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 CUxS X3\n2. X4 CUxS X1\n3. X1 CUxS X2\n\nIf 'X CUxS Y' means 'X was born before Y', what does X1 CUxS?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 UIVJq X1\n2. X2 UIVJq X3\n3. X1 UIVJq X2\n\nIf 'X UIVJq Y' means 'X was born before Y', what does X1 UIVJq?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 sgPRA X3\n2. X1 sgPRA X2\n3. X4 sgPRA X1\n\nIf 'X sgPRA Y' means 'X was born before Y', what does X1 sgPRA?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 offMYM X3\n2. X1 offMYM X2\n3. X4 offMYM X1\n\nIf 'X offMYM Y' means 'X was born before Y', what does X1 offMYM?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 DibL X2\n2. X2 DibL X3\n3. X4 DibL X1\n\nIf 'X DibL Y' means 'X was born before Y', what does X1 DibL?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 FNdhfH X2\n2. X2 FNdhfH X3\n3. X4 FNdhfH X1\n\nIf 'X FNdhfH Y' means 'X was born before Y', what does X1 FNdhfH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 dgcDH X3\n2. X1 dgcDH X2\n3. X4 dgcDH X1\n\nIf 'X dgcDH Y' means 'X was born before Y', what does X1 dgcDH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 rkCJ X1\n2. X2 rkCJ X3\n3. X1 rkCJ X2\n\nIf 'X rkCJ Y' means 'X was born before Y', what does X1 rkCJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 KhNtL X2\n2. X2 KhNtL X3\n3. X4 KhNtL X1\n\nIf 'X KhNtL Y' means 'X was born before Y', what does X1 KhNtL?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 NxhcE X1\n2. X1 NxhcE X2\n3. X2 NxhcE X3\n\nIf 'X NxhcE Y' means 'X was born before Y', what does X1 NxhcE?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 QtSX X2\n2. X2 QtSX X3\n3. X4 QtSX X1\n\nIf 'X QtSX Y' means 'X was born before Y', what does X1 QtSX?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 WCpxI X2\n2. X4 WCpxI X1\n3. X2 WCpxI X3\n\nIf 'X WCpxI Y' means 'X was born before Y', what does X1 WCpxI?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 SapWS X1\n2. X2 SapWS X3\n3. X1 SapWS X2\n\nIf 'X SapWS Y' means 'X was born before Y', what does X1 SapWS?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 Yzxx X3\n2. X4 Yzxx X1\n3. X1 Yzxx X2\n\nIf 'X Yzxx Y' means 'X was born before Y', what does X1 Yzxx?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 IjLJ X2\n2. X4 IjLJ X1\n3. X2 IjLJ X3\n\nIf 'X IjLJ Y' means 'X was born before Y', what does X1 IjLJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 aMZcT X2\n2. X2 aMZcT X3\n3. X4 aMZcT X1\n\nIf 'X aMZcT Y' means 'X was born before Y', what does X1 aMZcT?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 aNzZ X2\n2. X4 aNzZ X1\n3. X2 aNzZ X3\n\nIf 'X aNzZ Y' means 'X was born before Y', what does X1 aNzZ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 zXEbj X3\n2. X4 zXEbj X1\n3. X1 zXEbj X2\n\nIf 'X zXEbj Y' means 'X was born before Y', what does X1 zXEbj?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 dipdeJ X3\n2. X1 dipdeJ X2\n3. X4 dipdeJ X1\n\nIf 'X dipdeJ Y' means 'X was born before Y', what does X1 dipdeJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 qPtLAx X3\n2. X1 qPtLAx X2\n3. X4 qPtLAx X1\n\nIf 'X qPtLAx Y' means 'X was born before Y', what does X1 qPtLAx?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 IkIH X2\n2. X2 IkIH X3\n3. X4 IkIH X1\n\nIf 'X IkIH Y' means 'X was born before Y', what does X1 IkIH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 rjuh X2\n2. X2 rjuh X3\n3. X4 rjuh X1\n\nIf 'X rjuh Y' means 'X was born before Y', what does X1 rjuh?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 pRcen X1\n2. X2 pRcen X3\n3. X1 pRcen X2\n\nIf 'X pRcen Y' means 'X was born before Y', what does X1 pRcen?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 YkCJ X2\n2. X2 YkCJ X3\n3. X4 YkCJ X1\n\nIf 'X YkCJ Y' means 'X was born before Y', what does X1 YkCJ?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 vLrBkT X1\n2. X2 vLrBkT X3\n3. X1 vLrBkT X2\n\nIf 'X vLrBkT Y' means 'X was born before Y', what does X1 vLrBkT?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 bkZd X2\n2. X2 bkZd X3\n3. X4 bkZd X1\n\nIf 'X bkZd Y' means 'X was born before Y', what does X1 bkZd?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 bydjnY X3\n2. X4 bydjnY X1\n3. X1 bydjnY X2\n\nIf 'X bydjnY Y' means 'X was born before Y', what does X1 bydjnY?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 qNMe X2\n2. X2 qNMe X3\n3. X4 qNMe X1\n\nIf 'X qNMe Y' means 'X was born before Y', what does X1 qNMe?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 WyHu X3\n2. X4 WyHu X1\n3. X1 WyHu X2\n\nIf 'X WyHu Y' means 'X was born before Y', what does X1 WyHu?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 GCNL X1\n2. X1 GCNL X2\n3. X2 GCNL X3\n\nIf 'X GCNL Y' means 'X was born before Y', what does X1 GCNL?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 jyGa X3\n2. X4 jyGa X1\n3. X1 jyGa X2\n\nIf 'X jyGa Y' means 'X was born before Y', what does X1 jyGa?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 roYvnd X2\n2. X2 roYvnd X3\n3. X4 roYvnd X1\n\nIf 'X roYvnd Y' means 'X was born before Y', what does X1 roYvnd?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "2"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 BGBr X3\n2. X1 BGBr X2\n3. X4 BGBr X1\n\nIf 'X BGBr Y' means 'X was born before Y', what does X1 BGBr?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 WLiwwH X2\n2. X4 WLiwwH X1\n3. X2 WLiwwH X3\n\nIf 'X WLiwwH Y' means 'X was born before Y', what does X1 WLiwwH?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X2 EgAD X3\n2. X4 EgAD X1\n3. X1 EgAD X2\n\nIf 'X EgAD Y' means 'X was born before Y', what does X1 EgAD?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "1"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X1 ZiaW X2\n2. X4 ZiaW X1\n3. X2 ZiaW X3\n\nIf 'X ZiaW Y' means 'X was born before Y', what does X1 ZiaW?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "1",
+            "3"
+        ]
+    },
+    {
+        "prompt": "Given the three statements here:\n1. X4 fbTUb X1\n2. X2 fbTUb X3\n3. X1 fbTUb X2\n\nIf 'X fbTUb Y' means 'X was born before Y', what does X1 fbTUb?\nA. Only X2\nB. Only X3\nC. Only X4\nD. X2 and X3\nE. X2 and X4\nF. X3 and X4\nG. X2, X3, and X4\nPlease provide reasoning and choose the correct answer from above. Please put the final answer choice in square brackets, for example, [B]; Please put the sentence numbers used in the reasoning in parentheses, for example, (2, 3).",
+        "gold_label": "X2 and X3",
+        "gold_choice": "D",
+        "gold_evidence": [
+            "3",
+            "2"
+        ]
+    }
+]
