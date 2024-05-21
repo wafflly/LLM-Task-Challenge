@@ -2,7 +2,7 @@ import json
 import re
 import time
 import os
-from src.api.chat_math import *
+from src.api.chat import *
 
 if __name__ == '__main__':
 

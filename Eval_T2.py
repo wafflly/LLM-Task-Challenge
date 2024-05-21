@@ -2,10 +2,10 @@ import json
 import re
 import time
 import os
-from src.api.chat_math import get_answer_4
+from src.api.chat import get_answer_4
 
 if __name__ == '__main__':
-    path = 'src/rerun/prompt/t2'
+    path = 'datasets/task 2'
     outs = os.listdir(path)
     print(outs)
     for filename in os.listdir(path):
@@ -64,6 +64,6 @@ if __name__ == '__main__':
                         data_acc[key][key2]['accuracy'] = '{}/{}={}'.format(str(correct), str(total), str(acc))
                         data_acc[key][key2]['invalid'] = '{}/{}={}'.format(str(inval), str(total), str(invalid))
                         data_acc[key][key2]['data'] = new_data
-                        output_file = 'src/rerun/rerun_acc/t2/re1_{}'.format(filename)
+                        output_file = 'results/task 2/acc_{}'.format(filename)
                         with open(output_file, 'w', encoding='utf8') as f1:
                             json.dump(data_acc, f1, ensure_ascii=False, indent=4)

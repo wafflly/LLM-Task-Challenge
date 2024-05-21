@@ -6,7 +6,7 @@ from src.api.chat import *
 
 if __name__ == '__main__':
 
-    path = 'datasets/task 5'
+    path = 'datasets/task 6'
     # path = 'src/deduction/error_test/'
 
     files = os.listdir(path)
@@ -67,6 +67,6 @@ if __name__ == '__main__':
                 data_acc['accuracy'] = '{}/{}={}'.format(str(correct), str(total), str(correct/total))
                 data_acc['invalid'] = '{}/{}={}'.format(str(inval), str(total), str(inval/total))
 
-            with open('results/task 5/acc_{}'.format(file), 'w', encoding='utf8') as f1:
+            with open('results/task 6/acc_{}'.format(file), 'w', encoding='utf8') as f1:
                 json.dump(data_acc, f1, ensure_ascii=False, indent=4)
 
