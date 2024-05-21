@@ -53,7 +53,6 @@ if __name__ == '__main__':
                             if result == gold:
                                 correct += 1
                                 total_correct += 1
-                            time.sleep(1)
                         acc = correct/total
                         invalid = inval/total
                         total_acc = total_correct / 200
