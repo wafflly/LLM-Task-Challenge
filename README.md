@@ -31,6 +31,7 @@ This repository is for our paper: Challenging Large Language Models with New Tas
 The `requirements.txt` file lists all necessary dependencies for running the evaluation scripts. You can install them using:
 ```bash
 pip install -r requirements.txt
+```
 
 ### How to Run
 
