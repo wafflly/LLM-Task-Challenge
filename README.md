@@ -22,8 +22,24 @@ This repository is for our paper: Challenging Large Language Models with New Tas
     - The results were from our GPT-4 experiments done November 2023 - March 2024. After small scaled experiments on sampling strategy, we used the 'gpt-4-1106-preview' model with `top_p` set to 0 and `temperature` to 0.4.
     - Please note that GPT-4, by the date when the paper is accepted, was undeterministic. Thus, running the same experiments with the same setting might not achieve the same output as ours, though the results will not vary much.
 
-4. **Evaluation script**:
+3. **Evaluation script**:
     - The evaluation scripts are Python files that begin with 'eval'. T1-T6 stands for six tasks. For instance, `eval_T2.py` is the evaluation script for Task 2. Please note Task 1 has two evaluation scripts for length two and length three expressions respectively.
     - For Task 3, please use `eval_T3.sh` .
     - The OpenAI API key is in the `config.py` under 'src'. Please replace it with your own key when calling the evaluation scripts.
 
+### Requirements
+The `requirements.txt` file lists all necessary dependencies for running the evaluation scripts. You can install them using:
+```bash
+pip install -r requirements.txt
+
+### How to Run
+
+1. **Activate the virtual environment (if used)**:
+    ```bash
+    source venv/bin/activate
+    ```
+
+2. **Run the evaluation scripts** using the provided `run.sh` script:
+    ```bash
+    ./run.sh
+    ```
