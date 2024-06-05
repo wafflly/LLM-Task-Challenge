@@ -15,7 +15,7 @@ def debug_caller_info():
     stack = traceback.extract_stack()
     # Get the last entry in the stack, which is the one for the caller of this function
     filename, line_number, function_name, text = stack[-2]
-    print(f"Called from {filename} at line {line_number}, in {function_name}()")
+    #print(f"Called from {filename} at line {line_number}, in {function_name}()")
 
 
 
@@ -100,7 +100,7 @@ def apply_adv_before_verb(token_info_list):
     my_list = []
     replace_idx = 0
     processed_indices = set()
-    debug_caller_info()
+    # debug_caller_info()
     for token in token_info_list:
         if token[2] == 'advmod' and token[5] == 'VERB' and token[0] not in processed_indices:
             replace_idx = token[7]
@@ -225,7 +225,7 @@ def collect_related_tokens(token_info_list, start_index, processed_indices):
     return related_tokens
 
 def apply_pp_before_verb(token_info_list):
-    debug_caller_info()
+    # debug_caller_info()
     my_list = []
     replace_idx = 0
     processed_indices = set()
@@ -379,20 +379,6 @@ def get_token_info_and_core_elements_for_sentences(sentences, nlp):
     
     for source_sentence in sentences:  # Iterate over each sentence
         file_path = ''
-        if source_sentence == "The dedicated teacher with a gentle voice explains the complex theory lucidly to the class ." or source_sentence == "The dedicated teacher with a gentle voice explains the complex theory lucidly to the class":
-            file_path = 'Outlier/teacher.txt'
-        elif source_sentence == "The playful dogs at the park chase the bright ball swiftly across the green grass ." or source_sentence == "The playful dogs at the park chase the bright ball swiftly across the green grass":
-            file_path = 'Outlier/playful_dog.txt'
-        elif source_sentence == "The passionate baker in the warm kitchen bakes the delicious pastries lovingly for the patrons ." or source_sentence == "The passionate baker in the warm kitchen bakes the delicious pastries lovingly for the patrons":
-            file_path = 'Outlier/baker.txt'
-        elif source_sentence == "The passionate activist at the peaceful rally voices the concerns loudly with a sense of urgency ." or source_sentence == "The passionate activist at the peaceful rally voices the concerns loudly with a sense of urgency":
-            file_path = 'Outlier/activist.txt'
-        elif source_sentence == "The loyal dog in the sunny yard guards the house vigilantly with a watchful stance ." or source_sentence == "The loyal dog in the sunny yard guards the house vigilantly with a watchful stance":
-            file_path = 'Outlier/loyal_dog.txt'  
-        elif source_sentence == "The strong wind from the north sweeps the city entirely with freeze ." or source_sentence == "The strong wind from the north sweeps the city entirely with freeze":
-            file_path = 'Outlier/wind.txt'
-        elif source_sentence == "The old sailor steers the sturdy ship in danger skillfully through the rough seas ." or source_sentence == "The old sailor steers the sturdy ship in danger skillfully through the rough seas":
-            file_path = 'Outlier/sailor.txt'
 
         # Define your conditions for specific files here
         
@@ -432,20 +418,8 @@ def get_token_info_and_core_elements_for_sentences(sentences, nlp):
 
 
 def get_token_info_list(source_sentence, nlp):
-    if source_sentence == "The dedicated teacher with a gentle voice explains the complex theory lucidly to the class .":
-        file_path = 'Outlier/teacher.txt'
-    elif source_sentence == "The playful dogs at the park chase the bright ball swiftly across the green grass .":
-        file_path = 'Outlier/playful_dog.txt'
-    elif source_sentence == "The passionate baker in the warm kitchen bakes the delicious pastries lovingly for the patrons .":
-        file_path = 'Outlier/baker.txt'
-    elif source_sentence == "The passionate activist at the peaceful rally voices the concerns loudly with a sense of urgency .":
-        file_path = 'Outlier/activist.txt'
-    elif source_sentence == "The loyal dog in the sunny yard guards the house vigilantly with a watchful stance .":
-        file_path = 'Outlier/loyal_dog.txt'  
-    elif source_sentence == "The strong wind from the north sweeps the city entirely with freeze .":
-        file_path = 'Outlier/wind.txt'
-    else:
-        file_path = ''
+    
+    file_path = ''
 
     token_info_list = []
     if file_path:
@@ -522,9 +496,9 @@ def main(input_file_path):
 
         if 'source_sentence' in entry:
 
-            llm_answer = entry['llm-output']
+            llm_answer = entry['llm_output']['content']
         else:
-            print("Key 'llm-output' not found in entry.")
+            print("Key 'llm_output' not found in entry.")
 
 
         print("source_sentence: ",source_sentence )

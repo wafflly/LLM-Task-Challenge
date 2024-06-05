@@ -84,23 +84,23 @@ if __name__ == '__main__':
 
 ########### read in files ##############
     # input_files = [
-    #     'reverse/test/ptompts/FINAL/switch_1a_syntax_SOV_2.json',
-    #     'reverse/test/ptompts/FINAL/switch_1a_syntax_PP_before_noun_2.json',
-    #     'reverse/test/ptompts/FINAL/switch_1a_syntax_PP_before_verb_2.json',
-    #     'reverse/test/ptompts/FINAL/switch_1d_syntax_SOV_2.json',
-    #     'reverse/test/ptompts/FINAL/switch_1d_syntax_PP_before_noun_2.json',
-    #     'reverse/test/ptompts/FINAL/switch_1d_syntax_PP_before_verb_2.json'
-
+    #     'exemple.txt'
     # ]
-    # output_dir = 'reverse/test/result/PP_test'
+    # output_dir = 'xx/xx'
     # os.makedirs(output_dir, exist_ok=True)  # Ensure output directory exists
     # main(input_files, output_dir)
 
 ########### read in directory ##############
 
 
-    input_directory = 'reproduce/task3/0s0m'
-    output_dir = 'reproduce/task3/0s0m(1)'
+    input_directory = 'datasets/task 3'
+    output_dir = 'results/task 3/intermediate'
     input_files = [os.path.join(input_directory, filename) for filename in os.listdir(input_directory) if filename.endswith(".json")]
     os.makedirs(output_dir, exist_ok=True) 
     main(input_files, output_dir)
+
+    input_directory2 = 'datasets/task 4'
+    output_dir2 = 'results/task 4'
+    input_files2 = [os.path.join(input_directory2, filename) for filename in os.listdir(input_directory2) if filename.endswith(".json")]
+    os.makedirs(output_dir2, exist_ok=True)
+    main(input_files2, output_dir2)

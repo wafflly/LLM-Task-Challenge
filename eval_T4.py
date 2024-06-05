@@ -8,8 +8,8 @@ def update_confusion_matrix(matrix, actual, predicted, labels):
         matrix[actual][predicted] += 1
 
 # Specify the directory containing JSON files
-input_directory = 'datasets/task 4/original'
-output_directory = 'datasets/task 4/original'
+input_directory = 'results/task 4/intermediate'
+output_directory = 'results/mis'
 
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
